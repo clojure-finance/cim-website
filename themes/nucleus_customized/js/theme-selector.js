@@ -1,4 +1,4 @@
-const BLOG_PREFIX = "/dummyWeb";
+const BLOG_PREFIX = "/Dummy-Website-Test";
 
     function setTheme(theme) {
         const themeStyleLink = document.getElementById('theme-style');
