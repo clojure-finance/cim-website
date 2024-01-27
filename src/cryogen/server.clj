@@ -10,7 +10,9 @@
     [cryogen-core.compiler :refer [compile-assets-timed]]
     [cryogen-core.config :refer [resolve-config]]
     [cryogen-core.io :refer [path]]
-    [clojure.string :as string])
+    [clojure.string :as string]
+    [clojure.java.shell :refer [sh]]
+    [selmer.filters :as filters])
   (:import (java.io File)))
 
 (def resolved-config (delay (resolve-config)))
@@ -19,8 +21,18 @@
   "Add dev-time configuration overrides here, such as `:hide-future-posts? false`"
   {})
 
+(defn parse-date [date-string]
+  (let [date-format (java.text.SimpleDateFormat. "yyyy-MM-dd")]
+    (.parse date-format date-string)))
+
+(defn preprocess []
+  (let [result (sh "python3" "preprocessing-scripts/scripts-runner.py")]
+    (println (:out result))))
+
 (defn init [& fast?]
+  (preprocess)
   (load-plugins)
+  (filters/add-filter! :parseDate parse-date)
   (compile-assets-timed extra-config-dev)
   (let [ignored-files (-> @resolved-config :ignored-files)]
     (run!

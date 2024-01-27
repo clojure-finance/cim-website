@@ -8,14 +8,25 @@
     <!-- Website Template designed by www.downloadwebsitetemplates.co.uk -->
     <!-- Modified to fit Cryogen.-->
     <meta charset="UTF-8">
-    {% if mastodon.host %}
-    <a rel="me" href="https://{{mastodon.host}}/@{{mastodon.acct}}"></a>
-    {% endif %}
-    <title>{{title}}{% block subtitle %}{% endblock %}</title>
-    {% block meta %}
-    <meta name="description" content="{{description}}">
-    <meta name="keywords" content="">
-    {% endblock %}
+    
+    <title>Pain: Wolololo</title>
+    
+
+<meta name="description" content=":unlink Demo!As you can see, this page is unlinked! And this page has :page-index set to -2, thus being above the Settings page which has :page-index set to -1.">
+
+<meta property="og:description" content=":unlink Demo!As you can see, this page is unlinked! And this page has :page-index set to -2, thus being above the Settings page which has :page-index set to -1." />
+
+
+<meta property="og:url" content="http://fUn.com/dummyWeb/pages-output/wolololo/" />
+<meta property="og:title" content="Wolololo" />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="http://fUn.com/dummyWeb/pages-output/wolololo/" />
+<meta name="twitter:title" content="Wolololo" />
+<meta name="twitter:description" content=":unlink Demo!As you can see, this page is unlinked! And this page has :page-index set to -2, thus being above the Settings page which has :page-index set to -1." />
+
+<meta name="twitter:creator" content="" />
+
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114.png">
@@ -23,13 +34,13 @@
     <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57.png">
     <link rel="shortcut icon" href="images/ico/favicon.png">
     <!--[if IE]><![endif]-->
-    {% style "css/buttons.css" %}
-    {% style "css/menu.css" %}
-    {% style "css/reset.css" %}
-    {% style "css/style.css" %}
-    {% style "css/typography.css" %}
-    {% style "css/table.css" %}
-    <link rel="stylesheet" id="theme-style" href="{{blog-prefix}}/css/light-theme.css">
+    <link href="/dummyWeb/css/buttons.css" rel="stylesheet" type="text/css" />
+    <link href="/dummyWeb/css/menu.css" rel="stylesheet" type="text/css" />
+    <link href="/dummyWeb/css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="/dummyWeb/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="/dummyWeb/css/typography.css" rel="stylesheet" type="text/css" />
+    <link href="/dummyWeb/css/table.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" id="theme-style" href="/dummyWeb/css/light-theme.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/tomorrow-night-eighties.min.css">
     <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -41,21 +52,18 @@
 
     <!-- To automatically render math in text elements, include the auto-render extension: -->
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"></script>
-    {% script "js/katex-container.js" %}
+    <script src="/dummyWeb/js/katex-container.js" type="application/javascript"></script>
     </head>
 <body>
 
 <div id="left">
 
     <p id="logo">
-        <a title="{{title}}" href="{{index-uri}}">
-            {% if icon-spin %}
-            <span class="fa fa-terminal fa-spin"></span>
-            <span class="text">Hi :)</span>
-            {% else %}
+        <a title="Pain" href="/dummyWeb/">
+            
             <span class="fa fa-terminal"></span>
             <span class="text">Demo</span>
-            {% endif %}
+            
         </a>
     </p>
 
@@ -64,34 +72,42 @@
             <p><span class="fa fa-reorder"></span><strong>Menu</strong></p>
         </div>
         <ul class="menu">
-            <li {% if home %} class="active" {% endif %}><a title="Posts" href="{{index-uri}}">Home</a></li>
-            <!--<li {% if archives %} class="active" {% endif %}><a title="Archives" href="{{archives-uri}}">Archives</a></li>-->
-            {% if tags|not-empty %}
-            <li {%ifequal uri tags-uri %} class="active" {% endifequal %}><a title="Tags" href="{{tags-uri}}">Tags</a></li>
-            {% endif %}
-            {% for nav-page in navbar-pages %}
-            {% if not nav-page.unlink %}
-            <li {%ifequal page.uri nav-page.uri %} class="active" {% endifequal %}>
-                {% if nav-page.navbar-name %}
-                <a href="{{nav-page.uri}}">{{nav-page.navbar-name}}</a>
-                {% else %}
-                <a href="{{nav-page.uri}}">{{nav-page.title}}</a>
-                {% endif %}
+            <li ><a title="Posts" href="/dummyWeb/">Home</a></li>
+            <!--<li ><a title="Archives" href="/dummyWeb/archives/">Archives</a></li>-->
+            
+            
+            
+            
+            
+            
+            
+            <li >
+                
+                <a href="/dummyWeb/pages-output/cryogen-documentaiton/">Docs</a>
+                
             </li>
-            {% endif %}
-            {% endfor %}
-            {% for nav-page in navbar-pages %}
-            {% if nav-page.unlink %}
-            <li {%ifequal page.uri nav-page.uri %} class="active" {% endifequal %}>
-                {% if nav-page.navbar-name %}
-                <a href="{{nav-page.uri}}">{{nav-page.navbar-name}}</a>
-                {% else %}
-                <a href="{{nav-page.uri}}">{{nav-page.title}}</a>
-                {% endif %}
+            
+            
+            
+            
+            <li  class="active" >
+                
+                <a href="/dummyWeb/pages-output/wolololo/">Wolololo</a>
+                
             </li>
-            {% endif %}
-            {% endfor %}
-            <!---<li><a title="RSS" href="{{rss-uri}}">RSS</a></li>>--->
+            
+            
+            
+            <li >
+                
+                <a href="/dummyWeb/pages-output/settings/">Settings</a>
+                
+            </li>
+            
+            
+            
+            
+            <!---<li><a title="RSS" href="/dummyWeb/feed.xml">RSS</a></li>>--->
         </ul>
     </div>
 
@@ -110,10 +126,24 @@
 </div>
 
 <div id="right" class="clearfix">
-    {% block content %}
-    {% endblock %}
+    
+<div id="custom-page">
+    <div id="page-header">
+        <h1>Wolololo</h1>
+        <p>
+            
+            
+            
+        </p>
+    </div>
+    
+    <h2 id="unlink-demo">:unlink Demo!</h2><p>As you can see, this page is unlinked! And this page has <code>:page-index</code> set to -2, thus being above the <code>Settings</code> page which has <code>:page-index</code> set to -1.</p>
+
+    
+</div>
+
 <hr/>
-<div id="footercont" class="clearfix">Copyright &copy; {{today|date:yyyy}} {{author}}
+<div id="footercont" class="clearfix">Copyright &copy; 2024 pleituer
     <p>Powered by <a href="http://cryogenweb.org">Cryogen</a> | Made by <a href="https://github.com/pleituer">pleituer</a></p>
 
 </div>
@@ -140,13 +170,13 @@
     });
 </script>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-{% script "js/highlight.pack.js" %}
+<script src="/dummyWeb/js/highlight.pack.js" type="application/javascript"></script>
 <script>hljs.initHighlightingOnLoad();</script>
-{% script "js/scripts.js" %}
-{% if post.klipse %} {{post.klipse|safe}} {% endif %}
-{% if page.klipse %} {{page.klipse|safe}} {% endif %}
+<script src="/dummyWeb/js/scripts.js" type="application/javascript"></script>
 
-{% script "js/theme-selector.js" %}
+
+
+<script src="/dummyWeb/js/theme-selector.js" type="application/javascript"></script>
 
 </body>
 </html>

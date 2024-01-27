@@ -1,0 +1,6 @@
+{
+    "markdown.math.macros": {
+        "\\hatxtd": "\\^",
+        "\\^": "^"
+    }
+}

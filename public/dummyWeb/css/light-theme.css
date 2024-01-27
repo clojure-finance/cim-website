@@ -1,0 +1,14 @@
+:root {
+    --background: #FFF;
+    --main-color: #145aa9;
+    --text-color: #555;
+    --hover-color: #113156;
+    --menu-background: #145aa9;
+    --footer-text-color: rgba(0, 0, 0, 0.4);
+    --header-color: #111;
+    --blockquote-color: #555;
+    --blockquote-background: #EEE;
+    --table-even-row: #b5d4f8;
+}
+
+
