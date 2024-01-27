@@ -6,4 +6,4 @@
 
 ## Purpose
 
-This whole website is just a test, for demonstration and experimental purpose! Please see source code at: 
+This whole website is just a test, for demonstration and experimental purpose! Please see the [source code](https://github.com/pleituer/Dummy-Website-Test).
