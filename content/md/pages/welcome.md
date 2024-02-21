@@ -7,14 +7,16 @@
 
 <style>
     .hku {
-        display: inline-block;
         background: linear-gradient(to top, var(--main-color), rgba(0, 0, 0, 0) 100%), url("img/hku.jpg");
         background-repeat: no-repeat;
-        height: 526px;
-        width: 1024px;
+        background-size: cover;
+        background-position: center;
+        width: calc(100% + 90px);
+        height: 566px;
+        object-fit: contain;
         text-align: center;
-        color: #eee;
         position: relative;
+        margin: -40px 0px 0 -40px;
     }
 
     .hku h2 {
@@ -23,6 +25,7 @@
         left: 50%;
         transform: translate(-50%, -50%);
         font-size: 50px;
+        color: #EEE;
     }
 
     .hku h1 {
@@ -31,14 +34,17 @@
         left: 50%;
         transform: translate(-50%, -50%); 
         font-size: 70px;
+        color: #EEE;
     }
 </style>
 
 <div class="hku">
-    <h2>Strive for</g2>
-    <h1>EXCELLENCE</h1>
+
+## Strive for
+# EXCELLENCE
+
 </div>
 
-<h2 style="text-align: center;line-height: 1.2">
+<h2 style="text-align: center;">
     "Established in 2023, the Center for Investment Management (CIM) cultivates students’ investing competencies and strengthens the network with the finance industry."
 </h2>

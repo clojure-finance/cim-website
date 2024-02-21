@@ -192,7 +192,6 @@ img.imgfull {
     top: 0;
     left: 0;
     width: 100%;
-    max-width: 1240px;
     z-index: 2;
     padding: 40px 50px 40px 320px;
 }
