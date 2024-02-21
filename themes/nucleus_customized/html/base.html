@@ -29,6 +29,7 @@
     {% style "css/style.css" %}
     {% style "css/typography.css" %}
     {% style "css/table.css" %}
+    {% style "css/accordion.css" %}
     <link rel="stylesheet" id="theme-style" href="{{blog-prefix}}/css/light-theme.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/tomorrow-night-eighties.min.css">
@@ -42,6 +43,7 @@
     <!-- To automatically render math in text elements, include the auto-render extension: -->
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"></script>
     {% script "js/katex-container.js" %}
+    {% script "js/accordion-element.js" %}
     </head>
 <body>
 
@@ -70,7 +72,7 @@
             <li {%ifequal uri tags-uri %} class="active" {% endifequal %}><a title="Tags" href="{{tags-uri}}">Tags</a></li>
             {% endif %}
             {% for nav-page in navbar-pages %}
-            {% if not nav-page.unlink %}
+            {% if not nav-page.last %}
             <li {%ifequal page.uri nav-page.uri %} class="active" {% endifequal %}>
                 {% if nav-page.navbar-name %}
                 <a href="{{nav-page.uri}}">{{nav-page.navbar-name}}</a>
@@ -81,7 +83,7 @@
             {% endif %}
             {% endfor %}
             {% for nav-page in navbar-pages %}
-            {% if nav-page.unlink %}
+            {% if nav-page.last %}
             <li {%ifequal page.uri nav-page.uri %} class="active" {% endifequal %}>
                 {% if nav-page.navbar-name %}
                 <a href="{{nav-page.uri}}">{{nav-page.navbar-name}}</a>
@@ -91,6 +93,7 @@
             </li>
             {% endif %}
             {% endfor %}
+
             <!---<li><a title="RSS" href="{{rss-uri}}">RSS</a></li>>--->
         </ul>
     </div>
@@ -114,7 +117,7 @@
     {% endblock %}
 <hr/>
 <div id="footercont" class="clearfix">Copyright &copy; {{today|date:yyyy}} {{author}}
-    <p>Powered by <a href="http://cryogenweb.org">Cryogen</a> | Made by <a href="https://github.com/pleituer">pleituer</a></p>
+    <p>Powered by <a href="http://cryogenweb.org">Cryogen</a></p>
 
 </div>
 </div>
@@ -128,8 +131,6 @@
                     {left: "$", right: "$", display: false},
                     {left: "\\(", right: "\\)", display: false},
                     {left: "\\begin{equation}", right: "\\end{equation}", display: true},
-                    {left: "\\begin{align}", right: "\\end{align}", display: true},
-                    {left: "\\begin{align*}", right: "\\end{align*}", display: true},
                     {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
                     {left: "\\begin{gather}", right: "\\end{gather}", display: true},
                     {left: "\\begin{CD}", right: "\\end{CD}", display: true},
@@ -143,6 +144,7 @@
 {% script "js/highlight.pack.js" %}
 <script>hljs.initHighlightingOnLoad();</script>
 {% script "js/scripts.js" %}
+{% script "js/accordion.js" %}
 {% if post.klipse %} {{post.klipse|safe}} {% endif %}
 {% if page.klipse %} {{page.klipse|safe}} {% endif %}
 

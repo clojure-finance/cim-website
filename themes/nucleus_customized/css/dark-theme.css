@@ -8,5 +8,6 @@
     --header-color: #EEE;
     --blockquote-color: #999;
     --blockquote-background: #222;
-    --table-even-row: #173c67;
+    --secondary: #173c67;
+    --secondary-hover: #1d4e87;
 }

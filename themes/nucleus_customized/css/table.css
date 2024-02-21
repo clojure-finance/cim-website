@@ -14,5 +14,5 @@ td {
 }
 
 tr:nth-child(even) {
-    background-color: var(--table-even-row);
+    background-color: var(--secondary);
 }

@@ -2,7 +2,7 @@
  :layout :page
  :navbar? true
  :page-index -1
- :unlink true}
+ :last true}
 
 ## Theme (Dark/Light/System)
 
