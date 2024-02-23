@@ -12,6 +12,10 @@
     <title>Pain: Contact Us</title>
     
 
+<meta name="description" content="Name">
+
+<meta property="og:description" content="Name" />
+
 
 <meta property="og:url" content="http://fUn.com/Dummy-Website-Test/pages-output/contact/" />
 <meta property="og:title" content="Contact Us" />
@@ -19,7 +23,7 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:url" content="http://fUn.com/Dummy-Website-Test/pages-output/contact/" />
 <meta name="twitter:title" content="Contact Us" />
-<meta name="twitter:description" content="" />
+<meta name="twitter:description" content="Name" />
 
 <meta name="twitter:creator" content="" />
 
@@ -37,6 +41,8 @@
     <link href="/Dummy-Website-Test/css/typography.css" rel="stylesheet" type="text/css" />
     <link href="/Dummy-Website-Test/css/table.css" rel="stylesheet" type="text/css" />
     <link href="/Dummy-Website-Test/css/accordion.css" rel="stylesheet" type="text/css" />
+    <link href="/Dummy-Website-Test/css/contact-us.css" rel="stylesheet" type="text/css" />
+    <link href="/Dummy-Website-Test/css/team.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" id="theme-style" href="/Dummy-Website-Test/css/light-theme.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/tomorrow-night-eighties.min.css">
@@ -50,7 +56,6 @@
     <!-- To automatically render math in text elements, include the auto-render extension: -->
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"></script>
     <script src="/Dummy-Website-Test/js/katex-container.js" type="application/javascript"></script>
-    <script src="/Dummy-Website-Test/js/accordion-element.js" type="application/javascript"></script>
     </head>
 <body>
 
@@ -162,19 +167,23 @@
         <h1>Contact Us</h1>
         <p>
             
-            Made at 2024年1月27日
             
-            
-            <br>
-            
-            
-            Last edited by: pleituer
             
         </p>
     </div>
     
     
-    
+    <h2 id="name">Name</h2><div><div class="contact-input-helper-text name">
+        *This field cannot be empty
+    </div><input class="contact-input" data-type="contact-name" label="text" name="Name" placeholder="Name" required="required" /></div><h2 id="email">Email</h2><div><div class="contact-input-helper-text email">
+        *This field cannot be empty
+    </div><div class="contact-input-helper-text emailFormat">
+        *Email not in right format
+    </div><input class="contact-input" data-type="contact-email" label="email" name="Email" placeholder="email@eemail.email" required="required" /></div><h2 id="message">Message</h2><div><div class="contact-input-helper-text message">
+        *This field cannot be empty
+    </div><textarea class="contact-input" data-type="contact-message" name="Message" placeholder="Message" cols="88" rows="8" required="required" autofill="autofill"></textarea></div><br /><div><a href="#" class="button" data-type="contact-submit">Submit</a><div class="submit-success">
+        ✔ Submitted Successfully
+    </div></div>
 
     
 </div>
@@ -213,6 +222,7 @@
 
 
 <script src="/Dummy-Website-Test/js/theme-selector.js" type="application/javascript"></script>
+<script src="/Dummy-Website-Test/js/contact-us.js" type="application/javascript"></script>
 
 </body>
 </html>

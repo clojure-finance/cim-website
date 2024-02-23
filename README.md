@@ -92,3 +92,4 @@ in the markdown file to render the video
 - `:last-edited-by`
 - `:link`
 - `<x-accordion>`
+- shit ton of stylings that i need to refactor

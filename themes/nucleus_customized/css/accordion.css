@@ -30,7 +30,7 @@
 }
 
 .panel.Accative {
-    padding: 0 18px 18px 18px; /* Add 18px of padding to the bottom of the panel when it is active */
+    padding: 0px 18px 18px 18px; 
 }
 
 .accordion:after {

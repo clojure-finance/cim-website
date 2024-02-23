@@ -37,4 +37,4 @@
                                 :acct nil ;; change this to your mastodon account name to generate a me-link
                                 }
  :icon-spin                    false
- :preprocessing-py-scripts     ["latex" "theme_selector"]}
+ :preprocessing-py-scripts     []}

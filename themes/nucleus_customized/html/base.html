@@ -30,6 +30,8 @@
     {% style "css/typography.css" %}
     {% style "css/table.css" %}
     {% style "css/accordion.css" %}
+    {% style "css/contact-us.css" %}
+    {% style "css/team.css" %}
     <link rel="stylesheet" id="theme-style" href="{{blog-prefix}}/css/light-theme.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/tomorrow-night-eighties.min.css">
@@ -43,7 +45,6 @@
     <!-- To automatically render math in text elements, include the auto-render extension: -->
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"></script>
     {% script "js/katex-container.js" %}
-    {% script "js/accordion-element.js" %}
     </head>
 <body>
 
@@ -149,6 +150,7 @@
 {% if page.klipse %} {{page.klipse|safe}} {% endif %}
 
 {% script "js/theme-selector.js" %}
+{% script "js/contact-us.js" %}
 
 </body>
 </html>
