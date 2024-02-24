@@ -37,4 +37,7 @@
     <div class="submit-success">
         &#x2714; Submitted Successfully
     </div>
+    <div class="submit-error">
+        &#x274C; Submit Error: make sure you have access to the internet, or try again later
+    </div>
 </div>

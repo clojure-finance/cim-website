@@ -34,3 +34,13 @@
 .submit-success.active {
     display: block;
 }
+
+.submit-error {
+    color: red;
+    font-size: 16px;
+    display: none;
+}
+
+.submit-error.active {
+    display: block;
+}
