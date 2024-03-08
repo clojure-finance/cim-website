@@ -88,11 +88,15 @@ You can go beyond capabilities of markdown by including **raw** html in the mark
 ```
 in the markdown file to render the video
 
-#### Also include
+#### Also include (for docs but im a bit lazy so i'll add later)
 
 - `:navbar-name`
 - `:notitle`
 - `:last`
 - `:last-edited-by`
 - `:link`
+<<<<<<< HEAD
 - `<x-accordion>`
+=======
+- `<x-accordion>`
+>>>>>>> 101952d6ea25e648fb8c1662977157917a057cd4
