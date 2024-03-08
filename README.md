@@ -95,8 +95,4 @@ in the markdown file to render the video
 - `:last`
 - `:last-edited-by`
 - `:link`
-<<<<<<< HEAD
 - `<x-accordion>`
-=======
-- `<x-accordion>`
->>>>>>> 101952d6ea25e648fb8c1662977157917a057cd4
