@@ -137,7 +137,8 @@ img.imgfull {
     padding: 30px 20px;
     width: 100%;
     color: #FFF;
-    margin: 0 0 20px 0;
+    margin: 0 0 0 0;
+    text-align: center;
 }
 
 #left p#logo a span.fa {
@@ -153,7 +154,7 @@ img.imgfull {
     border-radius: 80px;
 }
 
-#left p#logo a span.text {
+#left p#logo a span.webname-text {
     float: left;
     width: 100%;
     font-size: 30px;

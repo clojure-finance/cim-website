@@ -34,6 +34,7 @@
     {% style "css/team.css" %}
     {% style "css/welcome.css" %}
     {% style "css/strategy.css" %}
+    {% style "css/logo.css" %}
     <link rel="stylesheet" id="theme-style" href="{{blog-prefix}}/css/light-theme.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/tomorrow-night-eighties.min.css">
@@ -54,13 +55,8 @@
 
     <p id="logo">
         <a title="{{title}}" href="{{index-uri}}">
-            {% if icon-spin %}
-            <span class="fa fa-terminal fa-spin"></span>
-            <span class="text">Hi :)</span>
-            {% else %}
-            <span class="fa fa-terminal"></span>
-            <span class="text">Demo</span>
-            {% endif %}
+            <img class="logoimg" src="{{index-uri}}img/logo.jpg" alt="Logo" width="80%"/>
+            <span class="webname-text">Demo</span>
         </a>
     </p>
 

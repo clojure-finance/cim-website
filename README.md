@@ -25,9 +25,9 @@ The following will be the documentation of changes made/features added based on 
 1. [Added easier color configuration](#added-easier-color-configuration)
 2. [Added theme selection](#added-theme-selection)
 3. [Added a way to 'unlink' pages](#added-a-way-to-unlink-pages)
-4. [Included table customisation](#included-table-customisation)
-5. [Included LaTeX support](#included-latex-support)
-6. [Dates and Authors for pages](#dates-and-authors-for-pages)
+4. [Included LaTeX support](#included-latex-support)
+5. [Dates and Authors for pages](#dates-and-authors-for-pages)
+6. [Styling](#styling)
 7. [Note](#note)
 
 ### Added easier color configuration
@@ -67,7 +67,11 @@ Using `katex` to render LaTeX, simply put the paragraph(s) in the element `<kate
 
 ### Dates and Authors for Pages
 
-Specify the date and author of a page with `:date` and `:autho` in the metadata for the page. Dates should be in the format of `YYYY-MM-DD`. 
+Specify the date and author of a page with `:date` and `:last-edited-by` in the metadata for the page. Dates should be in the format of `YYYY-MM-DD`. 
+
+### Styling
+
+Just look at the CSS files, theres too much to say. Recommended: learn css.
 
 ### Note
 
@@ -92,4 +96,3 @@ in the markdown file to render the video
 - `:last-edited-by`
 - `:link`
 - `<x-accordion>`
-- shit ton of stylings that i need to refactor
