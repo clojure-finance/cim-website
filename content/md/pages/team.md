@@ -17,7 +17,7 @@
         <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
         <h3 class="team-member-name">David Fan Rongshuo</h3>
         <h2 class="team-member-position">Senior Investment Manager</h2>
-        <p class="team-member-description">Hi everyone, I’m David Fan Rongshuo. As a senior portfolio manager in CIM, I’m currently a year 2 Fintech student. I’m interested in both traditional and quantitative trading. I’m into macro trading, taking macro events and companies’ announcement into consideration. Besides, I’m also interested in momentum trading as well, seeking the optimal moment to “get on the boat” and “get off at the proper time”. </p>
+        <p class="team-member-description">Hi everyone, I’m David Fan Rongshuo. As a senior portfolio manager in CIM, I’m currently a year 2 Fintech student. I’m interested in both traditional and quantitative trading. I’m into macro trading, taking macro events and companies’ announcement into consideration. Besides, I’m also interested in momentum trading as well, seeking the optimal moment to “get on the boat” and “get off at the proper time”.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
