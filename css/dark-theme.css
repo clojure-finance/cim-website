@@ -1,0 +1,14 @@
+:root {
+    --background: #222;
+    --main-color: #3270b7;
+    --text-color: #BBB;
+    --hover-color: #1d4e87;
+    --menu-background: #124075;
+    --footer-text-color: rgba(232, 230, 230, 0.628);
+    --header-color: #EEE;
+    --blockquote-color: #999;
+    --blockquote-background: #222;
+    --secondary: #173c67;
+    --secondary-hover: #1d4e87;
+    --strat-bg: #11283e;
+}

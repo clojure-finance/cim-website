@@ -1,0 +1,18 @@
+table {
+    text-align: center;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+th {
+    border-bottom: 2px solid var(--main-color);
+    font-weight: bold;
+}
+
+td {
+    border-bottom: 1px solid var(--main-color);
+}
+
+tr:nth-child(even) {
+    background-color: var(--secondary);
+}

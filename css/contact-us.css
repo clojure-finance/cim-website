@@ -1,0 +1,46 @@
+.contact-input {
+    background-color: var(--blockquote-background);
+    color: var(--text-color);
+    padding: 12px;
+    width: 100%;
+    text-align: left;
+    border: solid var(--main-color) 2px;
+    outline: none;
+    font-size: 20px;
+    margin: 4px 0 4px 0;
+    font-family: "Oxygen", Arial, Verdana, Helvetica, sans-serif;
+}
+
+.contact-input.invalid {
+    border: solid red 2px;
+}
+
+.contact-input-helper-text {
+    color: red;
+    font-size: 12px;
+    display: none;
+}
+
+.contact-input-helper-text.active {
+    display: block;
+}
+
+.submit-success {
+    color: rgb(0, 171, 0);
+    font-size: 16px;
+    display: none;
+}
+
+.submit-success.active {
+    display: block;
+}
+
+.submit-error {
+    color: red;
+    font-size: 16px;
+    display: none;
+}
+
+.submit-error.active {
+    display: block;
+}
