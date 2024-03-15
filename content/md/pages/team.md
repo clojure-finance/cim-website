@@ -1,4 +1,4 @@
-![image](https://github.com/pleituer/Dummy-Website-Test/assets/134305915/c0e24d9b-f7d4-44d9-8031-4a59de91d08c)![image](https://github.com/pleituer/Dummy-Website-Test/assets/134305915/67e2c7f4-a8b6-4dcc-956b-70e6182ef97e)![image](https://github.com/pleituer/Dummy-Website-Test/assets/134305915/3b4ae89c-a7eb-48ca-975b-cce0b0bd26c7){:title "Our team"
+{:title "Our team"
  :layout :page
  :page-index 3
  :date "2024-01-27"
