@@ -86,7 +86,8 @@
     <div class="team-member">
         <img class="team-member-pfp" src="/img/team-members-pic/Bella-Liu.jpg"/>
         <h3 class="team-member-name">Bella Liu</h3>
-        <h2 class="team-member-position">Liu Yiming is a BBA programme Year 1 student, currently work for the data science group in a role of junior portfolio manager. Mainly focus on investing the tech stocks. After experiencing several mock trading, she is interested in sales and trading and asset management. Hope to use her own knowledge to help all the users of CIM.</p>
+        <h2 class="team-member-position">Junior Investment Manager</h2>
+        <p class="team-member-description">Liu Yiming is a BBA programme Year 1 student, currently work for the data science group in a role of junior portfolio manager. Mainly focus on investing the tech stocks. After experiencing several mock trading, she is interested in sales and trading and asset management. Hope to use her own knowledge to help all the users of CIM.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">

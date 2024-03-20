@@ -21,6 +21,7 @@
     width: 80%;
     margin-left: 10%;
     aspect-ratio: 1/1;
+    object-fit: cover;
     border-radius: 50%;
     border: 4px solid var(--strat-bg);
     box-shadow: 0 0 30px var(--strat-bg);
