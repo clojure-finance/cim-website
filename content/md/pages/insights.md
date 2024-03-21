@@ -21,7 +21,7 @@ Source:
 1. [Investors | Yatsen Group - Investor Relations Home](https://ir.yatsenglobal.com/)
 2. [Yatsen Announces Fourth Quarter and Full Year 2023 Financial Results](https://www.prnewswire.com/news-releases/yatsen-announces-fourth-quarter-and-full-year-2023-financial-results-302081184.html)
 3. [Yatsen Global - Warburg Pincus](https://warburgpincus.com/investments/yatsen-global/)
-4. [Yatsen Global - News Release] (https://ir.yatsenglobal.com/2021-03-02-Yatsen-to-Acquire-Prestige-Skincare-Brand-Eve-Lom)
+4. [Yatsen Global - News Release](https://ir.yatsenglobal.com/2021-03-02-Yatsen-to-Acquire-Prestige-Skincare-Brand-Eve-Lom)
 
 </x-accordion>
 
@@ -34,10 +34,10 @@ Source:
 Disclaimer: Investors should consider these factors and their own risk tolerance when evaluating these investment opportunities. As always, it's recommended to conduct thorough research or consult with a financial advisor before making investment decisions.</p>
 
 Sources:
-1. https://quartr.com/insights/company-research/reddits-ipo-in-2024-a-closer-look-before-going-public-in-mar
-2. https://www.marketbeat.com/stocks/NASDAQ/NVDA/price-target/
-3. https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html
-4. https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-11-2024/card/reddit-ipo-how-the-company-s-own-wallstreetbet-stacks-up-0ykwE0P13PcFPHLNiC1a
-5. https://www.nasdaq.com/articles/what-will-2024-bring-for-nvidia-stock
+1. [https://quartr.com/insights/company-research/reddits-ipo-in-2024-a-closer-look-before-going-public-in-mar](https://quartr.com/insights/company-research/reddits-ipo-in-2024-a-closer-look-before-going-public-in-mar)
+2. [https://www.marketbeat.com/stocks/NASDAQ/NVDA/price-target/](https://www.marketbeat.com/stocks/NASDAQ/NVDA/price-target/)
+3. [https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html](https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html)
+4. [https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-11-2024/card/reddit-ipo-how-the-company-s-own-wallstreetbet-stacks-up-0ykwE0P13PcFPHLNiC1a](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-11-2024/card/reddit-ipo-how-the-company-s-own-wallstreetbet-stacks-up-0ykwE0P13PcFPHLNiC1a)
+5. [https://www.nasdaq.com/articles/what-will-2024-bring-for-nvidia-stock](https://www.nasdaq.com/articles/what-will-2024-bring-for-nvidia-stock)
 
 </x-accordion>
