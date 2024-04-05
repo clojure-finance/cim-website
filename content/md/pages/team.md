@@ -14,14 +14,14 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Fan-Rongshuo.JPG"/>
         <h3 class="team-member-name">David Fan Rongshuo</h3>
         <h2 class="team-member-position">Senior Investment Manager</h2>
         <p class="team-member-description">Hi everyone, I’m David Fan Rongshuo. As a senior portfolio manager in CIM, I’m currently a year 2 Fintech student. I’m interested in both traditional and quantitative trading. I’m into macro trading, taking macro events and companies’ announcement into consideration. Besides, I’m also interested in momentum trading as well, seeking the optimal moment to “get on the boat” and “get off at the proper time”.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Li-Chengpu.jpg"/>
         <h3 class="team-member-name">Leo Li</h3>
         <h2 class="team-member-position">Senior Investment Manager</h2>
         <p class="team-member-description">Hello Everyone, I am Li Chengpu, you can call me Leo. I am a year 2 student from Quantitative Finance and quite interested in using the knowledge of computer science, like programming, to design a better investment strategies. Also, I like Macroeconomics and always do Macro analysis. Nice to meet you all!</p>
@@ -140,7 +140,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Peter-Liu.jpg"/>
         <h3 class="team-member-name">Peter Liu</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">Hi! I am Liu Peter Hong Zhi, currently a Year 2 BEng(DS&E) student, I am a junior portfolio manager at CIM as a group member of the web dev team. I enjoy coding (data analysis, web dec, machine learning, etc), and I am also intrigued about the financial market, though having little experience in it. I look forward to expand my knowledge and learn more about the finance industry and doing investment through CIM!</p>
@@ -168,7 +168,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Jorya-Zhou.JPG"/>
         <h3 class="team-member-name">Jorya Zhou</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">Hi, everyone! I'm Jorya Zhou Qingzhuo, a year 2 student majoring in Economics and Finance. I've been fascinated by the stock market and investing strategies. That's why I joined the CIM to learn analyzing methods and gain insight into the financial industry. Being a part of CIM must be an enriching experience where I can study the dynamics of the stock market, understand how the financial market functions, and uncover strategies for consistent returns.</p>
@@ -196,7 +196,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Deng-Shen.jpeg"/>
         <h3 class="team-member-name">Dacian Deng</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">I am DENG Shen Dacian, a second-year BSc(QFin) student, currently serving as a junior portfolio manager at CIM and leading the publicity team. With a keen interest in equity investment, my focus lies predominantly on the Hong Kong and US equity markets. I am eager to enhance my understanding of equity investment through my association with CIM, as it offers an invaluable platform for me to expand my knowledge in this field.</p>
@@ -217,7 +217,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Xu-Mingyuan.JPG"/>
         <h3 class="team-member-name">Leo Xu</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">Hi all! I'm Leo Xu Mingyuan, year 2 Business Analytics with a second major in AMPB. I'm currently doing an off-cycle internship at HSBC Securities Services, and I really look forward to connecting with you! Please feel free to find me via Linkedin and grab a coffee to talk about career, academics, exchange, hobbies, etc. My career aspirations are mainly IBD or private banking, yet I hope to learn more about secondary market through CIM and look forward to working with you soon.</p>
