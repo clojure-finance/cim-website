@@ -49,4 +49,9 @@ crisis</p>
 Asia: <br>
 <p>Chinese regulators reportedly blocked Syngenta's planned $9bn Shanghai IPO due to liquidity concerns. Indian stocks did not experience the traditional pre-election rally as the country prepares for parliamentary elections; US yields and a significant earthquake impacted
 markets like Nikkei and Hang Seng. Meanwhile, China's solar sector is facing oversupply and low prices, suggesting a year of consolidation ahead.</p>
+
+Sources:
+1. https://www.euronews.com/tag/european-markets
+2. https://finance.yahoo.com/news/stock-market-today-sp-500-ends-record-setting-streak-but-stocks-notch-weekly-win-134707886.html?guccounter=1
+3. https://www.asiafinancial.com/markets
 </x-accordion>
