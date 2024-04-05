@@ -1,4 +1,4 @@
-{:title "Weekly News"
+{:title "Market News"
  :layout :page
  :date "2020-12-03"
  :last-edited-by "pleituer"

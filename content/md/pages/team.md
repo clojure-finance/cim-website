@@ -143,7 +143,7 @@
         <img class="team-member-pfp" src="/img/team-members-pic/Peter-Liu.jpg"/>
         <h3 class="team-member-name">Peter Liu</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
-        <p class="team-member-description">Hi! I am Liu Peter Hong Zhi, currently a Year 2 BEng(DS&E) student, I am a junior portfolio manager at CIM as a group member of the web dev team. I enjoy coding (data analysis, web dec, machine learning, etc), and I am also intrigued about the financial market, though having little experience in it. I look forward to expand my knowledge and learn more about the finance industry and doing investment through CIM!</p>
+        <p class="team-member-description">Liu Peter Hong Zhi is a Year 2 BEng(DS&E) student who currently works as a junior portfolio manager at CIM. He is a member of the web development team and enjoys coding, particularly in the areas of data analysis, web development, and machine learning. Despite having limited experience, Liu Peter Hong Zhi is intrigued by the financial market and is eager to expand his knowledge and learn more about the finance industry. He is excited about the opportunity to gain experience in investment through CIM.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
