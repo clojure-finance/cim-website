@@ -22,7 +22,7 @@
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
-        <h3 class="team-member-name">Li Chengpu</h3>
+        <h3 class="team-member-name">Leo Li</h3>
         <h2 class="team-member-position">Senior Investment Manager</h2>
         <p class="team-member-description">Hello Everyone, I am Li Chengpu, you can call me Leo. I am a year 2 student from Quantitative Finance and quite interested in using the knowledge of computer science, like programming, to design a better investment strategies. Also, I like Macroeconomics and always do Macro analysis. Nice to meet you all!</p>
         <div class="team-member-pad"></div>
@@ -38,19 +38,19 @@
         <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
         <h3 class="team-member-name">Cindy Tang</h3>
         <h2 class="team-member-position">Senior Investment Manager</h2>
-        <p class="team-member-description">I'm Cindy Tang, a year 2 student double majoring in EF and AMPB. I joined CIM because I'm interested in Investment and Asset Management. Without a CS background, I'm a new starter and eager to learn more about using programming to analyze data since digitization is the trend in the financial industry.</p>
+        <p class="team-member-description">Cindy Tang is a Year 2 student double majoring in Economics and Finance and AMPB. She joined CIM because of her interest in investment and asset management. Cindy enjoys analyzing market trends, managing portfolios, and designing macro investment strategies. She’s eager to learn more about using programming to analyze data since digitization is the trend in the financial industry.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
-        <h3 class="team-member-name">Yang Runqi</h3>
+        <h3 class="team-member-name">Jason Yang</h3>
         <h2 class="team-member-position">Senior Investment Manager</h2>
         <p class="team-member-description">Hi! I am Yang Runqi, a year-3 student in the BEng + BBA double degree program, majoring in Computer Science and Finance and minoring in Computational Mathematics.As a Senior Portfolio Manager at CIM, I am very interested in the combination of computer and finance, and using Clojure to analyze the financial market is an exciting task. I am happy to join CIM and look forward to further cooperation with you.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="/img/team-members-pic/Phillip-Ting.jpg"/>
-        <h3 class="team-member-name">Phillip Ting</h3>
+        <h3 class="team-member-name">Philip Ting</h3>
         <h2 class="team-member-position">Senior Investment Manager</h2>
         <p class="team-member-description">Philip is a year 4 Accounting and Finance student and a student ambassador at HKU Business School. Apart from his role as a senior portfolio manager at the CIM program, he is also part of the publicity team. He has 3 years of investment experience and is interested in macro investing, portfolio management, and multi-asset allocation. </p>
         <div class="team-member-pad"></div>
@@ -178,14 +178,14 @@
         <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
         <h3 class="team-member-name">Simon Zhou</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
-        <p class="team-member-description">Description goes here...</p>
+        <p class="team-member-description">Hi guys, this is Simon Zhou from the web development team. I'm an undergrad freshmen majoring in the accounting data analytics. Being a member of CIM really help me to learn deeper about the secondary market. Hope to meet you in the future!</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
         <h3 class="team-member-name">Jonathan Chen</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
-        <p class="team-member-description">Hello！ I am Chen JunLiang, Bachelor of Economics and Finance, Year 2 Student. I have  some experience in international politics; I am also focusing on US and China's equity market. Looking forward to work with you!</p>
+        <p class="team-member-description">Jonathan is a motivated first year student majoring in economics and  finance. He’s currently serving as a junior portfolio manager at CIM and taking the role as vice group leader at publicity team. Deeply passionate about the global market, he is keen on researching equities with the help of his expertise in data analytics skill and behavioral economics.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -199,7 +199,7 @@
         <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
         <h3 class="team-member-name">Dacian Deng</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
-        <p class="team-member-description">I am DENG Shen Dacian, a year 2 BSc(QFin) student. I am a junior portfolio manager at CIM and the group leader of the publicity team. I am a new starter in equity investment, focusing on Hong Kong and the US equity market. I look forward to improving my equity investment knowledge through CIM.</p>
+        <p class="team-member-description">I am DENG Shen Dacian, a second-year BSc(QFin) student, currently serving as a junior portfolio manager at CIM and leading the publicity team. With a keen interest in equity investment, my focus lies predominantly on the Hong Kong and US equity markets. I am eager to enhance my understanding of equity investment through my association with CIM, as it offers an invaluable platform for me to expand my knowledge in this field.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
