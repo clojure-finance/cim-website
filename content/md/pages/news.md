@@ -34,3 +34,19 @@ Asia: <br>
 <p>Asia Markets Fall Ahead of Central Bank Interest Rate Decisions: On March 18, 2024, Asia-Pacific markets fell ahead of central bank monetary policy decisions from the Bank of Japan and the Reserve Bank of Australia.</p>
 <p>Asian Markets Mixed Ahead of Bank of Japan Decision: On March 19, 2024, Asian markets were mixed ahead of a much-anticipated Bank of Japan meeting.</p>
 </x-accordion>
+
+<x-accordion summary="Week of 4/04/2024">
+<i>Written by Jonathan Chen</i>
+<br><br>
+US: <br>
+<p>While the S&P 500 ended a record-setting streak by falling just below the flatline, it still managed to secure a win for the week. The Dow Jones Industrial Average saw a slight increase of about 0.2%, whereas the tech-heavy Nasdaq Composite experienced a minor drop close to 0.4%. This mixed closing was amid investors bracing for the Fed's upcoming meeting, focusing on potential rate cuts and the central bank's latest viewpoint on inflation and economic growth.</p>
+<p>UThe week also highlighted anticipation for major tech companies' earnings reports, with Alphabet and Microsoft set to start the earnings season. These reports are keenly watched due to the significant influence these companies have on both the global economy and investors' portfolios.</p>
+<p>Furthermore, the US market witnessed crude oil gaining more than 6% over the week, driven by bullish economic data and ongoing tensions in the Red Sea region. This rise in oil prices was supported by freezing temperatures affecting US production, a reduction in crude inventories, and various global economic factors.</p>
+Europe: <br>
+<p>The Swiss National Bank made a surprise interest rate cut, becoming the first major financial center to do so recently. Investors were also anticipating major economies' manufacturing PMI and CPI data as they continue to address inflation concerns.</p>
+<p>Additionally, European stocks experienced mixed movements, with the tech sector influencing Wall Street's performance and Bitcoin's value jumping significantly. The Dutch TTF benchmark for European gas prices saw a significant decrease, suggesting a possible easing of the energy
+crisis</p>
+Asia: <br>
+<p>Chinese regulators reportedly blocked Syngenta's planned $9bn Shanghai IPO due to liquidity concerns. Indian stocks did not experience the traditional pre-election rally as the country prepares for parliamentary elections; US yields and a significant earthquake impacted
+markets like Nikkei and Hang Seng. Meanwhile, China's solar sector is facing oversupply and low prices, suggesting a year of consolidation ahead.</p>
+</x-accordion>
