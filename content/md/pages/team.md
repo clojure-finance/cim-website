@@ -28,7 +28,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Elvis-Lui.jpg"/>
         <h3 class="team-member-name">Elvis Lui</h3>
         <h2 class="team-member-position">Senior Investment Manager</h2>
         <p class="team-member-description">Elvis is a highly motivated and driven second-year student with a passion for technology and finance. With majors in Systems Analytics and AMPB, he possesses a comprehensive knowledge of the intersection between technology and business value. He has traded cryptocurrencies and US stocks since 2020 and is currently exploring opportunities in the Hong Kong and China shares market.</p>
@@ -77,7 +77,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Ling-Ronghan.jpg"/>
         <h3 class="team-member-name">Kevin Lin</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">Kevin Lin is the deputy leader in the Data Analysis Division of the CIM. He is a year 3 quantitative finance student with a double major in mathematics and a minor in computer science. His research ambitions are focused on advancing risk management strategies and developing innovative quantitative investment techniques.</p>
@@ -98,14 +98,14 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Issam_Wang.jpeg"/>
         <h3 class="team-member-name">Sam Wang</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">A junior portfolio manager at CIM, Sam is a second-year Quantitative Finance student with an intended second major in Mathematics. He is a passionate math enthusiast, constantly fascinated by the logic behind financial markets. His interest lies in the application of mathematics and statistics in quantitative research of financial firms. Although still relatively new to quantitative, macro, and fundamental analysis, he looks forward to engaging with others and expanding his knowledge in the field.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Berkeley-Wong.jpg"/>
         <h3 class="team-member-name">Berkeley Wong</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">Berkeley Wong is a highly motivated and detail-oriented Economics and Finance student with a strong inclination towards technical analysis. He possesses a keen interest in both short-term and long-term trading strategies, and aspires to utilize his comprehensive understanding of economic theory and financial principles to conduct meticulous data analysis and forecasting. By employing these analytical skills, Berkeley aims to make well-informed investment decisions that align with his goal of achieving optimal outcomes.</p>
@@ -126,7 +126,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Darren-Fuk.jpg"/>
         <h3 class="team-member-name">Darren Fung</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">Fung Nok Yin Darren is a second-year BSc(QFin) student. Presently, he holds the position of Junior Portfolio Manager within the Web Development Group. His fervor lies in the intricate workings of the stock market and the art of technical analysis. He aspires to deepen his understanding of these techniques and independently analyze stocks.</p>
@@ -155,14 +155,14 @@ Being detail-oriented, flexible, and open, Justin wishes to be an active part of
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Haley-Yap.jpg"/>
         <h3 class="team-member-name">Haley Yap</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">Haley Yap is a first-year Economics and Finance student from the Philippines with a deep passion for the financial sector and investments in various opportunities, ranging from stocks, ETFs, cryptocurrencies, and much more. .</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Felix-Zhang.jpg"/>
         <h3 class="team-member-name">Felix Zhang</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">Hi! I am Zhang Jingyan, a year-2 Economics and Finance student.I am currently also double majoring in mathematics which attracts me a lot. I try to learn different things and "survive" from all kinds of challengings. I hope that I can have a better understanding of trading and investing through CIM. Nice to meet and work with you wonderful guys!</p>
@@ -176,7 +176,7 @@ Being detail-oriented, flexible, and open, Justin wishes to be an active part of
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Simon-Zhou.JPG"/>
         <h3 class="team-member-name">Simon Zhou</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">Hi guys, this is Simon Zhou from the web development team. I'm an undergrad freshmen majoring in the accounting data analytics. Being a member of CIM really help me to learn deeper about the secondary market. Hope to meet you in the future!</p>
@@ -211,7 +211,7 @@ Being detail-oriented, flexible, and open, Justin wishes to be an active part of
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Erika-Lau.jpg"/>
         <h3 class="team-member-name">Erika Lau</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">Erika Lau is a penultimate finance student with a deep passion for the intricacies of global markets. Her unwavering ambition is to carve a path as a distinguished portfolio manager in the near future. Erika has honed her skills through valuable internships at Optimas Capital and Vantage Capital Markets, where she served as an astute investment analyst. Her primary focus lies in the dynamic realms of Hong Kong and US equity markets, with a particular emphasis on the Consumer Staples industry.</p>
@@ -232,7 +232,7 @@ Being detail-oriented, flexible, and open, Justin wishes to be an active part of
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Kevin-Xia.jpg"/>
         <h3 class="team-member-name">Kevin Xia</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">Yunchu Kevin Xia is a Year 1 International Business and Global Management student with a passion for financial analysis and strategic insights. With a solid background in equity research and report writing, Kevin brings a keen eye for detail and a commitment to excellence. As an integral part of the Centre for Investment Management, he contributes his expertise to drive informed decision-making and foster growth. Kevin’s dedication to continuous learning and collaborative problem-solving makes him a valuable asset to any team.</p>
