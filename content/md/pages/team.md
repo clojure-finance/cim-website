@@ -77,7 +77,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/Ling-Ronghan.jpg"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Lin-Ronghan.jpg"/>
         <h3 class="team-member-name">Kevin Lin</h3>
         <h2 class="team-member-position">Junior Investment Manager</h2>
         <p class="team-member-description">Kevin Lin is the deputy leader in the Data Analysis Division of the CIM. He is a year 3 quantitative finance student with a double major in mathematics and a minor in computer science. His research ambitions are focused on advancing risk management strategies and developing innovative quantitative investment techniques.</p>
