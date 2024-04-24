@@ -58,21 +58,21 @@
     <div class="team-member">
         <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
         <h3 class="team-member-name">Denzel Howarth</h3>
-        <h2 class="team-member-position">Junior Investement Manager</h2>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Denzel Josh Howarth is currently working in the Data Analysis Division of the CIM Programme. Currently enrolled as a 3rd year Economies and Finance student, with a minor in accounting, his passion and motivation to join the programme stems from his innate curiosity and desire to learn more on financial markets and investing in order to apply the knowledge gained towards more applicatory programmes, events, and competitions offered by The University of Hong Kong. </p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
         <h3 class="team-member-name">Prityush Jhaveri</h3>
-        <h2 class="team-member-position">Junior Investement Manager</h2>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Prityush leads the Data Analysis Team at CIM and is currently enrolled in the Global Engineering and Business Program at HKU, working towards a Dual Degree in Finance and Industrial Engineering. His curiosity and passion for knowledge span a diverse array of subjects; he delves into the effects of macroeconomic trends on global financial markets and explores the rich tapestry of eastern philosophy and its historical roots. With a keen interest in how theoretical concepts apply to real-world scenarios, Prityush is always on the lookout for opportunities to apply his learning in practical settings, particularly in areas that bridge the gap between engineering innovations and business strategy.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
         <h3 class="team-member-name">Anson Lam</h3>
-        <h2 class="team-member-position">Junior Investement Manager</h2>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Anson Lam is a Quantitative Finance major student.  He is interested in quantitative investing.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -121,7 +121,7 @@
     <div class="team-member">
         <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
         <h3 class="team-member-name">Joe Liu</h3>
-        <h2 class="team-member-position">Junior Investement Manager</h2>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Joe Liu is a rising Finance (Asset Management and Private Banking) undergraduate student at The University of Hong Kong. Driven and passionate about investment, he joined CIM with research interest in industrials and tech stocks.</p>
         <div class="team-member-pad"></div>
     </div>
