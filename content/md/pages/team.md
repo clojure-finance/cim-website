@@ -35,17 +35,17 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Cindy-Tang.jpg"/>
         <h3 class="team-member-name">Cindy Tang</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-description">Cindy Tang is a Year 2 student double majoring in Economics and Finance and AMPB. She joined CIM because of her interest in investment and asset management. Cindy enjoys analyzing market trends, managing portfolios, and designing macro investment strategies. She’s eager to learn more about using programming to analyze data since digitization is the trend in the financial industry.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Yang-Runqi.png"/>
         <h3 class="team-member-name">Jason Yang</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
-        <p class="team-member-description">Hi! I am Yang Runqi, a year-3 student in the BEng + BBA double degree program, majoring in Computer Science and Finance and minoring in Computational Mathematics.As a Senior Portfolio Manager at CIM, I am very interested in the combination of computer and finance, and using Clojure to analyze the financial market is an exciting task. I am happy to join CIM and look forward to further cooperation with you.</p>
+        <p class="team-member-description">Yang Runqi, a year-3 student in the BEng + BBA double degree program, majors in Computer Science and Finance, with a minor in Computational Mathematics. As a Senior Portfolio Manager at CIM, Yang Runqi demonstrates a strong interest in the intersection of computer science and finance. The opportunity to utilize Clojure for financial market analysis is an exciting endeavor. Yang Runqi eagerly anticipates engaging in discussions with like-minded individuals to exchange knowledge in related field.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -63,17 +63,17 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Prityush-Jhaveri.jpg"/>
         <h3 class="team-member-name">Prityush Jhaveri</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Prityush leads the Data Analysis Team at CIM and is currently enrolled in the Global Engineering and Business Program at HKU, working towards a Dual Degree in Finance and Industrial Engineering. His curiosity and passion for knowledge span a diverse array of subjects; he delves into the effects of macroeconomic trends on global financial markets and explores the rich tapestry of eastern philosophy and its historical roots. With a keen interest in how theoretical concepts apply to real-world scenarios, Prityush is always on the lookout for opportunities to apply his learning in practical settings, particularly in areas that bridge the gap between engineering innovations and business strategy.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Anson-Lam.jpg"/>
         <h3 class="team-member-name">Anson Lam</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Anson Lam is a Quantitative Finance major student.  He is interested in quantitative investing.</p>
+        <p class="team-member-description">Anson Lam is a Quantitative Finance major student.  He is interested in quantitative investing.  He is also passionate about closely monitoring market trends, macro news to find inefficiency in the market and profitable trading opportunities.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -91,7 +91,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Carlos-Or.jpg"/>
         <h3 class="team-member-name">Carlos Or</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">King Nang is a year one student studying International Business and Global Management at the University of Hong Kong. He is a driven and enthusiastic individual with a keen interest in the stock market. As an amateur investor and majoring in finance, he possesses a deep understanding of the intricacies of financial markets. King Nang's passion for stock trading is matched only by his fascination with business analytics. His analytical mindset and dedication to staying informed about market trends make him a promising individual in the world of finance.</p>
@@ -112,14 +112,14 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Alex-Xu.jpeg"/>
         <h3 class="team-member-name">Alex Xu</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">I'm an ambitious IBGM graduate from the University of Hong Kong, with an acute interest in both consulting and investment analysis. With a solid business acumen, strong interpersonal and technical skills, and a passion for finance markets and quantitative strategies, I'm ready to dive into the world of business & finance :D </p>
+        <p class="team-member-description">Alex is a driven graduate of the International Business and Global Management program from the University of Hong Kong, possessing a keen interest in consulting and investment analysis. With a robust understanding of business principles, exceptional interpersonal and technical skills, and a deep passion for financial markets and quantitative strategies, he is well-prepared and eager to make a significant impact in the field of business and finance.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Joe-Liu.jpg"/>
         <h3 class="team-member-name">Joe Liu</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Joe Liu is a rising Finance (Asset Management and Private Banking) undergraduate student at The University of Hong Kong. Driven and passionate about investment, he joined CIM with research interest in industrials and tech stocks.</p>
@@ -133,7 +133,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Justin-Huang.jpg"/>
         <h3 class="team-member-name">Justin Huang</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Justin H. is a penultimate undergraduate in Quantitative Finance. He is passionate about closely following market trends, participating in different projects, and gaining exposure to various asset classes and finance practitioners. He has shouldered different responsibilities across front desks and middle offices at well-known Chinese investment banks.
@@ -148,7 +148,7 @@ Being detail-oriented, flexible, and open, Justin wishes to be an active part of
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Alexander-Pratama.jpg"/>
         <h3 class="team-member-name">Alexander Pratama</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Alexander is a first-year Data Science student with a passion for Finance. Although new to finance, he is eager to learn as a portfolio manager. Interested by the intersection of investing and statistics, Alexander is enthusiastic to delve into the world of data-driven finance.</p>
@@ -179,7 +179,7 @@ Being detail-oriented, flexible, and open, Justin wishes to be an active part of
         <img class="team-member-pfp" src="/img/team-members-pic/Simon-Zhou.JPG"/>
         <h3 class="team-member-name">Simon Zhou</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Hi guys, this is Simon Zhou from the web development team. I'm an undergrad freshmen majoring in the accounting data analytics. Being a member of CIM really help me to learn deeper about the secondary market. Hope to meet you in the future!</p>
+        <p class="team-member-description">Simon Zhou is the deputy leader of the web development team. He is a freshman majoring in accounting data analytics, possessing a strong passion for the banking sector. In the CIM program, he focuses on researching the equities from the US TMT industry and his strong analytic skills have made him well prepared to step into the world of finance.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -204,7 +204,7 @@ Being detail-oriented, flexible, and open, Justin wishes to be an active part of
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Lisa-Ji.jpg"/>
         <h3 class="team-member-name">Lisa Ji</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Hi everyone, I'm Xingqi Ji, a first-year student pursuing a Bachelor's degree in Economics and Finance. Although I have no experience in stock investments, I have a keen interest in the area. To enhance my knowledge, I read company reports in my spare time. As I progress through the CIM course, I aim to gain a comprehensive understanding of various investment concepts.</p>
@@ -225,7 +225,7 @@ Being detail-oriented, flexible, and open, Justin wishes to be an active part of
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Kayla-Tarliman.jpg"/>
         <h3 class="team-member-name">Kayla Tarliman</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Kayla Tarliman is a driven business student with a keen interest in investing. As for now, she is working under the publicity team as a Junior Portfolio Manager at CIM. Apart from that, she has experience in analyzing multiple investments as well as managing her own portfolio.</p>
