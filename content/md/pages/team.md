@@ -183,7 +183,7 @@ Being detail-oriented, flexible, and open, Justin wishes to be an active part of
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="/img/team-members-pic/unnamed.webp"/>
+        <img class="team-member-pfp" src="/img/team-members-pic/Jonathan-Chen.jpg"/>
         <h3 class="team-member-name">Jonathan Chen</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Jonathan is a motivated first year student majoring in economics and  finance. He’s currently serving as a junior portfolio manager at CIM and taking the role as vice group leader at publicity team. Deeply passionate about the global market, he is keen on researching equities with the help of his expertise in data analytics skill and behavioral economics.</p>
