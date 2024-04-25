@@ -40,7 +40,7 @@ Asia: <br>
 <br><br>
 US: <br>
 <p>While the S&P 500 ended a record-setting streak by falling just below the flatline, it still managed to secure a win for the week. The Dow Jones Industrial Average saw a slight increase of about 0.2%, whereas the tech-heavy Nasdaq Composite experienced a minor drop close to 0.4%. This mixed closing was amid investors bracing for the Fed's upcoming meeting, focusing on potential rate cuts and the central bank's latest viewpoint on inflation and economic growth.</p>
-<p>UThe week also highlighted anticipation for major tech companies' earnings reports, with Alphabet and Microsoft set to start the earnings season. These reports are keenly watched due to the significant influence these companies have on both the global economy and investors' portfolios.</p>
+<p>The week also highlighted anticipation for major tech companies' earnings reports, with Alphabet and Microsoft set to start the earnings season. These reports are keenly watched due to the significant influence these companies have on both the global economy and investors' portfolios.</p>
 <p>Furthermore, the US market witnessed crude oil gaining more than 6% over the week, driven by bullish economic data and ongoing tensions in the Red Sea region. This rise in oil prices was supported by freezing temperatures affecting US production, a reduction in crude inventories, and various global economic factors.</p>
 Europe: <br>
 <p>The Swiss National Bank made a surprise interest rate cut, becoming the first major financial center to do so recently. Investors were also anticipating major economies' manufacturing PMI and CPI data as they continue to address inflation concerns.</p>
@@ -54,4 +54,22 @@ Sources:
 1. https://www.euronews.com/tag/european-markets
 2. https://finance.yahoo.com/news/stock-market-today-sp-500-ends-record-setting-streak-but-stocks-notch-weekly-win-134707886.html?guccounter=1
 3. https://www.asiafinancial.com/markets
+</x-accordion>
+
+<x-accordion summary="Week of 19/04/2024">
+<i>Written by Leo Xu Mingyuan</i>
+<br><br>
+US: <br>
+<p>Stocks recorded their third consecutive week of broad losses, as concerns over tensions in the Middle East and the possibility of U.S. interest rates remaining high. Mega-cap technology shares lagged as rising rates placed a higher theoretical discount on future earnings.</p>
+<p>Some strong economic data appeared to increase worries that the Federal Reserve would push back any interest rates cuts to the fall, if not to 2025. On Monday, the Commerce Department reported that retail sales rose 0.7% in March, well above consensus expectations of around 0.3%, while February’s gain was revised upward to 0.9%. The retail sales data helped push the yield on the benchmark 10-year U.S. Treasury note to its highest intraday level since last November.</p>
+<p>Fed officials expressed their concern with recent economic data. On Tuesday, Fed Chair Jerome Powell stated at an economic conference that “recent data have clearly not given us greater confidence and instead indicate that it’s likely to take longer than expected to achieve that confidence.”</p>
+Europe: <br>
+<p>Consumer prices in the UK grew an annual 3.2% in March, down from 3.4% in February. Although the inflation rate fell to its lowest level in two and a half years, the decline was slightly less than forecast by Bank of England (BoE) due to elevated price growth in fuel and communication goods. Higher oil prices and the somewhat sticky inflation data prompted financial markets to push out expectations for a first cut in UK interest rates from June to sometime in the fall.</p>
+<p>European Central Bank (ECB) policymakers at the IMF meeting reiterated that June was the likely target date for lowering borrowing costs, barring unexpected economic shocks. Three to four rate cuts this year priced in by markets were in line with the bank’s economic outlook.</p>
+Asia: <br>
+<p>Chinese equities rose after the economy expanded more than expected in the first quarter. The Shanghai Composite Index gained 1.52%, while the blue chip CSI 300 added 1.89%. In Hong Kong, the benchmark Hang Seng Index gave up 2.89% as escalating geopolitical tensions in the Middle East hurt investor sentiment.</p>
+<p>China’s gross domestic product expanded an above-consensus 5.3% in the first quarter from a year ago, accelerating slightly from the 5.2% growth in last year’s fourth quarter. On the monetary policy front, the People’s Bank of China injected RMB 100 billion into the banking system via its medium-term lending facility compared with RMB 170 billion in maturing loans and left the lending rate unchanged, as expected. The operation resulted in a net withdrawal of RMB 70 billion from the banking system, marking the second cash extraction this year.</p>
+
+Sources:
+1. https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html
 </x-accordion>
