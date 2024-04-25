@@ -5,18 +5,24 @@ class Accordion extends HTMLElement {
 
     connectedCallback() {
         const summary = this.getAttribute('summary');
+        const summaryStyle = this.getAttribute('summary-style');
+        const detailStyle = this.getAttribute('detail-style');
+        const selfStyle = this.getAttribute('self-style');
 
         const sumtag = document.createElement('button');
         sumtag.textContent = summary;
+        sumtag.style = summaryStyle;
         sumtag.classList.add('accordion');
 
         const detailtag = document.createElement('div');
         detailtag.classList.add('panel');
+        detailtag.style = detailStyle;
         detailtag.innerHTML = this.innerHTML; 
         this.innerHTML = '';
 
         this.appendChild(sumtag);
         this.appendChild(detailtag);
+        this.style = selfStyle;
     }
 }
 
