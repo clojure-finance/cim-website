@@ -1,9 +1,7 @@
 {:title "Home"
  :layout :page
  :home? true
- :notitle true
- :date "2024-01-27"
- :last-edited-by "pleituer"}
+ :notitle true}
 
 <div class="hku">
 
