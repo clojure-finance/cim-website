@@ -1,3 +1,8 @@
+{:title "Our Team"
+ :layout :page
+ :page-index 1
+ :navbar? true}
+ 
 <div class="our-team">
     <div class="team-member">
         <img class="team-member-pfp" src="/img/team-members-pic/Dr-Matthias-Buehlmaier.png"/>
