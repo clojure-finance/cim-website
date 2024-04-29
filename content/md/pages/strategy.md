@@ -1,3 +1,8 @@
+{:title "Strategy"
+ :layout :page
+ :page-index 1
+ :navbar? true}
+ 
 <div class="strattext">
 
 # Strategy
