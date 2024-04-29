@@ -1,10 +1,3 @@
-{:title "Our team"
- :layout :page
- :page-index 3
- :date "2024-01-27"
- :last-edited-by "Alexander"
- :navbar? true}
-
 <div class="our-team">
     <div class="team-member">
         <img class="team-member-pfp" src="/img/team-members-pic/Dr-Matthias-Buehlmaier.png"/>
