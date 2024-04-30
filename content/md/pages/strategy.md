@@ -1,11 +1,8 @@
-{:title "Investment Approach"
- :navbar-name "Strategy"
+{:title "Strategy"
  :layout :page
- :page-index 2
- :date "2024-01-27"
- :last-edited-by "pleituer"
+ :page-index 1
  :navbar? true}
-
+ 
 <div class="strattext">
 
 # Strategy
