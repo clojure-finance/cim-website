@@ -19,21 +19,21 @@
 <div class="grid-container"> 
 <div class="grid-item">
 
-## 50M
+## XXX
 ### AUM
 
 </div>
 
 <div class="grid-item">
         
-## 11%
+## XX%
 ### Historical Return yoy
 
 </div>
 
 <div class="grid-item">
         
-## 5%
+## XX%
 ### Risk Variance
 
 </div>
