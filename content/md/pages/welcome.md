@@ -10,11 +10,13 @@
 
 </div>
 
-<h2 style="text-align: center;">
+<center>
+
+<h2 style="text-align: center; width: min(100%, 1000px);">
     "Established in 2023, the Center for Investment Management (CIM) cultivates students’ investing competencies and strengthens the network with the finance industry."
 </h2>
 
-<center>
+<br><br>
 
 <x-accordion summary="DISCLAIMER" summary-style="text-align: center;font-weight: bold;margin-bottom: -8px;width: min(100%, 800px);" detail-style="width: min(100%, 800px);">
 

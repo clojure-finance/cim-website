@@ -1,7 +1,6 @@
 {:title "Settings"
  :layout :page
  :navbar? true
- :page-index -1
  :last true}
 
 ## Theme (Dark/Light/System)

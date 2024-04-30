@@ -3,9 +3,27 @@
  :page-index 1
  :navbar? true}
 
-<br>
-
 ## Headlines
+
+<x-accordion summary="Riding the Wave of Tech Innovation: Nvidia's Growth, SHEIN's IPO, and Reddit's Public Debut  ">
+
+_Written by Kevin Xia, 19/3/2024_
+
+On the secondary market, Nvidia has been making significant strides in the tech industry, particularly in the realm of artificial intelligence (AI). The company's GPU Technology Conference (GTC) 2024 has begun, and investors are anticipating details on the GPUs based on its next-generation architecture, Blackwell. The stock's recent performance has made this year's GTC even more anticipated among investors. Analysts predict a moderate buy rating for Nvidia with an average twelve-month price prediction of $829.66. 
+
+Apart from Nvidia, there are two upcoming IPOs that also caught a lot of attention. SHEIN, the fast-fashion giant, has confidentially filed to go public in the U.S. The company was last valued at $66 billion and could be ready to start trading on the public markets as soon as 2024 Q2. However, SHEIN faces challenges related to labor practices and its environmental impact.
+
+On the other hand, Reddit is closing in on a stock offering that could rank among the biggest U.S. IPOs so far this year. The social media company has set a price range of $31 to $34 a share. Despite revenue growth, Reddit faces profitability challenges and aims to boost ads.
+Disclaimer: Investors should consider these factors and their own risk tolerance when evaluating these investment opportunities. As always, it's recommended to conduct thorough research or consult with a financial advisor before making investment decisions.
+
+Sources:
+1. [https://quartr.com/insights/company-research/reddits-ipo-in-2024-a-closer-look-before-going-public-in-mar](https://quartr.com/insights/company-research/reddits-ipo-in-2024-a-closer-look-before-going-public-in-mar)
+2. [https://www.marketbeat.com/stocks/NASDAQ/NVDA/price-target/](https://www.marketbeat.com/stocks/NASDAQ/NVDA/price-target/)
+3. [https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html](https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html)
+4. [https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-11-2024/card/reddit-ipo-how-the-company-s-own-wallstreetbet-stacks-up-0ykwE0P13PcFPHLNiC1a](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-11-2024/card/reddit-ipo-how-the-company-s-own-wallstreetbet-stacks-up-0ykwE0P13PcFPHLNiC1a)
+5. [https://www.nasdaq.com/articles/what-will-2024-bring-for-nvidia-stock](https://www.nasdaq.com/articles/what-will-2024-bring-for-nvidia-stock)
+
+</x-accordion>
 
 <x-accordion summary="The first Chinese cosmetic brand listed in NYSE:Yatsen">
 
@@ -27,25 +45,5 @@ Source:
 2. [Yatsen Announces Fourth Quarter and Full Year 2023 Financial Results](https://www.prnewswire.com/news-releases/yatsen-announces-fourth-quarter-and-full-year-2023-financial-results-302081184.html)
 3. [Yatsen Global - Warburg Pincus](https://warburgpincus.com/investments/yatsen-global/)
 4. [Yatsen Global - News Release](https://ir.yatsenglobal.com/2021-03-02-Yatsen-to-Acquire-Prestige-Skincare-Brand-Eve-Lom)
-
-</x-accordion>
-
-<x-accordion summary="Riding the Wave of Tech Innovation: Nvidia's Growth, SHEIN's IPO, and Reddit's Public Debut  ">
-
-_Written by Kevin Xia, 19/3/2024_
-
-On the secondary market, Nvidia has been making significant strides in the tech industry, particularly in the realm of artificial intelligence (AI). The company's GPU Technology Conference (GTC) 2024 has begun, and investors are anticipating details on the GPUs based on its next-generation architecture, Blackwell. The stock's recent performance has made this year's GTC even more anticipated among investors. Analysts predict a moderate buy rating for Nvidia with an average twelve-month price prediction of $829.66. 
-
-Apart from Nvidia, there are two upcoming IPOs that also caught a lot of attention. SHEIN, the fast-fashion giant, has confidentially filed to go public in the U.S. The company was last valued at $66 billion and could be ready to start trading on the public markets as soon as 2024 Q2. However, SHEIN faces challenges related to labor practices and its environmental impact.
-
-On the other hand, Reddit is closing in on a stock offering that could rank among the biggest U.S. IPOs so far this year. The social media company has set a price range of $31 to $34 a share. Despite revenue growth, Reddit faces profitability challenges and aims to boost ads.
-Disclaimer: Investors should consider these factors and their own risk tolerance when evaluating these investment opportunities. As always, it's recommended to conduct thorough research or consult with a financial advisor before making investment decisions.
-
-Sources:
-1. [https://quartr.com/insights/company-research/reddits-ipo-in-2024-a-closer-look-before-going-public-in-mar](https://quartr.com/insights/company-research/reddits-ipo-in-2024-a-closer-look-before-going-public-in-mar)
-2. [https://www.marketbeat.com/stocks/NASDAQ/NVDA/price-target/](https://www.marketbeat.com/stocks/NASDAQ/NVDA/price-target/)
-3. [https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html](https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html)
-4. [https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-11-2024/card/reddit-ipo-how-the-company-s-own-wallstreetbet-stacks-up-0ykwE0P13PcFPHLNiC1a](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-11-2024/card/reddit-ipo-how-the-company-s-own-wallstreetbet-stacks-up-0ykwE0P13PcFPHLNiC1a)
-5. [https://www.nasdaq.com/articles/what-will-2024-bring-for-nvidia-stock](https://www.nasdaq.com/articles/what-will-2024-bring-for-nvidia-stock)
 
 </x-accordion>
