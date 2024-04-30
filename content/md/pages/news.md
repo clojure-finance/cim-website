@@ -1,7 +1,6 @@
 {:title "Market News"
  :layout :page
  :date "2024-01-27"
- :last-edited-by "pleituer"
  :page-index 0
  :navbar? true}
 

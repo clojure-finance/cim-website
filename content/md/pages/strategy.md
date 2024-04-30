@@ -1,6 +1,7 @@
 {:title "Strategy"
  :layout :page
  :page-index 1
+ :date "2024-01-27"
  :navbar? true}
  
 <div class="strattext">
