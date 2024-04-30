@@ -8,7 +8,7 @@
 
 <x-accordion summary="The first Chinese cosmetic brand listed in NYSE:Yatsen">
 
-_Written by Erika Lau_
+_Written by Erika Lau, 12/3/2024_
 
 
 Founded in 2017, Yatsen Holding Limited (NYSE: YSG) is a leading China-based beauty group. It operates various skincare and color cosmetics brands, including Galénic, DR.WU, Eve Lom, and Perfect Diary. Yatsen focuses on providing high-quality beauty products to consumers in China and internationally.
@@ -31,7 +31,7 @@ Source:
 
 <x-accordion summary="Riding the Wave of Tech Innovation: Nvidia's Growth, SHEIN's IPO, and Reddit's Public Debut  ">
 
-_Written by Kevin Xia_
+_Written by Kevin Xia, 19/3/2024_
 
 On the secondary market, Nvidia has been making significant strides in the tech industry, particularly in the realm of artificial intelligence (AI). The company's GPU Technology Conference (GTC) 2024 has begun, and investors are anticipating details on the GPUs based on its next-generation architecture, Blackwell. The stock's recent performance has made this year's GTC even more anticipated among investors. Analysts predict a moderate buy rating for Nvidia with an average twelve-month price prediction of $829.66. 
 
