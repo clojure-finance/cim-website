@@ -6,10 +6,11 @@ const contactInput = {
 };
 const emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
 
-// Email is sent to webdevelopmentcim@gmail.com
+// Email is sent to Dr Buehlmaier(t9w6fmmwapgjy2mjxk43jx54)
+//      originally: webdevelopmentcim@gmail.com(xiwwtphqxxqhkevncb2hgo93)
 
 var emailData = {
-    "access_token": "xiwwtphqxxqhkevncb2hgo93"
+    "access_token": "t9w6fmmwapgjy2mjxk43jx54"
 };
 
 function updateName() {
