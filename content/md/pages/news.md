@@ -5,6 +5,28 @@
 
 ## Headlines
 
+<x-accordion summary="Week of 10/05/2024">
+
+_Written by Erika Lau_
+
+### US:
+
+US ended higher for the week as it tapped into the second week of the earnings release. A cooler labor market, as indicated by lower-than-expected nonfarm payrolls, lowered the inflationary pressure and gave investors a greater hope of loosening interest rates. Powell’s response to the data also pushed back stagflation worries which further encouraged investors.
+
+For individual stocks, AAPL beat consensus revenue expectations and announced the largest buyback of 110bn USD helped boost investors’ confidence. TSLA also lifted the market after a 15% rally under China’s tentative approval of the self-driving technology.
+
+### Europe: 
+
+Europe ended lower amid mixed earnings and an unsure interest rate outlook. The German DAX index experienced a decrease of 0.88%, while France’s CAC 40 Index saw a decline of 1.62%. Italy’s FTSE MIB index also weakened, with a decrease of 1.81%. In contrast, the UK’s FTSE 100 Index registered a gain of 0.90% and reached a new high, primarily fueled by the robust performance of mining and energy stocks.
+
+### Asia: 
+Chinese stocks rose during a week as investors expressed optimism regarding increased government assistance that China would utilize various monetary policy tools, such as potential interest rate reductions and adjustments to the reserve requirement ratio. SSEC rose by 0.52%, while the prominent CSI 300 index of blue-chip stocks saw a slight gain of 0.56%. A larger rally in Hong Kong with the surge of HSI by 4.67%.
+
+Sources:
+1. [https://finance.yahoo.com/](https://finance.yahoo.com/)
+2. [https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html](https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html)
+</x-accordion>
+
 <x-accordion summary="Week of 19/04/2024">
 
 _Written by Leo Xu Mingyuan_
