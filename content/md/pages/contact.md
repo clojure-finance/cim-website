@@ -1,7 +1,8 @@
 {:title "Contact Us"
  :layout :page
  :page-index 4
- :navbar? true}
+ :navbar? true
+ :to-root "../.."}
 
 ## Name
 <div>

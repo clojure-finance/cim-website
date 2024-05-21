@@ -1,7 +1,8 @@
 {:title "Investments Insights"
  :layout :page
  :page-index 1
- :navbar? true}
+ :navbar? true
+ :to-root "../.."}
 
 ## Headlines
 

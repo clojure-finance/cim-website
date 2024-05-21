@@ -1,7 +1,8 @@
 {:title "Market News"
  :layout :page
  :page-index 0
- :navbar? true}
+ :navbar? true
+ :to-root "../.."}
 
 ## Headlines
 

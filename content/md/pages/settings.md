@@ -1,7 +1,8 @@
 {:title "Settings"
  :layout :page
  :navbar? true
- :last true}
+ :last true
+ :to-root "../.."}
 
 ## Theme (Dark/Light/System)
 

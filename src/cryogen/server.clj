@@ -29,6 +29,10 @@
   (let [result (sh "python3" "preprocessing-scripts/scripts-runner.py")]
     (println (:out result))))
 
+(defn getRoot [params]
+  (let [to-root (if (:home? params) "." "../..")]
+    (assoc params :to-root to-root)))
+
 (defn init [& fast?]
   (preprocess)
   (load-plugins)

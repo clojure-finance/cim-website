@@ -1,7 +1,23 @@
 {:title "Home"
  :layout :page
  :home? true
- :notitle true}
+ :notitle true
+ :to-root "."}
+
+<style>
+    .hku {
+        background: linear-gradient(to top, var(--main-color), rgba(0, 0, 0, 0) 100%), url("./img/hku.jpg"); 
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: calc(100% + 90px);
+        height: 566px;
+        object-fit: contain;
+        text-align: center;
+        position: relative;
+        margin: -40px 0px 0 -40px;
+    }
+</style>
 
 <div class="hku">
 
