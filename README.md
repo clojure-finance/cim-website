@@ -1,8 +1,8 @@
-# Dummy-Website-Test
+# CIM Website
 
 ## Info
 
-This is just a test and some experimentations :)
+This is the website for Center of Investment Management.
 
 ## To run
 
