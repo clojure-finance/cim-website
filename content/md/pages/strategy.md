@@ -20,21 +20,21 @@
 <div class="grid-item">
 
 ## 
-### AUM
+### Return
 
 </div>
 
 <div class="grid-item">
         
 ## 
-### Historical Return yoy
+### Sharp ratio
 
 </div>
 
 <div class="grid-item">
         
 ## 
-### Risk Variance
+### Variance
 
 </div>
 </div>
