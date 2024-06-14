@@ -51,7 +51,7 @@ Chinese equities rose after the economy expanded more than expected in the first
 
 China’s gross domestic product expanded an above-consensus 5.3% in the first quarter from a year ago, accelerating slightly from the 5.2% growth in last year’s fourth quarter. On the monetary policy front, the People’s Bank of China injected RMB 100 billion into the banking system via its medium-term lending facility compared with RMB 170 billion in maturing loans and left the lending rate unchanged, as expected. The operation resulted in a net withdrawal of RMB 70 billion from the banking system, marking the second cash extraction this year.
 
-Sources:
+Source:
 1. [https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html](https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html)
 </x-accordion>
 
@@ -76,7 +76,7 @@ crisis.
 ### Asia: 
 Chinese regulators reportedly blocked Syngenta's planned $9bn Shanghai IPO due to liquidity concerns. Indian stocks did not experience the traditional pre-election rally as the country prepares for parliamentary elections; US yields and a significant earthquake impacted markets like Nikkei and Hang Seng. Meanwhile, China's solar sector is facing oversupply and low prices, suggesting a year of consolidation ahead.
 
-Sources:
+Source:
 1. [https://www.euronews.com/tag/european-markets](https://www.euronews.com/tag/european-markets)
 2. [https://finance.yahoo.com/news/stock-market-today-sp-500-ends-record-setting-streak-but-stocks-notch-weekly-win-134707886.html?guccounter=1](https://finance.yahoo.com/news/stock-market-today-sp-500-ends-record-setting-streak-but-stocks-notch-weekly-win-134707886.html?guccounter=1)
 3. [https://www.asiafinancial.com/markets](https://www.asiafinancial.com/markets)
@@ -114,6 +114,7 @@ Asian Markets Mixed Ahead of Bank of Japan Decision: On March 19, 2024, Asian ma
 
 _Written by Erika Lau_
 
+### US:
 The U.S. stock market mostly ended higher for the week, driven by favorable inflation news. The Nasdaq Composite and S&P 500 reached record levels, with the S&P 500 having its strongest start to the year since 2019. The gains were broad-based, with an equal-weighted version of the S&P 500 outperforming the market capitalization version. Large, technology-oriented growth stocks continued to outperform, contributing to the overall performance.
 
 The release of the Commerce Department’s core personal consumption expenditures (PCE) price index, which is considered the Federal Reserve’s preferred measure of inflation, helped boost market sentiment. The index rose 2.8% for the 12 months ended in January, in line with expectations, alleviating concerns raised by the Labor Department’s consumer price index, which showed higher-than-expected core prices. Despite the positive reaction in the stock market, Federal Reserve policymakers maintained their stance of not rushing to cut interest rates.
@@ -125,4 +126,23 @@ The yield on the 10-year Treasury note reached its lowest level in weeks, reflec
 In the investment-grade corporate bond market, spreads widened due to heavy supply, as February saw a record-breaking amount of new issuance. High yield market trading activity was subdued early in the week but tightened credit spreads following the release of the core PCE price data.
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
+</x-accordion>
+
+<x-accordion summary="Week of 07/06/2024">
+
+_Written by Dacian Deng_
+
+### US: 
+The U.S. market experienced mixed results as longer-term bond yields fell. The S&P 500 and Nasdaq Composite reached record highs, while smaller-cap indexes pulled back. Growth stocks outperformed value shares due to falling interest rates. However, the artificial intelligence (AI) sector saw some slowdown as U.S. officials slowed the issuance of licenses for AI chip sales to the Middle East and opened antitrust investigations into Microsoft and NVIDIA.
+
+The major indexes had varied performances for the week, with the DJIA up 2.94%, S&P 500 up 12.10%, Nasdaq Composite up 14.13%, S&P MidCap 400 down 5.00%, and Russell 2000 down slightly by 0.03% year-to-date.
+
+### China:
+Despite positive data indicating a potential recovery in the property sector, stocks in China experienced a decline. The Shanghai Composite Index dropped 1.15%, while the CSI 300 Index fell by 0.16%. In contrast, Hong Kong's Hang Seng Index rose 1.59%.
+
+In economic news, the private Caixin/S&P Global survey showed a slight improvement in manufacturing activity, with a reading of 51.7 in May compared to 51.4 in April, indicating the seventh consecutive month of expansion. The Caixin services purchasing managers' index also exceeded expectations, reaching 54 in May, up from 52.5 in April. This private survey focused on smaller and export-oriented firms, contrasting with official data from the previous week, which showed an unexpected contraction in manufacturing activity in May.
+
+Source:
+1. [https://finance.yahoo.com/]
+2. [https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html]
 </x-accordion>
