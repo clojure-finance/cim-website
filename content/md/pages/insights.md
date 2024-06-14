@@ -30,7 +30,6 @@ Sources:
 
 _Written by Erika Lau, 12/3/2024_
 
-
 Founded in 2017, Yatsen Holding Limited (NYSE: YSG) is a leading China-based beauty group. It operates various skincare and color cosmetics brands, including Galénic, DR.WU, Eve Lom, and Perfect Diary. Yatsen focuses on providing high-quality beauty products to consumers in China and internationally.
 
 As of March 7th, 6:52 pm GMT, the stock price of YSG is $0.51 USD, reflecting a month-on-month decline of 18.9% and a year-on-year decline of 31.8%.
@@ -46,5 +45,24 @@ Source:
 2. [Yatsen Announces Fourth Quarter and Full Year 2023 Financial Results](https://www.prnewswire.com/news-releases/yatsen-announces-fourth-quarter-and-full-year-2023-financial-results-302081184.html)
 3. [Yatsen Global - Warburg Pincus](https://warburgpincus.com/investments/yatsen-global/)
 4. [Yatsen Global - News Release](https://ir.yatsenglobal.com/2021-03-02-Yatsen-to-Acquire-Prestige-Skincare-Brand-Eve-Lom)
+
+</x-accordion>
+
+<x-accordion summary="AI, Consumer Staples, Interest Rates & Fixed Income, and Geographical Diversification">
+
+_Written by Jonathan Chen, 14/6/2024_
+
+U.S. Equities and AI: The technology sector, particularly companies involved in artificial intelligence (AI), remains a strong investment theme. The market has shown robust earnings growth expectations, with the tech sector expected to account for a significant portion of this growth. Companies like Nvidia, which has seen significant gains, are at the forefront. This trend is expected to continue as AI adoption broadens across various sectors
+
+Consumer Staples: In an environment of persistent inflation, consumer staples stocks are seen as relatively resilient. These companies, which sell essential goods like food and basic consumer products, tend to perform well even when consumers cut back on non-essential purchases. Some of the top-performing consumer staples stocks include Costco, Walmart, and Procter & Gamble
+
+Interest Rates and Fixed Income: Central banks, including the Federal Reserve, have signaled potential rate cuts in the near future. This pivot could provide a favorable environment for bonds, particularly short-term bonds, as interest rates gradually decline. Investors may want to consider diversifying their fixed-income portfolios to include a mix of short- and intermediate-term bonds to mitigate reinvestment risk and capitalize on the potential for lower yields
+
+Geographical Diversification: Beyond the U.S., Japan's stock market is gaining attention due to solid corporate earnings, favorable monetary policy, and economic reforms. Emerging markets like India and Mexico also present opportunities due to their growth potential and strategic positioning in global supply chains
+
+Source:
+1. [https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/stock-market-weekly-update]
+2. [https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/outlook]
+3. [https://www.nerdwallet.com/article/investing/stock-market-outlook]
 
 </x-accordion>
