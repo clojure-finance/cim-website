@@ -27,7 +27,7 @@
 <div class="grid-item">
         
 ## 
-### Sharp ratio
+### Sharpe Ratio
 
 </div>
 
