@@ -6,6 +6,25 @@
 
 ## Headlines
 
+<x-accordion summary="Week of 07/06/2024">
+
+_Written by Dacian Deng_
+
+### US: 
+The U.S. market experienced mixed results as longer-term bond yields fell. The S&P 500 and Nasdaq Composite reached record highs, while smaller-cap indexes pulled back. Growth stocks outperformed value shares due to falling interest rates. However, the artificial intelligence (AI) sector saw some slowdown as U.S. officials slowed the issuance of licenses for AI chip sales to the Middle East and opened antitrust investigations into Microsoft and NVIDIA.
+
+The major indexes had varied performances for the week, with the DJIA up 2.94%, S&P 500 up 12.10%, Nasdaq Composite up 14.13%, S&P MidCap 400 down 5.00%, and Russell 2000 down slightly by 0.03% year-to-date.
+
+### China:
+Despite positive data indicating a potential recovery in the property sector, stocks in China experienced a decline. The Shanghai Composite Index dropped 1.15%, while the CSI 300 Index fell by 0.16%. In contrast, Hong Kong's Hang Seng Index rose 1.59%.
+
+In economic news, the private Caixin/S&P Global survey showed a slight improvement in manufacturing activity, with a reading of 51.7 in May compared to 51.4 in April, indicating the seventh consecutive month of expansion. The Caixin services purchasing managers' index also exceeded expectations, reaching 54 in May, up from 52.5 in April. This private survey focused on smaller and export-oriented firms, contrasting with official data from the previous week, which showed an unexpected contraction in manufacturing activity in May.
+
+Source:
+1. [https://finance.yahoo.com/]
+2. [https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html]
+</x-accordion>
+
 <x-accordion summary="Week of 10/05/2024">
 
 _Written by Erika Lau_
@@ -126,23 +145,4 @@ The yield on the 10-year Treasury note reached its lowest level in weeks, reflec
 In the investment-grade corporate bond market, spreads widened due to heavy supply, as February saw a record-breaking amount of new issuance. High yield market trading activity was subdued early in the week but tightened credit spreads following the release of the core PCE price data.
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
-</x-accordion>
-
-<x-accordion summary="Week of 07/06/2024">
-
-_Written by Dacian Deng_
-
-### US: 
-The U.S. market experienced mixed results as longer-term bond yields fell. The S&P 500 and Nasdaq Composite reached record highs, while smaller-cap indexes pulled back. Growth stocks outperformed value shares due to falling interest rates. However, the artificial intelligence (AI) sector saw some slowdown as U.S. officials slowed the issuance of licenses for AI chip sales to the Middle East and opened antitrust investigations into Microsoft and NVIDIA.
-
-The major indexes had varied performances for the week, with the DJIA up 2.94%, S&P 500 up 12.10%, Nasdaq Composite up 14.13%, S&P MidCap 400 down 5.00%, and Russell 2000 down slightly by 0.03% year-to-date.
-
-### China:
-Despite positive data indicating a potential recovery in the property sector, stocks in China experienced a decline. The Shanghai Composite Index dropped 1.15%, while the CSI 300 Index fell by 0.16%. In contrast, Hong Kong's Hang Seng Index rose 1.59%.
-
-In economic news, the private Caixin/S&P Global survey showed a slight improvement in manufacturing activity, with a reading of 51.7 in May compared to 51.4 in April, indicating the seventh consecutive month of expansion. The Caixin services purchasing managers' index also exceeded expectations, reaching 54 in May, up from 52.5 in April. This private survey focused on smaller and export-oriented firms, contrasting with official data from the previous week, which showed an unexpected contraction in manufacturing activity in May.
-
-Source:
-1. [https://finance.yahoo.com/]
-2. [https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html]
 </x-accordion>
