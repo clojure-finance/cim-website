@@ -72,7 +72,7 @@ The major indexes had varied performances for the week, with the DJIA up 2.94%, 
 ### China:
 Despite positive data indicating a potential recovery in the property sector, stocks in China experienced a decline. The Shanghai Composite Index dropped 1.15%, while the CSI 300 Index fell by 0.16%. In contrast, Hong Kong's Hang Seng Index rose 1.59%.
 
-In economic news, the private Caixin/S&P Global survey showed a slight improvement in manufacturing activity, with a reading of 51.7 in May compared to 51.4 in April, indicating the seventh consecutive month of expansion. The Caixin services purchasing managers' index also exceeded expectations, reaching 54 in May, up from 52.5 in April. This private survey focused on smaller and export-oriented firms, contrasting with official data from the previous week, which showed an unexpected contraction in manufacturing activity in May.
+In economic news, the private Caixin/S&P Global survey showed a slight improvement in manufacturing activity, with a reading of 51.7 in May compared to 51.4 in April, indicating the seventh consecutive month of expansion. The Caixin services purchasing managers' index also exceeded expectations, reaching 54 in May, up from 52.5 in April. This private survey focused on smaller and export-oriented firms, adding to official data from the previous week, which showed an unexpected contraction in manufacturing activity in May.
 
 Source:
 1. [https://finance.yahoo.com/]
