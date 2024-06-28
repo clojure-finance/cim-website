@@ -6,6 +6,60 @@
 
 ## Headlines
 
+<x-accordion summary="Week of 28/06/2024">
+
+_Written by Xia Yunchu_
+
+### US:
+Labor Market Recovery: The US economy added 559,000 jobs in June 2024, beating expectations. The unemployment rate declined to 3.8%, signaling a robust labor market recovery. However, wage growth remains moderate, and some sectors face labor shortages.
+Consumer Slowdown: Recent data shows a slowdown in US retail sales. Consumers are becoming cautious due to rising inflation, supply chain disruptions, and uncertainties related to the pandemic. This trend could impact economic recovery and corporate profits.
+
+### Eurozone:
+Fiscal Challenges: The Eurozone faces fiscal challenges stemming from an aging population. As birth rates decline, the proportion of elderly citizens increases. This puts pressure on pension systems and healthcare budgets. Policymakers must find sustainable solutions to support retirees and maintain economic stability. 
+Tight Labor Market: Despite demographic challenges, the Eurozone's labor market remains tight. Skill shortages persist in certain sectors, leading to wage pressures and potential productivity bottlenecks.
+
+### Asia-Pacific (APAC):
+Inflation Insights: Japan and the United Kingdom are experiencing easing underlying inflation. This suggests that supply chain disruptions and energy price spikes may be temporary. However, central banks remain vigilant, closely monitoring inflation data to guide monetary policy decisions.
+Global Markets Monitor: APAC markets are closely watching upcoming elections (such as India's state elections) and inflation data. Investors are also awaiting Friday's release of the US Personal Consumption Expenditures (PCE) inflation index, which could impact the Federal Reserve's interest rate trajectory.
+
+</x-accordion>
+
+<x-accordion summary="Week of 14/06/2024">
+
+_Written by Erika Lau_
+
+### US:
+As of Friday close: S&P500: 5432 (+1.6%) ; NADQ Comp: 17688 (+3.2%) ; S&P mid-cap 400: 2895 (-0.8%) ; Russell2000: 2006 (-0.01%)
+S&P500 and NADQ touched new highs pushed by AI enthusiasm and technology-related stocks, while small and mid-cap underperformed over the week. Core inflation fell to 3.4%, the lowest since April 2021. The Producer Price Index (PPI) inflation, which was announced on Thursday, came as a surprise by declining 0.2%, contrary to expectations of a slight increase. Furthermore, on a year-over-year basis, the core PPI decreased to 2.3%, putting an end to five consecutive months of growth. In a related trend, import prices also experienced a decline of 0.4% in May, marking their first decrease in four months.
+10-year treasury yield decreased from 4.43% to 4.21% after higher-than-expected jobless claims built inflation pressure.
+IG corporate bond market was quiet over the week as investors awaited inflation release and Fed’s meeting.
+
+### Japan:
+In Japan, the stock markets had a mixed performance for the week, with the Nikkei 225 Index gaining 0.3% while the broader TOPIX Index declined by 0.3%. The Bank of Japan’s (BoJ) June meeting had a dovish tone, which supported the equity market.
+In the fixed income markets, the yield on the 10-year Japanese government bond (JGB) decreased to 0.93% from 0.98% the previous week. The Japanese yen, already at historically low levels, weakened further against the US dollar, with the exchange rate reaching around JPY 157.5 from 156.6.
+
+### China:
+Chinese equities faced a decline during a short week, reflecting ongoing deflationary pressures impacting the economy. The Shanghai Composite Index dropped by 0.61%, while the blue chip CSI 300 decreased by 0.91%. In Hong Kong, the Hang Seng Index fell by 2.31% according to FactSet. Chinese markets were closed on Monday for the Dragon Boat Festival.
+China’s consumer price index showed a modest increase of 0.3% in May compared to the previous year, matching April’s rise. Core inflation, which excludes volatile food and energy prices, grew by 0.6%, slowing down from April’s 0.7% increase. On the other hand, the producer price index experienced a 1.4% decline compared to the previous year, marking its 20th consecutive month of decline. However, this decline was less severe than the 2.5% drop seen in April. Despite Beijing’s efforts to stimulate the economy and stabilize the markets, weak consumer confidence and a prolonged slump in the property sector have kept prices in China under pressure.
+
+### Economic Calendar:
+JP 1Q GDP: -0.5%, meet est. of -0.5%, down from prev. 0.1%
+JP Interest rate: 0.1%, meet est. of 0.1%, same as prev.
+UK GDP MoM: 0%, meet est. of 0%, down from prev. 0.4%
+US Core CPI MoM: 0.2%, miss est. of 0.3%, same as prev.
+US PPI MoM: -0.2%, miss est. of 0.1%, down from prev. 0.1%
+US Crude Oil Inventories 3.7M, beat est. of -1.2M, up from prev. 1.2M
+US Interest rate: 5.5%, meet est. of 5.5%, same as prev.
+US Initial jobless claims: 242K, miss est. of 225K, up from prev. 229K
+
+
+Source:
+1. [https://finance.yahoo.com/]
+2. [https://www.investing.com/]
+3. [https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html]
+</x-accordion>
+
+
 <x-accordion summary="Week of 07/06/2024">
 
 _Written by Dacian Deng_
