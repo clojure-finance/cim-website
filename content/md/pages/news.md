@@ -6,6 +6,97 @@
 
 ## Headlines
 
+<x-accordion summary="Week of 25/07/2024">
+
+_Written by Kayla Tarliman_
+
+### US:
+
+#### Market Movements:
+Last week saw significant fluctuations in US stocks. An early-week rally propelled markets to new highs, but the momentum faded towards the end of the week, primarily due to a downturn in the tech sector. The major indices ended mixed: the S&P 500 and Nasdaq closed lower, while the Dow posted a solid gain.
+
+#### Interest Rates and Earnings:
+Both stock prices and interest rates had been rising together earlier in 2024. However, recently, interest rates have declined significantly due to moderating inflation and anticipated Fed rate cuts. Despite this, equities continue their uptrend, bolstered by rising corporate earnings.
+
+#### Sector Rotation:
+A key theme last week was the rotation in market leadership. The tech sector experienced a pullback, while cyclical sectors, which had lagged this year, gained traction. This shift was highlighted by a robust rally in small-cap stocks. Such changes underscore the importance of maintaining a diversified and balanced investment portfolio.
+
+#### Tech Sector Selloff:
+A sharp selloff in high-flying tech stocks led to the S&P 500 experiencing its worst day since December 2022. The index fell 2.3% on Wednesday, breaking a 356-session streak without a 2% decline, its longest streak in 17 years. This came after the index had risen significantly above its 200-day moving average the previous week, a level historically associated with past selloffs.
+
+### Europe:
+
+#### Market Performance:
+European stocks are set to open lower on Thursday following significant losses in US stocks overnight, driven by steep declines in the tech sector. European markets extended their losses on Friday, marking the longest losing streak since October 2023. A tech outage caused by defective CrowdStrike software disrupted Microsoft’s Azure and Office365 services, affecting various sectors globally.
+
+#### Index Performance:
+By mid-morning CET, the Euro STOXX 50 had fallen 0.5%, and the Euro STOXX 600 was down 0.6%, marking the fifth consecutive session of losses. Major country indices were all in negative territory, with Germany’s DAX down 0.8%, Italy’s FTSE MIB down 0.7%, France’s CAC 40 down 0.7%, and Spain’s Ibex 35 down 0.3%.
+
+#### Travel and Shipping Disruptions:
+Travel and shipping sectors were hit hard by the tech outage. Air France-KLM’s Dutch arm halted most operations, leading to a 1.1% drop in its shares. Lufthansa Group shares fell 1.5% amid warnings of potential delays and cancellations. Similarly, low-cost carriers Ryanair and Wizz Air experienced significant check-in system failures, causing shares to drop by 2.9% and 2.1%, respectively.
+
+#### Banking Sector Impact:
+European banks also recorded losses, though less severe than those in the travel and shipping sectors. French banks BNP Paribas, Societe Generale, and Credit Agricole saw declines, as did Spanish banks Banco Santander, BBVA, and Bankinter. In Germany, Deutsche Bank shares fell by 1.5%, marking their tenth negative session in the last eleven.
+
+#### Bonds and Currency:
+In the bond market, yields held steady, with Bund yields down marginally by 1 basis point to 2.43%. The euro eased by 0.1% against the dollar, falling to 1.0880, while the British pound was down 0.3% to 1.2910.
+
+#### CrowdStrike Fallout:
+CrowdStrike Holdings plummeted over 20% in pre-market trading after an update to its cloud platform caused disruptions to Microsoft’s Azure systems. This marked CrowdStrike's worst daily performance since its IPO in 2019. Meanwhile, competitors like SentinelOne, Palo Alto Networks, and Cloudflare saw gains.
+
+### Asia-Pacific (APAC):
+
+#### Chinese Markets:
+Chinese shares ended lower due to muted investor sentiment. The Shanghai Composite Index fell 0.5%, the Shenzhen Composite Index declined 1.3%, and the ChiNext Price Index dropped 1.2%. Property and auto stocks led the losses, with limited expectations for property stimulus measures from the upcoming Politburo meeting.
+
+#### Hong Kong:
+Hong Kong shares also ended lower, weighed down by technology stocks. The Hang Seng Index fell 0.9%, and the Hang Seng Tech Index declined 1.5%. Major decliners included Meituan and Xiaomi, while gainers included China Resources Power and Cnooc.
+
+#### Japan:
+Japanese stocks ended lower amid cautious sentiment over potential Bank of Japan rate increases and a rebounding yen. The Nikkei Stock Average declined 1.1%, with notable drops in Mitsubishi Motors, Isuzu Motors, and Sumitomo Realty & Development.
+
+#### India:
+Indian shares closed lower, impacted by finance and bank stocks amid concerns over the budget plan and proposed higher capital gains taxes. The benchmark Sensex declined 0.35%, though Tech Mahindra and Tata Motors saw gains.
+
+#### Broader APAC Trends:
+Asian shares were hit hard on Thursday as a global tech slump sent investors fleeing to safer assets like short-dated bonds, the yen, and the Swiss franc. Chinese stocks received little support despite a surprise rate cut by the central bank. MSCI's broadest index of Asia-Pacific shares outside Japan lost 0.7%, with Japan's Nikkei tumbling 2.9% and South Korea's KOSPI dropping 2%.
+
+Sources:
+1. [https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-asia-slip-tracking-us-tech-led-declines/articleshow/112001022.cms](https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-asia-slip-tracking-us-tech-led-declines/articleshow/112001022.cms)
+2. [https://au.investing.com/news/stock-market-news/global-market-update-apac-shares-retreat-following-us-tech-selloff-3357930](https://au.investing.com/news/stock-market-news/global-market-update-apac-shares-retreat-following-us-tech-selloff-3357930)
+3. [https://www.euronews.com/business/2024/07/19/european-stocks-extend-losing-streak-as-global-tech-outage-disrupts-key-sectors](https://www.euronews.com/business/2024/07/19/european-stocks-extend-losing-streak-as-global-tech-outage-disrupts-key-sectors)
+4. [https://www.rttnews.com/3462557/european-shares-set-for-lower-open.aspx?type=eucom](https://www.rttnews.com/3462557/european-shares-set-for-lower-open.aspx?type=eucom)
+5. [https://www.reuters.com/markets/us/](https://www.reuters.com/markets/us/)
+6. [https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/stock-market-weekly-update](https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/stock-market-weekly-update)
+</x-accordion>
+
+<x-accordion summary="Week of 07/07/2024">
+
+### US:
+The S&P 500 Index continued to climb to record highs, although the market’s gains remained notably narrow. As measured by Russell 1000 indexes, growth shares outperformed value stocks by 415 basis points (4.15 percentage points), while the small- and mid-cap benchmarks recorded losses.
+
+The technology-heavy Nasdaq Composite ended the week 73.71% off its lows since the market began its rebound in mid- to late-2022, while the more value-oriented and narrowly focused Dow Jones Industrial Average had gained less than half of that amount, 32.79%. Markets were closed Thursday in observance of the Independence Day holiday, and T. Rowe Price traders noted lighter trading volumes as the week progressed.
+
+Expectations for lower interest rates, fed by signs of weakening growth and easing inflation pressures, seemed to remain a major factor in favoring growth stocks by placing a lower implied discount on future earnings. On Monday, the Institute for Supply Management (ISM) posted its lowest reading of manufacturing activity (48.5, with levels below 50.0 indicating contraction) since February. A separate reading also showed a surprise contraction in construction activity.
+
+While the thought of a slowing economy and a potential recession can be concerning, it is important to remember that they are a natural part of every economic cycle and set the stage for the next growth phase. Fortunately, with the slow unwinding of inflation over the past two years, the Fed should have more room to cut rates, which we believe will shorten the length and severity of a potential recession and help contain the slowdown.
+
+### Europe:
+In local currency terms, the pan-European STOXX Europe 600 Index ended 1.01% higher. Political jitters eased as the far right in France failed to win an outright majority in the first round of legislative elections on June 30. Meanwhile, the Labour Party won the UK general election on July 4 with a large majority. Major stock indexes also rose, with France’s CAC 40 Index climbing 2.62%, Germany’s DAX gaining 1.32%, and Italy’s FTSE MIB putting on 2.51%. The UK’s FTSE 100 Index added 0.49%.
+
+A final estimate of eurozone inflation confirmed that the year-over-year change in consumer prices ticked lower in June to 2.5%. However, a crucial services component remained stubbornly high, likely reinforcing the ECB’s case for caution.
+
+### APAC:
+Japan’s stock markets gained ground, with the Nikkei 225 Index climbing 3.36% and the broader TOPIX Index advancing 2.65% in local currency terms. Both indexes hit all-time highs during the week, propelled in part by weakness in the Japanese yen, which is typically a tailwind for export-focused industries. The yen strengthened a bit later in the week. In the first three months of the year, Japan’s economy shrank by 2.9% year over year, a sharper contraction than the first estimate that put the decline in gross domestic product (GDP) at 1.8%. The government attributed this revision to corrections in construction orders. The annualized change in GDP was also lowered for the fourth and third quarters of 2023.
+
+Chinese equities fell as underwhelming manufacturing data reinforced concerns about the slowing economy. The Shanghai Composite Index and the blue chip CSI 300 both registered modest losses for the week. In Hong Kong, the benchmark Hang Seng Index gained 0.46% during a holiday-shortened week.
+
+The value of new home sales by the country’s top 100 developers fell 17% in June from the prior-year period, easing from a 34% decline in May, according to the China Real Estate Information Corp. The data boosted hopes that China’s housing market, now in its fourth year of a downturn, may start to gain traction after the government announced a sweeping rescue package in May. China's manufacturing sector shrank in June for the second consecutive month, government data showed. The official manufacturing purchasing managers’ index (PMI) reached 49.5 in June, unchanged from May, as new orders and exports declined. The data reflected the uneven performance of China’s economy this year amid a yearslong property slump that has hit domestic consumption and rising trade tensions that threaten the manufacturing sector.
+
+Sources:
+1. [https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html](https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html)
+</x-accordion>
+
 <x-accordion summary="Week of 28/06/2024">
 
 _Written by Xia Yunchu_
@@ -21,7 +112,6 @@ Tight Labor Market: Despite demographic challenges, the Eurozone's labor market 
 ### Asia-Pacific (APAC):
 Inflation Insights: Japan and the United Kingdom are experiencing easing underlying inflation. This suggests that supply chain disruptions and energy price spikes may be temporary. However, central banks remain vigilant, closely monitoring inflation data to guide monetary policy decisions.
 Global Markets Monitor: APAC markets are closely watching upcoming elections (such as India's state elections) and inflation data. Investors are also awaiting Friday's release of the US Personal Consumption Expenditures (PCE) inflation index, which could impact the Federal Reserve's interest rate trajectory.
-
 </x-accordion>
 
 <x-accordion summary="Week of 14/06/2024">
@@ -53,12 +143,11 @@ US Interest rate: 5.5%, meet est. of 5.5%, same as prev.
 US Initial jobless claims: 242K, miss est. of 225K, up from prev. 229K
 
 
-Source:
-1. [https://finance.yahoo.com/]
-2. [https://www.investing.com/]
-3. [https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html]
+Sources:
+1. [https://finance.yahoo.com/](https://finance.yahoo.com/)
+2. [https://www.investing.com/](https://www.investing.com/)
+3. [https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html](https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html)
 </x-accordion>
-
 
 <x-accordion summary="Week of 07/06/2024">
 
@@ -75,8 +164,8 @@ Despite positive data indicating a potential recovery in the property sector, st
 In economic news, the private Caixin/S&P Global survey showed a slight improvement in manufacturing activity, with a reading of 51.7 in May compared to 51.4 in April, indicating the seventh consecutive month of expansion. The Caixin services purchasing managers' index also exceeded expectations, reaching 54 in May, up from 52.5 in April. This private survey focused on smaller and export-oriented firms, adding to official data from the previous week, which showed an unexpected contraction in manufacturing activity in May.
 
 Source:
-1. [https://finance.yahoo.com/]
-2. [https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html]
+1. [https://finance.yahoo.com/](https://finance.yahoo.com/)
+2. [https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html](https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html)
 </x-accordion>
 
 <x-accordion summary="Week of 10/05/2024">
