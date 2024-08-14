@@ -4,13 +4,17 @@
 
 This is the website for Center of Investment Management.
 
-## To run
+## To run/build
 
 ```
 ~$ clojure -X:serve
 ```
 
-Then access `localhost:3000`
+Then access `localhost:3000/Dummy-Website-Test/index.html`
+
+## Importants
+
+After building the webpage, copy the `.htaccess` file under `/public/` to `/public/Dummy-Website-Test/` to disable caching.
 
 ## Useful materials
 
@@ -65,9 +69,11 @@ Using `katex` to render LaTeX, simply put the paragraph(s) in the element `<kate
 
 **Note**: Due to how cryogen handles superscripts during compilation of markdown files, it will compile any `^` into the `<sup>` tags, resulting in the buggy rendering of latex (`$a^b$` becomes `<p>$a<sup>b</sup>$</p>`). A workaround is to escape any superscripts, if all the files onl contain latex, run the `latex.py` file first, which converts any `^` in `<katex-container>` into `\^`. If any markdown files needs to be ignored when running `latex.py`, include it in the `EXCLUDE` list. Smarter handling script will be added in the future. Hence, when editing `md` files in vscode, the normal functionality of `\^` will be replaced by `\hatxtd`, and `^` will function the same way as `\^`, see `.vscode/settings.json` for more info.
 
-### Dates and Authors for Pages
+### More metadata for pages
 
-Specify the date and author of a page with `:date` and `:last-edited-by` in the metadata for the page. Dates should be in the format of `YYYY-MM-DD`. 
+- Specify the date and author of a page with `:date` and `:last-edited-by` in the metadata for the page. Dates should be in the format of `YYYY-MM-DD`. 
+- `:navbar-name` to specify the name that will be on the navbar, which can be different to the title
+- `:notitle` to disable titles
 
 ### Styling
 
@@ -87,12 +93,3 @@ You can go beyond capabilities of markdown by including **raw** html in the mark
 <iframe width="640" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
 ```
 in the markdown file to render the video
-
-#### Also include (for docs but im a bit lazy so i'll add later)
-
-- `:navbar-name`
-- `:notitle`
-- `:last`
-- `:last-edited-by`
-- `:link`
-- `<x-accordion>`
