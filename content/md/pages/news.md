@@ -6,6 +6,25 @@
 
 ## Headlines
 
+<x-accordion summary="Week of 30/08/2024">
+
+_Written by Erika Lau_
+
+### US:
+Stocks ended mixed in light pre-holiday trading with the Nasdaq Composite performing the worst due to NVIDIA's decline of more than 10%.
+CPE raise by 0.2% in July, largely as expected, although the year-over-year increase came in a tick lower than consensus, at 2.6%. Investors seemed pleased with confirmation that inflation was remaining subdued and near the Fed’s target, with Nasdaq futures, in particular, surging in the wake of the release.
+Personal incomes had increased an unexpected 0.3% in July, up from June’s 0.2%. Personal spending rose even more, 0.5%, although the gain was in line with consensus.
+The yield on the benchmark 10-year U.S. Treasury note drifted higher over the week, as hopes appeared to dim that the Federal Reserve would cut interest rates by a full 50 basis points (0.50 percentage point) at its mid-September meeting.
+
+### Europe:
+European stock indexes rose, with STOXX Europe 600 reaching a record high amidst prospects of ECB interest rate cuts. The pan-European STOXX Europe 600 Index surged by 1.34%, reaching an all-time high. This key indicator continued its upward trend for the fourth consecutive week as significantly slower inflation provided grounds for the European Central Bank (ECB) to consider reducing interest rates in September.
+Inflation has approached its target level, with headline annual inflation dropping to 2.2% in August from 2.6% in July—the lowest figure in three years and slightly above the ECB's 2% goal.
+
+### China:
+The Shanghai Composite Index is down for 0.43% while HSI is up for 2.17% after mixed corporate earnings data.
+Investor downgraded their expectations on some of the key economic data such as Retail Sales, from 4.5% to 4.0%, Fixed Asset Invesment, from 4.4% to 4.2% and Consumer Price Index, from 0.6% to 0.5%. Given the above slowdown in growth, China might not be able to meet it’s GDP target of 5% this year.
+In terms of monetary policy, the medium-term lending facilities remains the same at 2.3% while the short term 7 day repo lending rate remains at 1.7%.
+
 <x-accordion summary="Week of 25/07/2024">
 
 _Written by Kayla Tarliman_
