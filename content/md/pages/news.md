@@ -24,6 +24,7 @@ Inflation has approached its target level, with headline annual inflation droppi
 The Shanghai Composite Index is down for 0.43% while HSI is up for 2.17% after mixed corporate earnings data.
 Investor downgraded their expectations on some of the key economic data such as Retail Sales, from 4.5% to 4.0%, Fixed Asset Invesment, from 4.4% to 4.2% and Consumer Price Index, from 0.6% to 0.5%. Given the above slowdown in growth, China might not be able to meet it’s GDP target of 5% this year.
 In terms of monetary policy, the medium-term lending facilities remains the same at 2.3% while the short term 7 day repo lending rate remains at 1.7%.
+</x-accordion>
 
 <x-accordion summary="Week of 25/07/2024">
 
