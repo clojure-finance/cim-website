@@ -6,6 +6,144 @@
 
 ## Headlines
 
+<x-accordion summary="Week of 18/10/2024">
+ 
+_Written by Erika Lau_
+
+### US Macro
+Positive bank and tech earnings over the past week saw Wall Street indexes hit a series of record highs, with upcoming earnings likely to decide whether this momentum will continue.
+The S&P 500 rose 0.4% to 5,864.67 points on Friday, while the NASDAQ Composite rose 0.6% to 18,489.67 points. The Dow Jones Industrial Average edged up 0.1% but just managed to hit a record high of 43,257.91 points.
+U.S. retail sales increased 0.4% last month vs est. 0.3% vs prev. 0.1%. A measure of retail sales that excludes auto dealerships, building materials, food services, and gas stations climbed 0.7% from the prior month—the fastest rate of growth in three months.
+Industrial production dropped 0.3% in September after increasing 0.3% in the preceding month. The final number for August was revised downward from an initial estimate of 0.8%.
+Initial jobless claims fell unexpectedly to 241,000.
+
+### US Sector News 
+Energy stocks pulled back in sympathy with oil prices, which retreated as fears of possible Israeli attacks on Iran’s oil and gas infrastructure subsided.
+Strategist at Bank of America, pointed out that in view of the increased possibility of Trump being elected and the Republican Party taking control of Congress, investors have begun to increase their positions in assets that performed well after Trump won in 2016, including banks, small stocks and the U.S. dollar.
+
+### US Single Stock
+Netflix NFLX was up 11% on Friday after reporting to have grew its subscriber numbers and expanded its operating margins by more than expected in the third quarter.
+Strong quarterly results from Taiwan Semiconductor Manufacturing TSM, which operates foundries that make advanced digital semiconductors, appeared to reignite excitement for artificial intelligence (AI)-related stocks that are in the Nasdaq.
+This week:
+TSLA is the biggest company to report earnings this Wed, after another EV maker GM on Tue.
+Major chips stocks TXN (Tue) LRCX (Wed) and WDC (Thu) are also set to report.
+Boarder tech sector IBM due on Wed.
+Telecom majors VZ (Tue), TMUS (Wed) and T (Wed) are also due.
+Consumer names LRLCY (Tue), MMM (Tue), KO (Wed)
+
+### CN/HK Macro
+Chinese equities rose as the central bank unveiled more support measures after data showed that deflationary pressures grew more entrenched in the economy. The Shanghai Composite Index gained 1.36% in local currency terms, while the blue chip CSI 300 added 0.98%. HSI Index fell 2.11%.
+GDP reported to be at 4.6% higher than consensus, though lower than Q2 at 4.7% and government’s target at 5%.
+Other economic data showed signs of improvement. Industrial production rose a better-than-expected 5.4% yoy vs prev. +4.5%. Retail sales grew an above-forecast 3.2 yoy vs prev. +2.1%. Higher sales ofhousehold appliances were a contributing factor. Meanwhile, PPI fell a bigger-than-expected 2.8% from a year ago, deepening from August’s 1.8% drop.
+
+### TW News
+TAIEX were up 2.3% driven up by TSMC (2330) positive earnings report on Friday. Net revenue came in at $23.5 billion in the third quarter, up 36% year on year.
+The starting price of Vivo’s latest “X200” series equipped with MediaTek’s (2454) new flagship 5G chip “Dimensity 9400" is 7.5% higher than market expectations. The industry believes that it is related to the substantial increase in the unit price of MediaTek’s Dimensity 9400, which is expected to trigger subsequent more non-Apple brands followed up with price increases, benefiting the share price ofMediaTek.
+</x-accordion>
+
+<x-accordion summary="Week of 11/10/2024">
+ 
+_Written by Erika Lau_
+
+### US Macro
+S&P 500 ended higher over the week driven by upside earning surprise despite disappointing economic data.
+Markets were pricing a roughly 18% chance the Fed doesn’t cut in November, up from a 3% chance seen a week prior, per the CME FedWatch Tool. Thursday released headline and core (less food and energy) inflation, which rose in September by 0.2% and 0.3%, respectively, both a tick above expectations. There was also a surprising jump in weekly jobless claims to 258,000, the highest level in 14 months.
+Long-term bond yields also rose in the wake of the inflation data, with the yield on the benchmark 10-year U.S. Treasury note hitting its highest intraday level (4.12%) since July 31. The investment-grade corporate bond market remained also mostly oversubscribed.
+Focus this week is now on addresses from a string of Fed officials, which are likely to provide more cues on the central bank’s plans to cut interest rates further.
+
+### US Single Stock
+JPM and WF rose on Friday after the banking giants reported smaller-than-feared declines in third-quarter profits.
+NVIDIA raised following reports that the Justice Department was considering asking a federal judge to order a breakup of the company.
+TSLA weakened after the disappointing unveiling of its new “robotaxis” and “robovans.”
+Upcoming earnings report this week:
+JNJ, BAC, C, GS, UAL set to report on Tuesday.
+MS will report on Wednesday, rounding out the major bank earnings.
+Chipmaking bellwether also reports on Wednesday.
+NFLX will report on Thursday.
+
+### CN/HK Macro News
+Shanghai Composite Index lost 3.56%, CSI300 -3.25% and HIS -6.53%, pulling back from the peak in the week before after optimism of the policy boost faded.
+The People’s Bank of China initiated a swap facility worth RMB 500 billion to inject liquidity into institutional investors for stock purchases. This program allows nonbank financial entities like securities firms, funds, and insurers to access highly liquid assets such as government bonds and central bank bills by providing specific collateral. This move was a part of an extensive stimulus plan unveiled by the central bank in late September, which encompassed interest rate reductions and other strategies aimed at revitalizing China’s economy.
+Spending by Chinese consumers during the recent extended holiday fell short of pre-pandemic levels. Official data revealed a 5.9% rise in passenger traffic and a 6.3% increase in spending compared to the previous year. Box office earnings stood at RMB 2.1 billion, a decline from RMB 2.7 billion recorded a year ago. Nevertheless, the average daily expenditure per trip rose to about RMB 131, up from RMB 113 during the five-day Labor Day break in May.
+Earlier this morning, Goldman Sachs raises China’s GDP forecast to 4.9% in 2024.
+
+### CN/HK Sector News
+EV: Guangzhou Automobile Group Co 2238.HK is exploring the manufacture of EVs in Europe to avoid EU tariffs. It will launch an electric SUV tailored to the European market at the Paris Auto Show, kicking off on Monday.
+
+### TW Macro
+TAIEX was up 1.92% following the rally in the US market and over the chip sector. TSMC led the raise for 4.73% while Hon Hai dropped 0.5%.
+
+### TW Sector News
+Semiconductors: TSMC 2330.TW and Largan 3008.TW will jointly hold a meeting on the 17th. TSMC will announce its third-quarter operating results and release its industry outlook.
+With ASML’s financial report will be released the day before TSMC’s legal meeting, investors are concerned about the Dutch government’s expansion of its export controls on two deep ultraviolet exposure machines (DUV) from mainland China, including the 1970i and 1980i.
+Automobile: Tong Yang Industry Co Ltd 1319.TW (+1%) reported 3.934 billion yuan before tax revenue in the first three quarters of last year.
+</x-accordion>
+
+<x-accordion summary="Week of 27/09/2024">
+ 
+_Written by Erika Lau_
+
+### US
+Over the week, S&P 500 moved to record highs, as investors appeared to celebrate new stimulus measures in China. Sector-wise, Chemicals and materials stocks were particularly strong on hopes for a rebound in Chinese demand. Copper prices also increased, raising hopes that “Doctor Copper” was again reflecting a healthier global industrial economy. Technology stocks outperformed as well, helped by reports of a possible takeover of Intel and news that NVIDIA’s CEO had ceased sales of his own shares in the company. In addition, chipmaker Micron Technology surged and seemed to provide a general tailwind for the sector following its upbeat outlook for AI demand.
+Data-wise, Consumer confidence on Tue fell to 98.7, largely missed consenus of 103.9. New home sales on Wed declined 4.7% in August while building permits data were revised lower. PCE on Fri rose only 0.1% in August, a tick below expectations. On a yoy basis, the index climbed only 2.2%, close to the Fed’s 2.0% long-term inflation target and the least since February 2021, suggesting a moderation in inflationary pressures.
+The yield on the benchmark 10-year U.S. Treasury note ended little changed for the week.
+
+### China
+Chinese stocks surged after Beijing unveiled a slew of measures to shore up the economy. The Shanghai Composite Index climbed 12.8%, while the blue chip CSI 300 soared 15.7%. In Hong Kong, the Hang Seng Index gained 13%.
+PBOC cut its RRR by 50 basis points, and reduced its seven-day reverse repo rate by 20 basis points to 1.5%. It cut the MLF rate by 30 basis points to 2%, marking the largest-ever cut to the monetary policy tool since 2016. The moves were part of a sweeping stimulus package announced last Tuesday at a rare press conference by PBOC Governor Pan Gongsheng that aims to jumpstart China’s ailing economy. Other measures unveiled by the PBOC included a rate cut for existing home mortgages and slashing the nationwide down payment ratio for second home purchases to 15% from 25%.
+
+### Japan
+Japan’s stock markets gained over the week, with the Nikkei 225 Index rising 5.6% and the broader TOPIX Index up 3.7%. The latest commentary from the Bank of Japan (BoJ), perceived as dovish, weighed on the yen, providing a favorable backdrop. Optimism also came from China’s stimulus announcements, especially for the exports to China.
+The new Prime Minister was elected to be Shigeru Ishiba on Fri, who has been critical of the Bank of Japan’s easy policies in the past. However, he sounded more conciliatory over the weekend saying monetary policy “must remain accommodative” given the state of the economy. That helped the dollar bounce 0.5% to 142.85 yen, after sliding 1.8% on Friday from a 146.49 top.
+Interest rate - BoJ Governor Kazuo Ueda said that the central bank has enough time to assess market and economic developments before adjusting monetary policy again—suggesting that it is in no rush to raise rates further.
+</x-accordion>
+
+<x-accordion summary="Week of 20/09/2024">
+ 
+_Written by Erika Lau_
+
+### US
+The large-cap indexes moved to record highs as investors celebrated the kickoff of the rate-cutting cycle by a 50 bps cut on Thursday morning. The rally was also relatively broad, with the smaller-cap indexes outperforming, although they remained below previous peaks—the small-cap Russell 2000 Index, in particular, ended the week roughly 9% below the all-time high it established in November 2021.
+The rally is accompanied by good consumer data that ease recession fears. Retail sales on Tue had risen 0.1%, which was more than expected and which followed an upwardly revised jump of 1.1% in July. The downside surprise on jobless claims on Thu provided more evidence for supporting the consumer in good shape. The housing sector also improved by a 4.9% rise in housing permits of August on Wed, although sales of existing homes had unexpectedly fallen 2.5%.
+## Credits
+10 year treasury yield rose. Spreads in the investment-grade corporate bond market tightened throughout the week as higher rates spurred demand early in the week. Issuance occurred early in the week, before the Fed’s policy meeting, and was, on average, oversubscribed.
+## Single stock
+INTC ended the week with an announcement of a potential acquisition with Qualcomm which helped pushed the stock up 11% for the week.
+
+### CN/HK
+Chinese equities rose in a holiday-shortened week as the Fed’s decision to cut interest rates offset a batch of disappointing economic data. The Shanghai Composite Index gained 1.21%, while the blue chip CSI 300 added 1.32%.
+Disappointing foreign direct investment flows on Friday were down 31.5% on the same period last year, the biggest fall since January 2009. Industrial production rose 4.5% from a year earlier, lagging forecasts and down from July’s 5.1% increase amid weaker commodity prices and auto sales. Retail sales expanded a below-consensus 2.1% from a year ago, easing from July’s 2.7% rise.
+The yuan is its strongest in 16 months though, thanks to the central bank’s reluctance to cut rates and rising expectations that authorities will soon unveil stimulus that will revive growth, asset prices and confidence.
+Sector-wise, EU tariffs on Chinese EV makers are revised down. BYD saw tariffs cut to 17% from 17.4%, Geely to 19.3% from 19.9%, and SAIC saw a reduction to 36.3% from 37.6%. Despite the tariffs, analysts say Chinese EV prices will remain competitive in Europe when compared to Chinese-made Tesla. Research by Rhodium group suggests tariffs of up to 50% are needed to significantly deter Chinese EV exports.
+Tech-front, the U.S. Commerce Department is expected on Monday to propose prohibiting Chinese software and hardware in connected and autonomous vehicles on U.S. roads due to national security concerns, sources told Reuters. The proposed regulation would ban the import and sale of vehicles from China with key communications or automated driving system software or hardware. More details await.
+## Single stock
+BYD is expected to expand into Pakistan in partnership with Pakistan’s biggest private electricity producer Hub Power’s subsidiary Mega Motor to set up the country’s first electric vehicle assembly plant by 2026.
+
+### JP
+Japan’s stock markets rose over the week, with the Nikkei 225 Index gaining 3.1% and the broader TOPIX Index up 2.8%.
+The Bank of Japan decided not to raise rates, but it signaled it is in no hurry to raise them again. This helped push the yen to its weakest daily close since September 4, which in turn helped lift Japanese stocks. The yen starts the week on a soft footing after a roller-coaster ride last week. It rallied through 140.00 per dollar for the first time in over a year but closed near 144.00 per dollar for a weekly loss of 2%, its worst week since April.
+Data-wise, core CPI rose 2.8% year on year in August, in line with expectations and up from 2.7% in July. The overall CPI rose 3.0%, also matching consensus and up from the prior month’s 2.8%.
+</x-accordion>
+
+<x-accordion summary="Week of 13/09/2024">
+ 
+_Written by Dacian Deng_
+
+### U.S.
+U.S. stocks rebounded after a sell-off, led by strong gains in growth stocks, particularly in the tech sector, with NVIDIA playing a key role. Inflation data for August was mixed, with core inflation slightly exceeding expectations, while housing sector data offered some hope as mortgage rates hit their lowest level since February 2023. Treasury yields also reached year-to-date lows, with strong performance in high-yield bonds supported by equity gains and expectations of a Federal Reserve rate cut.
+FOMC cut rates by 50 basis points (bps), bringing them to a range of 4.75%-5.0%, but signalled a more gradual pace of rate cuts moving forward. The dot plot suggests further cuts totalling 100bps in both 2024 and 2025, indicating a cautious approach. Chairman Powell emphasized that the economy is not at risk of recession, with the labour market remaining a key focus to prevent further deterioration.
+While markets had priced in 250bps of cuts over the next year, Powell’s remarks and the dot plot suggest that actual rate cuts will likely be smaller, around 150bps, unless the economy weakens significantly. The Fed will continue to monitor economic data to guide future decisions, implying a flexible policy stance going forward.
+
+### Europe:
+Stocks rose following an interest rate cut by the European Central Bank (ECB), though the ECB gave no clear direction on future policy moves. Meanwhile, the UK economy stagnated, but wage growth remained high, complicating inflation control efforts.
+
+### Asia:
+Japan saw mixed stock performance, and hawkish comments from policymakers pointed to further rate hikes. However, GDP growth for the second quarter was revised lower. In China, weak inflation data raised concerns of an economic slowdown, although export growth exceeded expectations, providing a rare bright spot amid ongoing challenges in the property sector.
+Reference:
+https://corporate.nordea.com/article/95391/fomc-review-don-t-get-used-to-50s
+https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html
+</x-accordion>
+
 <x-accordion summary="Week of 30/08/2024">
 
 _Written by Erika Lau_
