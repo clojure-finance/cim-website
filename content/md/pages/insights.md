@@ -39,6 +39,12 @@ Bitcoin: Bitcoin reached new highs at $76,167, up 10% over the past five days, a
 #### Conclusion
 The market is expected to experience increased volatility in response to these policy proposals. Investors should pay close attention to news and potential headwinds arising from new policies and statements, adjusting their strategies accordingly.
 
+Source:
+1. https://www.cnbc.com/2024/11/06/trump-reelection-what-it-means-for-evs.html
+2. https://www.reuters.com/world/china/china-unveils-steps-tackle-hidden-debt-local-goverments-2024-11-08/
+3. https://www.investing.com/news/economy/feds-decision-tsmc-sales-bitcoin--whats-moving-markets-3710787
+4. https://edition.cnn.com/2024/11/06/investing/djt-trump-stock-election/index.html
+
 </x-accordion>
 
 <x-accordion summary="Riding the Wave of Tech Innovation: Nvidia's Growth, SHEIN's IPO, and Reddit's Public Debut  ">
