@@ -6,6 +6,168 @@
 
 ## Headlines
 
+<x-accordion summary="Week of 29/12/2024">
+
+### US
+
+_Written by Rachel HU Xinyue_
+
+#### Macro:
+The U.S. stock market remained stable this week, influenced by the Christmas holiday and a sell-off in tech stocks on Friday. The Dow rose 0.35%, the S&P 500 increased by 0.67%, and the NASDAQ gained 0.74%. However, the market experienced significant outflows, with investors withdrawing over $35 billion—marking the largest outflow since December 2022—following a record $62 billion inflow the previous week. After last week's 25bp Fed rate cut, expectations for further rate reductions next year have declined. The probability of the Fed holding rates steady in January is now 91.4%, with an 8.6% chance of a 25bp cut. This has pushed U.S. Treasury yields higher, with the benchmark 10-year yield reaching 4.627%, its highest since May.
+
+The U.S. Census Bureau reported a 1.1% decline in durable goods orders in November, well below the forecasted 0.4% drop. However, core capital goods orders (excluding aircraft and defence) rose 0.7%, the largest increase since July 2023. Consumer confidence also weakened, with the Conference Board's index falling from 112.8 to 104.7. Meanwhile, new home sales rose 5.9% MoM in November, recovering from a 14.8% drop in October but falling short of the expected 9.8% increase. The growth was likely driven by delayed transactions due to earlier hurricanes and a 14-year high in new home supply. Labor market data remained strong, with initial jobless claims falling by 1,000 to 219,000 in mid-December, below the expected 224,000. This marks the lowest level since the 213,000 recorded a month ago. In energy markets, U.S. crude oil inventories fell by 3.2 million barrels last week, following a 4.7 million-barrel drop the previous week. The tightened supply pushed crude oil and Brent prices up by 1.41% and 1.24%, respectively, for the week.
+
+#### Sector News: 
+Quantum computing-related stocks surged, setting the stage for a robust year-end rebound in the emerging sector. Rigetti Computing Inc. soared by 86%, while SEALSQ Corp skyrocketed over 230.18%. Meanwhile, the electric vehicle sector continued its upward trend, with Toyota Motor Corp. rising 11.98% and Li Auto Inc. climbing 8.19%. However, heavy sell-offs in major tech companies on Friday weighed on Wall Street. Tesla dropped 4.9%, NVIDIA fell 2%, and Broadcom declined 3.05%. Thin holiday trading amplified market volatility, leading the Nasdaq 100 to fall 1.3% and the Dow Jones Industrial Average to drop 333 points on that day
+
+#### Single Stock News:
+Honda Motor Co. Ltd. (NYSE: HMC) experienced a significant stock increase of 20.39% this week, following the announcement of formal merger talks with Nissan Motor Co. This potential merger aims to create the world's third-largest automaker, enhancing competitiveness in the evolving electric vehicle market.
+
+### Europe
+
+_Written by Robin HONG Yee Ching_
+
+#### Macro:
+European stocks recorded their first weekly gain in three weeks, with the Stoxx Europe 600 Index rising by 0.7% as trading resumed after Christmas. This increase was notable despite thin trading volumes during the holiday period, with strong performances observed in the automotive, banking, and financial sectors, while retailers lagged behind. The index has encountered challenges throughout the fourth quarter, experiencing an overall 3% decline primarily due to concerns surrounding regional political uncertainties and potential US tariffs under President-elect Donald Trump. France's CAC 40 underperformed with a decline of approximately 2.5% for the year, while Germany's DAX led gains with an increase of over 15%, excluding dividends. In the banking sector, M&A activity surged in 2024, with deals surpassing $41.5 billion, marking the busiest year for European banks since 2020. This heightened deal-making activity has contributed to a total return of 32% for bank stocks in 2024, reflecting robust investor confidence.
+
+#### Sector News:
+The banking sector has emerged as a prominent player in European M&A activities, representing 17% of total deals this year. This resurgence can be attributed to depressed valuations across industries, with European bank shares trading at a historic 40% discount compared to their US counterparts. Motivated by the need to achieve scale, reduce costs, and prepare for a potential decline in interest rates, the sector is actively pursuing growth. In contrast, the automotive sector is encountering challenges due to proposed tariffs by President-elect Donald Trump, impacting major manufacturers such as V olkswagen and BMW, who are already grappling with sluggish demand in China. Additionally, the telecom sector is experiencing increased deal-making activity, aided by regulatory changes that are facilitating mergers and acquisitions.
+ 
+#### Single Stock News:
+Delivery Hero SE witnessed a significant 9% drop in its stock value after Taiwan's Fair Trade Commission blocked Uber Technologies Inc.'s planned $950 million acquisition of its Foodpanda business on antitrust grounds. This decision had a notable impact on Delivery Hero, which had intended to utilize the sale proceeds to bolster its financial position amidst ongoing restructuring efforts prompted by activist investor pressures. In contrast, Banca Monte Dei Paschi di Siena SpA has seen its stock price more than double following Italy's initiatives to privatize the bank and establish a new national banking leader, signifying a remarkable turnaround after years of decline for the world's oldest financial institution. Unicredit SpA is also in the spotlight for acquiring a stake in Commerzbank AG and pursuing additional opportunities for domestic consolidation.
+
+### China and Hong Kong
+
+_Written by David LU Zhiyuan_
+
+#### Macro:
+Chinese equities showed mixed performance but relatively small fluctuations in the final week of 2024, with the SSE Composite Index rising 1.60%, while the SZSE Component Index declined slightly by 0.33%. The HSI gained 1.90%, reflecting positive sentiment in the Hong Kong market. Investors remained cautious amid year-end trading, balancing optimism over domestic economic recovery with concerns about external uncertainties. Gains in the SSE were supported by stronger-than-expected retail and industrial data, while declines in the SZSE were driven by profit-taking in growth stocks. The Chinese government is expected to implement more supportive measures in 2025 to stabilize growth, as analysts suggest current policies may need to adapt to global economic challenges.
+
+#### Sector News:
+New energy vehicle (EV) stocks showed resilience, supported by favorable policies aimed at boosting industry growth. Leading EV makers rose modestly, with BYD (1211.HK) gaining over 3%. On the policy front, recent announcements highlighted increased subsidies for EV purchases in rural areas and expanded support for charging infrastructure, aiming to accelerate EV adoption and promote green consumption. Analysts believe these measures, coupled with long-term goals for carbon neutrality, will strengthen the EV supply chain and drive sustainable growth. The focus on expanding charging networks and reducing ownership costs is expected to solidify consumer confidence and enhance the competitiveness of domestic EV manufacturers.
+
+#### Single Stock News:
+Zhongbai Group (SHE:000759) surged 54.42% last week, making it one of the top-performing stocks in the A-share market. The rally was driven by market speculation surrounding potential reforms in the retail sector and expectations of policy support for state-owned enterprises (SOEs). Analysts suggest the stock's sharp rise may also be linked to improved consumer sentiment and increased activity in the domestic retail market but caution against overheating due to speculative trading. Shanghai Phoenix (SHA:600679) dropped 30.51% last week, marking a significant decline in its stock price. The sharp decline may be attributed to profit-taking by investors after previous gains, as well as concerns over the company's growth prospects in a highly competitive e-bike market. Analysts suggest that the drop reflects market caution toward speculative trading, highlighting the need for sustained business performance to restore investor confidence.
+
+### Japan
+
+_Written by Dacian DENG Shen_
+
+#### Macro:
+Japan's stock markets rose significantly over the week, with the Nikkei 225 gaining 4.08% and the TOPIX Index up 3.69%, supported by a weaker yen that bolstered export-heavy industries. The yen declined to JPY 157 against the U.S. dollar, and 10-year Japanese government bond yields rose to a five-week high of 1.1%. Bank of Japan (BoJ) Governor Kazuo Ueda suggested potential interest rate hikes if economic conditions improve, emphasizing a cautious approach to ensure inflation stays near the 2% target while keeping policy accommodative. Tokyo's December inflation rose above expectations, with the CPI up 3% year-on-year and core CPI rising 2.4%, indicating potential national trends. Economic data for November showed mixed results: industrial production fell 2.3% but outperformed expectations, retail sales rose 1.8%, and unemployment remained steady at 2.5%.
+ 
+#### Sector News: 
+TSMC has begun mass production at its new fab in Kumamoto, Japan, marking a milestone in advanced chip manufacturing in the country. Operated by Japan Advanced Semiconductor Manufacturing (JASM), the plant uses 40nm, 28nm, 22nm, 16nm, and 12nm-class process technologies, with a focus on automotive and consumer electronics applications. This facility represents the first production of FinFET logic chips in Japan and can handle up to 55,000 wafer starts per month. Supported by a $3 billion subsidy from the Japanese government, the $8.27 billion investment involves TSMC (holding an 86.5% stake), Sony, Denso, and Toyota. Plans for a second fab at the site are set for 2025, targeting 6nm and 7nm-class nodes, with operations expected by 2027. Combined, the two fabs aim for a capacity of over 100,000 wafers per month, with total investments reaching $20 billion. TSMC's expansion in Japan follows its moves into the U.S. and Germany. Additional plans for a third fab in Kumamoto depend on the success of the first two, as well as solutions for infrastructure and environmental challenges.
+
+#### Single Stock News:
+Honda and Nissan plan to merge to counter competition from China's growing electric vehicle (EV) industry, aiming to solidify their market position by 2030. The merger would include Mitsubishi, enabling resource sharing among the three companies to compete with EV leaders like Tesla and BYD. The partnership aims to combat China's dominance in EV production, which benefits from lower costs and government subsidies. Nissan and Honda’s combined sales exceed $191 billion, and their leaders emphasize the urgency of building competitive capabilities. However, the merger's success depends on Nissan's financial recovery. Nissan has faced declining sales and reputational challenges, including fallout from the arrest of former CEO Carlos Ghosn. Political scrutiny in Japan and potential job cuts are anticipated, as is the likely end of Nissan's alliance with Renault. The companies have already deepened their cooperation in EV technologies, focusing on batteries and related advancements.
+
+### India
+
+_Written by Justin CHUNG Lok Yin_
+
+#### Macro:
+Following the crash last week, the Indian stock market was stagnant in the Christmas week. The Sensex benchmark rose 0.24% as the NIFTY 50 rose 0.4%, both ended nearly flat on a subdued note. This reflects investors’ cautious sentiments as the year wraps up. The Indian market lacked major triggers this week while the Indian rupee kept falling to historical lows against the dollar. The rupee ended at a fresh record low of 85.54 per dollar on December 27, Friday, due to a strong greenback amid surging month-end demand from banks and importers. Looking at the global market, investors are prudently observing the US Republican Party administration starting next month.
+
+#### Sector News:
+The Nifty Pharma Index rose 1.85%. The outperformance of the Pharma Index could be explained from a technical perspective. On December 26, Thursday, the 9-day moving average broke the 50-day and 100-day moving averages. A symmetrical triangle pattern established last Friday also broke out at the same time, stimulating a 2% rise within 24 hours. The Nifty Auto Index rose 1.7%. A possible explanation is the official commencement of the merger talk between Japanese auto giants Honda, Nissan, and Mitsubishi on December 23, Monday. The Indian auto market from now on pays more attention to how Indian car companies, factories, and supply chains can capitalise on such synergies.
+
+#### Single Stock News:
+Hindustan Aeronautics Ltd (NSE: HAL):
+Hindustan Aeronautics, one of the largest Indian defence stocks, rose 1.33% in the week. Analysts are confident in the stock despite a 20% downfall in 6 months. On December 24, Tuesday, Phillip Securities initiated coverage of the company with a buy rating and a price target of INR 5,500. On December 27, Friday, Antique Stock Broking selected the stock as one of its top picks in the defence sector. Hindustan is credited based on its extensive experience and evolving capabilities in the aerospace and defence sectors, which fuels its robust earnings trajectory in 2025. Favourable policies also provide a strong growth outlook for Hindustan. To enhance operational readiness, the Indian Defence Acquisition Council (DAC) has approved Acceptance of Necessity (AoN) proposals worth Rs 4.4 trillion in 2024, a 29% Y oY increase over 2023’s Rs 3.5 trillion. Notably, 94% of these approvals will benefit domestic companies, including Defence Public Sector Undertakings (DPSUs) like Hindustan.
+
+</x-accordion>
+
+
+<x-accordion summary="Week of 14/12/2024">
+
+### US
+
+_Written by Rachel HU Xinyue_
+
+#### Macro:
+This week, U.S. equity markets exhibited mixed performance, reflecting underlying market uncertainties. The S&P 500 declined by 0.64%, the Dow Jones Industrial Average by 1.82%, while the NASDAQ advanced by 0.34%, and the Russell 2000 contracted by 2.58%. The U.S. labor market demonstrated notable softness this week, as initial unemployment claims increased to 242,000, exceeding the projected 220,000 and marking the highest level observed in two months. And the US Dollar Index increased by approximately 1%, driven by rate cut policies implemented in several countries, including Canada and Switzerland, which contributed to the strengthening of the US dollar. According to the latest report, the November CPI stood at 2.7%, largely in line with expectations, while the PPI reached 3% compared to the forecast of 2.6%. These figures further support the case for rate cuts, with traders raising the probability of a 25 basis point rate cut in December to 99%, according to the CME Group’s FedWatch measure.
+
+#### Sector News: 
+This week, tech stocks performed strongly, with the seven trillion-dollar tech companies adding roughly $416 billion in market cap on Wednesday. The tech megacaps lifted the NASDAQ past 20,000 for the first time. Amazon, Apple, and Meta have all been regularly reaching new highs. Since Trump’s victory, the market has been on the rise, as people believe the new administration will ease market regulations. On Tuesday, Trump named Andrew Ferguson, known for his support of innovation, as the next chair of the Federal Trade Commission, replacing Lina Khan, which further boosted market sentiment. At the same time, the increasing possibility of interest rate cuts could lead to a rise in large tech stocks.
+
+#### Single Stock News:
+Alphabet Inc. (GOOG:NASDAQ): Alphabet unveiled its latest quantum computing chip on Monday, described as a “breakthrough” and “an important step in our journey to build a useful quantum computer with practical applications.” This announcement led to an 11% surge in the company’s stock price on Tuesday and Wednesday, surpassing its previous record of 191.18$. Broadcom Inc.(A VGO:NASDAQ): Broadcom released its fourth-quarter earnings report on Thursday, showing a strong 51% year-over-year growth. The company stated that its AI revenue increased by 200% this year and that it is working with major cloud clients to develop customized AI chips. As a result, Broadcom's stock surged over 21% to $220 on Friday morning, with its market capitalization surpassing $1 trillion for the first time. NVIDIA Corp(NVDA:NASDAQ): Nvidia's stock declined by 2.6% on Monday, primarily due to allegations of potential violations of China's antimonopoly law, with the State Administration for Market Regulation conducting an investigation into Nvidia's acquisition of Mellanox. Although the stock experienced a rebound afterward, it ultimately closed the week down by 2.25% relative to the previous week.
+
+### Europe
+
+_Written by Robin HONG Yee Ching_
+
+#### Macro:
+The economic landscape in Europe remains clouded by political instability and sluggish growth, particularly in major economies like France and Germany. These factors have contributed to one of the worst annual performances for European stocks compared to the S&P 500, which has surged by 27% this year, driven by strong demand for large-cap stocks and advancements in artificial intelligence. The European Central Bank (ECB) has also adopted a dovish stance, cutting interest rates to stimulate the economy in anticipation of potential disruptions from Donald Trump's return to office.
+
+#### Sector News:
+Despite the overall pessimism, some strategists maintain a cautiously optimistic outlook for specific sectors. Citigroup and Deutsche Bank are among the most bullish, projecting gains of 10% and 13%, respectively, for the Stoxx 600. This optimism is based on expectations of solid corporate earnings growth, which is projected at 8% for Europe in 2025. However, concerns persist regarding the sustainability of this growth amid a projected eurozone GDP growth of only 1.1%.
+ 
+#### Single Stock News:
+Individual companies within the European market show varied performance expectations. While Deutsche Bank AG is currently trading at €17.03 with a slight increase of 0.66%, analysts caution that broader market conditions could lead to declines for weaker firms. UBS Group AG and TFS Derivatives have issued bearish forecasts for the Stoxx 600, predicting a drop to around 470 points due to anticipated declines in sales and margins.
+
+### China and Hong Kong
+
+_Written by Kevin XIA Yunchu_
+
+#### Macro:
+China's Central Economic Work Conference (CEWC) concluded on December 12, 2024, with policymakers emphasizing proactive policy support to bolster consumption and stabilize housing and stock markets. The conference highlighted the need for a higher fiscal deficit and moderately loose monetary policy to address economic challenges. Despite these measures, China's retail sales softened to 3.0% year-on-year growth in November, while industrial production rose by 5.4% year-on-year. The Producer Price Index (PPI) inflation rose to -2.5% year-on-year, indicating a demand pick-up for industrial products.
+
+In Hong Kong, the Hang Seng Index fell by 1.83% in its final hour of trade on December 13, 2024, while the CSI 300 Index in mainland China lost 2.37% and ended at 3,933.18. The decline was attributed to Beijing's stimulus pledges falling short of investor expectations.
+
+#### Sector News:
+The technology sector in Hong Kong saw significant movements, driven by the listing of
+several sizeable deals, including four of the ten largest IPOs in the past three years. These listings included Specialist Technology Companies under Chapter 18C, primarily engaged in Al and robotics. This influx of tech IPOs has reinforced Hong Kong's position as a hub for innovation and contributed to a 78% increase in funds raised compared to 2023.
+
+#### Single Stock News:
+In mainland China, BYD Company Ltd., a leading electric vehicle manufacturer, experienced a notable surge in its stock price following reports of increased production targets and expansion plans. The company's shares rose by 7.5% over the week, reflecting investor optimism about its growth prospects. 
+
+In Hong Kong SAR, Mao Geping, a Chinese cosmetics firm, made a spectacular debut on the stock market. The company's shares surged by 70% on the first day of trading, reaching HK$53.05 at its peak. The IPO was highly popular, with retail investors oversubscribing the shares 918 times. This strong performance highlights the growing interest in premium beauty products and the company's successful market entry.
+
+### Japan
+
+_Written by Dacian DENG Shen_
+
+#### Macro:
+Japan's stock markets posted modest gains over the week, with the Nikkei 225 Index rising
+by 0.97% and the TOPIX Index gaining 0.71%. Market sentiment was bolstered by China’s
+announcement of proactive fiscal measures and moderately looser monetary policy.
+
+Domestically, speculation increased that the Bank of Japan (BoJ) may delay an interest rate hike at its December 18–19 meeting, causing the yen to weaken to the mid-JPY 153 range against the USD, compared to the previous week’s 150. Meanwhile, the yield on 10-year Japanese government bonds declined to around 1.04% from 1.06%.
+
+Investor sentiment now leans toward the BoJ implementing a 25-basis-point rate hike at its
+January meeting instead of December. This shift is likely due to the additional economic data the BoJ would receive by waiting, including two more inflation prints, the quarterly economic report, and feedback from its regional manager meeting. The BoJ has emphasized that any rate hike will depend on meeting its projections for economic growth, inflation, and wage increases.
+
+Japan's final GDP data revealed 0.3% quarterly growth in Q3, surpassing the 0.2% consensus estimate. Additionally, the BoJ’s Tankan survey showed improved sentiment among large manufacturers in Q4, with optimism about business conditions outweighing pessimism.
+
+ 
+#### Sector News: 
+The US Treasury has warned that the Committee on Foreign Investment in the United States (Cfius) cannot agree on mitigating security concerns over Japan’s proposed $15 billion acquisition of US Steel, likely leading President Biden to block the deal. While some US agencies see no risks, opposition led by the trade representative persists, citing political motives. This dispute strains US-Japan relations, with Japan criticizing Washington for labeling its steel industry a security risk while seeking cooperation against China. Critics argue this politicizes Cfius and harms the US-Japan alliance.
+
+#### Single Stock News:
+Socionext Inc. (6526.T)
+With the growth of generative AI, the rise of AI ASICs is drawing attention as a potential alternative to NVIDIA ’s GPUs. Morgan Stanley’s recent report predicts the AI ASIC market will grow from $12 billion in 2024 to $30 billion by 2027, driven by cost and performance advantages.
+While NVIDIA (NVDA.US) remains dominant in training large language models, Socionext Inc. (6526.T) is well-positioned to benefit from the expanding adoption of AI ASICs. Morgan Stanley highlights that GPUs and ASICs are likely to coexist, serving different needs in the AI ecosystem.
+
+### India
+
+_Written by Justin CHUNG Lok Yin_
+
+#### Macro:
+The Indian rupee fell to an all-time low of 84.88 against the dollar on December 12, Thursday. While the Indian macro environment stays strong, outflow pressures persist due to the optimistic sentiments towards the US. The dollar/rupee non-deliverable forward (NDF) rates rose during the week, creating an arbitrage opportunity between the offshore NDF market and the onshore market. To exploit the arbitrage, banks have been buying dollars in the near-term onshore forward market. This activity has pushed the 1-month dollar/rupee forward premium to spike above 2.5%, a level that rarely exceeds the 1-year yield. This has further pressurized the rupee and fueled the historical low.
+
+Market rebounded before market closing on Friday, potentially due to a positive CPI release on December 12, Thursday. Y oY retail inflation eased to 5.48% in November, down from 6.21% in October. This marks the first drop since July 2024. This cooling inflation has raised expectations of a rate cut by the Reserve Bank of India in the next monetary policy meeting. Despite the stock market recovery, the market breadth remained weak, with more stocks declining (2,173) than advancing (1,818).
+
+#### Sector News:
+The Nifty Auto Index fell by 0.44% during the week. On December 9, Monday, data from Federation of Automobile Dealers Associations of India (FADA) revealed that passenger vehicle (PV) sales fell sharply by 33% MoM and 14% Y oY in November 2024. While November was initially expected to build on its prior momentum, particularly due to the marriage season, dealer feedback suggests that this segment underperformed overall expectations. The fast-moving consumer goods (FMCG) sector also seems to slow down. The Nifty FMCG Index bottomed out at 55,442.60 on Friday, December 13, hitting a six-month low after falling 16% since late September. This decline reflects tepid sales reported by FMCG companies. Executives from leading FMCG companies attribute the slowdown in urban areas to multiple factors such as rising urban real estate costs, food inflation, and slower wage growth, which fell to 7.7% Y oY in Q3 from 14.2% a year ago. These challenges strained middle-class spending power.
+
+#### Single Stock News:
+Bharti Airtel Ltd (NSE: BHARTIARTL):
+On December 13, Friday, Bharti Airtel’s shares surged by 4.4% after Jefferies selected it as one of its top picks for 2025, citing the company’s strong earnings growth driven by recent tariff hikes in the telecom sector. The stock grew 17.8% in 6 months and 66% YTD, significantly outperforming the 5.1% and 13.9% rise of the NIFTY 50 Index during the same periods. From a technical perspective, the stock has broken out of a falling trendline, with Friday’s closing near the day’s high signaling a continuation of the uptrend. The major EMAs are trending upward, supporting the price action. Additionally, the RSI stands at 63, further confirming bullish momentum.
+
+</x-accordion>
+
 <x-accordion summary="Week of 29/11/2024">
 
 ### US
