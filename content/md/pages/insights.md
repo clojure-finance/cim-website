@@ -6,6 +6,41 @@
 
 ## Headlines
 
+<x-accordion summary="US Election and its Impact on the Financial Markets">
+
+_Written by Erika Lau, 8/11/2024_
+
+### Key Economic Policies Proposed by Donald Trump and Their Sectoral Impacts
+
+#### Tariffs and Trade
+Donald Trump has proposed increasing tariffs on imports, suggesting rates of up to 60% for China and 10% for other countries. Higher tariffs could lead to increased costs for consumers, potentially exacerbating trade deficits and contributing to inflation and deglobalization trends.
+
+#### Energy Initiatives
+Trump plans to boost the production of U.S. fossil fuels, emphasizing increased drilling activities from day one. He aims to open new areas for oil exploration, arguing that this would lower energy costs. However, analysts express skepticism about the feasibility and long-term impact of these measures.
+
+#### Sectoral Impacts
+
+##### Automotive Industry
+Electric Vehicle Tariffs: Increased tariffs could affect electric vehicle (EV) exports from China. Domestic automakers like General Motors (GM), Ford (F), and Stellantis (STLAM) may benefit from reduced competition, with shares of GM and Ford recently rising by 2.5% and 5.6%, respectively.
+Regulatory Changes: Companies like Toyota could gain if EV regulations are reduced or eliminated, given their focus on hybrid vehicles over all-electric models.
+Tesla's Market Performance: Shares of Tesla soared by 15%, reaching a new 52-week high, partly influenced by CEO Elon Musk's active engagement in key markets.
+
+##### Clean Energy Sector
+Trump's policies may lead to reduced investment in renewable energy within the U.S. Companies like Plug Power (PLUG) and Sunrun (RUN) experienced significant stock declines of 22% and 30%, respectively. In Europe, renewable energy firms such as Orsted (ORSTED) and Nordex (NDX1) also saw their shares fall by 13% and 8%.
+
+##### Semiconductor Industry
+There is debate over whether Trump would continue supporting the "Chips and Science Act," which he previously criticized. Experts believe he may uphold the act due to bipartisan support for domestic semiconductor manufacturing. The legislation, launched in 2022, has already facilitated significant investments from companies like TSMC and Samsung, offering them $6.6 billion and $6.4 billion, respectively, to build factories in the U.S.
+Past policies have affected companies like Huawei, ZTE (000063.SZ), and SMIC (0981.HK), which faced challenges due to trade restrictions. Continued policies could impact China's ability to hire overseas talent and acquire semiconductor equipment, as evidenced by a one-third increase in China's imports of semiconductor equipment to $24.12 billion in the first nine months of this year.
+
+#### Impacts on Individual Stocks and Crypto Markets
+Trump Media & Technology Group (TMTG): The stock hit a two-week low after initial excitement faded. It peaked at $51 on October 29 but retracted to $27 by November 8, as investors reassessed its fundamentals.
+Bitcoin: Bitcoin reached new highs at $76,167, up 10% over the past five days, amid speculation about potential crypto-friendly regulations.
+
+#### Conclusion
+The market is expected to experience increased volatility in response to these policy proposals. Investors should pay close attention to news and potential headwinds arising from new policies and statements, adjusting their strategies accordingly.
+
+</x-accordion>
+
 <x-accordion summary="Riding the Wave of Tech Innovation: Nvidia's Growth, SHEIN's IPO, and Reddit's Public Debut  ">
 
 _Written by Kevin Xia, 19/3/2024_
