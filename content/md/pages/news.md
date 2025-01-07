@@ -6,10 +6,157 @@
 
 ## Headlines
 
+<x-accordion summary="Week of 29/11/2024">
+
+### US
+
+_Written by Rachel HU Xinyue_
+
+#### Macro:
+Over the past week, U.S. markets experienced robust gains, with the Dow Jones rising by 188.59 points (+0.42%), reaching a 52-week high on November 29. The NASDAQ advanced by 157.69 points (+0.83%), while the S&P 500 increased by 33.64 points (+0.56%). The 10-year treasury yield fell 14 basis points to 4.265%, while the 2-year yield dropped 10 basis points to 4.264%. This positive performance appears to be driven, in part, by the announcement that President-elect Trump appointed Wall Street hedge fund manager Scott Bessent as the new U.S. Treasury Secretary. Bessent's support for moderating Trump's protectionist policies, including gradual tariff increases to combat inflation, has bolstered investor sentiment and strengthened confidence in the economic outlook. On November 27, the government released the latest PCE report, showing total PCE stabilizing at 2.3%, in line with market expectations, with a month-on-month increase of 0.2%. The labor market continues to demonstrate strength, with the unemployment rate holding steady at 4.1%, and third-quarter GDP growth recorded at a solid 2.8%. During the November monetary policy meeting, it was communicated that the Federal Reserve would pursue a gradual reduction in interest rates starting in December, in response to prevailing economic conditions. According to CME data, the probability of a 25 basis point interest rate reduction in December is estimated at 66%.
+
+#### Sector News: 
+U.S. sector equities broadly showed an upward trend, with the exception of the Real Estate and Utility sectors, which recorded declines of 0.52% and 0.05%, respectively. Shares of key global semiconductor equipment firms jumped on Thursday after a report that the U.S. is considering sanctions on China’s chip industry that stop short of earlier proposal. The stock price of semiconductor company ASML increased by 2.9% on Thursday afternoon. On Friday, President-elect Trump nominated Dr. Marty Makary, a renowned pancreatic surgeon from Johns Hopkins University, as the new FDA commissioner. Dr. Makary, known for his medical expertise and opposition to anti-vaccine stances, replaces former commissioner Califf. This appointment has fostered investor optimism, leading to an uptick in pharmaceutical stocks.
+
+#### Single Stock News:
+Ambarella's stock (AMBA) rose 14% to $78.04 on Wednesday, driven by partnerships with Xpeng Motors and Honda and the resolution of inventory issues, despite the broader weakness in the semiconductor market. Dell Technologies (DELL) reported mixed quarterly results with sales falling short of expectations, leading to a 12.3% stock decline on Wednesday, the largest drop in the S&P 500 that day. Applied Therapeutics (APLT) stock plummeted 75% on Friday after the FDA rejected its experimental treatment application for the rare metabolic disorder galactosemia. On Tuesday, Eli Lilly (LLY) and Novo Nordisk (NVO) shares rose 6% and 2%, respectively, after the Biden administration proposed expanding coverage of their weight-loss drugs under Medicare and Medicaid.
+
+### Europe
+
+_Written by Robin HONG Yee Ching_
+
+#### Macro:
+European stocks experienced a rally on Friday, with the Stoxx Europe 600 Index closing 0.6% higher, driven by gains in the technology sector and resources-related stocks. However, concerns lingered over trade tariffs proposed by President-elect Donald Trump and ongoing political instability in France, where the government is struggling to pass the budget. Euro-area inflation has risen above the European Central Bank's (ECB) 2% target, yet officials remain committed to lowering interest rates in the near future. Despite these challenges, European equities have only gained 1% for the month, significantly lagging behind the S&P 500’s impressive 26% increase this year.
+
+#### Sector News:
+The technology sector led the gains on Friday, contributing significantly to the overall performance of European stocks. Miners also performed well, buoyed by strong iron ore prices amid expectations of increased stimulus from China. Conversely, sectors such as autos and utilities faced headwinds due to tariff concerns and political uncertainties. The market remains cautious as investors weigh the potential impacts of Trump's tariff plans and their implications for European exports.
+ 
+#### Single Stock News:
+Anglo American Plc saw a notable rise after Jefferies upgraded its rating to "buy," citing the potential for mergers and acquisitions. Direct Line Insurance Group Plc shares increased for a second consecutive day following reports that Aviva Plc had begun contacting its shareholders. Delivery Hero SE reversed earlier losses after announcing its Middle Eastern unit's IPO pricing at the top of the expected range. Overall, stock movements were influenced by deal-making news amidst broader market uncertainties related to tariffs and political developments in France.
+
+### China and Hong Kong
+
+_Written by David LU Zhiyuan_
+
+#### Macro:
+This week, A-shares and Hong Kong Stock markets experienced a certain recovery after a slump. The SSE Composite Index increased by 1.57% and closed at 3326; the SZSE Composite Index increased by 2.33% and closed at 11072; the Hang Seng Index increased by 0.29% and closed at 19424. The recovery was boosted by factors such as rising domestic policy expectations of the Chinese Mainland, falling U.S. Treasury interest rates, and the dollar. Compared with A shares, Hong Kong stocks have recently recovered more from their highs; one is because Hong Kong stocks are more sensitive to the external disturbance of the "Trump trade," and the other is that the mood change of foreign investors is more drastic than that of domestic investors. In the correction process, overseas funds again flowed out, especially the further deepening of the proportion of active funds allocated to Chinese stocks.
+
+#### Sector News:
+The technology sector in A-shares and Hong Kong stocks faced declines last week. Semiconductor and internet stocks weakened amid demand concerns, with the CSCI Info Tech Index down 3.8%. Xiaomi has a decrease of 4.8%, and AAC Technologies stays unchanged, which is a significant decrease compared to the increase of 7% last week. The EV sector underperformed last week (November 25 to November 29, 2024). A-share leader BYD dropped 3.64% amid concerns over weak year-end consumer demand. Li Auto rose 1.3% in Hong Kong, driven by expectations of strong November sales. Overall, the sector saw significant capital outflows, with cautious investor sentiment. The consumer staples sector showed resilience last week (November 25–29, 2024). A-share leaders Wuliangye and Moutai rose 1.6% and 1.98%, respectively, supported by year-end demand recovery. In Hong Kong, Mengniu Dairy gained 2.1% on strong sales expectations, while overall sector sentiment improved amid easing concerns over domestic consumption growth.
+
+#### Single Stock News:
+Alibaba Group (9988.HK): Alibaba rebounded after a two-month decline, supported by bargain hunting and optimism about its restructuring strategy. Improved sentiment in the e-commerce sector, driven by Singles' Day sales data, may have also contributed. Baidu (9888.HK): Baidu recovered after a month-long decline, likely driven by optimism around its AI ecosystem and the recent expansion of its large language model (Ernie Bot). The rebound also reflects oversold conditions in prior weeks. Hangzhou Wensli Silk Culture (301066.SZ): Wensli surged due to expectations around its high-end silk product expansion and increased demand for cultural exports. Speculative trading likely amplified the gains.
+
+### Japan
+
+_Written by Dacian DENG Shen_
+
+#### Marco:
+Japanese stocks posted modest losses last week, with the Nikkei 225 falling 0.2% and the TOPIX Index down 0.6%. Geopolitical risks dampened global investor sentiment, boosting demand for safer assets. The resulting yen appreciation pressured Japan's export-heavy sectors. On the Tokyo Stock Exchange Prime Market, 40.3% of stocks rose, while 56.6% declined. The yen strengthened to around JPY 150 against the USD, from JPY 154 the previous week, driven by safe-haven appeal and domestic inflation concerns. The Tokyo-area core CPI rose 2.2% year-on-year in November, exceeding expectations and fueling speculation of a Bank of Japan (BoJ) rate hike, likely in December or January. The 10-year Japanese government bond yield fell to 1.06% from 1.08% but remained near a 13-year high amid BoJ rate hike speculation. Governor Kazuo Ueda reiterated that rate increases depend on economic and price trends meeting forecasts. Prime Minister Shigeru Ishiba presented a stimulus plan to parliament, seeking approval for an extra budget to support rural economies and counter inflation's impact. The plan includes energy subsidies, cash handouts for low-income households, and a higher tax-free salary threshold to boost disposable income. Ishiba aims to foster wage growth exceeding inflation and investment-led economic growth, continuing his predecessor’s policy direction.
+ 
+#### Sector News: 
+By sector, transportation equipment, machinery, precision instruments, electrical equipment, and shipping saw declines, while banking, insurance, textiles, services, and utilities posted gains. The market remained resilient, supported by buying in financial and domestic demand-driven stocks.
+
+#### Single Stock News:
+Toyota Motor Corporation shares remained stable on Friday. In October, global sales rose 1.4% to 903,103 vehicles, the first increase in five months. Sales outside Japan grew 0.4% to 759,555, including Lexus but excluding Daihatsu and Hino. North American sales dropped 5.3%, while Latin America saw an 18.6% rise, and Europe grew by 1.4%. Global production fell 0.8% year-over-year to 893,164 vehicles. Production in China decreased 8.7%, and Thailand saw a 12.8% decline. Toyota plans to produce at least 2.5 million vehicles annually in China by 2030, emphasising closer integration of sales and production and more local executive control. In the U.S., North American COO Jack Hollis criticised rapid EV adoption policies, arguing they don't align with consumer demand. He noted a gap between regulatory goals and buyer preferences, particularly regarding EPA and California emissions standards. Stock Movement: TM shares rose 0.40% to $170.40 as of the latest check Friday.
+
+### India
+
+_Written by Justin CHUNG Lok Yin_
+
+#### Macro:
+The Sensex benchmark and the NIFTY 50 Index both experienced a downturn on November 28, Thursday and did not recover during the week. They recorded declines of 0.47% and 0.74% respectively. The drop is attributed to increased geopolitical tensions in Israel and Ukraine. Against a backdrop of a strengthening US dollar and rising bond yields since September, investors may have shifted their focus to bonds and forex, contributing to the mid-week downturn. On November 29, preliminary data released by the Ministry of Statistics and Program Implementation indicated that India's GDP growth was only 5.4% year-over-year in the third quarter of 2024, well below the lowest forecasts. This marked the slowest growth rate since the fourth quarter of 2022. Despite initiatives like the PLI scheme and the "Make in India" campaign, manufacturing growth decelerated to 2.2%. Furthermore, exports slowed to 2.8% and imports shrunk by 2.9%, underscoring significant domestic challenges. Coupled with recent strong inflation figures (recap: domestic inflation hit a 14-month high of 6.21% last week, surpassing the 6% threshold), analysts are now divided over whether the Reserve Bank of India will implement a rate cut or maintain rates at their next meeting on December 6. The consensus leans towards maintaining current rates.
+
+#### Sector News:
+The agriculture sector saw a recovery, growing at a rate of 3.5% after underperforming in the previous four quarters, indicating a potential uptick in rural demand. In October, coal, steel, and cement production increased by 7.8%, 4.2%, and 3.3% respectively. Conversely, crude oil and natural gas production fell by 4.8% and 1.2%. Manufacturing growth in the third quarter of 2024 slowed to 2.2% from 7.0%. The construction sector's momentum was sluggish, and the mining and quarrying sector entered a contraction phase.
+
+#### Single Stock News:
+Adani Enterprises Ltd (NSE: ADANIENT) Rebound Attempt: Following allegations of fraud involving the company’s executives last week, Adani Enterprises' stock price bottomed at ₹2145.65 on November 26, Tuesday. This week, Adani issued a statement denying all bribery allegations against Chairman Gautam Adani. The group also assured that all its portfolio companies have adequate liquidity to meet their debt obligations for at least the next year. Following these positive announcements, subsidiary Adani Green Energy (NSE: ADANIGREEN) saw a 10%increase, while the main company, Adani Enterprises, surged by 11.5%.
+
+</x-accordion>
+
+
 <x-accordion summary="Week of 22/11/2024">
+
+### US
 
 _Written by Sarah LEONG Si Ian_
 
+#### Macro: 
+In  the  previous  week,  3  major  indexes  rallied  due  to  higher-than-expected  global service  PMI  and  the  S&P  500  peaked  at  5972.9,  +0.35%.  Russell  2000  also  steadily increased, hitting a peak of 2409.22, +1.87%. The NASDAQ Comp closed at 19003.65 on Friday.  
+Data-wise,  the  U.S.  labour  market  remained  healthy  with  the  initial  jobless  claims stood at 212k, down from expectations of 220K. The Service PMI index improved to 57, signalling growth in the service sector. Existing home sales were reported at 3.96 million, slightly higher than expected, which seemed to help drive positive sentiment toward the end of the week. 
+WTI prices, at $70.7 received some support from a drop of US API weekly crude oil stock was reported on Wed at 4.753 million, fell by 0.573, as well as from the rise in PMI data.  
+ 
+#### Sector News: 
+The utilities sector outperformed as commentary on NVIDIA’s earnings call seemed to drive optimism around rising artificial intelligence-driven demand for clean energy.  
+Communication  services  stocks  lagged,  driven  in  part  by  a  drop  in  shares  of  Google parent Alphabet following reports of the Justice Department filing a proposal to break up the internet search giant. 
+ 
+#### Single Stock: 
+AAPL fluctuated throughout the week but exhibited an overall upward trend, reaching a  peak  of  230.72.  In  the  previous  week,  the  net  outflow  exceeded  the  net  inflow  by 32,576.87,  with  the  majority  of  transactions  being  small  orders. The  total  trading volume  was  821.39K,  and  the  put-call  ratio  stood  at  0.68, indicating  a  bullish sentiment toward the stock. Apple’s P/E ratio was 37.81, significantly higher than the historical 10-year average of 21.43. 
+NVDA’s Q3 earnings release on Wednesday. Shares of the chip giant ended the week little changed as investors appeared to be generally satisfied with the results.
+
+### Europe:
+
+_Written by Kathy TAM Ka Loi_
+
+#### Macro: 
+European  markets  had  a  mixed  day,  with  the  Stoxx  600  index  up  1.18%,  fueled  by strong performances in health care and retail stocks. In the U.K., the pound hit a six-month low against the U.S. dollar after retail sales fell 0.7% in October, much worse than  the  expected  0.3%  drop.  Despite  this,  the  FTSE  100  rose  1.4%  as  investors considered the possibility of interest rate cuts from the Bank of England. Meanwhile, the  euro  weakened  after  disappointing  PMI  data  revealed  a  significant  decline  in Eurozone business  activity, with the composite index dropping to 48.1 in  November. This  was  largely  due  to  reduced  new  business  and ongoing political instability in France and Germany, while Germany's GDP growth for the third quarter was revised down to just 0.1%. 
+ 
+#### Sector News: 
+In November 2024, the UK retail sector faced significant challenges as retail sales fell more than expected, declining by 0.7% on a monthly basis in October, in contrast to a revised  0.1%  rise  in  September.  Excluding  auto  fuel,  sales  fell  0.9%,  with  non-food stores  experiencing  a  1.4%  reduction  in  sales  volumes.  Factors  contributing  to  this downturn  included  reduced  consumer  spending  on  food  and  clothing,  alongside heightened  uncertainty  from  the  Autumn  Budget,  which  raised  concerns  about  tax increases. Year-on-year growth in retail sales slowed to 2.4% in October from 3.2% in September. Despite  the  decline,  consumer  confidence  showed  some  improvement  in  November, with the confidence index rising to -18 from -21 in October, suggesting that consumers  were  beginning  to  feel  slightly  more  optimistic  ahead  of  the  holiday shopping  season. However,  the  overall  economic  picture  remains  precarious, as households grapple with budget uncertainties and inflationary pressures. 
+ 
+#### Single Stock News: 
+The  Underperformance  of  NVO:  Novo  Nordisk's  stock  has  plunged  25.1%  over  the past three months, significantly underperforming the industry and the S&P 500. This decline  was  primarily  driven  by  disappointing  third-quarter  results,  where  diabetes and  obesity  care  sales  failed  to  meet  investor  expectations,  leading  management  to lower  its  forecasts  for  both  sales  and  operating  profit  growth.  The  company  is struggling to meet the heavy demand for its semaglutide drugs, Ozempic and Wegovy, particularly  in  the  U.S.  market.  In  contrast,  competitor  Eli  Lilly  has  successfully increased  its  production  capacity  for  similar  drugs.  Furthermore,  criticism  from  U.S. Senator  Bernie  Sanders  regarding  high  drug prices  compared  to  other  countries  has added  to  the  stock's  challenges.  Despite  these  setbacks,  analysts  remain  optimistic about Novo Nordisk's strong fundamentals, including a 90.3% revenue increase over five years and a net profit margin exceeding 31%, suggesting that the current decline 
+may represent a temporary setback for long-term investors. 
+
+### China & Hong Kong
+
+_Written by Alexander ANTONIOU_
+
+#### Macro: 
+Chinese equities faced declines, with SSE Composite Index dropping 3.06% and SZSE Component falling 3.52%. Investors expressed concerns about the effectiveness of recent stimulus and potential for higher American tariffs under the Trump administration, contributing to a negative sentiment in the market. HSI has also declined as a result of this, with a 1.9% loss (371 points). The Chinese government has been investing effort in supporting the economy, including a debt swap worth RMB 10 trillion, to ease local government debt burdens; analysts indicate that more robust measures may be required to offset the effects of potential US policy changes. Chinese banks left their one- and five-year loan prime rates unchanged at 3.1% and 3.6%, respectively. The move was largely anticipated after banks slashed the benchmark lending rates by a greater-than-expected 25 basis points in October, making it cheaper for consumers to take out mortgages and other loans. 
+
+#### Sector News: 
+Chips, internet and securities services industries declined while Apple concept stocks rose against the trend, with AAC Technologies (2018.HK) rising more than 7%. On the news front, it is reported that Apple is developing a Siri digital assistant with stronger conversational capabilities, aiming to surpass OpenAI's ChatGPT and other voice services. 
+The gaming sector outperformed as the National Press and Publication Administration announced the approval information of domestic online games in November 2024. A total of 112 games were approved, and the number of games issued exceeded 110 for the second consecutive month.  
+The EV sector underperformed as Warren Buffett’s Berkshire Hathaway pared its stake in BYD to less than 5%, further unwinding its long-term bet on China’s largest electric-vehicle maker amid a broader refocus on U.S. investments.  
+
+#### Single Stock: 
+Baidu (9888.HK) plunged over -8% in Hong Kong after the search engine operator reported disappointing Q3 online marketing revenue. Alibaba Group (9988.HK) fell more than -4% in Hong Kong after rival PDD Holdings cautioned about intensifying competition in the e-commerce industry. CNOOC (0883.HK/600938.SH) added 1.19% after announced to add a fourth production vessel to the ones already operating in the Stabroek Block offshore Guyana, alongside with Exxon Mobil and Hess. Xiaomi (1810.HK) rallied for 1.42% on Fri as internal sources claimed that it's second EV model is planned to be launched in Feb/ March next year. 
+
+### Japan
+
+_Written by Kim CHUI Chunho_
+
+#### Macro: 
+Following two consecutive sessions of declines, Japan’s Nikkei 225 and TOPIX indices rebounded, closing higher by 0.68% at 38,283.85 and 0.51% at 2,696.53, 
+respectively, on Friday. However, both indices recorded weekly losses of 1.6% and 1.06%. This rebound was driven by gains in technology stocks, particularly those weighted in chips, in response to NVIDIA’s rise in the US NASDAQ market. Nonetheless, concerns over high valuations and a strengthening US Dollar Index continued to exert selling pressure on the Japanese stock market.  
+In November, data from the Japanese Ministry of Statistics revealed that domestic inflation for October increased by 2.3% year-on-year (YoY), slightly surpassing the forecast of 2.2%. This marks the highest inflation rate in 14 months, exceeding the Bank of Japan's (BOJ) target of 2%.   
+The persistently high inflation has diminished the effectiveness of domestic consumption stimulus measures, leading to lowered market expectations for a potential rate cut by the BOJ at its upcoming policy meeting on December 18-19. Analysts now anticipate a hike in short-term rates to 0.5% from the current 0.25%, as inflationary pressures persist due to rising wages and the renewed depreciation of the yen.  
+
+#### Sector News: 
+_Technology Sector_: Chip-making equipment maker Tokyo Electron (8035.T) jumped 2.16%; Chip-testing equipment maker Advantest (6857.T) rose 0.66%; Chip materials maker Resonac (4004.T) jumped 4.66%. 
+_Transportation Sector_: The TOPIX Transportation Equipment Index (.ITEQP.T) experienced a slight decline of 0.15%, with Toyota Motor (7203.T) falling by 0.37%, which weighed on the Topix index.  
+_Health Services Sector_: The TOPIX Pharmaceutical Index (.IPHAM.T) decreased by 0.43%, driven by a 1.07% decline in Daiichi Sankyo (4568.T).  
+
+#### Single Stock News: 
+On Wednesday, November 20, Sony Group Corp. (TYO: 6758) announced acquisition discussions with media conglomerate Kadokawa, the company behind popular titles such as Elden Ring and Sekiro: Shadows Die Twice.  In early afternoon trading, Kadokawa shares rose by 15.91% to ¥4,341 on the Tokyo Stock Exchange, while Sony Group Corp. also advanced by 2.86% to ¥3,020, despite the broader market’s Nikkei 225 index drifting lower.  
+According to data from a Sony presentation, the anime market is projected to nearly double to $60 billion by 2030, indicating significant growth potential in Japan's gaming and entertainment industry.
+
+### India
+
+_Written by Charles SHI Qiyuan_
+
+#### Macro: 
+Despite a significant mid-week decline, both the Sensex benchmark and the NIFTY 50 Index rebounded to close higher, with respective gains of 1.98% and 1.46%. This is driven by widespread healthy buying, particularly in heavyweight stocks. However, concerns over high valuations and the rise of the US Dollar Index continued to exert selling pressure on the Indian stock market. Since October, foreign institutional investors have withdrawn a total of INR 1.2168 trillion (equivalent to over HKD 120 billion). On November 18, net selling of Indian equities by global funds triggered a sharp market downturn, with the Sensex falling by 853.99 points (0.31%) to close at 77,339.01 points, reflecting a cumulative decline of more than 10% from its September peak. Similarly, the Nifty index has also fallen by more than 10% from its historical high. Furthermore, data from the Indian Ministry of Statistics revealed that 
+domestic inflation for October rose by 6.21% year-on-year, the highest level in 14 months, exceeding the RBI’s tolerance band of 2%-6%. The persistence of high inflation has further dampened the effectiveness of domestic consumption stimulus measures, diminishing market expectations for a potential rate cut by the RBI at its upcoming policy meeting on December 6. 
+
+#### Sector News: 
+The upcoming results of the Maharashtra elections could lead to a rebound in the infrastructure and banking sectors. The NDA, led by the BJP, is expected to secure a decisive victory in the elections, and the government has placed a special focus on infrastructure development. As companies in the infrastructure sector seek credit lines from banks, banking stocks may also see some potential buying interest. Investors have already started to pay attention to stocks in the railway, infrastructure, and banking sectors. The positive impact of political stability on investor sentiment is likely to drive a shift in investment strategies from defensive to more aggressive positions. 
+
+#### Single Stock News: 
+Stock Crash of Adani Enterprises Ltd (NSE: ADANIENT): On Thursday, November 21, Gautam Adani and seven other corporate executives were charged in New York 
+for allegedly being involved in a multi-billion-dollar bribery and fraud scheme. Despite the group denying the allegations and actively seeking legal remedies, panic selling led to significant losses in Adani Group-related stocks. The biggest drop was seen in the heavyweight stock Adani Enterprises, which closed at ₹2,182.55 on the 21st, falling 22.61% to reach its lowest point. This sell-off directly impacted the Indian stock market, with Sensex dropping 422.59 points (0.54%) and NIFTY 50 falling 168.60 points (0.72%) on the same day.
 </x-accordion>
 
 
@@ -68,7 +215,7 @@ Boarder tech sector IBM due on Wed.
 Telecom majors VZ (Tue), TMUS (Wed) and T (Wed) are also due.
 Consumer names LRLCY (Tue), MMM (Tue), KO (Wed)
 
-### CN/HK Macro
+### China and Hong Kong Macro
 Chinese equities rose as the central bank unveiled more support measures after data showed that deflationary pressures grew more entrenched in the economy. The Shanghai Composite Index gained 1.36% in local currency terms, while the blue chip CSI 300 added 0.98%. HSI Index fell 2.11%.
 GDP reported to be at 4.6% higher than consensus, though lower than Q2 at 4.7% and government’s target at 5%.
 Other economic data showed signs of improvement. Industrial production rose a better-than-expected 5.4% yoy vs prev. +4.5%. Retail sales grew an above-forecast 3.2 yoy vs prev. +2.1%. Higher sales ofhousehold appliances were a contributing factor. Meanwhile, PPI fell a bigger-than-expected 2.8% from a year ago, deepening from August’s 1.8% drop.
@@ -98,13 +245,13 @@ MS will report on Wednesday, rounding out the major bank earnings.
 Chipmaking bellwether also reports on Wednesday.
 NFLX will report on Thursday.
 
-### CN/HK Macro News
+### China and Hong Kong Macro News
 Shanghai Composite Index lost 3.56%, CSI300 -3.25% and HIS -6.53%, pulling back from the peak in the week before after optimism of the policy boost faded.
 The People’s Bank of China initiated a swap facility worth RMB 500 billion to inject liquidity into institutional investors for stock purchases. This program allows nonbank financial entities like securities firms, funds, and insurers to access highly liquid assets such as government bonds and central bank bills by providing specific collateral. This move was a part of an extensive stimulus plan unveiled by the central bank in late September, which encompassed interest rate reductions and other strategies aimed at revitalizing China’s economy.
 Spending by Chinese consumers during the recent extended holiday fell short of pre-pandemic levels. Official data revealed a 5.9% rise in passenger traffic and a 6.3% increase in spending compared to the previous year. Box office earnings stood at RMB 2.1 billion, a decline from RMB 2.7 billion recorded a year ago. Nevertheless, the average daily expenditure per trip rose to about RMB 131, up from RMB 113 during the five-day Labor Day break in May.
 Earlier this morning, Goldman Sachs raises China’s GDP forecast to 4.9% in 2024.
 
-### CN/HK Sector News
+### China and Hong Kong Sector News
 EV: Guangzhou Automobile Group Co 2238.HK is exploring the manufacture of EVs in Europe to avoid EU tariffs. It will launch an electric SUV tailored to the European market at the Paris Auto Show, kicking off on Monday.
 
 ### TW Macro
@@ -147,7 +294,7 @@ The rally is accompanied by good consumer data that ease recession fears. Retail
 ### Single stock
 INTC ended the week with an announcement of a potential acquisition with Qualcomm which helped pushed the stock up 11% for the week.
 
-#### CN/HK
+#### China and Hong Kong
 Chinese equities rose in a holiday-shortened week as the Fed’s decision to cut interest rates offset a batch of disappointing economic data. The Shanghai Composite Index gained 1.21%, while the blue chip CSI 300 added 1.32%.
 Disappointing foreign direct investment flows on Friday were down 31.5% on the same period last year, the biggest fall since January 2009. Industrial production rose 4.5% from a year earlier, lagging forecasts and down from July’s 5.1% increase amid weaker commodity prices and auto sales. Retail sales expanded a below-consensus 2.1% from a year ago, easing from July’s 2.7% rise.
 The yuan is its strongest in 16 months though, thanks to the central bank’s reluctance to cut rates and rising expectations that authorities will soon unveil stimulus that will revive growth, asset prices and confidence.
@@ -156,7 +303,7 @@ Tech-front, the U.S. Commerce Department is expected on Monday to propose prohib
 ### Single stock
 BYD is expected to expand into Pakistan in partnership with Pakistan’s biggest private electricity producer Hub Power’s subsidiary Mega Motor to set up the country’s first electric vehicle assembly plant by 2026.
 
-#### JP
+#### Japan
 Japan’s stock markets rose over the week, with the Nikkei 225 Index gaining 3.1% and the broader TOPIX Index up 2.8%.
 The Bank of Japan decided not to raise rates, but it signaled it is in no hurry to raise them again. This helped push the yen to its weakest daily close since September 4, which in turn helped lift Japanese stocks. The yen starts the week on a soft footing after a roller-coaster ride last week. It rallied through 140.00 per dollar for the first time in over a year but closed near 144.00 per dollar for a weekly loss of 2%, its worst week since April.
 Data-wise, core CPI rose 2.8% year on year in August, in line with expectations and up from 2.7% in July. The overall CPI rose 3.0%, also matching consensus and up from the prior month’s 2.8%.
