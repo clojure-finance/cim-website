@@ -6,6 +6,43 @@
 
 ## Headlines
 
+<x-accordion summary="Week of 22/11/2024">
+
+_Written by Sarah LEONG Si Ian_
+
+</x-accordion>
+
+
+<x-accordion summary="Week of 15/11/2024">
+
+_Written by Erika Lau and Kevin Xia_
+
+### US Macro
+The U.S. stock market saw a partial retreat from the gains made during the “Trump Trade” period, with uncertainty surrounding the new administration’s policies influencing market movements.
+Data-wise, inflation data on Wed were largely in line with expectations with headline prices rising 0.2% in October and core prices rising 3%. Yoy headline inflation rose from 2.4% to 2.6%, for the first time since March. Powell spoke on Thu that “the economy is not sending any signals that we need to be in a hurry to lower rates.” Which lowers the CME 25bps cut in December from 64.6% to 58.4%.
+Long-term interest rates rose, reflected in the 10-year U.S. Treasury note reaching a five-month high. Corporate bond markets saw active issuance, with spreads widening as investors focused on new supply. Similarly, the high yield market experienced some downward pressure due to rate movements and increased primary market activity, while the bank loan market remained active with a high volume of new deals.
+
+### US Sector News
+Electric vehicle (EV) stocks, including Tesla, experienced fluctuations following reports of the potential end of tax credits for EV purchases by the incoming administration. Economic indicators such as inflation data and remarks from Federal Reserve Chair Jerome Powell added to market dynamics, with expectations for interest rate cuts shifting slightly over the week.
+Bitcoin had surged by nearly a third (32.46%) since the eve of the election, as investors anticipated looser regulation of digital currencies.
+However, sectors like financials and energy benefited from hopes of deregulation, while health care shares faced a decline due to concerns over the nomination of Robert F. Kennedy, Jr., known for his criticisms of the pharmaceutical industry.
+
+### EU Macro
+In local currency terms, the pan-European STOXX Europe 600 Index ended 0.69% lower, falling for a fourth consecutive week due to the concern about upcoming Trump administration and trade policies.
+Higher tariffs on eurozone exports to the US could weaken economic growth in the eurozone, but would have a mixed effect on inflation, according to ECB’s Piero Cipollone. The impact on euro area inflation could be offset by a weakening euro, which would increase the prices of imports priced in US dollars.
+The European Commission’s Autumn Economic Forecast projects GDP growth in 2024 at 0.9% in the EU and 0.8% in the euro area. Economic activity is expected to accelerate in 2025 and 2026, with inflation easing significantly.
+
+### CN Macro
+The Shanghai Composite Index fell 3.52%, while the blue chip CSI 300 gave up 3.29%. HSI plunged 6.28% amid persistent deflation pressure and worries over US tariffs. China consumer price index rose 0.3%, lower than consensus and down from 0.4% from Sep.
+
+### CN Sector news
+Property - There was a 0.5% decrease in new home prices across 70 cities in October compared to September. This followed a 0.7% drop in home prices from August to September. Bloomberg reported that October saw the second consecutive month of decelerating home price declines, with the slowest rate of decline since March. The positive trend was attributed to a set of stimulus actions implemented by Beijing in recent months to revitalize the housing market, such as lowering mortgage rates, easing home purchase restrictions in major cities, and reducing taxes on property transactions.
+
+### JP Macro
+Japan’s stock markets experienced a decline during the week, with the Nikkei 225 Index dropping by 2.2% and the broader TOPIX Index decreasing by 1.1%.
+The yen depreciated to the JPY 155 level against the U.S. dollar, compared to 152.6 following the US election outcomes. This shift was influenced by anticipations that Trump’s win could lead to inflationary policies, potentially impacting the Federal Reserve’s intentions to reduce borrowing rates.
+</x-accordion>
+
 <x-accordion summary="Week of 18/10/2024">
  
 _Written by Erika Lau_
@@ -105,21 +142,21 @@ _Written by Erika Lau_
 ### US
 The large-cap indexes moved to record highs as investors celebrated the kickoff of the rate-cutting cycle by a 50 bps cut on Thursday morning. The rally was also relatively broad, with the smaller-cap indexes outperforming, although they remained below previous peaks—the small-cap Russell 2000 Index, in particular, ended the week roughly 9% below the all-time high it established in November 2021.
 The rally is accompanied by good consumer data that ease recession fears. Retail sales on Tue had risen 0.1%, which was more than expected and which followed an upwardly revised jump of 1.1% in July. The downside surprise on jobless claims on Thu provided more evidence for supporting the consumer in good shape. The housing sector also improved by a 4.9% rise in housing permits of August on Wed, although sales of existing homes had unexpectedly fallen 2.5%.
-## Credits
+#### Credits
 10 year treasury yield rose. Spreads in the investment-grade corporate bond market tightened throughout the week as higher rates spurred demand early in the week. Issuance occurred early in the week, before the Fed’s policy meeting, and was, on average, oversubscribed.
-## Single stock
+### Single stock
 INTC ended the week with an announcement of a potential acquisition with Qualcomm which helped pushed the stock up 11% for the week.
 
-### CN/HK
+#### CN/HK
 Chinese equities rose in a holiday-shortened week as the Fed’s decision to cut interest rates offset a batch of disappointing economic data. The Shanghai Composite Index gained 1.21%, while the blue chip CSI 300 added 1.32%.
 Disappointing foreign direct investment flows on Friday were down 31.5% on the same period last year, the biggest fall since January 2009. Industrial production rose 4.5% from a year earlier, lagging forecasts and down from July’s 5.1% increase amid weaker commodity prices and auto sales. Retail sales expanded a below-consensus 2.1% from a year ago, easing from July’s 2.7% rise.
 The yuan is its strongest in 16 months though, thanks to the central bank’s reluctance to cut rates and rising expectations that authorities will soon unveil stimulus that will revive growth, asset prices and confidence.
 Sector-wise, EU tariffs on Chinese EV makers are revised down. BYD saw tariffs cut to 17% from 17.4%, Geely to 19.3% from 19.9%, and SAIC saw a reduction to 36.3% from 37.6%. Despite the tariffs, analysts say Chinese EV prices will remain competitive in Europe when compared to Chinese-made Tesla. Research by Rhodium group suggests tariffs of up to 50% are needed to significantly deter Chinese EV exports.
 Tech-front, the U.S. Commerce Department is expected on Monday to propose prohibiting Chinese software and hardware in connected and autonomous vehicles on U.S. roads due to national security concerns, sources told Reuters. The proposed regulation would ban the import and sale of vehicles from China with key communications or automated driving system software or hardware. More details await.
-## Single stock
+### Single stock
 BYD is expected to expand into Pakistan in partnership with Pakistan’s biggest private electricity producer Hub Power’s subsidiary Mega Motor to set up the country’s first electric vehicle assembly plant by 2026.
 
-### JP
+#### JP
 Japan’s stock markets rose over the week, with the Nikkei 225 Index gaining 3.1% and the broader TOPIX Index up 2.8%.
 The Bank of Japan decided not to raise rates, but it signaled it is in no hurry to raise them again. This helped push the yen to its weakest daily close since September 4, which in turn helped lift Japanese stocks. The yen starts the week on a soft footing after a roller-coaster ride last week. It rallied through 140.00 per dollar for the first time in over a year but closed near 144.00 per dollar for a weekly loss of 2%, its worst week since April.
 Data-wise, core CPI rose 2.8% year on year in August, in line with expectations and up from 2.7% in July. The overall CPI rose 3.0%, also matching consensus and up from the prior month’s 2.8%.
