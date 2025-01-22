@@ -21,6 +21,63 @@ Among the 11 sectors of the S&P 500 Index, only one ended the week in positive t
 #### Single Stock News:
 Walgreens Boots Alliance, Inc. (NASDAQ: WBA) saw its stock rise by 28% to $11.82 after reporting first-quarter financial results that exceeded market expectations. IGM Biosciences Inc. (NASDAQ: IGMS) experienced a significant decline of 66%, with its stock falling to $2.1250 following the company's announcement to discontinue further development of Imvotamab and IGM-2644.
 
+### Europe
+
+_Written by Robin HONG Yee Ching_
+
+#### Macro:
+The STOXX 50 and STOXX 600 fell nearly 1% on Friday, driven lower by astronger-than-expected U.S. jobs report that reinforced the Federal Reserve's cautious stance on future rate cuts. This, combined with inflation concerns, the ongoing UK debt market crisis, and uncertainty over President-elect Trump's potential tariff policies, weighed heavily on investor sentiment. Most sectors and bourses were in the red, with utilities and food & beverage stocks dropping 2.3%, while autos were the exception, rising 0.48%.
+
+#### Sector News:
+The banking sector was buoyed by UBS shares, which surged nearly 10% week on week to a 16-year high following a Wall Street Journal report that the bank would be fined hundreds of millions in a settlement with the US Justice Department. The case is related to Credit Suisse, which was investigated for violating a plea agreement involving assistance to US taxpayers in filing false income tax returns.
+
+#### Single Stock News:
+Marks and Spencer’s on Thursday said like-for-like food sales rose 8.9% in the 13 weeks to the end of December, while clothing, home and beauty added 1.9% over the same period. “This was another good Christmas for M&S,” chief executive Stuart Machin said in a statement. “Sales records were broken across the business, with Food recording its biggest day and Clothing, Home & Beauty online its biggest week, but we’re not complacent — as a growth business it’s our job to break records.” The external environment however would remain challenging, Machin warned, pointing to cost and economic headwinds, but also noted that there was much in the group’s control.
+
+### Mainland China & HKSAR
+
+_Written by Kevin XIA Yunchu_
+
+#### Marco:
+China's Central Economic Work Conference (CEWC) concluded on January 9, 2025, with policymakers emphasizing proactive policy support to bolster consumption and stabilize housing and stock markets. The conference highlighted the need for a higher fiscal deficit and moderately loose monetary policy to address economic challenges. Despite these measures, China's retail sales softened to 3.0% year-on-year growth in December, while industrial production rose by 5.4% year-on-year. The Producer Price Index (PPI) inflation rose to -2.5% year-on-year, indicating a demand pick-up for industrial products. In Hong Kong SAR, the Hang Seng Index fell by 1.83% in its final hour of trade on January 13, 2025, while the CSI 300 Index in mainland China lost 2.37% and ended at 3,933.18. The decline was attributed to Beijing's stimulus pledges falling short of investor expectations.
+
+#### Sector News:
+The technology sector in Hong Kong SAR saw significant movements, driven by the listing of several sizeable deals, including four of the ten largest IPOs in the past three years. These listings included Specialist Technology Companies under Chapter 18C, primarily engaged in Al and robotics. This influx of tech IPOs has reinforced Hong Kong's position as a hub for innovation and contributed to a 78% increase in funds raised compared to 2023.
+
+#### Single Stock News:
+In mainland China, BYD Company Ltd (SZ: 002594)., a leading electric vehicle manufacturer, experienced a notable surge in its stock price following reports of increased production targets and expansion plans. The company's shares rose by 7.5% over the week, reflecting investor optimism about its growth prospects. In Hong Kong SAR, Mao Geping (HK: 01318), a Chinese cosmetics firm, made a spectacular debut on the stock market. The company's shares surged by 70% on the first day of trading, reaching HK$53.05 at its peak. The IPO was highly popular, with retail investors oversubscribing the shares 918 times. This strong performance highlights the growing interest in premium beauty products and the company's successful market entry.
+
+### Japan
+
+_Written by Dacian DENG Shen_
+
+#### Marco:
+Japan's stock markets declined over the week, with the Nikkei 225 Index dropping 1.8% and the TOPIX Index falling 2.5%. Speculation persisted about the timing of the Bank of Japan’s (BoJ) next interest rate hike. The yen weakened against the U.S. dollar due to uncertainty surrounding BoJ’s monetary policy normalization and the widening U.S.-Japan interest rate differential. Japan's Finance Minister issued a warning against speculative currency moves, signaling potential intervention. In fixed income, the 10-year Japanese government bond (JGB) yield rose to 1.19%, the highest since 2011, driven by higher U.S. Treasury yields and reduced expectations of Federal Reserve rate cuts. The BoJ maintained a tightening bias, but recent comments suggest the likelihood of a January rate hike is low, with some investors predicting delays until March or April. Meanwhile, Japan’s real wage growth declined for the fourth consecutive month in November, falling 0.3% year-on-year. The BoJ remains focused on economic and price developments, along with wage growth, to determine future rate hikes.
+
+#### Sector News:
+Retail Sector:
+Seven & i Holdings <3382> increased by 0.12%. Fast Retailing <9983>, whose operating profit for the September-November 2024 period, announced the previous day, fell short of market expectations, causing its stock to plunge nearly 8% at one point. The sharp drop in Fast Retailing worsened investor sentiment, dragging the Nikkei 225 down by over 300 points alone.
+
+Technology Sector:
+Advantest <6857> increased by 12.85%. NTT Data <9613> decreased by 0.76%. TDK <6762> decreased by 8.56%.
+
+#### Single Stock News:
+KKR has urged the board of Fuji Soft <9749> to take legal action against Bain Capital, accusing its rival of violating a non-disclosure agreement in their $4 billion bid for the Japanese software company. KKR's call for an injunction escalates the public battle between the two private equity firms, a rare occurrence in Japan. Bain launched a $4.3 billion counterbid in December, positioning itself as a "white knight" with the support of Fuji Soft's founder, despite the board repeatedly backing KKR's lower bid due to fears of a potential deadlock and concerns about Bain's higher bid timeline. KKR also accused Bain of misusing confidential information and misleading the market, while Bain argued it had destroyed all required data and would proceed with its offer based on public information. Fuji Soft's shares rose above Bain's offer price, leading analysts to speculate on the possibility of higher bids.
+
+### India
+
+_Written by Justin CHUNG Lok Yin_
+
+#### Macro:
+This week, the Indian stock market experienced a significant downturn. The NIFTY 50 Index declined by 2.49%, and the SENSEX Index dropped by 2.2%. Investor confidence in the Indian market remained weak. The closing of global markets at lower levels this week set the stage for declines in major Asian markets. An increased expectation that the U.S. Federal Reserve will maintain its current interest rate has strengthened the U.S. dollar and raised bond yields, adversely affecting global market performances. If the Fed decides to hold rates in January, the Reserve Bank of India may be more inclined to hold rates in February, which could further impact market performances. Amid ongoing uncertainties, foreign portfolio investors (FPIs) have divested over ₹8,500 crore from Indian equities in January. Persistent foreign capital outflows remain a key factor in the depressed Indian stock market. India's economy is projected to grow by 6.4% in the fiscal year ending in March 2025, marking the slowest growth since the COVID-impacted fiscal year of 2020/21 and a decline from the 8.2% growth of the previous year. This figure also falls short of the government's earlier forecast of 6.5%. The slowdown is primarily attributed to weaker growth in gross fixed capital formation and inventories, despite accelerated spending by the private sector (7.3% compared to 4%) and the government (4.1% compared to 2.5%). Additionally, exports grew at a faster rate (5.9% compared to 2.6%), while imports contracted (-1.3% compared to 10.9%). On the production side, manufacturing growth is expected to slow significantly (5.3% compared to 9.9%), while growth in other major GDP contributors such as trade and hotels (5.8% compared to 6.4%) and financial services and real estate (7.3% compared to 8.4%) also moderated, offset by a stronger performance in agriculture (3.8% compared to 1.4%).
+
+#### Sector News:
+Auto: The Federation of Automobile Dealers Associations (FADA) reported that auto retail grew by 9.1% year-on-year in 2024 despite challenges such as extreme weather, elections, and uneven monsoons. However, the data for December was disappointing, as overall retail declined by 12.4%, with almost all segments showing degrowth. In December, two-wheeler retails were affected by low cash flow, poor sentiment, delayed harvest payments, and heightened competition from electric vehicles, while the passenger vehicle segment saw degrowth due to high post-festive inventory, aggressive discounting, and limited new launches, with many buyers deferring purchases until January.
+
+#### Single Stock News:
+Tata Consultancy Services Ltd (NSE: TCS):
+The company gained 5.6% on January 10, Friday, culminating in a net 3.35% gain for the week. The largest IT firm in India announced positive results for the October to December quarter on January 9, Thursday, reporting a 12% rise in net profit to ₹12,380 crore for the third quarter of the fiscal year 2024-25, compared to ₹11,058 crore in the previous year.
+
 </x-accordion>
 
 
