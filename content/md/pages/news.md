@@ -6,6 +6,24 @@
 
 ## Headlines
 
+<x-accordion summary="Week of 10/01/2025">
+
+### US
+
+_Written by Rachel HU Xinyue_
+
+#### Macro:
+This week, the U.S. stock market opened on a weak note, with all three major indices closing the week down by more than 1.5%. The Dow Jones Industrial Average dropped 1.88%, the S&P 500 fell 1.95%, and the Nasdaq Composite declined 2.34%. Labor market data remained robust, with initial jobless claims for the week ending January 4 declining by 10,000 to 201,000—the lowest level in 11 months. In the energy sector, U.S. crude oil inventories decreased by 959,000 barrels, while gasoline and distillate stocks increased by 6.33 million barrels, leading to weekly price increases of 3.59% and 3.69% for WTI and Brent crude, respectively. Despite positive labor and energy market developments, consumer confidence weakened. The University of Michigan Consumer Sentiment Index fell from 74 in November to 73.23 in December, below expectations of 73.8, reflecting lingering concerns over future inflation despite an easing in perceptions of current living costs. In addition, the unemployment rate in December decreased from 4.2% to 4.1%, better than market forecasts. Non-farm payrolls increased by 256,000, marking the largest gain in nine months, with retail contributing 43,000 new jobs. Strong labor market performance dampened investor expectations for another Federal Reserve rate cut within the next six months.
+
+#### Sector News:
+Among the 11 sectors of the S&P 500 Index, only one ended the week in positive territory, with the financials, real estate, and technology sectors leading the declines. Insurance stocks experienced significant losses this week due to forecasts of wildfire damages in California reaching $20 billion. Mercury General Corporation (MCY) saw its stock price drop 24% this week, The Allstate Corporation (ALL) fell by 5.64%, and The Travelers Companies, Inc. (TRV) declined by 4.26%. However, it is anticipated that insurance companies may have brighter prospects in the long term after overcoming this short-term setback. The technology sector led the losses this week. Semiconductor stocks plummeted as the Biden administration prepared to impose a new round of restrictions on AI chip exports. Nvidia closed down 5.76%, AMD declined by 4.76%, and NXP Semiconductors ended the week 5.1% lower. Apple dropped 2.41%, likely due to concerns over 2025 shipment projections falling short of market expectations.
+
+#### Single Stock News:
+Walgreens Boots Alliance, Inc. (NASDAQ: WBA) saw its stock rise by 28% to $11.82 after reporting first-quarter financial results that exceeded market expectations. IGM Biosciences Inc. (NASDAQ: IGMS) experienced a significant decline of 66%, with its stock falling to $2.1250 following the company's announcement to discontinue further development of Imvotamab and IGM-2644.
+
+</x-accordion>
+
+
 <x-accordion summary="Week of 29/12/2024">
 
 ### US
