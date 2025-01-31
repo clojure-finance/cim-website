@@ -6,8 +6,78 @@
 
 ## Headlines
 
-<x-accordion summary="Week of 10/01/2025">
+<x-accordion summary="Week of 25/01/2025">
 
+### US
+
+_Written by Rachel HU Xinyue_
+
+#### Macro:
+This week, the US stock market continued to rise, with the S&P 500 up by 1.74%, the Nasdaq rising by 1.65%, the Dow Jones up by 2.15%, and the Russell 2000 increasing by 1.4%. It is expected to mark the best performance in the first five trading days of a presidential term since President Reagan's inauguration in 1985. As Trump softened his rhetoric regarding tariffs, the US dollar weakened significantly against major currencies this week. The US Dollar Index posted its largest weekly drop since November 2023, while gold prices continued to rise, increasing from 2.740 to 2.777. Meanwhile, US Treasury bonds saw little price movement, with the 10-year bond yield almost unchanged compared to the previous week, following a sharp decline in recent weeks due to concerns that the new administration's agenda would increase government debt and push up inflation. On Tuesday, Trump announced the "Stargate" plan, which involves a $500 billion investment over the next four years to boost AI infrastructure, further fueling market optimism. Additionally, in his speech at Davos, Trump called for Saudi Arabia and OPEC to lower oil prices and to encourage the return of manufacturing to the US, which led to a sharp drop in oil prices, with WTI decreasing from 77.8 to 74.6. On Thursday, the U.S. Department of Labor released a report showing that as of January 18, the number of initial jobless claims in the U.S. increased by 6,000 from the previous week, marking the largest weekly increase in six weeks. Meanwhile, the number of continuing claims rose by 46,000 from the previous week, representing the largest increase since November 2021. On Friday, the National Association of Realtors released a report showing a 2.2% month-on-month increase in US existing home sales in December, marking the highest level since February 2024, highlighting a strong recovery in housing sales.
+
+### Sector News:
+This week, nuclear energy stocks performed strongly, with NANO Nuclear Energy (NNE) rising by 80.13%, NuScale Power (SMR) up by 27.31%, and Oklo (OKLO), where Ortman serves as a director, increasing by 60.54%. Due to Trump's Stargate Plan, AI-related stocks surged, with Oracle's stock (ORCL) rising by 14%, NVIDIA (NVDA) increasing by 3.6%, and Arm (ARM) up by 8.9%.
+
+### Single Stock News:
+Novo Nordisk (NVO) shares surged by 11.79% this week, as the latest clinical trial results showed that the company's weight-loss drug helped patients reduce 22% of their body weight over 36 weeks. Drone-related stock SES AI Corp (SES.US) soared by over 70% after signing a $10 million contract with two global OEM partners. Blockchain company Diginex (DGNX.US) triggered multiple circuit breakers, with its stock now up by 160.93%.
+
+### Europe
+
+_Written by Robin HONG Yee Ching_
+
+### Macro:
+European equities extended gains on Thursday, with the STOXX 600 up 0.22% and the DAX rising 0.74% to another record high. Optimism surrounding Trump’s pro-growth policies and easing trade rhetoric buoyed sentiment, alongside strong corporate earnings. Siemens Energy surged 6.6% on favorable analyst commentary about AI-driven infrastructure demand, while Adidas gained 1.9% after upbeat results. UK’s FTSE 100 also neared record levels, supported by rising energy and industrial stocks. Investors are eyeing next week’s ECB meeting, where another rate cut is anticipated, and key macro data including Eurozone PMIs today.
+
+### Sector News:
+The luxury sector is navigating a challenging landscape as it attempts to recover from recent downturns. Following a period of robust growth post-COVID, marked by double-digit increases, the industry now faces significant hurdles. Analysts predict a slow recovery in 2025, with major brands like LVMH, Kering, and Burberry expected to see modest sales growth of 3% to 4%. Factors such as a sluggish Chinese market, potential new tariffs in the U.S., and cautious consumer spending are contributing to this uncertainty. While some brands are adapting their strategies to retain high-net-worth customers and appeal to the middle class, the overall sentiment remains mixed as the sector grapples with shifting consumer preferences and economic pressures.
+
+### Single Stock News:
+Novo Nordisk's shares jumped over 9% after announcing that its new drug, amycretin, resulted in a 22% weight loss for participants with obesity in a clinical trial. The trial involved 125 individuals averaging 93 kg and lasted 36 weeks. Unlike Wegovy, which it resembles, amycretin also targets the hormone amylin, which plays a role in hunger regulation.
+
+### Mainland China & HKSAR
+
+_Written by David LU Zhiyuanu_
+
+### Macro:
+As January 2025 comes to an end, Chinese equities displayed mixed performance as markets approached the Chinese New Year. The SSE Composite Index decreased slightly by 0.19%, while the SZSE Component Index fell by 1.62%, with profit-taking in growth stocks continuing to weigh on sentiment. In contrast, the HSI increased by 0.34%, reflecting cautious optimism in Hong Kong's market as investors anticipated stronger economic policies from Beijing. Trading activity was influenced by seasonal factors, with consumer and travel-related sectors seeing some support ahead of the holiday. Looking forward, analysts expect the government to introduce more supportive measures to stabilize growth amid global uncertainties, while the holiday period is likely to bring subdued trading as investors await clearer signals on China's economic recovery.
+
+### Sector News:
+Ice and snow economy: The release of ice and snow economy policies targets industry growth to 1.2 trillion yuan by 2027 and 1.5 trillion yuan by 2030, emphasizing winter sports, tourism, infrastructure, and equipment upgrades. These policies balance supply-side upgrades and demand-side incentives, promoting high-quality development. Functional apparel is a key beneficiary, with down jackets and outdoor apparel seeing strong sales in the winter season. The 2025 Asian Winter Games in Harbin, alongside recent tourism-boosting policies, is expected to sustain consumer enthusiasm and drive growth in key destinations and related industries. EV sector: New energy vehicle (EV) stocks showed resilience, supported by favorable policies aimed at boosting industry growth. Leading EV makers rose modestly, with BYD (1211.HK) gaining over 3%. On the policy front, recent announcements highlighted increased subsidies for EV purchases in rural areas and expanded support for charging infrastructure, aiming to accelerate EV adoption and promote green consumption. Analysts believe these measures, coupled with long-term goals for carbon neutrality, will strengthen the EV supply chain and drive sustainable growth. The focus on expanding charging networks and reducing ownership costs is expected to solidify consumer confidence and enhance the competitiveness of domestic EV manufacturers.
+
+### Single Stock News:
+Zhongbai Group (SHE:000759) surged 54.42% last week, making it one of the top-performing stocks in the A-share market. The rally was driven by market speculation surrounding potential reforms in the retail sector and expectations of policy support for state-owned enterprises (SOEs). Analysts suggest the stock's sharp rise may also be linked to improved consumer sentiment and increased activity in the domestic retail market but caution against overheating due to speculative trading. Shanghai Phoenix (SHA:600679) dropped 30.51% last week, marking a significant decline in its stock price. The sharp decline may be attributed to profit-taking by investors after previous gains, as well as concerns over the company's growth prospects in a highly competitive e-bike market. Analysts suggest that the drop reflects market caution toward speculative trading, highlighting the need for sustained business performance to restore investor confidence.
+
+### Japan
+
+_Written by Dacian DENG Shen_
+
+### Macro:
+Japan’s stock markets rose over the week, with the Nikkei 225 gaining 3.85% and the TOPIX Index up 2.67%, as Japanese exporters benefited from U.S. President Donald Trump’s decision not to impose new tariffs. However, yen strength, supported by government and Bank of Japan (BoJ) actions, posed a modest headwind. The yen appreciated to the high JPY 155 range against the USD. The BoJ raised its policy rate by 0.25 percentage points to 0.5%, the highest level since 2008, marking its third hike in a year. This move, along with an upward revision to inflation expectations for 2025, signals potential further rate increases later in the year. Japan’s core consumer price index rose 3.0% year-on-year in December 2024, exceeding the BoJ’s 2% target and supporting monetary policy normalization. The 10-year Japanese government bond yield also rose to 1.23%.
+
+### Sector News:
+Japan’s largest banks, including MUFG, SMFG, and Mizuho, are nearing or surpassing key valuation levels for the first time in nearly a decade, as expectations rise that the Bank of Japan (BoJ) will increase interest rates and further normalize monetary policy. MUFG is now trading above its book value, while SMFG and Mizuho are at or close to this level, driven by the anticipated end of Japan's long-standing negative interest rate policy. Analysts predict that the average price-to-book ratio for the three megabanks could reach 1.1–1.2 by mid-2025. While megabanks benefit from improving market conditions and international expansion (e.g., MUFG generates over half its revenues abroad), smaller regional banks continue to trade at significantly lower valuations, reflecting persistent challenges.
+
+### Single Stock News:
+Fuji Media Holdings is in crisis after allegations involving Masahiro Nakai, a former SMAP member and Fuji TV star, led 80 major advertisers, including Toyota and McDonald’s, to pull ads. Activist investors have criticized the company’s poor handling of the scandal, accusing it of governance failures and moral corruption. In response, Fuji Media announced an independent investigation, though its limited press access and muted response have drawn further backlash. Nakai denied allegations of violence but announced his retirement, while the company’s shares rose on speculation of asset sales and management changes. The scandal has reignited concerns about harassment in Japan’s media industry and could have lasting financial impacts despite limited short-term effects. Analysts warn advertisers may not renew contracts, and investors see the crisis as a chance to push for governance reforms. Fuji Media’s significant assets, including real estate and stock holdings, remain undervalued, with shareholders calling for management changes to unlock potential value.
+
+### India
+
+_Written by Kevin XIA Yunchu_
+
+### Macro:
+The Indian stock market experienced notable volatility this week. The benchmark indices, Sensex and Nifty 50, faced significant declines, closing at 76,330.01 (-1.36%) and 23,085.95 (-1.47%) respectively. Financial sectors were hit the hardest, especially with investors winding up positions due to the last day of FaO expiry. Analysts attribute the market downturn to reactions ahead of the Federal Open Market Committee (FOMC) meeting in the US and budget announcements in India.
+
+### Sector News:
+IT and Technology: The technology sector remained resilient despite the broader market turbulence. A number of IT companies, including TCS and Infosys, reported strong earnings, which somewhat helped buffer the negative sentiment across the market. Oil & Gas: The oil and gas sector was under pressure this week. This stemmed from global events, including US announcements to boost crude output, leading to Brent crude prices settling at $78 per barrel, a 4% drop over 5 days. Banking and Finance: The banking sector experienced considerable selling pressure. Stocks of India's major banks likenICICI Bank and HDFC Bank were particularly impacted, with the sector index dropping by 1.42%.
+
+### Single Stock News:
+Adani Enterprises: An FPO announcement led to significant movement in Adani Enterprises' stock, which saw a decline of 6.29%. Investors remained cautious, leading to considerable offloading of positions. Wipro and Tanla Platforms: Several stocks, including Wipro and Tanla Platforms, are set to trade ex-dividend next week. This captures the interest of long-term investors looking for dividends.
+
+</x-accordion>
+
+
+<x-accordion summary="Week of 10/01/2025">
+ 
 ### US
 
 _Written by Rachel HU Xinyue_
