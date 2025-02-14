@@ -181,7 +181,7 @@ The banking sector has emerged as a prominent player in European M&A activities,
 #### Single Stock News:
 Delivery Hero SE witnessed a significant 9% drop in its stock value after Taiwan's Fair Trade Commission blocked Uber Technologies Inc.'s planned $950 million acquisition of its Foodpanda business on antitrust grounds. This decision had a notable impact on Delivery Hero, which had intended to utilize the sale proceeds to bolster its financial position amidst ongoing restructuring efforts prompted by activist investor pressures. In contrast, Banca Monte Dei Paschi di Siena SpA has seen its stock price more than double following Italy's initiatives to privatize the bank and establish a new national banking leader, signifying a remarkable turnaround after years of decline for the world's oldest financial institution. Unicredit SpA is also in the spotlight for acquiring a stake in Commerzbank AG and pursuing additional opportunities for domestic consolidation.
 
-### China and Hong Kong
+### Mainland China & HKSAR
 
 _Written by David LU Zhiyuan_
 
@@ -252,7 +252,7 @@ Despite the overall pessimism, some strategists maintain a cautiously optimistic
 #### Single Stock News:
 Individual companies within the European market show varied performance expectations. While Deutsche Bank AG is currently trading at €17.03 with a slight increase of 0.66%, analysts caution that broader market conditions could lead to declines for weaker firms. UBS Group AG and TFS Derivatives have issued bearish forecasts for the Stoxx 600, predicting a drop to around 470 points due to anticipated declines in sales and margins.
 
-### China and Hong Kong
+### Mainland China & HKSAR
 
 _Written by Kevin XIA Yunchu_
 
@@ -341,7 +341,7 @@ The technology sector led the gains on Friday, contributing significantly to the
 #### Single Stock News:
 Anglo American Plc saw a notable rise after Jefferies upgraded its rating to "buy," citing the potential for mergers and acquisitions. Direct Line Insurance Group Plc shares increased for a second consecutive day following reports that Aviva Plc had begun contacting its shareholders. Delivery Hero SE reversed earlier losses after announcing its Middle Eastern unit's IPO pricing at the top of the expected range. Overall, stock movements were influenced by deal-making news amidst broader market uncertainties related to tariffs and political developments in France.
 
-### China and Hong Kong
+### Mainland China & HKSAR
 
 _Written by David LU Zhiyuan_
 
@@ -416,7 +416,7 @@ In November 2024, the UK retail sector faced significant challenges as retail sa
 The  Underperformance  of  NVO:  Novo  Nordisk's  stock  has  plunged  25.1%  over  the past three months, significantly underperforming the industry and the S&P 500. This decline  was  primarily  driven  by  disappointing  third-quarter  results,  where  diabetes and  obesity  care  sales  failed  to  meet  investor  expectations,  leading  management  to lower  its  forecasts  for  both  sales  and  operating  profit  growth.  The  company  is struggling to meet the heavy demand for its semaglutide drugs, Ozempic and Wegovy, particularly  in  the  U.S.  market.  In  contrast,  competitor  Eli  Lilly  has  successfully increased  its  production  capacity  for  similar  drugs.  Furthermore,  criticism  from  U.S. Senator  Bernie  Sanders  regarding  high  drug prices  compared  to  other  countries  has added  to  the  stock's  challenges.  Despite  these  setbacks,  analysts  remain  optimistic about Novo Nordisk's strong fundamentals, including a 90.3% revenue increase over five years and a net profit margin exceeding 31%, suggesting that the current decline 
 may represent a temporary setback for long-term investors. 
 
-### China & Hong Kong
+### Mainland China & HKSAR
 
 _Written by Alexander ANTONIOU_
 
@@ -486,10 +486,10 @@ In local currency terms, the pan-European STOXX Europe 600 Index ended 0.69% low
 Higher tariffs on eurozone exports to the US could weaken economic growth in the eurozone, but would have a mixed effect on inflation, according to ECB’s Piero Cipollone. The impact on euro area inflation could be offset by a weakening euro, which would increase the prices of imports priced in US dollars.
 The European Commission’s Autumn Economic Forecast projects GDP growth in 2024 at 0.9% in the EU and 0.8% in the euro area. Economic activity is expected to accelerate in 2025 and 2026, with inflation easing significantly.
 
-### CN Macro
+### Mainland China & HKSAR Macro
 The Shanghai Composite Index fell 3.52%, while the blue chip CSI 300 gave up 3.29%. HSI plunged 6.28% amid persistent deflation pressure and worries over US tariffs. China consumer price index rose 0.3%, lower than consensus and down from 0.4% from Sep.
 
-### CN Sector news
+### Mainland China & HKSAR Sector news
 Property - There was a 0.5% decrease in new home prices across 70 cities in October compared to September. This followed a 0.7% drop in home prices from August to September. Bloomberg reported that October saw the second consecutive month of decelerating home price declines, with the slowest rate of decline since March. The positive trend was attributed to a set of stimulus actions implemented by Beijing in recent months to revitalize the housing market, such as lowering mortgage rates, easing home purchase restrictions in major cities, and reducing taxes on property transactions.
 
 ### JP Macro
@@ -522,7 +522,7 @@ Boarder tech sector IBM due on Wed.
 Telecom majors VZ (Tue), TMUS (Wed) and T (Wed) are also due.
 Consumer names LRLCY (Tue), MMM (Tue), KO (Wed)
 
-### China and Hong Kong Macro
+### Mainland China & HKSAR Macro
 Chinese equities rose as the central bank unveiled more support measures after data showed that deflationary pressures grew more entrenched in the economy. The Shanghai Composite Index gained 1.36% in local currency terms, while the blue chip CSI 300 added 0.98%. HSI Index fell 2.11%.
 GDP reported to be at 4.6% higher than consensus, though lower than Q2 at 4.7% and government’s target at 5%.
 Other economic data showed signs of improvement. Industrial production rose a better-than-expected 5.4% yoy vs prev. +4.5%. Retail sales grew an above-forecast 3.2 yoy vs prev. +2.1%. Higher sales ofhousehold appliances were a contributing factor. Meanwhile, PPI fell a bigger-than-expected 2.8% from a year ago, deepening from August’s 1.8% drop.
@@ -552,13 +552,13 @@ MS will report on Wednesday, rounding out the major bank earnings.
 Chipmaking bellwether also reports on Wednesday.
 NFLX will report on Thursday.
 
-### China and Hong Kong Macro News
+### Mainland China & HKSAR News
 Shanghai Composite Index lost 3.56%, CSI300 -3.25% and HIS -6.53%, pulling back from the peak in the week before after optimism of the policy boost faded.
 The People’s Bank of China initiated a swap facility worth RMB 500 billion to inject liquidity into institutional investors for stock purchases. This program allows nonbank financial entities like securities firms, funds, and insurers to access highly liquid assets such as government bonds and central bank bills by providing specific collateral. This move was a part of an extensive stimulus plan unveiled by the central bank in late September, which encompassed interest rate reductions and other strategies aimed at revitalizing China’s economy.
 Spending by Chinese consumers during the recent extended holiday fell short of pre-pandemic levels. Official data revealed a 5.9% rise in passenger traffic and a 6.3% increase in spending compared to the previous year. Box office earnings stood at RMB 2.1 billion, a decline from RMB 2.7 billion recorded a year ago. Nevertheless, the average daily expenditure per trip rose to about RMB 131, up from RMB 113 during the five-day Labor Day break in May.
 Earlier this morning, Goldman Sachs raises China’s GDP forecast to 4.9% in 2024.
 
-### China and Hong Kong Sector News
+### Mainland China & HKSAR Sector News
 EV: Guangzhou Automobile Group Co 2238.HK is exploring the manufacture of EVs in Europe to avoid EU tariffs. It will launch an electric SUV tailored to the European market at the Paris Auto Show, kicking off on Monday.
 
 ### TW Macro
@@ -579,7 +579,7 @@ Over the week, S&P 500 moved to record highs, as investors appeared to celebrate
 Data-wise, Consumer confidence on Tue fell to 98.7, largely missed consenus of 103.9. New home sales on Wed declined 4.7% in August while building permits data were revised lower. PCE on Fri rose only 0.1% in August, a tick below expectations. On a yoy basis, the index climbed only 2.2%, close to the Fed’s 2.0% long-term inflation target and the least since February 2021, suggesting a moderation in inflationary pressures.
 The yield on the benchmark 10-year U.S. Treasury note ended little changed for the week.
 
-### China
+### Mainland China & HKSAR
 Chinese stocks surged after Beijing unveiled a slew of measures to shore up the economy. The Shanghai Composite Index climbed 12.8%, while the blue chip CSI 300 soared 15.7%. In Hong Kong, the Hang Seng Index gained 13%.
 PBOC cut its RRR by 50 basis points, and reduced its seven-day reverse repo rate by 20 basis points to 1.5%. It cut the MLF rate by 30 basis points to 2%, marking the largest-ever cut to the monetary policy tool since 2016. The moves were part of a sweeping stimulus package announced last Tuesday at a rare press conference by PBOC Governor Pan Gongsheng that aims to jumpstart China’s ailing economy. Other measures unveiled by the PBOC included a rate cut for existing home mortgages and slashing the nationwide down payment ratio for second home purchases to 15% from 25%.
 
@@ -601,7 +601,7 @@ The rally is accompanied by good consumer data that ease recession fears. Retail
 ### Single stock
 INTC ended the week with an announcement of a potential acquisition with Qualcomm which helped pushed the stock up 11% for the week.
 
-#### China and Hong Kong
+### Mainland China & HKSAR
 Chinese equities rose in a holiday-shortened week as the Fed’s decision to cut interest rates offset a batch of disappointing economic data. The Shanghai Composite Index gained 1.21%, while the blue chip CSI 300 added 1.32%.
 Disappointing foreign direct investment flows on Friday were down 31.5% on the same period last year, the biggest fall since January 2009. Industrial production rose 4.5% from a year earlier, lagging forecasts and down from July’s 5.1% increase amid weaker commodity prices and auto sales. Retail sales expanded a below-consensus 2.1% from a year ago, easing from July’s 2.7% rise.
 The yuan is its strongest in 16 months though, thanks to the central bank’s reluctance to cut rates and rising expectations that authorities will soon unveil stimulus that will revive growth, asset prices and confidence.
@@ -610,7 +610,7 @@ Tech-front, the U.S. Commerce Department is expected on Monday to propose prohib
 ### Single stock
 BYD is expected to expand into Pakistan in partnership with Pakistan’s biggest private electricity producer Hub Power’s subsidiary Mega Motor to set up the country’s first electric vehicle assembly plant by 2026.
 
-#### Japan
+### Japan
 Japan’s stock markets rose over the week, with the Nikkei 225 Index gaining 3.1% and the broader TOPIX Index up 2.8%.
 The Bank of Japan decided not to raise rates, but it signaled it is in no hurry to raise them again. This helped push the yen to its weakest daily close since September 4, which in turn helped lift Japanese stocks. The yen starts the week on a soft footing after a roller-coaster ride last week. It rallied through 140.00 per dollar for the first time in over a year but closed near 144.00 per dollar for a weekly loss of 2%, its worst week since April.
 Data-wise, core CPI rose 2.8% year on year in August, in line with expectations and up from 2.7% in July. The overall CPI rose 3.0%, also matching consensus and up from the prior month’s 2.8%.
@@ -649,7 +649,7 @@ The yield on the benchmark 10-year U.S. Treasury note drifted higher over the we
 European stock indexes rose, with STOXX Europe 600 reaching a record high amidst prospects of ECB interest rate cuts. The pan-European STOXX Europe 600 Index surged by 1.34%, reaching an all-time high. This key indicator continued its upward trend for the fourth consecutive week as significantly slower inflation provided grounds for the European Central Bank (ECB) to consider reducing interest rates in September.
 Inflation has approached its target level, with headline annual inflation dropping to 2.2% in August from 2.6% in July—the lowest figure in three years and slightly above the ECB's 2% goal.
 
-### China:
+### Mainland China & HKSAR:
 The Shanghai Composite Index is down for 0.43% while HSI is up for 2.17% after mixed corporate earnings data.
 Investor downgraded their expectations on some of the key economic data such as Retail Sales, from 4.5% to 4.0%, Fixed Asset Invesment, from 4.4% to 4.2% and Consumer Price Index, from 0.6% to 0.5%. Given the above slowdown in growth, China might not be able to meet it’s GDP target of 5% this year.
 In terms of monetary policy, the medium-term lending facilities remains the same at 2.3% while the short term 7 day repo lending rate remains at 1.7%.
@@ -695,10 +695,8 @@ CrowdStrike Holdings plummeted over 20% in pre-market trading after an update to
 
 ### Asia-Pacific (APAC):
 
-#### Chinese Markets:
+#### Mainland China & HKSAR:
 Chinese shares ended lower due to muted investor sentiment. The Shanghai Composite Index fell 0.5%, the Shenzhen Composite Index declined 1.3%, and the ChiNext Price Index dropped 1.2%. Property and auto stocks led the losses, with limited expectations for property stimulus measures from the upcoming Politburo meeting.
-
-#### Hong Kong:
 Hong Kong shares also ended lower, weighed down by technology stocks. The Hang Seng Index fell 0.9%, and the Hang Seng Tech Index declined 1.5%. Major decliners included Meituan and Xiaomi, while gainers included China Resources Power and Cnooc.
 
 #### Japan:
@@ -777,7 +775,7 @@ IG corporate bond market was quiet over the week as investors awaited inflation 
 In Japan, the stock markets had a mixed performance for the week, with the Nikkei 225 Index gaining 0.3% while the broader TOPIX Index declined by 0.3%. The Bank of Japan’s (BoJ) June meeting had a dovish tone, which supported the equity market.
 In the fixed income markets, the yield on the 10-year Japanese government bond (JGB) decreased to 0.93% from 0.98% the previous week. The Japanese yen, already at historically low levels, weakened further against the US dollar, with the exchange rate reaching around JPY 157.5 from 156.6.
 
-### China:
+### Mainland China & HKSAR:
 Chinese equities faced a decline during a short week, reflecting ongoing deflationary pressures impacting the economy. The Shanghai Composite Index dropped by 0.61%, while the blue chip CSI 300 decreased by 0.91%. In Hong Kong, the Hang Seng Index fell by 2.31% according to FactSet. Chinese markets were closed on Monday for the Dragon Boat Festival.
 China’s consumer price index showed a modest increase of 0.3% in May compared to the previous year, matching April’s rise. Core inflation, which excludes volatile food and energy prices, grew by 0.6%, slowing down from April’s 0.7% increase. On the other hand, the producer price index experienced a 1.4% decline compared to the previous year, marking its 20th consecutive month of decline. However, this decline was less severe than the 2.5% drop seen in April. Despite Beijing’s efforts to stimulate the economy and stabilize the markets, weak consumer confidence and a prolonged slump in the property sector have kept prices in China under pressure.
 
@@ -807,7 +805,7 @@ The U.S. market experienced mixed results as longer-term bond yields fell. The S
 
 The major indexes had varied performances for the week, with the DJIA up 2.94%, S&P 500 up 12.10%, Nasdaq Composite up 14.13%, S&P MidCap 400 down 5.00%, and Russell 2000 down slightly by 0.03% year-to-date.
 
-### China:
+### Mainland China & HKSAR:
 Despite positive data indicating a potential recovery in the property sector, stocks in China experienced a decline. The Shanghai Composite Index dropped 1.15%, while the CSI 300 Index fell by 0.16%. In contrast, Hong Kong's Hang Seng Index rose 1.59%.
 
 In economic news, the private Caixin/S&P Global survey showed a slight improvement in manufacturing activity, with a reading of 51.7 in May compared to 51.4 in April, indicating the seventh consecutive month of expansion. The Caixin services purchasing managers' index also exceeded expectations, reaching 54 in May, up from 52.5 in April. This private survey focused on smaller and export-oriented firms, adding to official data from the previous week, which showed an unexpected contraction in manufacturing activity in May.
