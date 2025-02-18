@@ -10,6 +10,8 @@
 
 _Written by Hong Yee Ching Robin, 26/01/2025_
 
+### Gold price forecast: analysis of key moving factors
+
 #### General forecast on trend
 Gold notched its best annual performance in over a decade last year. The prices rose about 26% in 2024, driven by central bank as well as retail investor purchases. Gold has always been the yellow metal that act as a hedge against risk. JPMorgan analysts also expect gold prices to rise, especially if U.S. policies become “more disruptive” in the form of increased tariffs, elevated trade tensions and higher risks to economic growth. Besides the geopolitical uncertainty that will occur in the foreseeable future, the high interest rates that central banks in most of the countries are maintaining.
 
