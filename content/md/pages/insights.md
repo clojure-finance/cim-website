@@ -6,6 +6,25 @@
 
 ## Headlines
 
+<x-accordion summary="Gold price forecast: analysis of key moving factors">
+
+_Written by Hong Yee Ching Robin, 26/01/2025_
+
+#### General forecast on trend
+Gold notched its best annual performance in over a decade last year. The prices rose about 26% in 2024, driven by central bank as well as retail investor purchases. Gold has always been the yellow metal that act as a hedge against risk. JPMorgan analysts also expect gold prices to rise, especially if U.S. policies become “more disruptive” in the form of increased tariffs, elevated trade tensions and higher risks to economic growth. Besides the geopolitical uncertainty that will occur in the foreseeable future, the high interest rates that central banks in most of the countries are maintaining.
+
+#### Potential reasons
+Geopolitical uncertainty: Flows of cash are expected to remain the same and buy Gold as the alternative assets for Central Banks and retail investors. This is due to the unstable border between Russia and Ukraine, Israel and Palestine, and the economic and political tension between the US and China. Tom Mulqueen, metals strategist at Citi Global Markets also stated that they consider “the gold bull market has taken a pause following U.S. presidential elections but should resume in 2025 underpinned by further deterioration in the U.S. labor market, still-high interest rates weighing on growth, and higher ETF demand”.
+
+Central Banks: Central banks, which slowed gold purchases in late 2024, might also return as buyers if prices correct significantly. The World Gold Council survey also revealed in the second half of 2024 that Central Banks are likely to purchase more Gold in the next 12 months. This should further bolster demand for the precious metal. Interest rates are also expected to cut at a slow pace, where lower interest rates is another factor expected to bolster gold prices next year. This should reduce the opportunity cost of holding gold, which is non-interest-bearing.
+
+#### Concluding the forecast
+It is possible that there will be a slightly deeper correction before the price actually breaches the current all time high resting around the 2790 handle. Despite short-term challenges, UBS remains bullish on gold for the next 12 months, projecting prices to reach $2,900/oz by the end of 2025.
+
+Source: https://www.cnbc.com/2025/01/06/gold-copper-oil-price-outlook-2025.html
+
+</x-accordion>
+
 <x-accordion summary="US Election and its Impact on the Financial Markets">
 
 _Written by Erika Lau, 8/11/2024_
