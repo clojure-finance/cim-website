@@ -6,6 +6,37 @@
 
 ## Headlines
 
+<x-accordion summary="Updates on the Trump administration and impacts on the market">
+
+_Written by Justin CHUNG Lok Yin, 29/01/2025_
+
+### Updates on the Trump administration and impacts on the Market
+
+On 20 January 2025, Donald Trump returned to the White House. The perceived arrogant leader signed over 20 executive orders and actions on his Inauguration Day ‒ more than any previous US president. Trump has announced many changes so far. Many keywords and aspects can ring the bell of investors’ minds – Tariffs, AI, crypto, Staff, Greenland, Panama Canel, China, wars, taxes, expenditures, immigrants, and more. These all added complexities to the current global markets. Due to space and word limitations, this weekly update will focus on two of the most-discussed areas of the Trump administration: Trade Policy and AI.
+
+#### Trade Policy: How to navigate through the pivots?
+Trump has been known for his aggressiveness in imposing tariffs. In the election period, he claimed to increase tariffs on China heavily upon his presidency. Trump's tariffs externally act as bargaining chips with nations and internally offset the cost incurred by the tax-cut policy. The market has been concerned about the consequent deterioration of international relationships resulting in trade wars and potential re-inflation as import products become more expensive upon the tariff rise.
+
+Instead of aiming at China as in the campaign last year, Trump began by pivoting to Canada, Mexico and Colombia, which was a pretty surprising approach. Trump first announced plans for 25% tariffs on Canada and Mexico. As for China, on 22 January, Trump proposed a 10% tariff on Chinese goods. China and Hong Kong stock markets fell sharply. The Hong Kong market ended six consecutive rallies, and the Hang Seng Index (HSI) fell below 20,000 points. However, this tariff is significantly lower than the 60% suggested in his election campaign. Trump’s claim two days later confirmed his “temporary leniency” over China, as he said he “would rather not raise tariffs in China”. This brought HSI back up to 20,000 points. On the other hand, weaker than expected, a 2.5% tariff on goods from the Eurozone was also mentioned. European luxury goods stocks performed strongly. For instance, since 20 January, LVMH advanced 10% and Hermès climbed 6.5%. Unexpected tariff leniency resulted in the correction of The Dollar Index by up to 1% since his Inauguration Day. Some suggested that Trump may have switched to a more gradual approach in handling tariffs.
+
+To Trump, tariffs are now viewed as bargaining chips. The aforementioned 10% tariff threat was indeed in response to China's role as a major supplier of fentanyl raw materials, as well as to push China to approve a potential US deal with TikTok. Trump also coerced Colombia to accept deportees using the same tariff tactic. As concerns evolve and change across time, Trump’s claims – but not concrete actions – on tariffs could show little implication for the medium- to long-term economy. PIMCO’s head of US public policy Libby Cantrill opined that the market should not "extrapolate too much” from the initial delays on Trump tariffs. Given that Trump’s style is often more ideological and exaggerated, investors are already prudently observing the new administration’s moves and distinguishing factors from noises.
+
+#### AI: Headwind or tailwind ahead?
+On 21 January, Trump announced a $500 billion (€480 billion) investment in artificial intelligence infrastructure in the US. Unsurprisingly, many tech giants saw impressive gains on 22 January. Nvidia surged more than 4%, pushing its market capitalisation to $3.6 trillion, surpassing Apple once again. Microsoft also saw a rise of around 4%, while Arm experienced a jump of nearly 16%. Foreign players also rose. Siemens Energy shares soared more than 10% this week following the announcement. The German energy company anticipates a “massive tailwind” as it manufactures equipment ranging from gas and wind turbines to power network components. On top of the technology sector, Trump urged banks to loosen regulations and collaborate with tech giants to invest billions in developing AI technology. The Financial Select Sector Index rose 6.32% YTD as of 29 January.
+
+Although the technology sector was significantly suppressed as the Chinese AI model Deepseek advanced in the final week of January, Trump affirmed that the US is in a position to compete and regarded Deepseek as a “wake-up call”. Market views his response as the beginning of a competitive yet flourishing AI era, expecting strong demand in the technology sector in the medium to long horizons.
+
+Source:
+1. https://www.euronews.com/business/2025/01/24/a-round-up-of-global-stock-markets-in-trumps-inauguration-week
+2. https://www.theguardian.com/us-news/2025/jan/28/first-thing-donald-trump-calls-chinas-deepseek-ai-chatbot-a-wake-up-call
+3. https://www.investing.com/news/economy/feds-decision-tsmc-sales-bitcoin--whats-moving-markets-3710787
+4. https://timesofindia.indiatimes.com/business/india-business/trump-2-0-threatens-tariffs-by-no-action-yet-markets-see-it-as-gradualist-approach-ubi-report/articleshow/117668761.cms
+5. https://finance.yahoo.com/news/tiktok-is-intertwined-with-tariffs-as-trump-weighs-his-one-very-big-power-over-china-175829571.html
+6. http://www.aastocks.com/tc/stocks/news/comment.aspx?id=37504	
+7. https://www.aljazeera.com/economy/2025/1/27/how-trump-coerced-colombia-to-accept-deportees-by-threatening-us-tariff-war
+
+</x-accordion>
+
 <x-accordion summary="Gold price forecast: analysis of key moving factors">
 
 _Written by Hong Yee Ching Robin, 26/01/2025_
