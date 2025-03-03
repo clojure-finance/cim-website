@@ -6,6 +6,36 @@
 
 ## Headlines
 
+<x-accordion summary="A Glimpse of Oil Price: Historical Analysis, Key Drivers, and the Impact of War">
+
+_Written by Dacian DENG Shen, 16/02/2025_
+
+Since World War II, oil prices have been influenced by a complex interplay of geopolitical events, economic cycles, and shifts in supply and demand. Understanding these factors is crucial for investors and policymakers navigating the evolving energy landscape.
+
+### Key Historical Phases
+After WWII, oil prices remained relatively stable due to the rapid industrialisation of Western economies. The establishment of OPEC in 1960 marked a turning point, as it began to exert more control over oil production and pricing. The 1973 Yom Kippur War led to an oil embargo by Arab nations, causing prices to quadruple. The Iranian Revolution 1979 further destabilised oil supplies, driving prices up to approximately $97 per barrel by 1980.
+
+The early 1980s saw a brief price decline due to economic recession and increased production from non-OPEC countries. The Gulf War 1990 caused another spike, but prices stabilised in the late 1990s due to increased production and a global economic slowdown. In the early 2000s, prices rose significantly, driven by demand from emerging economies like China and India, peaking at over $140 per barrel in mid-2008 before the financial crisis led to a sharp decline. The U.S. shale boom increased global oil supply, leading to a price collapse, with Brent crude falling below $30 per barrel in early 2016.
+
+### The Oil-Dollar System
+The U.S. and Saudi Arabia agreed to settle oil trades in U.S. dollars in 1974, creating a petrodollar system that strengthened the dollar's role as a global reserve currency. The collapse of the Bretton Woods system and the subsequent dollar devaluation played a crucial role in the surge in oil prices in the 1970s. The establishment of the petrodollar system further linked the dollar's value to the oil market. A weaker dollar means more dollars are needed to purchase the same amount of oil; hence, the price increases.
+
+### Geopolitical Events and Market Speculation
+Historically, wars, sanctions, and political instability in oil-producing regions have caused significant price spikes. The Gulf War and tensions between Russia and Ukraine have influenced global oil markets. The oil market is often overly sensitive to potential war or production cut news, with rumours sometimes leading to price increases. This phenomenon is partly due to the mental inertia caused by the repetition of historical events, leading to market speculation. Traders and investors often predict the future based on past experiences, reacting quickly to similar situations and exacerbating market volatility. Anticipation of conflict can lead traders to speculate on price increases, further driving up costs even before any actual disruption occurs.
+
+Conflicts often lead to physical disruptions in oil production or transportation routes. Increased trade barriers, sanctions, or physical disruptions to production and transportation infrastructure can lead to shortages and costs. The concept of a "war premium" embedded in oil prices due to geopolitical tensions is well-documented. For instance, estimates suggest a war premium of about $25 per barrel was present even before recent escalations involving Iran and Israel
+
+### The Rise of New Energy
+In the long term, the use of new energy sources may undermine the dominance of oil. With increasing environmental awareness and technological advancements, more countries and companies are increasing investment in renewable energy. The widespread use of clean energy sources such as solar, wind, and hydropower will gradually reduce dependence on traditional fossil fuels. The increasing popularity of electric vehicles will also reduce the gasoline demand, further weakening oil's dominance in the energy market.
+
+Source:
+https://www.eia.gov/finance/markets/crudeoil/spot_prices.php
+https://tradingeconomics.com/commodity/brent-crude-oil
+https://www.ecb.europa.eu/press/economic-bulletin/focus/2024/html/ecb.ebbox202402_01~b3d857ae05.en.html
+https://about.bnef.com/blog/oils-25-war-premium-on-iran-israel-risk-can-rapidly-fizzle-out/
+
+</x-accordion>
+
 <x-accordion summary="Updates on the Trump administration and impacts on the market">
 
 _Written by Justin CHUNG Lok Yin, 29/01/2025_
