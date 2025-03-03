@@ -8,6 +8,7 @@ class Accordion extends HTMLElement {
         const summaryStyle = this.getAttribute('summary-style');
         const detailStyle = this.getAttribute('detail-style');
         const selfStyle = this.getAttribute('self-style');
+        const isOpen = this.hasAttribute('open'); // Check for 'open' attribute
 
         const sumtag = document.createElement('button');
         sumtag.textContent = summary;
@@ -23,6 +24,13 @@ class Accordion extends HTMLElement {
         this.appendChild(sumtag);
         this.appendChild(detailtag);
         this.style = selfStyle;
+
+        // If 'open' attribute is present, expand by default
+        if (isOpen) {
+            sumtag.classList.add("Accactive");
+            detailtag.classList.add("Accative");
+            detailtag.style.maxHeight = detailtag.scrollHeight + "px";
+        }
     }
 }
 
