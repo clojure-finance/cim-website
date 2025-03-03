@@ -31,10 +31,10 @@ Conflicts often lead to physical disruptions in oil production or transportation
 In the long term, the use of new energy sources may undermine the dominance of oil. With increasing environmental awareness and technological advancements, more countries and companies are increasing investment in renewable energy. The widespread use of clean energy sources such as solar, wind, and hydropower will gradually reduce dependence on traditional fossil fuels. The increasing popularity of electric vehicles will also reduce the gasoline demand, further weakening oil's dominance in the energy market.
 
 Source:
-https://www.eia.gov/finance/markets/crudeoil/spot_prices.php
-https://tradingeconomics.com/commodity/brent-crude-oil
-https://www.ecb.europa.eu/press/economic-bulletin/focus/2024/html/ecb.ebbox202402_01~b3d857ae05.en.html
-https://about.bnef.com/blog/oils-25-war-premium-on-iran-israel-risk-can-rapidly-fizzle-out/
+1. https://www.eia.gov/finance/markets/crudeoil/spot_prices.php
+2. https://tradingeconomics.com/commodity/brent-crude-oil
+3. https://www.ecb.europa.eu/press/economic-bulletin/focus/2024/html/ecb.ebbox202402_01~b3d857ae05.en.html
+4. https://about.bnef.com/blog/oils-25-war-premium-on-iran-israel-risk-can-rapidly-fizzle-out/
 
 </x-accordion>
 
