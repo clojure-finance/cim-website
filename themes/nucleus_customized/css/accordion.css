@@ -44,14 +44,3 @@
 .accordion.Accactive:after {
     content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
-
-.disclaimer-open {
-  background-color: var(--secondary); /* Matches .accordion when open */
-}
-.disclaimer-open:after {
-  content: "\2796"; /* Minus sign */
-}
-.disclaimer-open + .panel {
-  max-height: 1000px; /* Expand only this panel */
-  padding: 0px 18px 18px 18px;
-}
