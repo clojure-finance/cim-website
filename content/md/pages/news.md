@@ -5,6 +5,74 @@
  :to-root "../.."}
 
 ## Headlines
+<x-accordion summary="Week of 14/02/2025">
+
+### US
+
+ _Written by Sarah LEONG Si Ian_
+
+#### Macro:
+This week, the three major indexes have shown fluctuations but an overall upward trend. S&P 500 increased by 1.13%, NASDAQ Composite index increased by 1.82% whereas Dow Jones Industrial Average increased by 0.34% throughout the week. Towards closing, S&P 500 drop by 0.01%, NASDAQ Composite index increased by 0.41% and Dow Jones Industrial Average dropped by 0.37%. Looking into several important economic events in the US, Crude Oil Inventories was at 4.070M, which was higher than the forecast value of 2.400M but lower than the previous value of 8.664M, which implies a bearish trend for crude oil prices. US 10-Year Note Auction was at 4.632%, slightly lower than the previous 4.680%. US 30-Year Bond Auction was at 4.748%, which was also lower than the previous 4.913%. Initial Jobless Claims was 213K, which was lower than the forecast value of 217K and the previous value of 220K, indicating bullish effect on USD.
+
+#### Sector News:
+The communication services sector has shown the highest price rise of 0.41% among all the sector indexes in the US. It was one of the US’s strongest-performing stocks partly as because of the growing awareness and development of technology. It is projected to be growing consistently in the future years. In general, more than half of the sectors in the US have shown a price drop in the previous week, with the lowest rate of -1.11% in the health sector. Energy sector showed the lowest price rise of 0.13% throughout all the sectors.
+
+#### Single Stock News:
+Tesla (TSLA) has faced substantial fluctuations in the previous week. Following the announcement of the Chinese EV company BYD to integrate Deepseek into its technologies on 11/2, the price of Tesla dropped by 6.3% to the week’s low of 326.44, eventually closing with a 0.03% reduction. The P/E TTM was at 174.43. The net outflow was 317.52M, with most of the orders being small orders.
+
+### Europe
+
+_Written by Kathy Tam_
+
+#### Macro:
+The DAX has continued its remarkable rally, reaching an all-time high of 22,625 points last week, with a 3.3% weekly gain and a 13.1% year-to-date increase, far exceeding its historical average of 1.9% for this period. This surge is fueled by optimism over potential peace in Ukraine, anticipated billions in reconstruction investments, and hopes for a pro-business government following Germany’s federal election on February 23. However, analysts caution that the DAX's current price-to-book ratio of 1.8 and forward P/E ratio of 14, both above historical medians, signal potential overvaluation risks. While 58% of Stoxx 600 companies have exceeded earnings expectations this quarter, concerns over U.S. tariffs, inflationary pressures, and geopolitical uncertainties suggest that the DAX may face resistance near its fair valuation range of 21,600 points, making the upcoming election a critical factor for market momentum.
+
+#### Sector News:
+The European defense sector is undergoing a transformative period, marked by the European Commission's €1.065 billion EDF 2025 Work Programme, which prioritizes innovation in areas like AI, cybersecurity, and energy resilience while supporting SMEs through the EU Defence Innovation Scheme (EUDIS). At the 2025 Munich Security Conference (MSC) between February 14 and 16 , leaders called for increased defense spending to 3-4% of GDP, with NATO urging member states to meet these targets to address a €500 billion defense spending gap over the next decade. Europe has already provided €62 billion in military aid to Ukraine, surpassing U.S. contributions in total assistance, highlighting its growing role in global security. The push for centralized procurement and cross-border collaboration aims to reduce inefficiencies and strengthen Europe's strategic autonomy, while sustainability and dual-use technologies are becoming integral to modernization efforts.
+
+#### Single Stock News:
+This week, Rheinmetall AG has solidified its position as the most significant single stock in Europe, with shares surging 11% to €909, marking a year-to-date increase of over 30%. The stock’s rally is fueled by expectations of increased European defense spending, with NATO potentially raising its target to 3-5% of GDP and Germany committing to surpass the 2% threshold. Analysts have upgraded Rheinmetall’s price targets to as high as €1,080, citing its strategic role in supplying critical military equipment like 155mm artillery shells and advanced defense technologies. With Europe projected to close a €500 billion defense spending gap over the next decade, Rheinmetall is poised for sustained growth.
+
+### Mainland China & HKSAR
+
+_Written by Alec_
+
+#### Macro:
+This week saw Mainland Chinese stocks rise: Shanghai Composite grew 0.43% andShenzhen Component gained 1.2% on Friday, in a response to a statement by People’s Bank of China pledging looser monetary policy. The central bank forecast stable economic growth in China for 2025 despite the producer price index falling 2.3% in January from December, marking the 28th consecutive month of factory deflation. Consumer price index rose an unexpected 0.5% from January 2024, despite a yearlong slump in housing, which has strongly encouraged consumer saving. Meanwhile, Trump has held off on immediately pushing reciprocal tariffs on China. Hang Seng Index jumped 7.04% as hype over DeepSeek continues to drive tech strength as investors invested heavily in artificial intelligence within China.
+
+#### Sector News:
+Following the launch of DeepSeek, AI optimism has turned the Hang Seng China Enterprises Index into the world’s best performer, according to Bloomberg. Top Chinese entrepreneurs gathered with President Xi Jinping, including Alibaba’s Jack Ma, indicating support for China’s private sector after years of crackdowns. This event further boosts interest in China’s technology sector, with investors expecting pro-business measures from Beijing. Despite increased government incentive to boost the housing sector, Moody’s lowered its credit rating of Vanke, Chinese state-backed real estate developer, from B3 to Caa1. Moody cites poor financial performance for the downgrade, as Vanke struggles with a liquidity crisis and weak sales due to struggles in the housing sector. In 2021 the default and subsequent liquidation of China Evergrande flagged the housing sector’s downturn; China’s government is working on a plan to plug Vanke’s 50 billion yuan funding gap to prevent further setbacks in the sector, according to Bloomberg.
+
+#### Single Stock News:
+TENCENT (0700.HK) shares were set to open up 6.6% on Monday (17 Feb) after announcing beta testing of DeepSeek within its Weixin messaging app. Guming Holdings Ltd (1364.HK), the bubble tea maker, slumped 6.4% from the IPO price of HKD9.94. Guming raised HKD1.81 billion from the sale of shares; Huang River investment, a Tencent Holdings subsidiary, invested USD25 million. Super Telecom Co.,Ltd (603322.SS) shares rose 4% as the company appointed Guo Yanqi as CFO succeeding Hu Hongyue.
+
+### Japan
+
+_Written by Kevin XIA Yunchu_
+
+#### Macro:
+Japan's economy demonstrated resilience in the fourth quarter of 2024, with an impressive annualized GDP growth rate of 2.8%. This growth exceeded analysts' expectations and marked the third consecutive quarter of expansion, indicating a robust recovery trajectory. The primary drivers of this growth were strong corporate spending and a positive contribution from net exports. Exports benefitted from a weaker yen, which made Japanese goods more competitive in international markets. Despite these encouraging figures, there are underlying concerns regarding domestic consumption. Private consumption, which accounts for a significant portion of Japan's GDP, has not kept pace with the overall economic growth. Consumers are grappling with rising prices due to inflationary pressures, leading to cautious spending behavior. The latest data indicated that consumer confidence remains fragile, with many households prioritizing savings over discretionary spending. The Bank of Japan (BoJ) has maintained its accommodative monetary policy but is facing increasing pressure to adjust its stance in light of the improving economic conditions. Speculation about potential interest rate hikes has begun to circulate among investors, particularly as inflation rates have consistently exceeded the BoJ's target. The central bank's next meeting will be closely watched for any signals regarding future policy shifts.
+
+#### Sector News:
+The Japanese stock market exhibited mixed performance during the week, reflecting the broader economic landscape. The Nikkei 225 index managed a slight gain of 0.04%, closing at 28,500 points. This modest increase was primarily supported by gains in the financial sector, where stocks like Sumitomo Mitsui Trust Holdings and Mitsubishi UFJ Financial Group rose by 2.1% and 1.5%, respectively. Investors are optimistic about the potential for higher interest rates, which could enhance profitability for banks and financial institutions. Conversely, the auto sector faced headwinds as concerns grew over potential U.S. tariffs on Japanese imports. Toyota Motor Corporation, one of Japan's largest automakers, saw its shares decline by 2% amid these fears. The company is already dealing with supply chain challenges and rising material costs, which have put pressure on profit margins. Analysts are closely monitoring how these external factors will impact Toyota's sales performance in key markets like North America.
+
+#### Single Stock News:
+Fast Retailing Co., Ltd., known for its UNIQLO brand, experienced a significant decline this week, falling by 6.81% after reporting lower-than-expected quarterly earnings due to rising costs and supply chain disruptions. The company has been working to mitigate these challenges but faces stiff competition in both domestic and international markets. Similarly, shares of Mitsui Mining & Smelting Co., Ltd. dropped by 6.49%, impacted by fluctuations in metal prices and concerns over global demand for materials used in electronics and batteries.
+
+### India
+
+_Written by Charles SHI Qiyuan_
+
+#### Macro:
+The Indian stock market did not perform very well last week, with the benchmark index falling for the eighth consecutive trading day. The Sensex benchmark index dropped by 2.47%, while NIFTY saw a decline of 2.85%. The main influencing factor was the political actions in the United States, particularly the idea of implementing a comprehensive "reciprocal tariff" system, which increases the risk and uncertainty for the economies that may be impacted. According to economists from international investment banks, the next tariff issue under Trump’s administration is expected to open a new "trade front" in Asia. Among emerging Asian economies, India is particularly vulnerable to U.S. import tariffs. With Thailand, they are the two economies most likely to be impacted by reciprocal tariffs from the U.S., with tariff increases expected to range between 4% and 6%. Given the overall slowdown in economic growth, the impact of reciprocal tariffs is especially significant for India. At the same time, the Indian rupee continues to weaken, and the ongoing depreciation of the rupee against the U.S. dollar remains a key reason why domestic investors are waiting for stabilization in the national currency, especially after the Reserve Bank of India announced interest rate cuts. Domestic investors are reluctant to take new positions in their portfolios, as the weakened rupee is expected to drive foreign investors to shift from the stock market to currency and bond markets, leading to further asset sell-offs. Following recent geopolitical tensions, crude oil prices have become highly volatile, making it difficult for companies to control profit margins. This is reflected in the performance for the third quarter of 2025, with downward pressure on the stock market exacerbated by the lack of early buying behavior from Domestic Institutional Investors (DIIs) as the financial year comes to a close.
+
+#### Sector News:
+The NIFTY Auto index continued its decline this week, falling by 6.08%. This follows a reduction in the Ministry of Commerce's capital expenditure allocation for the fiscal year 2025, from ₹11.11 billion to ₹10.18 billion. This cut has negatively impacted the commercial vehicle sector, shattering the hopes of a much-needed boost for this struggling industry. Analysts state that the government’s capital expenditure initiatives directly affect sales in the commercial vehicle and ancillary sectors. Market experts indicate that this year, the pace of national highway construction has slowed, and the central government has shifted focus to election-related activities, which has hurt the sector. This week, Prime Minister Modi's visit to the U.S. included talks with Tesla CEO Elon Musk, with Tesla continuing to wait for entry into India. India is one of the world’s largest automotive markets, but Tesla faces significant obstacles due to the country’s high import tariffs on cars. India recently introduced a new policy offering extended tariff benefits for foreign car manufacturers that commit to local production, specifically for fully imported electric vehicles. Additionally, India's electric vehicle (EV) market is still in its nascent stages, accounting for just over 2% of total car sales last year. However, the government aims to change this by raising the EV market share to 30% by 2030.
+
+#### Single Stock News:
+Tata Steel Ltd (NSE: TATASTEEL): This week, Tata Steel’s stock declined by 0.84%, losing 1.14 points. During a meeting on Friday, the Tata Steel Board reviewed and approved a fundraising initiative through non-convertible debentures (NCDs). The company plans to raise ₹30,000 crore by issuing 300,000 five-year NCDs with a face value of ₹1 lakh each. Recently, Indian rating agencies upgraded the bonds of this blue-chip steel company from AA to the highest rating of AAA, with a stable outlook. The upgrade was primarily driven by the likelihood of its UK assets achieving breakeven in the second half of the fiscal year 2026. It also reflects the strategic relationship between Tata Steel Limited (TSL) and its promoter, Tata Sons Private Limited, as well as Tata Sons' strong financial flexibility. Despite the positive fundraising news, the company has outstanding bonds exceeding ₹12,800 crore, with ₹670 crore of debt set to mature next month. On the same day, its stock closed down 1.32% on the Bombay Stock Exchange, at ₹134.40 per share.
+
+<x-accordion>
 
 <x-accordion summary="Week of 25/01/2025">
 
