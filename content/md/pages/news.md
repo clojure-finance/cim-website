@@ -3,7 +3,80 @@
  :page-index 0
  :navbar? true
  :to-root "../.."}
+ 
+## Headlines
+<x-accordion summary="Week of 21/02/2025">
 
+### US
+
+ _Written by Rachel HU Xinyue_
+
+#### Macro:
+U.S. stocks struggled this week, with the Dow Jones dropping 1.01%, the S&P 500 falling 0.43%, and the Nasdaq declining 0.47%. Analysts pointed to persistent inflation concerns as a key driver, noting that stronger-than-expected inflation data and a stable labor market have dampened expectations for further accommodative measures from the Federal Reserve. Despite Atlanta Fed President Bostic's forecast of two rate cuts this year, uncertainty remains due to factors like tariffs and other economic challenges. Market experts have raised concerns over the Trump administration’s ongoing tariff policies. Following last week’s decision to impose a 25% tariff on imported steel and aluminum, the administration has now indicated it may expand these measures to other goods, including automobiles, semiconductors, pharmaceuticals, and timber. Analysts warn that such a move could disrupt global supply chains, raise production costs, and exacerbate inflationary pressures, further straining the economy. In addition, recent economic data failed to alleviate investor concerns. The S&P PMI dropped to 50.4, signaling a slowdown in economic activity, while the University of Michigan’s Consumer Sentiment Index fell to 64, reflecting weaker consumer confidence. On top of that, the housing market showed signs of weakness, with new home starts down 9.8% and existing home sales falling 4.9%. These indicators have further fueled concerns about a potential broader economic slowdown.
+
+#### Sector News:
+The banking sector experienced a general decline this week, with notable decreases observed across several major institutions. JPMorgan Chase (JPM) saw a reduction of 4.46%, Bank of America (BAC) decreased by 1.54%, Wells Fargo (WFC) fell by 2.14%, Morgan Stanley (MS) dropped by 4.51%, Goldman Sachs (GS) declined by 3.87%, and Citigroup (C) experienced a decrease of 3.1%. On the other hand, stocks related to quantum computing continued to show upward movement. D-Wave Quantum (QBTS) increased by 13%, SEALSQ (SEAL) rose by 10.36%, Arqit Quantum (ARQQ) gained 6.47%, Rigetti Computing (RGTI) saw an increase of 3.99%, and Quantum (QUBT) rose by 3.6%.
+
+#### Single Stock News:
+Shares of UnitedHealth (UNH.US) dropped 10.91% this week following reports that the U.S. Department of Justice is investigating the company’s patient diagnosis practices. Sources revealed that UnitedHealth is being scrutinized for allegedly securing additional benefits from the Medicare Advantage program, a practice that could fall under civil fraud. Walmart (WMT.US) saw a dramatic 6.53% drop in its stock price on Thursday, the largest single-day decline in 15 years, contributing to an 8.9% overall weekly decrease. The downturn followed the release of the company’s 2024 financial results, which included a bleak outlook for 2025. The market experts indicate that the forecast, falling short of consumer expectations, raises concerns that the coming year may present significant challenges for the retail industry.
+
+### Europe
+
+_Written by Hong Yee Ching Robin_
+
+#### Macro:
+European stock markets closed higher Friday as a busy week for earnings drew to a close. The regional Stoxx 600 index ended the session 0.52% higher, after earnings disappointments led to two sessions in the red. Germany’s DAX closed 0.12% lower as the country heads into its election weekend, while France’s CAC 40.
+
+#### Sector News:
+A European fund focused on defense companies has garnered $1 billion in assets. The Future of Defence UCITS ETF, which has the ticker NATO on the London, Italian, Swiss and French stock exchanges, employs a “NATO screen” to provide exposure to companies domiciled in NATO or allied member states, according to its manager HANetf. The fund, launched in 2023, has accumulated $1.08 billion in total assets under management, with $210 million in new fund flows this year. The ETF holds about 60 stocks and has risen more than 15% this year, outperforming the broader benchmarkers Stoxx Europe 600 and S&P 500.
+
+#### Single Stock News:
+Ferrexpo shares rebound by 15% Shares in London-listed miner Ferrexpo rebounded by about 15% a day after it lost nearly a third of its value. The stock plunged on Thursday after news emerged of the Ukrainian government’s decision to move ahead with the nationalization of the company’s Poltava mining and processing plant. Reuters news agency reported that the Ukrainian State Bureau of Investigations was awaiting court approval to seize the assets, amid allegations of misappropriation of funds related to illegal mining. The company’s shares also saw about half their value lost in a trading day earlier this month when Ukraine filed a $3.8 billion civil claim against the company. Shares had retraced much of their losses.
+
+### Mainland China & HKSAR
+
+_Written by David LU Zhiyuan_
+
+#### Macro:
+As February 2025 nears its end, Chinese equities saw a broad rebound ahead of the Chinese New Year, supported by renewed investor confidence and expectations of economic stimulus. The SSE Composite Index rose by 1.36%, while the SZSE Component Index gained 4.44%, driven by strong performances in the technology and consumer sectors. The HSI increased by 1.90%, reflecting optimism in Hong Kong’s market as policymakers signaled potential measures to boost economic stability. Seasonal demand ahead of the holiday provided additional support to retail and travelrelated stocks, while institutional investors adjusted portfolios in anticipation of upcoming policy announcements. Analysts expect further government initiatives to sustain momentum, though trading activity may slow temporarily as the holiday period approaches.
+
+#### Sector News:
+Ice and snow economy: The release of ice and snow economy policies targets industry growth to 1.2 trillion yuan by 2027 and 1.5 trillion yuan by 2030, emphasizing winter sports, tourism, infrastructure, and equipment upgrades. These policies balance supply-side upgrades and demand-side incentives, promoting high-quality development. Functional apparel is a key beneficiary, with down jackets and outdoor apparel seeing strong sales in the winter season. The 2025 Asian Winter Games in Harbin, alongside recent tourism-boosting policies, is expected to sustain consumer enthusiasm and drive growth in key destinations and related industries. EV sector: New energy vehicle (EV) stocks showed resilience, supported by favorable policies aimed at boosting industry growth. Leading EV makers rose modestly, with BYD (1211.HK) gaining over 3%. On the policy front, recent announcements highlighted increased subsidies for EV purchases in rural areas and expanded support for charging infrastructure, aiming to accelerate EV adoption and promote green consumption. Analysts believe these measures, coupled with long-term goals for carbon neutrality, will strengthen the EV supply chain and drive sustainable growth. The focus on expanding charging networks and reducing ownership costs is expected to solidify consumer confidence and enhance the competitiveness of domestic EV manufacturers.
+
+#### Single Stock News:
+Alibaba (HKG:9988) surged 13.74% last week, reflecting renewed investor confidence following a meeting between Chinese President Xi Jinping and Jack Ma. The stock's rise was fueled by optimism over potential regulatory easing and a more favorable business environment for China's tech giants. Market participants speculated that the discussion could signal a shift in policy stance, supporting Alibaba’s long-term growth prospects. Analysts note that while the rally underscores improving sentiment toward the sector, sustained gains will depend on concrete policy measures and broader economic recovery trends. Same trends are found for make Chinese high-technology firms. Shanghai Phoenix (SHA:600679) dropped 30.51% last week, marking a significant decline in its stock price. The sharp decline may be attributed to profit-taking by investors after previous gains, as well as concerns over the company's growth prospects in a highly competitive e-bike market. Analysts suggest that the drop reflects market caution toward speculative trading, highlighting the need for sustained business performance to restore investor confidence.
+
+### Japan
+
+_Written by Dacian DENG Shen_
+
+#### Macro:
+Japan's stock markets experienced a decline over the past week, with the Nikkei 225 Index falling by 0.95% and the broader TOPIX Index down by 0.82%. This downward trend was influenced by several macroeconomic factors, including a strengthening yen and rising yields on Japanese government bonds (JGBs). The yen appreciated to approximately JPY 150.4 against the U.S. dollar, a notable shift from about JPY 152.3 at the end of the previous week. The Bank of Japan (BoJ) is under pressure to adjust its monetary policy in light of rising inflation and economic growth data. The yield on the 10-year JGB reached its highest level since 2009, climbing to 1.43% from 1.35%, reflecting market expectations for further interest rate hikes by the BoJ. BoJ Governor Kazuo Ueda indicated readiness to increase JGB purchases if long-term yields rise sharply, signaling a potential shift in policy if economic conditions continue to improve. Japan's GDP expanded by 0.7% quarter-on-quarter in Q4 2024, surpassing the consensus estimate of 0.3%. This growth, coupled with a year-on-year increase of 2.8%, suggests a resilient economic recovery that may prompt more aggressive monetary tightening from the BoJ.
+
+#### Sector News:
+Energy Sector: In a significant development for the energy sector, U.S. President Donald Trump announced that Nippon Steel would abandon its acquisition plans for U.S. Steel but would instead invest heavily in the Pittsburgh-based company. Trump also hinted at potential tariffs on Japanese exports if trade deficits are not addressed, which could impact various
+sectors reliant on exports. Technology and Supply Chains: Japan is facing challenges due to China's tightened export controls on semiconductor raw materials, including gallium and germanium, which are critical for electronics and automotive industries. Japanese companies, being major consumers of these materials, are concerned about disruptions in supply chains as compliance with new regulations becomes increasingly complex.
+
+#### Single Stock News:
+Nissan: Following the collapse of merger talks with Honda, Nissan is exploring new strategic partnerships, including potential investments from Tesla. A high-level initiative led by former Prime Minister Yoshihide Suga aims to court Tesla as a strategic investor to bolster Nissan's manufacturing capabilities amid concerns over foreign takeovers. Following reports of this initiative, Nissan's shares surged by as much as 11.5% before closing up 9.5% on Friday.
+
+### India
+
+_Written by Justin CHUNG Lok Yin_
+
+#### Macro:
+With lingering pessimism, the Indian market this week saw marginal changes. The NIFTY 50 Index dropped for a modest 0.16% and the SENSEX Index fell 0.13%. Data from LSEG shows that India has underperformed major global markets as of 20 February 2025. Analysts attribute the market downturn to US tariff policies, weak corporate earnings, a falling rupee, high valuations, and slowing economic growth. International investors note India lacks near-term catalysts, as key events like the budget and rate cuts are already priced in. Despite recent declines, Indian equities remain overvalued, dampening sentiment and capping short-term upside potential. Foreign investors' capital outflows have moderated compared with the previous week but remained substantial, with a new outflow of 7793 Crores. A Bank of America survey released this week showed that fund managers allocate a 19% net underweight position in the Indian market. As for individual investors, The Financial Times reports that household savings that were channeled into the stock market through 'Systematic Investment Plans' (SIPs), an investment plan methodology offered by Indian Mutual Funds that enables investors to conduct dollar-cost-averaging investments focusing on the small-to-mid cap Indian market, may have been eroded significantly amid the 21% drop in the BSE Small-Cap Index. The analysis opines that this may create a "dangerous pressure" for individual investors to redeem their investments, driving further dips. Investors await greater clarity on geopolitical developments and corporate performance in the coming month. Analysts anticipate that the current market weakness will likely persist until at least the end of March.
+
+#### Sector News:
+According to a statement from HSBC, India’s private sector activity accelerated in February, with the HSBC Flash Composite PMI rising to 60.6 from 57.7 in January, marking the fastest growth in six months. The surge was driven by a strong Services PMI of 61.1, up from 56.5, while the Manufacturing PMI dipped slightly to 57.1 from 57.7, still above the long-run average of 54.1, signaling robust sector health. Export orders grew sharply, particularly for services, supported by global restocking and a depreciating rupee. Improved margins, driven by rising output prices and easing input costs, boosted optimism. Hiring also increased, with services outpacing manufacturing. Of 100 indicators, 65% showed upward trends in Q3 FY2025, up from 55% in Q2, reflecting a broader recovery.
+
+#### Single Stock News:
+LIC Housing Finance (NSE: LICHSGFIN): On 18 February 2025, Tuesday, Reuters reported that LIC Housing Finance, a housing
+finance company registered with the National Housing Bank (NHB), plans to raise 24 billion rupees ($276.13 million), including a greenshoe option of 14 billion rupees, through a sale of bonds maturing in five years. The company had made waves by raising over 10 billion rupees through a reissue of 7.74% February 2028 bonds last week, receiving bids totalling
+10.03 billion rupees at a yield of 7.68%. This showcases strong investor confidence in the company’s debt offerings, and possibly the Indian housing market inthe long term. The company is currently trading at a P/E ratio of 5.8 times, below its 5-year P/E median of 7.3 times. This week, Motilal Oswal has maintained a Buy rating on the stock with a target price of Rs 690, implying a 26.5% upside from current levels. Analysts see that the company’s affordable housing foray, strong provisioning buffers, and stable NIMs are expected to support long-term growth. As per the current market research conducted by CMI, the Indian housing finance market is expected to record robust growth with a CAGR of 24.1% from 2024 to 2033, providing a positive outlook for LIC Housing Finance.
+
+<x-accordion>
+ 
 ## Headlines
 <x-accordion summary="Week of 14/02/2025">
 
