@@ -76,7 +76,7 @@ LIC Housing Finance (NSE: LICHSGFIN): On 18 February 2025, Tuesday, Reuters repo
 finance company registered with the National Housing Bank (NHB), plans to raise 24 billion rupees ($276.13 million), including a greenshoe option of 14 billion rupees, through a sale of bonds maturing in five years. The company had made waves by raising over 10 billion rupees through a reissue of 7.74% February 2028 bonds last week, receiving bids totalling
 10.03 billion rupees at a yield of 7.68%. This showcases strong investor confidence in the company’s debt offerings, and possibly the Indian housing market inthe long term. The company is currently trading at a P/E ratio of 5.8 times, below its 5-year P/E median of 7.3 times. This week, Motilal Oswal has maintained a Buy rating on the stock with a target price of Rs 690, implying a 26.5% upside from current levels. Analysts see that the company’s affordable housing foray, strong provisioning buffers, and stable NIMs are expected to support long-term growth. As per the current market research conducted by CMI, the Indian housing finance market is expected to record robust growth with a CAGR of 24.1% from 2024 to 2033, providing a positive outlook for LIC Housing Finance.
 
-<x-accordion>
+</x-accordion>
  
 
 <x-accordion summary="Week of 14/02/2025">
@@ -146,7 +146,7 @@ The NIFTY Auto index continued its decline this week, falling by 6.08%. This fol
 #### Single Stock News:
 Tata Steel Ltd (NSE: TATASTEEL): This week, Tata Steel’s stock declined by 0.84%, losing 1.14 points. During a meeting on Friday, the Tata Steel Board reviewed and approved a fundraising initiative through non-convertible debentures (NCDs). The company plans to raise ₹30,000 crore by issuing 300,000 five-year NCDs with a face value of ₹1 lakh each. Recently, Indian rating agencies upgraded the bonds of this blue-chip steel company from AA to the highest rating of AAA, with a stable outlook. The upgrade was primarily driven by the likelihood of its UK assets achieving breakeven in the second half of the fiscal year 2026. It also reflects the strategic relationship between Tata Steel Limited (TSL) and its promoter, Tata Sons Private Limited, as well as Tata Sons' strong financial flexibility. Despite the positive fundraising news, the company has outstanding bonds exceeding ₹12,800 crore, with ₹670 crore of debt set to mature next month. On the same day, its stock closed down 1.32% on the Bombay Stock Exchange, at ₹134.40 per share.
 
-<x-accordion>
+</x-accordion>
 
 <x-accordion summary="Week of 25/01/2025">
 
