@@ -90,6 +90,51 @@ Source: https://www.cnbc.com/2025/01/06/gold-copper-oil-price-outlook-2025.html
 
 </x-accordion>
 
+<x-accordion summary="2024 Summary: Major events happened and its impact on the bond market">
+
+_Written by Charles SHI Qiyuan, 12/01/2025_
+
+### Q1: Central Banks' Cautious Actions and Market Stability
+In the first quarter of 2024, major central banks maintained high interest rates to manage inflation and prevent economic recession. After two years of multiple interest rate hikes, both the Federal Reserve and the European Central Bank adopted a more cautious approach to rate hikes, signaling the possibility of pausing or gradually lowering rates. The Federal Reserve decided to keep the federal funds rate steady at 5.25%-5.5%, emphasizing the slowdown in economic growth amid inflationary pressures and the uncertainty in financial markets. Although inflation in the Eurozone showed signs of easing, the ECB's expectations for rate cuts were not strong. The Bank of England maintained its rate at 5.25%. Meanwhile, China’s economy showed a stronger-than-expected recovery post-pandemic, with manufacturing and consumer spending picking up, which positively impacted GDP growth expectations.
+
+With interest rates remaining stable, the bond market maintained relatively steady yields in the short term. Due to the delayed expectations of rate cuts and the generally cautious sentiment in the market, fixed-income assets became more attractive compared to equities. This drove some investors to shift towards long-term bonds in search of higher fixed returns.
+
+### Q2: ECB Rate Cuts and the Developments in the U.S. Debt Situation
+In June, the European Central Bank reduced its three key policy rates by 25 basis points, marking its first rate cut of the year. The main refinancing rate was lowered to 4.25%, the marginal lending rate to 4.50%, and the deposit rate to 3.75%. The move aimed to support economic recovery by reducing borrowing costs and alleviating growth pressures, thereby bolstering market confidence. As a result, Eurozone government bond prices generally rose, and yields declined. The yield on the 10-year German Bund even briefly fell to 2.2%. Investors, seeking to lock in higher returns, shifted towards longer-dated bonds, increasing demand and prices for long-term debt.
+
+At the same time, concerns arose regarding the U.S. government’s debt limit, as negotiations in Congress to raise the borrowing cap remained unresolved. This uncertainty led to heightened market caution, with short-term U.S. Treasury yields rising as investors sought higher returns to offset perceived risks (with one-month Treasury yields briefly surpassing 8%). The uncertainty contributed to increased volatility in equity markets and a shift toward safe-haven assets like gold. Within the bond market, investor preference leaned toward ultra-short-term U.S. Treasuries, while other segments saw more muted activity. After an agreement was reached to raise the debt ceiling, an accelerated pace of Treasury issuance led to a temporary increase in supply, applying downward pressure on bond prices.
+
+### Q3: Stock Market Volatility and Central Bank Policy Shifts
+On August 5th, global stock markets experienced a sharp decline, with major markets in Europe, the U.S., and Japan triggering multiple circuit breakers. This event, referred to by some as a "Black Monday," led investors to seek safe-haven assets, resulting in significant capital inflows into the bond market. The shift in risk sentiment increased demand for bonds, pushing prices higher and yields lower. For instance, the yield on the 10-year U.S. Treasury bond fell by two basis points to 3.78%, while Germany’s yield dropped by nine basis points to 2.13%. While stock market volatility can enhance the relative attractiveness of bonds, heightened uncertainty may also reduce market liquidity, contributing to price fluctuations.
+
+In September, the Federal Reserve cut interest rates by 50 basis points, triggering short-term volatility in the U.S. Treasury market. The short end of the yield curve declined notably as some investors shifted from short-term to long-term U.S. Treasuries, driving up their prices. Meanwhile, lower borrowing costs for corporations and governments supported economic activity, leading to adjustments in global asset allocations as capital flowed into the U.S. Treasury market. The ECB and the Bank of England also implemented rate cuts in September, contributing to a general decline in bond yields and an increase in bond prices. The reduction in financing costs enhanced the appeal of Eurozone bonds within global asset portfolios, helping to stabilize market sentiment.
+
+### Q4: U.S. Treasury Market Adjustments and China’s Offshore U.S. Dollar Bond Issuance
+In October, the U.S. Treasury market experienced notable adjustments as the seven largest foreign holders of U.S. debt collectively reduced their holdings, following five consecutive months of increases. This shift marked a transition from accumulation to a more cautious approach, with some investors trimming their positions. Notably, China reduced its holdings by $11.9 billion to $760.1 billion, the lowest level since February 2009, while Japan also decreased its holdings by $20.6 billion. These moves reflected evolving investor sentiment toward U.S. Treasuries, influenced by a combination of domestic and international economic and policy factors. The large-scale sell-off contributed to a decline in bond prices, driving yields higher. This, in turn, increased government borrowing costs, potentially affecting broader economic conditions, including employment trends. Additionally, shifts in demand for U.S. Treasuries contributed to market volatility and added to investor caution.
+
+In November, China issued $2 billion in sovereign bonds in Riyadh, Saudi Arabia, comprising a $1.25 billion 3-year tranche and a $750 million 5-year tranche, with coupon rates of 4.284% and 4.340%, respectively. This issuance expanded the supply of offshore U.S. dollar-denominated sovereign bonds and supported the development of China’s offshore bond markets in both primary and secondary markets. The offering achieved the lowest spread in the U.S. dollar bond market to date, providing a pricing benchmark for Chinese institutions seeking U.S. dollar financing. Additionally, it contributed to the development of the offshore U.S. dollar bond yield curve, serving as a reference for similar issuances. The total subscription amount reached $39.73 billion—19.9 times the issuance size—highlighting strong investor demand and the role of Chinese sovereign bonds in global market diversification.
+
+</x-accordion>
+
+<x-accordion summary="2024 Summary: Major events in the Equity Market">
+
+_Written by Sarah LEONG Si Ian, 29/12/2024_
+
+In 2024, the market performed more optimistically than expected, where there were concerns of recession, inflation, the US election and some more geopolitical incidents. This has been reflected in a growth of 13% of S&P 500 earnings, whereas prices of private credits grew by 11%. 
+
+In March, the Bank of Japan (BOJ) announced an increase in the interest rate to a range between 0% to 0.1%, marking the end of the era of negative interest rate in Japan for 17 years. In late July, the BOJ again announced a 0.25% increase in its interest rate, which caused a serious downturn in the stock market afterwards in August. While the BOJ has been hiking its interest rate, the Fed has announced its first interest rate cut in September since pandemic recovery, causing a drop in the Federal Funds Rate by 50 basis points to a range of 4.75% to 5.00%. 
+
+Following Trump’s Election in November, US indexes have reached a record high. The Dow surged by 3.6%, adding over 1,500 points, while the S&P 500 and Nasdaq Composite rose by 2.5% and 3%, respectively. Several market sectors are expecting deregulation from Trump’s government. Tesla, with its CEO Elon Musk being the supporter of Trump, has recorded a 15% rise in its stock price after the election.
+
+Artificial Intelligence (AI) has remained highly potential. This can be reviewed by up to a 33% jump in NASDAQ and high increases in other US indexes. Nvidia, a chipmaker, has benefited the most from the recent AI trend and twice officially become the world’s most valuable publicly traded company in 2024. On the other hand, crypto is another era with high growth following the launch of spot bitcoin exchange-traded funds in January 2024. Further growth is seen after Trump’s election in November, which was financially supported by the crypto industry.
+
+Sources:
+https://www.cnbc.com/2024/12/25/ai-crypto-top-tech-stocks-applovin-microstrategy-palantir-nvidia.html
+https://www.jpmorgan.com/insights/markets/top-market-takeaways/tmt-past-present-future-heres-where-we-stand
+https://www.vantagemarkets.com/en/academy/markets-events-2024/
+
+</x-accordion>
+
 <x-accordion summary="US Election and its Impact on the Financial Markets">
 
 _Written by Erika Lau, 8/11/2024_
