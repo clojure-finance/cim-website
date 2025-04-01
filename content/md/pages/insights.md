@@ -100,6 +100,71 @@ Huaxi Security. (2025, March 5). DeepSeek: Initiating the ‘Android Moment’ o
 
 </x-accordion>
 
+<x-accordion summary="A Close Look at the Chip Industry: Nvidia, TSMC, and Other Top Leaders">
+
+_Written by LU Zhiyuan David, 17/02/2025_
+
+### A Close Look at the Chip Industry: Nvidia, TSMC, and Other Top Leaders
+
+#### Executive Summary
+The semiconductor industry is one of the most vital sectors in today’s technology landscape, driving advancements in artificial intelligence (AI), cloud computing, telecommunications, and consumer electronics. Since the Second World War, this industry has undergone significant transformations due to technological advancements, economic shifts, and geopolitical influences. At present, semiconductor firms are at the forefront of global innovation, with Nvidia, TSMC, Intel, AMD, and Qualcomm among the most dominant players in this space.
+
+This report provides a detailed analysis of the semiconductor market, covering its historical development, market structure, and investment potential. With semiconductor revenues expected to reach $1 trillion by 2030, investors must navigate challenges such as supply chain disruptions, geopolitical tensions, and emerging technologies. Understanding the strengths, weaknesses, and strategic positioning of leading semiconductor firms is crucial for making informed investment decisions in this rapidly growing industry.
+
+#### 1 Introduction
+The semiconductor industry serves as the backbone of the digital economy, impacting various industries, including AI, autonomous vehicles, and high-performance computing. The increasing demand for higher performance, lower power consumption, and smaller chip sizes has led to significant investment in research and development (R&D) and advanced manufacturing technologies.
+
+However, several challenges threaten the stability of the industry. Geopolitical tensions between the U.S. and China, supply chain vulnerabilities, and rising production costs have created uncertainties for investors. Additionally, fierce competition among semiconductor firms has reshaped the industry's landscape, forcing companies to develop innovative strategies to maintain their market positions.
+
+This paper explores the historical background of the semiconductor industry, evaluates key industry participants, and assesses existing opportunities and challenges. This report aims to provide valuable insights for investors looking to capitalize on this sector's growth by analyzing financial performance, market standing, and future growth potential.
+
+#### 2 A Brief History of the Semiconductor Industry
+#### 2.1 The Rise of Semiconductors and Market Expansion
+The origins of the semiconductor industry date back to the invention of the transistor in 1947 by Bell Labs, which laid the foundation for the development of integrated circuits (ICs) in the 1950s and microprocessors in the 1970s. Intel, founded in 1968, was among the companies that revolutionized the microprocessor industry, supplying chips that powered early personal computers.
+During the 1980s and 1990s, the industry witnessed a major structural shift with the emergence of Taiwan Semiconductor Manufacturing Company (TSMC). TSMC introduced the foundry business model, allowing companies to design advanced chips without owning fabrication plants. This model enabled companies like AMD, Qualcomm, and Nvidia to focus on chip design and innovation while outsourcing manufacturing to specialized foundries.
+
+#### 2.2 The AI and Data Center Boom
+The semiconductor industry experienced rapid growth in the 2000s and 2010s, driven by cloud computing, artificial intelligence (AI), mobile devices, and high-performance computing (HPC). Nvidia transitioned from a gaming GPU manufacturer to a leader in AI computing, with its GPUs playing a crucial role in training deep learning models.
+
+Meanwhile, TSMC’s advancements in 5nm and 3nm process nodes reinforced its position as the world’s top semiconductor foundry, supplying chips for Apple, AMD, and Nvidia.
+
+As of 2022, the global semiconductor market was valued at approximately $600 billion, with projections indicating growth to $1 trillion by 2030. This expansion is fueled by the increasing adoption of AI, 5G, and HPC. However, risks such as supply chain disruptions, geopolitical tensions, and regulatory constraints remain critical concerns for investors.
+
+#### 3. Major Participants in the Semiconductor Industry
+#### 3.1 Nvidia: The AI and GPU Powerhouse
+Nvidia has expanded beyond gaming GPUs to become a dominant player in AI computing and data center infrastructure. Its A100 and H100 GPUs are widely used in AI training, cloud computing, and autonomous vehicles, making Nvidia a vital provider of AI hardware.
+
+With a market share exceeding 80% in the discrete GPU segment, Nvidia remains the leading supplier of AI acceleration hardware. In 2023, the company reported a 126% year-over-year revenue increase, driven by soaring demand for AI chips. However, Nvidia faces strong competition from AMD’s AI chip offerings and Intel’s AI accelerator initiatives. Additionally, U.S. export restrictions on advanced AI chips may restrict Nvidia’s ability to sell high-end GPUs to China, potentially impacting its global revenue.
+
+#### 3.2 TSMC: The Global Chip Manufacturing Leader
+TSMC is the largest contract semiconductor manufacturer in the world, producing chips for leading technology companies. The company holds over 55% of the global foundry market and is widely regarded as the most advanced semiconductor manufacturer, specializing in 3nm, 5nm, and 7nm process nodes.
+
+Apple alone accounts for approximately 25-30% of TSMC’s revenue, while Nvidia and AMD also rely heavily on TSMC for chip production. To mitigate geopolitical risks, TSMC is investing $40 billion in new fabrication plants in Arizona to enhance supply chain resilience and reduce dependence on Taiwan. However, rising production costs and ongoing political tensions in Taiwan pose potential long-term risks to TSMC’s stability.
+
+#### 3.3 Other Major Stakeholders: Intel, AMD, and Qualcomm
+Intel, once the undisputed leader in semiconductor innovation, has faced setbacks due to production delays and heightened competition. However, the company is investing in Intel Foundry Services (IFS) and next-generation processors to regain its market position.
+
+AMD has strengthened its presence in both the CPU and GPU markets, competing directly with Intel and Nvidia. Its Ryzen CPUs and Radeon GPUs have gained significant market share, while its acquisition of Xilinx has expanded AMD’s role in AI and adaptive computing, particularly in data centers and embedded systems.
+
+Qualcomm, a dominant player in mobile chipsets, is diversifying its business beyond smartphones by expanding into 5G, AI computing, and automotive semiconductors, positioning itself for growth in emerging markets.
+
+#### 4. Investment Opportunities and Challenges
+#### 4.1 Geopolitical Risks and Market Volatility
+Geopolitical events highly influence the semiconductor industry. The ongoing U.S.-China trade war has resulted in export restrictions on advanced semiconductor technologies, disrupting supply chains and limiting market access for certain firms. Taiwan remains a critical risk, as TSMC’s technological dominance makes it a strategic asset in global semiconductor production. Any escalation of tensions in the region could severely impact the industry’s supply chain and production capacity.
+
+#### 4.2 Supply Chain and Production Costs
+The 2021 global semiconductor shortage exposed weaknesses in the industry’s supply chain, leading to increased prices and production delays across multiple sectors. Rising raw material costs, manufacturing expenses, and geopolitical uncertainties continue to challenge semiconductor companies. In response, firms are expanding their manufacturing operations in the U.S., Japan, and Europe to reduce dependence on a single region.
+
+#### 4.3 The Rise of Energy-Efficient and AI Chips
+As data centers and AI applications demand higher power consumption, semiconductor firms are prioritizing the development of energy-efficient chip architectures. AI accelerators, neuromorphic computing, and advanced power management technologies are becoming key areas of investment as companies seek to optimize performance while reducing energy consumption.
+
+#### 5. Conclusion
+The semiconductor industry remains one of the most dynamic and rapidly growing sectors, with Nvidia, TSMC, Intel, AMD, and Qualcomm playing a leading role in shaping the market. While AI, 5G, and cloud computing present significant investment opportunities, geopolitical tensions, supply chain disruptions, and increasing competition must be carefully managed.
+
+For investors, companies with strong technological leadership, well-established supply chain strategies, and diversified revenue streams offer the best long-term potential. As the semiconductor industry transitions toward next-generation computing and energy-efficient technologies, strategic investments in leading semiconductor firms will be crucial for capitalizing on future growth opportunities.
+
+</x-accordion>
+
 <x-accordion summary="A Glimpse of Oil Price: Historical Analysis, Key Drivers, and the Impact of War">
 
 _Written by Dacian DENG Shen, 16/02/2025_
@@ -135,6 +200,8 @@ Source:
 <x-accordion summary="India, the Star of Emerging Markets: Opportunities and Risk">
 
 _Written by Alexander ANTONIOU, 10/02/2025_
+
+### India, the Star of Emerging Markets: Opportunities and Risk
 
 Emerging markets have not seen the same attention of the BRICS era since the global financial crisis, highlighted by a lagging Chinese economy and US dollar strength. Nonetheless, India stands out as an exceptional outlier from pessimistic investor outlook surrounding emerging markets. India has outperformed US equities since 2019, with the benchmark Nifty 50 index having doubled over the past five years. 
 
