@@ -293,6 +293,79 @@ The company gained 5.6% on January 10, Friday, culminating in a net 3.35% gain f
 </x-accordion>
 
 
+<x-accordion summary="Week of 03/01/2025">
+ 
+### US
+
+_Written by Sarah LEONG Si Ian_
+
+#### Macro:
+Over the past week, the three major indexes have shown fluctuations in their prices but all of them are eventually bullish. S&P 500 started at 5891.07 on 30/12/2025, which created a price gap with the close on 27/12/2025. It then fluctuated and hit the lowest of 5888.66 on 2/1/2025. It eventually rebounded and ended at 5942.47, which was a 1.26% increase. A similar trend was seen also for the NASDAQ Composite index, with a lowest of 19379.57 towards the end of the week and a surge back to 19621.68 at the time it closed, which was a 1.77% increase. Dow Jones Industrial Average has reached its highest price of 42782.76 and lowest of 42436.92, and eventually ends at 42732.13, a 0.8% increase. 
+
+Looking into several important economic events in the US, the Chicago PMI, measuring the economic health of the manufacturing sector in Chicago, showed a price of 36.9. This was lower than both the forecast price of 42.7 and the previous price of 40.2, which indicated a bearish change. The actual Initial Jobless Claims was 211K, which was lower than both the previous (220K) and the forecast number (222K). The Crude Oil Inventories declined by 1.178M, which was fewer than both the previous (-4.237M) and the forecast value (-2.400M). This indicates a bearish sign for the price of crude oil.
+
+#### Sector News:
+The US consumer discretionary market has shown the highest price rise of 2.42% among all the sector indexes in the US. The strong gain might be partly caused by the interest rate cuts earlier since the market is highly sensitive to macroeconomic factors. It is forecasted that the gain in this market will remain huge given the economy is healthy. 
+
+In general, all the sectors in the US have shown a price rise in the previous week, with the highest rate of 2.42% in the consumer discretionary market and the lowest of 0.1% in the consumer staples sector. 
+
+#### Single Stock News:
+Uber Technologies (UBER) has shown its constant bullish growing trend in the previous week. It opened at a price of 63.69 and has been growing until it reached the week’s peak of 65.22 and eventually closed with a 2.25% at 64.59.  The P/E TTM was at 31.82. The net inflow was 108.92M, with most of the orders being small orders.
+
+### Europe
+
+_Written by Kathy Tam_
+
+#### Macro:
+This week, European sector developments highlighted both challenges and opportunities across key industries. In energy, the halt of Russian gas transit via Ukraine on January 1, 2025, pushed natural gas prices above €50/MWh, underscoring Europe's ongoing energy security concerns and accelerating its shift toward LNG imports and renewable energy investments. The automotive sector faced regulatory pressure as new EU CO2 standards took effect, requiring at least 20% of vehicles sold to be electric, while the Czech Republic's manufacturing PMI fell to 44.8 in December, reflecting deep structural issues in the car industry. Meanwhile, Europe's real estate sector showed signs of recovery, with analysts projecting a 15% increase in investment activity for 2025, driven by demand for prime assets in cities like Madrid and Stockholm and a rebound in office leasing due to return-to-office policies.
+
+#### Sector News:
+The banking sector was buoyed by UBS shares, which surged nearly 10% week on week to a 16-year high following a Wall Street Journal report that the bank would be fined hundreds of millions in a settlement with the US Justice Department. The case is related to Credit Suisse, which was investigated for violating a plea agreement involving assistance to US taxpayers in filing false income tax returns.
+
+#### Single Stock News:
+AstraZeneca (AZN), the Anglo-Swedish pharmaceutical giant, is under investigation by Chinese regulators for alleged illegal drug imports, data breaches, and health insurance fraud, a situation that has already led to the detention of Leon Wang, AstraZeneca’s China President. These issues have raised concerns about its future in a market that contributes 13% of its revenue, with reports indicating declining prescriptions for its medicines as doctors distance themselves amidst the controversy. Compounding this, a U.S. lawsuit alleges AstraZeneca misled investors by understating its exposure to regulatory risks in China. Over the past six months, the stock has dropped 15%, though it showed slight stabilization this week, rising approximately 1.2% to close at £10,594 on January 3, 2025. This may due to the company's strong global performance, with analysts projecting robust earnings growth fueled by its innovative drug pipeline, including treatments for cancer, rare diseases, and obesity. Additionally, AstraZeneca’s upcoming launch of Breztri Aerosphere for COPD in India and its continued expansion in the U.S., supported by a $3.5 billion investment plan, signal confidence in its ability to diversify revenue streams and reduce dependency on the Chinese market.
+
+### Japan
+
+_Written by Kim Chui_
+
+#### Marco:
+Japan's markets  were lower after the close on Monday, as losses in the Shipbuilding, Precision Instruments and Communication sectors led shares lower.. The Nikkei 225 dropped by 1.47%, closing at 39,307.05 on January 3, 2025, as technology and manufacturing sectors surged. Similarly, the broader TOPIX index dropped 1,02%, ending at 2,756.38. Export-driven industries benefited from the yen's depreciation against the U.S. dollar, with the exchange rate reaching 157.16 JPY/USD, making Japanese goods more competitive overseas.
+
+Economic indicators showed mixed results. The December Manufacturing PMI rose slightly from 49.0 to 49.6, signaling marginal expansion, while the Services PMI stood at 50.9, reflecting modest domestic demand. However, concerns about inflation persist, as Japan's core consumer price index (CPI) rose by 2.7% year-on-year in December, exceeding the Bank of Japan's 2% target for the 18th consecutive month. This has fueled speculation about the BOJ potentially adjusting its ultra-loose monetary policy, but Governor Ueda reiterated the need for continued stimulus to achieve sustainable growth.
+
+#### Sector News:
+Industrials Sector:
+
+Industrial machinery company Ebara Corp. (TYO:6361) jumped 5.71%; engineering firm IHI Corp. (TYO:7013) declined by 5.48%.
+
+Technology Sector:
+
+Electrical equipment manufacturer Furukawa Electric Co., Ltd. (TYO:5801) increased by 5.40%.
+
+#### Single Stock News:
+Fujitsu General Ltd. (TYO:6705) is set to be acquired by Paloma Rheem Holdings in a deal valued at approximately ¥257 billion ($1.6 billion). The offer includes a 24% premium over Fujitsu General's closing price on January 6, 2025, with Paloma Rheem proposing to pay ¥2,808 per share. This acquisition aims to facilitate Fujitsu's strategic shift, allowing the company to concentrate on its core IT business by divesting its air-conditioner unit. The transaction is expected to be financed through bank borrowing, with a tender offer anticipated around July. This move follows previous negotiations with private equity firms that did not materialize, highlighting Fujitsu's intent to streamline its operations by shedding non-core assets.
+
+### India
+
+_Written by Charles SHI Qiyuan_
+
+#### Macro:
+This week, the stock market saw mixed performance, but overall, it closed slightly higher. The Sensex benchmark index rose by 0.98%, and the NIFTY50 index increased by 0.67%. The decline leading up to the New Year was primarily driven by the automotive and banking sectors, with Tata Motors and the State Bank of India falling by 2.2% and 1.4%, respectively. On December 30th, the Sensex index closed down 0.6% at 78,248.13 points. The main downward pressure on Tuesday came from the technology sector, which reflected a delayed impact from the sharp fall in U.S. tech stocks. The mid-week low was recorded at 77,564.24 points. After the New Year, the Indian stock market performed well, driven by a rebound in automotive stocks and support from the financial sector. By Thursday, the market had approached the 80,000 mark near the close. However, this strong rally came to an abrupt halt on Friday due to a sell-off in the technology sector, primarily driven by cautious sentiment from foreign investors as they entered the New Year.
+
+Summarizing the performance of the market this year, the Nifty 50 index ended the year with a gain of 8.8%, marking the ninth consecutive year of growth for the Indian stock market. Over the past fourteen years, the cumulative gain has reached an impressive 355%, leading among major global indices, highlighting the potential of India's stock market, largely supported by domestic institutional investors and policy continuity following the re-election of the ruling party. However, the main issue facing the market was the slowdown in corporate earnings and the outflow of foreign funds, which reduced the annual gain to around 8.5%, putting it at a disadvantage compared to global rankings. At the same time, the rupee hit multiple historical lows in December due to the rising U.S. dollar index and U.S. Treasury yields. The Federal Reserve's slowdown in rate cuts may exacerbate the outflow of foreign capital from emerging markets like India. Additionally, India’s economic slowdown, growing trade deficit, and decelerating capital inflows have intensified its challenges. Looking ahead to the New Year, the Reserve Bank of India's monetary policy, geopolitical developments in the Middle East, and the policies proposed by U.S. President-elect Donald Trump will be the major factors influencing emerging markets in 2025.
+
+#### Sector News:
+Pharmaceutical Sector:
+Among all sectors, the pharmaceutical stocks have delivered the best performance this year, with a weekly gain of 1.11% and an impressive annual increase of 39%. This growth is attributed to steady sales growth in both the Indian domestic and U.S. markets, along with stable pricing in the U.S. pharmaceutical market. The Indian pharmaceutical industry has been on an upward trajectory in recent years, largely driven by government policy support and strong industry development efforts, with the aim of positioning India as the "pharmacy of the world." Although Indian companies reported lower-than-expected earnings in the second quarter, the Nifty Pharma index saw a 14.30% year-on-year revenue growth and a 23.59% year-on-year profit increase. Looking forward to 2025, the Indian pharmaceutical sector is full of promise and is expected to be one of the biggest beneficiaries in the "Trump 2.0" era. The ongoing political struggles between U.S. political parties are likely to suppress industry costs, preventing any major tariff wars. For the pharmaceutical industry, China's "Plus One" strategy may be pushed forward to diversify pharmaceutical manufacturing and supply chains. This shift presents incremental opportunities for Indian pharmaceutical companies, making it a significant positive factor for the sector.
+
+#### Single Stock News:
+Adani Group’s Exit from Wilmar International JV and its Impact on Adani Wilmar:
+On Monday afternoon, Adani Enterprises announced its decision to exit its consumer goods joint venture with Singapore’s Wilmar International, causing a significant 7.7% drop in Adani Wilmar's stock price due to a market-wide selloff. The group plans to raise $2 billion by selling its 44% stake in the joint venture with Wilmar International, and the proceeds will be directed towards its core infrastructure business. Although the group’s revenue, which exceeds ₹515 billion for FY 2024, primarily comes from the sale of edible oils through this joint venture, with a market share of 20%, this move appears justified. The Adani Group is facing intense scrutiny over bribery allegations, and raising funds in the medium to short term has become a critical focus, particularly in overseas markets. Moreover, the merged group is heavily indebted, with listed company liabilities exceeding ₹2.4 billion. Given these factors, the decision to exit the Wilmar JV appears to be a strategic move to reduce debt before exploring other avenues. By shedding its consumer business, the group aims to better allocate capital and focus on its core operations, promoting a more centralized and focused growth strategy. This decision reflects a more prudent approach to financial management amid ongoing challenges.
+
+</x-accordion>
+
+
 <x-accordion summary="Week of 29/12/2024">
 
 ### US
@@ -362,6 +435,66 @@ The Nifty Pharma Index rose 1.85%. The outperformance of the Pharma Index could 
 #### Single Stock News:
 Hindustan Aeronautics Ltd (NSE: HAL):
 Hindustan Aeronautics, one of the largest Indian defence stocks, rose 1.33% in the week. Analysts are confident in the stock despite a 20% downfall in 6 months. On December 24, Tuesday, Phillip Securities initiated coverage of the company with a buy rating and a price target of INR 5,500. On December 27, Friday, Antique Stock Broking selected the stock as one of its top picks in the defence sector. Hindustan is credited based on its extensive experience and evolving capabilities in the aerospace and defence sectors, which fuels its robust earnings trajectory in 2025. Favourable policies also provide a strong growth outlook for Hindustan. To enhance operational readiness, the Indian Defence Acquisition Council (DAC) has approved Acceptance of Necessity (AoN) proposals worth Rs 4.4 trillion in 2024, a 29% Y oY increase over 2023’s Rs 3.5 trillion. Notably, 94% of these approvals will benefit domestic companies, including Defence Public Sector Undertakings (DPSUs) like Hindustan.
+
+</x-accordion>
+
+
+<x-accordion summary="Week of 20/12/2024">
+
+### US
+
+_Written by Sarah LEONG Si Ian_
+
+#### Macro:
+In the past week, the three major indexes have performed relatively stable in the first few days and plummeted on 19/12. Which might be a consequence of the scaling back of the forecast interest rate announced by the Fed. S&P 500 showed a bearish trend and dropped significantly on 19/12, causing it to close at 5930.84, despite a rise on 20/12. NASDAQ Composite Index was quite stable in the first few days. On 19/12, however, it dropped significantly and hit the week’s low of 19168.38 at the start of 20/12. It closed at 19572.60. A similar trend is also seen in the Dow Jones Industrial Average, which ended at 42840.26. 
+Looking into several important data in the US, Crude Oil Inventories declined by 0.934M, which was higher than both the previous (-1.425M) and the forecast value (-1.600M). The Fed Interest Rate Decision was at 4.50%, which matched its forecast and was lower than the previous rate of 4.75%. The actual Initial Jobless Claims was 220K, which was lower than both the previous (242K) and the forecast number (229K).
+
+#### Sector News: 
+The US real estate market has shown the highest rise of 1.82% in price in the previous week. This is likely to be a result of the loosened interest rate, which reduces the mortgage rates and makes real estates more affordable.
+In general, all the sectors in the US have shown a price rise in the previous week, with the highest rate of 1.82% in the real estate market and the lowest of 0.14% in the consumer discretionary sector. 
+
+#### Single Stock News:
+Meta Platforms Inc. (Meta) has shown continuous decline and closed at 585.25 in the previous week, which has been the week’s lowest and lower than the previous close of 595.570. The P/E TTM was at 27.62. The net was 917.33M, with the majority from medium orders.
+
+### Europe
+
+_Written by Kathy Tam_
+
+#### Macro:
+European stock markets faced downward pressure, with the Euro STOXX 600 index declining by 0.6%, reflecting ongoing concerns about global monetary policies and fluctuations in energy markets. The German DAX fell by 0.43% to 19,884.75, while France's CAC 40 dropped by 0.27% to 7,274.48, indicating a cautious investor sentiment amid expectations of further interest rate adjustments from central banks. The UK’s FTSE 100 also saw a slight decrease of 0.26%, closing at 8,084.61. These declines are attributed to investors' anxieties regarding the economic outlook, particularly as the European Central Bank (ECB) has recently cut interest rates for the fourth time this year, aiming to address inflation projected to average around 2.4% in 2024. Despite these challenges, some indices like Spain's IBEX 35 managed a modest gain of 0.24%, highlighting a mixed performance across the region as market participants remain sensitive to geopolitical developments.
+
+#### Sector News:
+The European automotive sector is under significant stress due to President-elect Donald Trump's proposed blanket tariffs on imports, which could severely affect major German manufacturers such as Volkswagen, BMW, and Mercedes-Benz. These companies are already facing challenges from sluggish demand in China and have issued profit warnings as a result. Germany’s auto industry exported approximately €23 billion ($24.2 billion) in passenger cars to the U.S. last year, highlighting its importance to the economy. Analysts emphasize that the automotive sector is intricately linked to related industries like steel and chemicals, making its stability crucial for overall manufacturing in Germany. Additionally, with Mercedes-Benz employing over 11,000 people in the U.S. and BMW operating 30 locations across multiple states, the proposed tariffs raise concerns about potential job losses and broader economic implications for Europe.
+ 
+#### Single Stock News:
+ASML Holding N.V. (ASML) is currently facing a securities fraud lawsuit following a 16% drop in its stock price after the company reported disappointing earnings on October 15, 2024. The lawsuit alleges that ASML misled investors regarding the impact of new Dutch export controls on semiconductor technology, claiming it would not adversely affect its financial outlook. Following the earnings report, which revealed lower-than-expected sales and net income, ASML's stock fell significantly, prompting investors to seek legal recourse. As of December 18, 2024, ASML's stock is trading at approximately $735.19, reflecting a slight decline of about 2.14% for the day. The stock has shown volatility in recent months, with a year-to-date performance of approximately -2.05%. Analysts have projected that ASML's total net sales for 2024 will be around €28 billion, with expectations for growth to between €30 billion and €35 billion in 2025. Despite the ongoing legal challenges and market fluctuations, ASML remains a critical player in the semiconductor industry, particularly due to its advanced lithography equipment essential for chip manufacturing.
+
+### Japan
+
+_Written by Kim Chui_
+
+#### Macro:
+This week, the Bank of Japan (BoJ) maintained its benchmark interest rate at 0.1%, citing concerns over global economic volatility and domestic inflation trends. The Nikkei 225 index declined by 1.2%, closing at 31,657.42, primarily due to uncertainty in global markets and a net outflow of ¥24 billion from Japanese equities. Japan's annual core inflation rate remained elevated at 3.1% in November, marking the 15th consecutive month above the BoJ's target of 2%.
+
+#### Sector News:
+The Nikkei Technology Index fell by 1.7%, driven by declining demand for high-end chips. Nvidia's stock dropped by 3.2%, and AMD's declined by 2.8%, reflecting weaker sales in AI and gaming. Meanwhile, the Japan Automotive Index rose by 2.3%, benefiting from strong performance by exporters amid a weak yen.
+
+#### Single Stock News:
+SoftBank Group Corp. (9984.T) has shown a positive performance this week, with a weekly increase of 3.4%, closing at ¥5,450. Key drivers for this surge include the Vision Fund's return to profitability for the first time in 18 months, posting a ¥150 billion profit for the quarter. Additionally, the IPO of chip-design company Arm Holdings earlier this year continues to bolster investor sentiment, with Arm's stock rising by 4% during the week due to strong earnings. SoftBank also announced plans to accelerate AI-related investments in 2024, signaling its intent to capitalize on the AI boom. However, risks remain regarding SoftBank's exposure to volatile tech startups, particularly in China, where regulatory pressures persist.
+
+### India
+
+_Written by Charles SHI Qiyuan_
+
+#### Macro:
+The key trend for the Indian stock market this week was a notable crash. The Sensex benchmark closed the week with a 4.98% loss, plunging more than 4,000 points. The NIFTY 50 also dropped by 4.68%, falling below the 200-day exponential moving average of approximately 23,700 points. The volatile market sentiment was largely driven by adjustments in the Federal Reserve's interest rate policy. The effects became apparent starting Tuesday and peaked on Thursday after the Fed revised its rate cut expectations. This led to a sharp decline of 1.04% on that day alone. Initially, markets anticipated three to four rate cuts in 2025; however, the Fed’s revision clarified that only two cuts are likely. The hawkish stance strengthened the U.S. dollar and bond yields, which, in turn, accelerated foreign capital outflows from the Indian market. Foreign Institutional Investors sold over ₹12,000 crore worth of stocks in the past four trading days. Compared to the beginning of the month, this FII selling pressure has significantly impacted large-cap stocks, particularly in the financial, banking, and IT sectors. The weak performance of major sectors has contributed to the overall market weakness, and the deteriorating macroeconomic environment has only deepened investor concerns. Domestic economic growth has slowed for three consecutive quarters, and the weakening ruble has led to a record-high trade deficit in November. On a more positive note, there is potential for recovery in the third quarter, driven by year-on-year growth in heavily impacted sectors such as oil and gas, along with the seasonal boost from the holiday period. Domestic corporate earnings data for Q3 will also be closely monitored. However, persistent inflation and delayed interest rate cuts continue to fuel skepticism, making it difficult for investor confidence to fully recover.
+
+#### Sector News:
+After a relatively weak first half in FY 2025, India's hospitality sector has made a strong recovery, fueled by a surge in demand driven by the wedding season and the growth of Meetings, Incentives, Conferences, and Exhibitions (MICE) activities. The sector is expected to see a 10-12% year-on-year growth in Revenue Per Available Room (RevPAR), driven by an 8-10% increase in Average Room Rate (ARR). This positive momentum is expected to continue into December, driven by corporate gatherings, cultural events, and leisure tourism. However, demand typically tends to taper off towards the end of the year, which remains an important metric for monitoring sector performance. One key sector player is Indian Hotels Company Ltd (NSE: INDHOTEL), which is expected to witness an 8% upside . The company has experienced significant growth since its transformation between 2017 and 2024, with a compound annual growth rate (CAGR) of over 30% in its new businesses. The company’s healthy portfolio expansion and strong revenue growth are expected to further boost its EBITDA margin. For the period from FY 2024 to FY 2027, the CAGR for revenue, EBITDA, and PAT is forecasted to be 18%, 24%, and 26%, respectively. With the upcoming New Year holidays, the sector is poised to maintain favorable supply-demand dynamics, indicating potential further growth in the short term.
+
+#### Single Stock News:
+Siemens Ltd (NSE: SIEMENS):
+Siemens shares fell 10% to a one-month low of Rs 6,868 a share in Friday's trade, the biggest intraday drop since early June. This followed the company's September quarter earnings call, where the division's margins declined during the quarter due to pricing pressures and unfavourable product mix. Siemens India's digital industrial business is currently facing challenges due to ongoing semiconductor shortages and de-stocking by some customers. However, the management said indicated that the business is expected to recover in the coming quarters once the de-stocking process is completed. During the quarter, the company secured new orders worth Rs 61.64 crore (14% growth in the new financial year) with strong demand across all business segments.
 
 </x-accordion>
 
@@ -454,6 +587,102 @@ Bharti Airtel Ltd (NSE: BHARTIARTL):
 On December 13, Friday, Bharti Airtel’s shares surged by 4.4% after Jefferies selected it as one of its top picks for 2025, citing the company’s strong earnings growth driven by recent tariff hikes in the telecom sector. The stock grew 17.8% in 6 months and 66% YTD, significantly outperforming the 5.1% and 13.9% rise of the NIFTY 50 Index during the same periods. From a technical perspective, the stock has broken out of a falling trendline, with Friday’s closing near the day’s high signaling a continuation of the uptrend. The major EMAs are trending upward, supporting the price action. Additionally, the RSI stands at 63, further confirming bullish momentum.
 
 </x-accordion>
+
+
+<x-accordion summary="Week of 5/12/2024">
+
+### US
+
+_Written by Sarah LEONG Si Ian_
+
+#### Macro:
+In the past week, the three major indexes have shown different trends of movements. S&P 500 was at 6090.28 with a growth of 0.25%. NASDAQ Composite Index has shown a growing trend closing at its peak of 19859.77, a 0.81% growth. Dow Jones Industrial Average has first shown growth but declined later, ending at 44642.52, a drop of 0.6%. 
+Looking into several important data in the US, Crude Oil Inventories declined by 5.073M, which was more severe than both the previous (-1.844M) and the forecast value (-1.600M). US 10-Year Note Auction was 4.347%, which was higher than the previous 4.066%. The actual Initial Jobless Claims was 224K, which was higher than both the previous (215K) and the forecast number (215K). 
+
+#### Sector News: 
+The US job market has shown signals of recovery after hurricanes and strikes in November, with the most significant employment gains of 54,000 in the healthcare sector. 
+
+The consumer discretionary sector in the US has shown 2.39% increase in price, which has been the highest price increase throughout the sectors identified. 
+
+#### Single Stock News:
+Tesla (TSLA) has shown continuous growth in stock prices after Trump’s election, hitting the 52 weeks high of 389.490 in the previous week and closed at 389.220, a 5.34% increase. The P/E TTM was at 106.64. The net inflow was 1373.09, with the majority from small orders.
+
+### Europe
+
+_Written by Kathy Tam_
+
+#### Macro:
+European markets broadly closed higher, with the pan-European Stoxx 600 index ending the day up 0.54%. Key indexes showed mixed results, with Germany's DAX gaining 0.13%, while the UK's FTSE 100 declined by 0.49%. The French CAC 40 had a volatile session, closing slightly up by 0.02%, despite political turmoil surrounding a contested budget and potential no-confidence votes. Economic data indicated a deterioration in manufacturing activity across the eurozone and the UK, while the eurozone unemployment rate remained steady at 6.3%. Analysts expressed concerns about rising U.S. inflation and potential impacts on global growth, with expectations of looser monetary policy in Europe amid economic challenges.
+
+#### Sector News:
+Britain is projected to reach "peak petrol" in 2024, signaling a major shift towards electric vehicles (EVs), according to a report by Auto Trader. The number of gasoline-powered cars is expected to decline from 18.7 million in 2024 to 11.1 million by 2034, while EVs on the roads are projected to rise from 1.25 million to 13.7 million. The share of EVs in the new car market is anticipated to increase from 18% this year to 23% by 2025, though this is below the UK government's target of 28%. The Zero Emission Vehicle (ZEV) mandate requires at least 22% of new cars sold to be zero-emission, increasing to 28% next year, and eventually to 100% by 2035.
+
+Despite the positive outlook, industry leaders warn that high EV costs and regulatory pressures could jeopardize business viability and jobs. In response, the UK government plans consultations to support the industry, including a £2 billion investment for domestic manufacturing and over £300 million to encourage EV adoption.
+ 
+#### Single Stock News:
+(SHEL) British oil and gas supermajor Shell has announced a merger of its UK continental shelf (UKCS) upstream assets with those of Norwegian peer Equinor, forming a 50/50 joint venture set to begin by late 2025. This merger will create the UK's largest oil producer, with pro forma production expected to reach 140,000 barrels of oil equivalent per day (Kboed) in 2025 and rise to 220,000 Kboed by 2030 as the Rosebank and Jackdaw projects come online. The joint venture will include all offshore upstream assets and exploration licenses from both companies, totaling interests in 12 fields. Despite the North Sea's maturity, the new entity has significant growth potential with the Rosebank and Jackdaw fields contributing notably to production.
+
+The UKCS has seen a decline in investment, with upstream capital dropping from over £16 billion in 2014 to around £5.5 billion in 2019. Major players like Chevron and Exxon have exited the region, contributing to over $10 billion in divestments since 2017. This merger is expected to positively affect Shell’s stock, with analysts maintaining a price target of $80 per NYSE-ADR, viewing it as a strategic move to strengthen Shell's market position in a challenging environment. However, risks from fluctuating oil prices and potential exploration setbacks remain. 
+
+### Mainland China & HKSAR
+
+_Written by Alec ANTONIOU_
+
+#### Macro:
+Following anticipation of fresh stimulus measures, Chinese stocks rose: SSE Composite jumped 1.05% to close at 3,404 while SHE Component rallied 1.47% on Friday. Investors are optimistic about China’s leadership announcing additional economic support measures at next week’s Central Economic Work Conference (CEWC), scheduled for 11 December. Expected on the agenda are additional Chinese measures to help target economic risks posed by the incoming Trump administration, amidst escalating trade tensions with the US. Begin December, Beijing imposed a ban on export of critical minerals with military applications to the US, an act of retaliation against the White House’s recent tariffs on China’s chip industry. High-growth technology, new energy, and financial stocks led the rally.
+
+China’s factory activity grew for the second consecutive month, with Purchasing Managers’ Index (PMI) rising to 50.3 from 50.1 in October, outperforming expectations. Key indicators of quantitative easing (RRR, LPR, MLF) remain unchanged since October. 
+
+#### Sector News:
+In the housing market, the value of new home sales by China’s top 100 developers fell 6.9% this November YTD. This continued decline in new home prices demonstrates the continuing adversity faced by China’s property sector, as investors expect Beijing to roll out further measures to push a sustained recovery in the housing sector. 
+
+China’s 10-year government bond yield dropped to a multi-decade low of 1.96% on Monday, the lowest in 22 years. Despite the reserve requirement ratio (RRR) remaining unchanged, the bond yield decline is driven by expectations of economic stimulus from the CEWC, including a possible reduction in RRR for commercial lenders. 
+
+Chinese car manufacturers BYD, Leapmotor, and Xiaomi surpassed annual delivery targets a month ahead of the expected date. Among a boom in Chinese car sales, American carmaker Tesla cut prices for its Model Y by 10,000 yuan in an aim to stay competitive in the intensifying market price war.
+
+#### Single Stock News:
+NIO Inc. (9866.HK) is down 13.60% over the past month as the carmaker struggled to keep up with outperforming market sales trends, expecting to fall short of the annual sales target. 
+
+HSBC HOLDINGS (0005.HK) traded at 74.55 at market close on Friday, gaining 3.04% over past four weeks. HSBC HK app introduced its ‘open banking’ feature, allowing users to check their account information for Bank of China Hong Kong and Hang Seng Bank.
+
+Meituan (3690.HK) increased 2.01% since previous trading session, as it announced strong profits with a 22.4% rise in Q3 revenue, beating a slowing Chinese consumption market.
+
+### Japan
+
+_Written by Kim Chui_
+
+#### Macro:
+The Bank of Japan's decision to maintain the benchmark interest rate at 0.1%, as the Nikkei 225 index surged by 3.5% over the past week. This rebound was primarily driven by increased foreign institutional investor activity, with net inflows of approximately ¥2 trillion in the first week of December after a period of significant sell-offs. 
+
+Notably, Thursday’s inflow accounted for 60% of this total (¥1.2 trillion), driving a 2% intraday gain, peaking at 33,000 points. This market reversal can be interpreted as a revaluation of the market's strong fundamentals and as a speculative opportunity following the previous downturn. Japan’s market continues to attract capital, bolstered by its growth potential and profitability. 
+
+The rise in liquidity and stable interest rates have created a positive market atmosphere in the short term, stabilizing market sentiment and making Japan an appealing destination for medium- to long-term investments. Moreover, global stock market risk aversion and economic policies are worth closely monitoring, particularly the Federal Reserve’s potential rate cut announcement in this month’s meeting, as such policy shifts could have significant implications for global capital flows and the domestic stock market.
+ 
+#### Sector News: 
+Technology Sector: The technology sector has been experiencing a significant rally, driven by the global demand for high-end chips used in AI applications. Major chipmakers like Nvidia and Advanced Micro Devices have seen substantial gains. The Nikkei 225 index, heavily influenced by tech stocks, reached a fresh 34-year high.
+
+#### Single Stock News:
+Nissan Motor Co. (7201.T): Nissan's stock has been under pressure as the company faces uncertainty about its future direction under President Makoto Uchida, who has been in office for five years. The company's performance has been lackluster, and investors are concerned about its long-term strategy. Over the past week, Nissan's stock has seen a slight increase of 2.26%.
+Toyota Motor Corporation (7203.T): Toyota has been performing well, benefiting from the weak yen and strong global demand for its vehicles. The company's stock has seen a steady rise, and it continues to attract investor interest due to its solid financial performance and growth prospects. Toyota's stock has increased by 2.97% over the past week.
+
+Toyota Motor Corporation (7203.T): Toyota has been performing well, benefiting from the weak yen and strong global demand for its vehicles. The company's stock has seen a steady rise, and it continues to attract investor interest due to its solid financial performance and growth prospects. Toyota's stock has increased by 2.97% over the past week.
+
+### India
+
+_Written by Charles Shi_
+
+#### Macro:
+Following the RBI's decision on Friday to maintain the benchmark interest rate at 6.5%, the equity indices completed a strong five-day rally, with the Sensex up 2.39% and NIFTY 50 up 2.27%. The early-month rebound was primarily driven by foreign institutional investors, who turned net buyers, with net inflows of approximately Rs 11,935 Crore in the first week of December after a period of significant sell-offs. Notably, Thursday’s inflow accounted for 71% of this total (Rs 8,540 Crore), driving a 1.5% intraday gain, peaking at 82,312.55 points. This market reversal can be interpreted as a revaluation of the market's strong fundamentals and as a speculative opportunity following the previous downturn. India’s market continues to attract capital, bolstered by its growth potential and profitability. Additionally, the RBI’s 50 basis point cut in the Cash Reserve Ratio (CRR) to 4%, coupled with a stable benchmark interest rate, aims to strike a balance between fostering economic growth and controlling inflation. The rise in liquidity and stable interest rates have created a positive market atmosphere in the short term, stabilizing market sentiment and making India an appealing destination for medium- to long-term investments. Moreover, global stock market risk aversion and economic policies are worth closely monitoring, particularly the Federal Reserve’s potential rate cut announcement in this month’s meeting, as such policy shifts could have significant implications for global capital flows and the domestic stock market.
+
+#### Sector News:
+Real estate on the rise: The real estate sector is experiencing strong momentum, with the Nifty Real Estate Index up 8% year-to-date, outperforming the broader market index by 4%. Three Indian real estate companies have attracted bullishness from UBS analysts: Prestige Estates, DLF and Oberoi Realty. The first two are rated "Buy," with expected upside of 26% and 18%, respectively, while the latter is rated "Neutral," with an expected upside of 5%. The Indian real estate sector is in its prime, with market oversupply falling to its lowest in 15 years, while purchasing power is at its highest during this period. With India's growing domestic population and urbanization, a combination of potential interest rate cuts, regulatory reforms (RERA) and many other positive factors, the sector expects sustained growth in demand. India is facing a situation similar to China in the early 2000s when its real estate market began a long-term boom. Brokerages forecast that the next three to five years will be a period of sustained growth for the industry, with residential presale CAGR projected to reach 15% during the FY24-29 period. As the trend of remote working continues and the expansion of Global Capacity Centres (GCC) progresses, the commercial segment is expected to grow by 26%.
+
+#### Single Stock News:
+HDFC Bank Ltd (NSE: HDFCBANK):
+The stock reached a one-year high on Thursday, with a gain of over 10% in the past three weeks. After the merger of HDFC and HDFC Bank, the bank has continued to generate strong financial performance, driven by sustained growth in net interest income and other revenue sources. Amid a general increase in asset quality issues related to unsecured loans, its superior profitability and asset quality have made its recent performance stand out significantly compared to other large private banks. Responsible actions have further boosted investor confidence. From a technical perspective, the stock is at a 10-month high in its ratio to Bank Nifty, with the MACD enhancing the current bullish momentum, while the RSI remains in a favorable position.
+
+</x-accordion>
+
 
 <x-accordion summary="Week of 29/11/2024">
 
