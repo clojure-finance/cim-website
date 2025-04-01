@@ -124,91 +124,7 @@ GRSE stock rose over 6% on March 20, 2025, following the company's announcement 
 
 </x-accordion>
 
-
-<x-accordion summary="Week of 28/02/2025">
- 
-### US
-
- _Written by Sarah LEONG Si Ian_
-
-#### Weekly Key Data:
-1. CB Consumer Confidence: 98.3 (reduced by 7 points)
-2. Crude Oil Inventories: -2.322M (decreased by 2.3M)
-3. GDP (Q4): 2.3%
-4. Initial Jobless Claims: 242K (Increased by 22K)
-
-#### Sector News:
-The financial sector has shown the highest price rise of 2.07% among all the sector indexes in the US. This might be one of the results of the continuously low interest rate in the US, which lowers the cost of borrowings for investors. It is expected that the interest rate will be low for a longer time, which further increases investors’ confidence.
-
-In general, all of the sectors in the US have shown a price rise in the previous week, with the lowest growth rate of 0.81% in the real estate sector.
-
-#### Single Stock News:
-Apple (AAPL) has shown fluctuations in the previous week. It opened at a price of 236.950 and has been showing a downward trend until it reached the week’s low of 230.20, but eventually closed with a 1.91% rise at 241.84. The P/E TTM was at 38.39. The net outflow was 90.78M, with most of the orders being small orders.
-
-### Europe
-
-_Written by Kathy TAM Ka Ioi_
-
-#### Weekly Key Data:
-1. STOXX 600: Closed marginally below the flatline at 557, slightly under Wednesday's all-time high
-2. DAX (Germany): Expected to open at 22,381, down 29 points
-3. CAC 40 (France): Expected to open at 8,084, down 2 points
-4. The Euro Area Stock Market Index (EU50) has increased by 11.66% since the beginning of 2025, reaching an all-time high of 5,544.55 in February.
-
-#### Sector News:
-The European technology sector indeed faced significant challenges in early 2025, with the Stoxx Technology index declining by 1.2%. This downturn was primarily triggered by a sharp drop in Nvidia's shares on Wall Street, which had a ripple effect on European chip manufacturers. Notable declines included BE Semiconductor dropping 9%, Infineon falling 3%, and ASML experiencing a 6% decline. These losses underscore the interconnectedness of global tech markets and the sensitivity of European tech stocks to developments in the U.S. semiconductor industry.
-
-#### Single Stock News:
-Luxury goods company LVMH has been experiencing difficulties, particularly in the Chinese market. In the third quarter of 2024, LVMH recorded a 3% sales decline, marking its weakest quarter since the pandemic. This performance reflects broader challenges in the luxury sector, which has traditionally been a standout performer in European markets. The company's struggles are largely attributed to falling sales in China, a crucial market for luxury goods. In the Asia Pacific region, predominantly China, sales fell by 16% year-on-year in the third quarter of 2024. Despite these challenges, there are some signs of potential recovery. LVMH reported slightly better-than-expected annual results for 2024, with revenue of 86.15 billion euros ($94.27 billion), surpassing analyst forecasts. However, the market reaction was cautious, with LVMH shares dropping 5% following the announcement.While LVMH's CEO Bernard Arnault expressed optimism to 2025, particularly regarding the U.S. market, analysts caution that the luxury sector still faces significant challenges, including a slow-to-recover Chinese market and the risk of new American taxes.
-
-### Mainland China & HKSAR
-
-_Written by Alexander ANTONIOU_
-
-#### Weekly Key Data:
-1. SSE Composite Index: 3,320.90 (−1.58%) over past 5 days
-2. SZSE Component Index: 10,611.24 (−3.49%) over past 5 days
-3. Hang Seng Index: 22,941.32 (−2.26%) over past 5 days
-4. Trump confirmed an additional 10% tariff on imports from China, to take on effect 4 March.
-
-#### Sector News:
-Escalating US tariffs on Chinese imports significantly impact the economy. Specific Chinese sectors are particularly targeted in a new American CFIUS memo aimed at restricting spending on strategic sectors like technology and energy. US plans to strengthen restrictions on US semiconductor technology exports to China (such as cutting-edge Nvidia chips), reducing investor confidence in Chinese technology and AI prospects.
-
-Despite tightening pressure on Chinese imports and exports, the New International Land- Sea Trade Corridor, a new major logistics network for international trade out of China, has transported record units via intermodal rail-sea service in the first two months of this year. According to the China Railway Nanning Group, transport volume has already exceeded the total from 2019, with a year-on-year increase averaging 58.4%. Demand for freight transportation surged in February, pushed by increases in timber on stone materials from Guangxi, with tea and roll paper from Hunan province.
-
-#### Single Stock News:
-XIAOMI-W (1810.HK) gained 0.29% this week. The tech giant debuted its new SU7 Ultra SUV on Thursday, citing over 6900 pre-orders within ten minutes. Xiaomi successfully launched the SU7 line, one of the first vehicles on the market to seamlessly link to a smartphone. 
-
-CATL: Contemporary Amperex Technology Co., Limited (300750.SZ) is down −4.08% this week, despite a deal to provide their newest battery technologies to Baidu to develop competitive ‘robo-taxi’ driverless vehicles.
-
-NEW WORLD DEV (0017.HK) gained 8.80% this week. The Hong Kong based real estate and infrastructure conglomerate reported a net loss of HK$6.63 billion on Friday, for the first half ended in December.
-
-### India
-
-_Written by Charles SHI Qiyuan_
-
-#### Weekly Key Data:
-1. SENSEX 30 - 73198.10, ↓ 2460.52 (3.35%), NIFTY 50 - 22127.40, ↓ 534.44 (2.99%)
-2. CPI-AL - 1,316, CPI-RL - 1,328
-3. Q3 Economic Growth: 6.2%
-4. FY25 Real GDP Growth Projection: 6.5% (IMF)
-5. Fiscal deficit till January widens to 74.5% of revised target
-
-#### Sector News:
-BSFI
-In the cash segment, FIIs had a net outflow of 22,011 crore rupees, while DIIs had a net inflow of 22,252 crore rupees, providing some support to the market. In February, foreign portfolio investors (FPIs) continued to divest from the Indian stock market, selling shares worth 35,694 crore rupees, mainly due to concerns about short-term valuations and corporate earnings. As capital continued to flow into the US market, the engagement between the Chinese government and business leaders has inspired optimism about a potential economic recovery (the Hang Seng Index rose by 18.7% within the month), and the "sell India, buy China" trade is likely to continue in the short term.
-
-However, India's structural growth drivers remain unaffected. With the improvement of economic fundamentals and earnings growth in the coming six months, foreign institutional investor (FII) funds are likely to return to India. At the same time, in the near future, with the increase in government capital expenditure following the implementation of election- related measures and budget proposals, credit growth will accelerate. Large banks are capable of taking advantage of this cycle, although profit margins may face slight pressure, as the reduction of interest rates by the Reserve Bank of India leads to the repricing of loans while the cost of deposits remains high. Public sector banks will benefit from the resolutions of the National Company Law Tribunal and the write-back of provisions. The Reserve Bank of India has decided to lower the repo rate to prevent a sharp depreciation of the Indian rupee, inject sustained liquidity into the banking system, and relax the risk weights for lending to non-banking financial companies. These measures are likely to support the future growth of the banking, financial services, and insurance (BFSI) sector. Therefore, when the Indian stock market has been continuously declining, the BFSI sector has the potential to be the main driving force leading the market higher in the next round of rebound.
-
-#### Single Stock News:
-_Tata Consultancy Services Ltd (NSE: TCS)_
-It experienced a decrease of 249.10 points (6.68%) in the past week and dropped to its lowest level in 52 weeks (3457.35) on Friday, February 28th. The announcement on that day of the extension of the cooperation with DNB Bank of Norway did not help this IT leader recover after the stock market crash.
-
-The main reason was that market concerns about the slowdown of the US economy and the rising inflation expectations triggered by Trump's tariffs dampened market sentiment. At the same time, the weak global economic data made the situation even worse, and most Asian stock markets declined. In addition, after NVIDIA released its latest earnings report, its performance was not as strong as expected, and its share price dropped, triggering the selling of artificial intelligence stocks and major technology stocks. The share prices of Infosys, Mphasis, and HCL were all under pressure during the same period, decreasing by 5.45%, 9.66%, and 4.79% respectively.
-
-</x-accordion>
-
-<x-accordion summary="Week of 21/02/2025">
+<x-accordion summary="Week of 14/03/2025">
 
 ### US
 
@@ -296,6 +212,93 @@ This stock will be in the spotlight next week as the board will discuss and appr
 Nevertheless, the company's development is encouraging, with a post-tax profit exceeding ₹6,400 crore as of last March. It is the third-largest public sector non-banking financial company in India and has provided crucial financial support for nearly 80% of the Indian Railways' locomotive and rolling stock. The company also has a positive outlook, with reports indicating that it is undergoing strategic diversification into sectors such as power generation and transmission, mining, fuel, coal, warehousing, telecom, and hospitality. The returns from these higher-margin projects are expected to be 3 to 5 times higher, which could enhance its net interest margin (NIM) and profitability. Additionally, the existing ₹60,000 crore in unabsorbed depreciation buffers ensures the company will not face significant tax burdens in the short term, supporting better earnings retention.
 
 </x-accordion>
+
+
+
+<x-accordion summary="Week of 28/02/2025">
+ 
+### US
+
+ _Written by Sarah LEONG Si Ian_
+
+#### Weekly Key Data:
+1. CB Consumer Confidence: 98.3 (reduced by 7 points)
+2. Crude Oil Inventories: -2.322M (decreased by 2.3M)
+3. GDP (Q4): 2.3%
+4. Initial Jobless Claims: 242K (Increased by 22K)
+
+#### Sector News:
+The financial sector has shown the highest price rise of 2.07% among all the sector indexes in the US. This might be one of the results of the continuously low interest rate in the US, which lowers the cost of borrowings for investors. It is expected that the interest rate will be low for a longer time, which further increases investors’ confidence.
+
+In general, all of the sectors in the US have shown a price rise in the previous week, with the lowest growth rate of 0.81% in the real estate sector.
+
+#### Single Stock News:
+Apple (AAPL) has shown fluctuations in the previous week. It opened at a price of 236.950 and has been showing a downward trend until it reached the week’s low of 230.20, but eventually closed with a 1.91% rise at 241.84. The P/E TTM was at 38.39. The net outflow was 90.78M, with most of the orders being small orders.
+
+### Europe
+
+_Written by Kathy TAM Ka Ioi_
+
+#### Weekly Key Data:
+1. STOXX 600: Closed marginally below the flatline at 557, slightly under Wednesday's all-time high
+2. DAX (Germany): Expected to open at 22,381, down 29 points
+3. CAC 40 (France): Expected to open at 8,084, down 2 points
+4. The Euro Area Stock Market Index (EU50) has increased by 11.66% since the beginning of 2025, reaching an all-time high of 5,544.55 in February.
+
+#### Sector News:
+The European technology sector indeed faced significant challenges in early 2025, with the Stoxx Technology index declining by 1.2%. This downturn was primarily triggered by a sharp drop in Nvidia's shares on Wall Street, which had a ripple effect on European chip manufacturers. Notable declines included BE Semiconductor dropping 9%, Infineon falling 3%, and ASML experiencing a 6% decline. These losses underscore the interconnectedness of global tech markets and the sensitivity of European tech stocks to developments in the U.S. semiconductor industry.
+
+#### Single Stock News:
+Luxury goods company LVMH has been experiencing difficulties, particularly in the Chinese market. In the third quarter of 2024, LVMH recorded a 3% sales decline, marking its weakest quarter since the pandemic. This performance reflects broader challenges in the luxury sector, which has traditionally been a standout performer in European markets. The company's struggles are largely attributed to falling sales in China, a crucial market for luxury goods. In the Asia Pacific region, predominantly China, sales fell by 16% year-on-year in the third quarter of 2024. Despite these challenges, there are some signs of potential recovery. LVMH reported slightly better-than-expected annual results for 2024, with revenue of 86.15 billion euros ($94.27 billion), surpassing analyst forecasts. However, the market reaction was cautious, with LVMH shares dropping 5% following the announcement.While LVMH's CEO Bernard Arnault expressed optimism to 2025, particularly regarding the U.S. market, analysts caution that the luxury sector still faces significant challenges, including a slow-to-recover Chinese market and the risk of new American taxes.
+
+### Mainland China & HKSAR
+
+_Written by Alexander ANTONIOU_
+
+#### Weekly Key Data:
+1. SSE Composite Index: 3,320.90 (−1.58%) over past 5 days
+2. SZSE Component Index: 10,611.24 (−3.49%) over past 5 days
+3. Hang Seng Index: 22,941.32 (−2.26%) over past 5 days
+4. Trump confirmed an additional 10% tariff on imports from China, to take on effect 4 March.
+
+#### Sector News:
+Escalating US tariffs on Chinese imports significantly impact the economy. Specific Chinese sectors are particularly targeted in a new American CFIUS memo aimed at restricting spending on strategic sectors like technology and energy. US plans to strengthen restrictions on US semiconductor technology exports to China (such as cutting-edge Nvidia chips), reducing investor confidence in Chinese technology and AI prospects.
+
+Despite tightening pressure on Chinese imports and exports, the New International Land- Sea Trade Corridor, a new major logistics network for international trade out of China, has transported record units via intermodal rail-sea service in the first two months of this year. According to the China Railway Nanning Group, transport volume has already exceeded the total from 2019, with a year-on-year increase averaging 58.4%. Demand for freight transportation surged in February, pushed by increases in timber on stone materials from Guangxi, with tea and roll paper from Hunan province.
+
+#### Single Stock News:
+XIAOMI-W (1810.HK) gained 0.29% this week. The tech giant debuted its new SU7 Ultra SUV on Thursday, citing over 6900 pre-orders within ten minutes. Xiaomi successfully launched the SU7 line, one of the first vehicles on the market to seamlessly link to a smartphone. 
+
+CATL: Contemporary Amperex Technology Co., Limited (300750.SZ) is down −4.08% this week, despite a deal to provide their newest battery technologies to Baidu to develop competitive ‘robo-taxi’ driverless vehicles.
+
+NEW WORLD DEV (0017.HK) gained 8.80% this week. The Hong Kong based real estate and infrastructure conglomerate reported a net loss of HK$6.63 billion on Friday, for the first half ended in December.
+
+### India
+
+_Written by Charles SHI Qiyuan_
+
+#### Weekly Key Data:
+1. SENSEX 30 - 73198.10, ↓ 2460.52 (3.35%), NIFTY 50 - 22127.40, ↓ 534.44 (2.99%)
+2. CPI-AL - 1,316, CPI-RL - 1,328
+3. Q3 Economic Growth: 6.2%
+4. FY25 Real GDP Growth Projection: 6.5% (IMF)
+5. Fiscal deficit till January widens to 74.5% of revised target
+
+#### Sector News:
+BSFI
+In the cash segment, FIIs had a net outflow of 22,011 crore rupees, while DIIs had a net inflow of 22,252 crore rupees, providing some support to the market. In February, foreign portfolio investors (FPIs) continued to divest from the Indian stock market, selling shares worth 35,694 crore rupees, mainly due to concerns about short-term valuations and corporate earnings. As capital continued to flow into the US market, the engagement between the Chinese government and business leaders has inspired optimism about a potential economic recovery (the Hang Seng Index rose by 18.7% within the month), and the "sell India, buy China" trade is likely to continue in the short term.
+
+However, India's structural growth drivers remain unaffected. With the improvement of economic fundamentals and earnings growth in the coming six months, foreign institutional investor (FII) funds are likely to return to India. At the same time, in the near future, with the increase in government capital expenditure following the implementation of election- related measures and budget proposals, credit growth will accelerate. Large banks are capable of taking advantage of this cycle, although profit margins may face slight pressure, as the reduction of interest rates by the Reserve Bank of India leads to the repricing of loans while the cost of deposits remains high. Public sector banks will benefit from the resolutions of the National Company Law Tribunal and the write-back of provisions. The Reserve Bank of India has decided to lower the repo rate to prevent a sharp depreciation of the Indian rupee, inject sustained liquidity into the banking system, and relax the risk weights for lending to non-banking financial companies. These measures are likely to support the future growth of the banking, financial services, and insurance (BFSI) sector. Therefore, when the Indian stock market has been continuously declining, the BFSI sector has the potential to be the main driving force leading the market higher in the next round of rebound.
+
+#### Single Stock News:
+_Tata Consultancy Services Ltd (NSE: TCS)_
+It experienced a decrease of 249.10 points (6.68%) in the past week and dropped to its lowest level in 52 weeks (3457.35) on Friday, February 28th. The announcement on that day of the extension of the cooperation with DNB Bank of Norway did not help this IT leader recover after the stock market crash.
+
+The main reason was that market concerns about the slowdown of the US economy and the rising inflation expectations triggered by Trump's tariffs dampened market sentiment. At the same time, the weak global economic data made the situation even worse, and most Asian stock markets declined. In addition, after NVIDIA released its latest earnings report, its performance was not as strong as expected, and its share price dropped, triggering the selling of artificial intelligence stocks and major technology stocks. The share prices of Infosys, Mphasis, and HCL were all under pressure during the same period, decreasing by 5.45%, 9.66%, and 4.79% respectively.
+
+</x-accordion>
+
+
 
 <x-accordion summary="Week of 21/02/2025">
 
