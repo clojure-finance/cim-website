@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/648110a3-6b26-4e23-90b1-c071c10fab32){:title "Market News"
+{:title "Market News"
  :layout :page
  :page-index 0
  :navbar? true
