@@ -98,10 +98,7 @@ The current landscape of AI development is marked by rapid advancements and wide
 Source: 
 Huaxi Security. (2025, March 5). DeepSeek: Initiating the ‘Android Moment’ of AI.
 
-
-
 </x-accordion>
-
 
 <x-accordion summary="A Glimpse of Oil Price: Historical Analysis, Key Drivers, and the Impact of War">
 
@@ -134,6 +131,35 @@ Source:
 4. https://about.bnef.com/blog/oils-25-war-premium-on-iran-israel-risk-can-rapidly-fizzle-out/
 
 </x-accordion>
+
+<x-accordion summary="India, the Star of Emerging Markets: Opportunities and Risk">
+
+_Written by Alexander ANTONIOU, 10/02/2025_
+
+Emerging markets have not seen the same attention of the BRICS era since the global financial crisis, highlighted by a lagging Chinese economy and US dollar strength. Nonetheless, India stands out as an exceptional outlier from pessimistic investor outlook surrounding emerging markets. India has outperformed US equities since 2019, with the benchmark Nifty 50 index having doubled over the past five years. 
+
+India’s economy has outperformed the global economy and emerging markets, boasting GDP growth over 6% over the past 45 years, whilst set to overtake Germany and Japan to become the third-largest economy by 2030. Despite stellar growth, high shares of Indians still face unemployment, stagnant wages, and widening income inequality. Some investors fear that a speculative bubble surrounding Indian equities has formed, fuelled by tens of millions of first-time domestic investors piling into stocks and mutual funds. 
+
+India remains a good investment opportunity with diversification across various expanding sectors and growing IPOs. Many investors are sceptical as high valuations in the Indian equity market require strong judgement and careful management; stock picking remains key. 
+
+#### Three sectors to watch:
+Infrastructure investment has been on the forefront of the government’s economic strategy through initiatives such as ‘Make in India’. This initiative aims to boost domestic manufacturing through infrastructure development and industrialisation, creating demand for machinery, construction materials, and technological solutions. The Union Budget 2025 is expected to increase infrastructure’s allocation to ₹18 lakh crore from ₹11.11 lakh crore in 2024. 
+
+India’s healthcare sector is evolving with rising incomes and improved health awareness in liaise with pandemic efforts to elevate the healthcare landscape of a growing population. Investors expect a structural increase in domestic healthcare from both government and the private sector; schemes like Ayushman Bharat Yojana (aka Modicare) aim to increase access to healthcare through free health insurance for lower income households. 
+
+Renewable energy is prominent in India, with a goal of achieving net zero by 2070. In 2024, India’s renewable energy capacity reached 205GW, putting it on track to make its 500GW target for 2030; this target constitutes meeting 50% of India’s electricity needs from non-fossil fuel sources by 2030. Solar energy is experiencing growth of 36.5% CAGR. A new government report announced a push for increased investment in EVs, offshore wind, and green hydrogen, to meet further clean energy goals.
+
+Source:
+1. https://www.troweprice.com/personal-investing/resources/insights/market-broadening-and-a-new-chapter-for-emerging-markets.html
+2. https://economictimes.indiatimes.com/markets/stocks/news/from-infrastructure-to-ems-top-5-sectors-to-look-out-for-in 2025/articleshow/117070502.cms?from=mdr
+3. https://www.fidelity.com.hk/en/articles/investment-spotlight/2024-03-25-opportunities-india-market-1711353541402 
+4. https://www.ey.com/en_in/insights/energy-resources/powering-the-future-india-s-role-in-global-energy transition#:~:text=India%2C%20the%20fastest%2Dgrowing%20large,and%20BESS%20total%20billions%20annually. 
+5. https://www.ft.com/content/398fde10-6e63-4b01-b834-1897d6265dcd
+6. https://www.assetmanagement.hsbc.com.hk/en/intermediary/news-and-insights/indian-equity-nov-2024 
+7. https://www.iisd.org/articles/press-release/support-offshore-wind-evs-green-hydrogen-needed-achieve-india-goals
+
+</x-accordion>
+
 
 <x-accordion summary="Updates on the Trump administration and impacts on the market">
 
