@@ -217,6 +217,63 @@ Adani Enterprises: An FPO announcement led to significant movement in Adani Ente
 
 </x-accordion>
 
+<x-accordion summary="Week of 17/01/2025">
+ 
+### US
+
+_Written by Sarah LEONG Si Ian_
+
+#### Macro:
+In the past week, the three major indexes have demonstrated bullish trends. This might be a consequence of the Labor Department’s inflation report which showed a slowdown published by the US . S&P 500 showed a bullish trend throughout the whole week, closing at 5996.66 with a 1% increase. NASDAQ Composite Index was also rising. Although there were some slight drops at the beginning of the week, it started rising and reached 19630.20 when it closed, which was a 1.51% increase. A similar trend is also seen in the Dow Jones Industrial Average, which ended at 43487.83, a 0.78% increase. Looking into several important data in the US, Crude Oil Inventories declined by 1.962M, which was higher than both the previous (-0.959M) but lower than the forecast value (-3.500M). The Initial Jobless Claims was 217K, which was higher than both the previous value of 203K and the expected value of 217K. This indicates a bearish change for this index. 
+
+#### Sector News:
+The US consumer discretionary sector has shown the highest rise of 1.71% in price in the previous week. From the previous data, it has already shown an increasing trend, which might potentially be driven by a slowdown of inflation rises. Although the consumer discretionary has been increasing, the spending intention is still lower than 2021 levels. In general, most of the sectors in the US have shown a price rise in the previous week, with the highest rate of 1.71% in consumer discretionary and the lowest of 0.1% in the utilities sector. Whilst the real estate sector showed a decline of 0.1% in price level and the health sector dropped by 0.67%. 
+
+#### Single Stock News:
+Amazon (AMZN) has fluctuated in its stock prices but shown an overall increasing trend and closed at the week’s highest of 225.94, a 2.39% increase. The P/E TTM was at 48.28. The net inflow was 242.71M, with the majority from small orders.
+
+### Europe
+
+_Written by Kathy Tam_
+
+#### Macro:
+Deloitte reported the inflation rate in December this week, with Eurozone inflation accelerated to 2.4%, marking the third consecutive month of increases. This rise is primarily driven by a rebound in energy prices, which rose 0.1% year-on-year after three months of decline. Core inflation, excluding volatile food and energy prices, remained steady at 2.7%, consistent with the previous four months. A notable divergence persists between goods and services inflation, with non-energy industrial goods rising only 0.5% while services inflation surged by 4%. This ongoing services inflation poses a concern for the European Central Bank (ECB), which has been cutting interest rates to address economic weaknesses despite the relatively stable bond yields indicating investor confidence in the ECB's approach. Inflation rates varied significantly across member countries, with Germany and Spain both at 2.8%, while Belgium faced the highest rate at 4.4%.
+
+#### Sector News:
+European shares rose nearly 1% on Thursday, with the pan-European Stoxx 600 climbing 0.98% to 520.05 points, its highest level since mid-December, largely driven by a surge in luxury stocks following Richemont's strong earnings report. The luxury sector saw a notable boost, with Richemont shares soaring 16.3% after exceeding quarterly sales expectations, signaling robust demand during the holiday season. France’s benchmark index reached a near three-month high, outperforming other regional exchanges, as luxury firms collectively advanced 6.7%, marking their best performance in nearly four months. Major players like LVMH, Dior, Kering, and Hermes also recorded significant gains, reflecting optimism about the high-end market's resilience amid global economic challenges. Deutsche Bank highlighted that these results suggest premium luxury brands are likely to outperform, indicating that the current slowdown in luxury is more cyclical than structural and that growth in other regions can help mitigate weaknesses in China.
+
+#### Single Stock News:
+Zalando SE (ZAL) experienced a significant boost in its stock price, rising 8.6% after the company announced that it expects its profit for 2024 to exceed previous forecasts. Following this positive outlook, Goldman Sachs updated its price target for Zalando from €37.00 to €42.50, indicating a potential upside of approximately 35%. The anticipated adjusted EBIT for FY24 is projected to reach around €510 million, surpassing the company's own guidance of €440 million to €480 million. This strong performance can be attributed to robust customer growth driven by effective marketing strategies and improved product sell-through rates, with Gross Merchandise Volume (GMV) rising 4.5% to €15.3 billion and revenues increasing by 3.9% to €10.5 billion.
+
+### Mainland China & HKSAR
+
+_Written by Alec ANTONIOU_
+
+#### Marco:
+Closing off the third week of the new year, both the Shanghai Composite and Shenzhen Component gained (0.18% and 0.6% respectively). Recent economic data showed that China’s economy grew 5.4% YOY in Q4 2024, exceeding expectation at 5%. Other data showed further promise, as industrial production rose 6.2% and retail sales grew 3.7% in December, outperforming forecasts. New home prices declined at a slower pace whilst unemployment rate sits at 5.1%, down 0.1% annually. Recent data does not suggest that Beijing will continue pushing further stimulus measures. Nonetheless, investors are optimistic about potential cuts in reserve requirement ratio (RRR) for banks before the Spring Festival, as state media report potential action by China’s central bank.
+
+#### Sector News:
+New home prices stayed flat from December to November, marking the fourth month of slower declines in the housing market. This improvement comes following a consistent push from Beijing to revive the economy through considerable fiscal and monetary stimulus, helping push up the slumping housing sector. Retail sales grew 3.7% YOY, beating expectations of 3.5% as private spending rebounded. This is a strong indicator of consumption capacity, demonstrating that the economy retained much of its strength in the fourth quarter. Economic data showed fixed asset investment in 2024 was up 3.2% YOY. This is reflected through investment in infrastructure and manufacturing sectors, expanding 4.4% and 9.2% respectively. High-tech industries saw similar growth with investment up 8% YOY, with higher auto, computer, and solar cell sales.
+
+#### Single Stock News:
+ZTE Corp (0763.HK) is up 13.47% this week as it announces partnership with Indosat to supply further rural 4G coverage across Indonesia. ZTE’s rapid growth is reflective of bolstered high-tech sales from China. Nanjing Panda Electronics (600775.SS) is down 21.08% over the past month. The company expects an attributable loss of 150-220 million yuan for 2024. Anticipated losses are mainly attributed to fierce competition within intelligent manufacturing, power supply, and communication businesses. A law banning TikTok has been enacted in the US.
+
+### India
+
+_Written by Charles SHI Qiyuan_
+
+#### Macro:
+This week, the market experienced volatility but trended toward stability overall. The Sensex benchmark index and the NIFTY50 closed with declines of 0.98% and 0.23%, respectively. Investor sentiment remained cautious amid continued foreign capital outflows. However, the domestic equity market ended a four-day losing streak on Tuesday, buoyed by easing domestic inflation, lower crude oil prices fueling bargain buying, and positive global cues, closing in the green. The rally extended into Thursday, driven by growing optimism about a softening U.S. inflation outlook, which raised hopes for rate cuts. Both indices closed up 0.4% on the day. On Friday, disappointing performance in IT and banking stocks, combined with uncertainty over potential U.S. policy shifts ahead of Donald Trump's inauguration, led to an overall decline. India’s recent cooling inflation has paved the way for potential rate cuts. On Monday, the government reported a Consumer Price Index (CPI) growth of 5.22% year-on-year for December, down from November's 5.48% and below economists’ forecast of 5.45%. Economists anticipate the Reserve Bank of India (RBI) will initiate a rate-cut cycle at its February Monetary Policy Committee meeting, lowering the benchmark rate by 25 basis points to 6.25%. However, the timing of monetary easing remains uncertain due to the weakening Indian rupee (at a record low of 86.58 against the U.S. dollar), slowing economic growth (Q3 2024 marked the lowest in nearly two years), and heightened uncertainty driven by global bond yield fluctuations.
+
+#### Sector News:
+The market saw mixed performance across sectors, with the Nifty IT and Private Bank indices emerging as the worst performers, each declining by over 2%. The Banking Nifty and Financial Services indices followed, registering losses of over 1%. In contrast, the Nifty FMCG, Metals, OMC, and Realty indices closed higher, with gains of 1.56%. The Nifty IT index recorded the steepest decline, plunging 2.68%. This was primarily driven by a sharp drop in Infosys stock following the company’s Q3 earnings report. Infosys shares closed at ₹1,817.50 on Friday, down 5.8%, amid bleak growth prospects that prompted investors to cut their positions. Morgan Stanley highlighted concerns over the quality of earnings, noting that revenue growth was fueled by an increase in the "third-party projects" component within deal pipelines. Additionally, valuations for mid-cap IT firms continue to exceed those of larger players, raising questions about sustainability. The ongoing global economic slowdown further adds uncertainty for IT stocks.
+
+#### Single Stock News:
+Reliance Industries Ltd（NSE: RELIANCE):
+Reliance Industries Ltd (RIL) posted a weekly gain of 5.35% (66 basis points), supported by strong Q3 earnings. The company reported a consolidated net profit of ₹18,540 crore for Q3 FY24, representing a 7.4% increase compared to ₹17,265 crore in the same period last year. Consolidated revenue grew by 6.7% year-on-year, rising from ₹22.5 lakh crore to ₹24 lakh crore. At the operational level, Reliance Industries recorded an EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) of ₹43,789 crore for the quarter ended December 2024, an 8% increase year-on-year from ₹40,656 crore. The company's EBITDA margin improved by 20 basis points (bps) to 18.3% from 18.1% in the prior year, driven by higher refining margins and growth in digital services.
+
+
+</x-accordion>
 
 <x-accordion summary="Week of 10/01/2025">
  
