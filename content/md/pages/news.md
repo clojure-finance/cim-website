@@ -24,12 +24,12 @@ _Written by Rachel HU Xinyue_
 9. API Crude Oil Stock Change: 4.593 million barrels increase (above the forecast of 1.17 million)
 10. The Federal Reserve maintained its target interest rate at 4.25%–4.5% during the week, in line with prior guidance.
 
-### Sector News:
+#### Sector News:
 AI-related equities posted mixed results. Super Micro Computer (NASDAQ: SMCI) rose by 7.8%, Palantir (NYSE: PLTR) gained 4.09%, while BullFrog AI (private company) declined 2.22%.
 
 Semiconductor stocks were generally weaker. The Philadelphia Semiconductor Index closed down 0.94% for the day and recorded a weekly loss of 0.89%. The 2x leveraged ETF tracking Nvidia (NYSE: NVDA) declined 1.52%, whereas Wolfspeed (NYSE: WOLF) saw a notable gain of 9.58%.
 
-### Single Stock News:
+#### Single Stock News:
 _Boeing (NYSE: BA)_ advanced 10.07% this week, following reports that President Trump announced the company would be responsible for developing the next-generation U.S. Air Force fighter jet, the F-47.
 
 _FedEx (NYSE: FDX)_ declined 4.9% over the week after releasing its fiscal Q3 earnings, which were mixed. While revenue came in ahead of expectations, earnings fell short. The company also revised down its full-year profit and revenue guidance, which may have weighed on investor sentiment.
@@ -40,22 +40,22 @@ _Micron Technology (NASDAQ: MU)_ fell 8.04%, despite reporting a strong Q2 data 
 
 _Written by Robin HONG Yee Ching_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 1. STOXX 600 Index: Dropped 0.6%
 2. Euro: The euro was 0.3% lower at $1.08223, on pace to finish the week down 0.6%
 3. German DAX: Dropped 0.5%.
 
-### Sector News:
+#### Sector News:
 The automotive sector also saw steep declines due to mounting concerns over trade barriers. Volkswagen fell 4.15%, BMW dropped 3.53%, Mercedes-Benz lost 2.44%, Porsche declined 3.4%, and Stellantis retreated 3%. Carmakers are considered among the most vulnerable to trade tensions due to their extensive international exposure and manufacturing operations in Canada and Mexico — both of which have been primary targets of Trump’s tariffs.
 
-### Single Stock News:
+#### Single Stock News:
 Nike reported third-quarter financial year 2025 revenues of $11.3 billion (€10.4bn), which was a year-on-year decrease of 9% on a reported basis. This drop was primarily because of a decrease in demand for the company’s core footwear and apparel divisions, with sales lagging particularly in China. Equipment sales increased. Nike Direct revenues also plunged 12% to $4.7bn (€4.3bn), with its gross margin falling 330 basis points to 41.5%. The company’s chief financial officer (CFO), Matthew Friend, highlighted during an investor call that geopolitical dynamics, tax regulations and new tariffs were some of the factors causing uncertainty. The company’s share price dropped more than 5% in pre-market trading on the New York Stock Exchange (NYSE) on Friday morning.
 
 ### Mainland China & HKSAR
 
 _Written by Kevin XIA_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 1. Shanghai Composite Index: 3,431.15, up 0.15% for the week, with a year-to-date increase of 2.38%.
 2. Shenzhen Component Index: 11,015, up 0.52% on Tuesday, marking a multi-month high.
 3. Hang Seng Index: Rose by 21% year-to-date, making it the top performer among global indices.
@@ -63,14 +63,14 @@ _Written by Kevin XIA_
 5. Consumer Price Index (CPI): Fell by 0.7% year-over-year in February, marking the first contraction since January 2024. The core CPI also declined, highlighting deflationary pressures.
 6. Producer Price Index (PPI): Contracted for the 29th consecutive month, down 2.2% in February.
 
-### Sector News:
+#### Sector News:
 Technology and AI:
 Chinese tech stocks have been performing well, with US-listed companies like Alibaba, Baidu, and PDD Holdings seeing significant gains. This is partly due to the softening of governmental oversight of tech giants and the rise of innovative AI companies.
 
 Real Estate:
 China's property sector has been a focus for policymakers, with efforts to stabilize and boost consumption. However, a prolonged housing slump continues to impact consumer spending.
 
-### Single Stock News:
+#### Single Stock News:
 _BYD Company_ 
 Gained 1.1% following the announcement of new electric vehicle charging technology. However, its stock experienced volatility last week. On March 21, the stock closed at 388.00 HKD, down 5.86% from the previous day's close of 412.15 HKD. However, it had seen gains earlier in the week, such as a 2.82% rise on March 19.
 
@@ -78,15 +78,15 @@ Gained 1.1% following the announcement of new electric vehicle charging technolo
 
 _Written by Dacian DENG Shen_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 Japan’s stock markets posted gains over the past week, with the Nikkei 225 Index rising 1.68% and the broader TOPIX climbing 3.25%. Foreign investor interest contributed to the strong performance, particularly boosting shares of Japanese trading companies. The yen weakened slightly, trading at the lower end of JPY 149 against the U.S. dollar, compared to JPY 148.6 the previous week. Meanwhile, the yield on the 10-year Japanese government bond fell marginally from 1.54% to 1.52%.
 
 At its March 18–19 monetary policy meeting, the Bank of Japan (BoJ) kept its short-term policy rate unchanged at 0.5%, as expected. Inflation data showed Japan’s core consumer price index rose by 3.0% year-on-year in February, exceeding consensus expectations of 2.9% but slowing from January’s 3.2%. Early results from Japan’s spring wage negotiations (“shunto”) indicated steady wage growth, which aligns with the BoJ’s focus on monitoring a virtuous cycle between wages and prices to sustain inflation expectations.
 
-### Sector News:
+#### Sector News:
 Foxconn is close to a deal with Mitsubishi Motors to produce electric vehicles (EVs), marking a significant step for both companies. Mitsubishi aims to expand its EV lineup while cutting costs, and Foxconn seeks to diversify beyond iPhone assembly into EV manufacturing. Meanwhile, SoftBank has acquired US chip start-up Ampere Computing for $6.5 billion to strengthen its AI infrastructure strategy, complementing its existing investments like Arm and Graphcore. These developments highlight Japan's push toward innovation in EVs and AI.
 
-### Single Stock News:
+#### Single Stock News:
 _Mitsubishi Motors_
 The potential partnership with Foxconn could positively impact Mitsubishi's stock by signaling innovation and cost-efficiency in the EV market. However, the company has yet to confirm the deal officially.
 
@@ -97,7 +97,7 @@ SoftBank's acquisition of Ampere Computing further solidifies its position in th
 
 _Written by Justin CHUNG Lok Yin_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 1. NIFTY 50: 23,350.40 +810.75 (3.60%)
 2. SENSEX: 76,905.51 +2,614.04 (3.52%)
 3. WPI Food Index YoY: 5.94% (prev 7.47%)
@@ -110,7 +110,7 @@ _Written by Justin CHUNG Lok Yin_
 10. M3 Money Supply YoY: 9.6%
 11. Foreign Exchange Reserves: 654.27B
 
-### Sector News:
+#### Sector News:
 Aviation: 
 India's aviation sector is showing a healthy picture, with domestic air passenger traffic showing a robust 11.04% year-on-year growth in February. International passenger traffic too has shown robust growth, with Indian carriers carrying approximately 280.9 lakh passengers between April-January, a 14.8% rise over last year and a 41.3% rise over pre-Covid levels.
 
@@ -118,7 +118,7 @@ Among airlines, Akasa Air achieved a 4.7% share of the market by transporting 6.
 
 Credit rating agency ICRA has a "stable" outlook for the industry, supported by stronger pricing power and moderate growth prospects. Domestic air traffic is expected to progress 7-10% year on year during FY2025 and FY2026, while international passenger traffic for Indian carriers will grow 15-20%.
 
-### Single Stock News:
+#### Single Stock News:
 _Garden Reach Shipbuilders & Engineers Ltd. (NSE:GRSE):_
 GRSE stock rose over 6% on March 20, 2025, following the company's announcement of a Memorandum of Understanding (MoU) with Nagaland's Public Works Department (PWD). This comes after the company's good run of growth, its stock has risen 127% year-to-date and 30.6% last week. The MoU, signed on March 19, 2025, is for the supply of eight double-lane modular Steel Bridges under the Make in India initiative. This is GRSE's first significant collaboration with a Northeastern state, with the aim of enhancing regional infrastructure. Being amongst the premier defense-sector shipbuilders, GRSE has reported 37.69% revenue growth YoY and a net profit increase of 11% in Q3 FY 2024-2025. It is projected to grow by analysts but they perceive resistance at ₹1,800-₹2,000 and support at ₹1,640.
 
@@ -222,73 +222,73 @@ _Written by Sarah LEONG Si Ian_
 6. NASDAQ Composite: 17754.09 (+2.61%)
 7. Dow Jones Industrial Average: 41448.19 (+1.65%)
 
-### Sector News:
+#### Sector News:
 The technology sector has shown the highest price rise of 3.04.% among all the sector indexes in the US. This might be one result of the US’s Artificial Intelligence initiative, which gives consumer confidence. In the previous week, the stock price of Intel shares increased by 14%, following the appointment of the new CEO Lip-Bu Tan.
 
-### Single Stock News:
+#### Single Stock News:
 Microsoft (MSFT) has shown fluctuations in the previous week. It opened at a price of 392.35 and has been going up and down until it reached the week’s low of 376.99, but eventually closed with a 2.58% rise at 388.56. The P/E TTM was at 31.31. The net outflow was 108.52M, with most of the orders being small orders.
 
 ### Europe
 
 _Written by Kathy TAM_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 1. STOXX 600 Index: Gained 0.8%, but remains 2% lower for the week.
 2. Euro Performance: Strengthened by 0.6% against the U.S. dollar, trading at $1.0912/€.
 3. German Bund Yields: 10-year Bund yield rose by 8bps to 2.94%.
 4. EU50 Index: Traded at 5,416.6 on March 14, a daily increase of 1.56% but a weekly decrease of 1.97%, reached an all-time high of 5,568.65 in March 2025
 
-### Sector News:
+#### Sector News:
 The consumer sector in Europe showed a mixed performance during the week. The STOXX 600 index, which includes consumer stocks, gained 0.8% during the week, driven by strong performances in resources and consumer sectors. This rise reflects resilience in consumer spending, supported by a slight improvement in consumer confidence, which rose to -13.6 in February 2025, marking the highest level in four months. Cross-border e-commerce continues to grow, with 30% of online buyers in the EU making purchases from sellers in other EU countries. However, inflation concerns persist, as evidenced by recent economic data showing headline inflation expected to average 2.3% in 2025. Despite these challenges, household spending is projected to strengthen from an annual rate of increase of around 0.9% in 2023-24 to 1.3% in 2025-27, supported by rising wages and easing inflation.
 
-### Single Stock News:
+#### Single Stock News:
 Ryanair's stock experienced a slight decline after releasing its February passenger data, despite a 14% increase in passengers to 12.6 million. The stock fell by 0.5% due to concerns over future growth rates, as investors focused on the airline's forward-looking guidance. Ryanair aims to carry nearly 200 million passengers in fiscal year 2025, but achieving this target may require slowing passenger growth to 5.2% in March, partly due to the Easter holiday impact. Additionally, Ryanair remains involved in a legal dispute with the European Commission over state aid to SAS, reflecting broader tensions between airlines and EU regulators.
 
 ### Mainland China & HKSAR
 
 _Written by Kevin XIA_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 The Hang Seng Index (HSI) rose by 2.1% to close at 23,959 points on March 14, despite losing 1.1% for the week. The Hang Seng China Enterprises Index gained 2.7% to finish at 8,877 points, reflecting positive sentiment towards mainland companies. The Hang Seng TECH Index increased by 2.3% to close at 5,880 points, driven by technology stocks. In mainland China, the Shanghai Composite Index and the Shenzhen Component Index also showed positive movements, with the former rising by 1.5% and the latter by 1.8% over the week.
 
-### Sector News:
+#### Sector News:
 The technology sector in both mainland China and Hong Kong is seen as a driver of growth, particularly with stocks related to AI and e-commerce. This trend is supported by positive US-China relations and ongoing investments in AI technologies. The consumer sector is also expected to benefit from policies supporting domestic consumption, such as childbirth incentives in Inner Mongolia and other regional initiatives. These measures are anticipated to boost consumer-related stocks and contribute to economic recovery. Additionally, the financial sector in both regions is supported by ample liquidity and regulatory support for capital markets, which helps maintain investor confidence.
 
-### Single Stock News:
+#### Single Stock News:
 Several key stocks have been in focus during the week. Guming, a Chinese bubble-tea giant, is preparing for a Hong Kong IPO, targeting US$200 million. This move highlights the growing interest in consumer goods companies in the region. Tech blue chips like JD.com, Alibaba, and Baidu have shown resilience, benefiting from positive trends in AI and e-commerce. In mainland China, companies such as Huawei and Xiaomi are also gaining attention due to their strategic investments in technology and innovation. Despite these positive developments, investors remain cautious about potential challenges, including economic recovery and policy support falling short of expectations.
 
 ### Japan
 
 _Written by Kevin XIA_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 The Nikkei 225, Japan's benchmark stock index, rose by 0.72% to close at 37,053.10 on March 14, 2025. This increase was part of a broader trend where most Asian markets experienced gains, buoyed by positive sentiment from Wall Street.
 1. Industrial Production: Japan's industrial production showed a final decline of 1.6% year-over-year, reflecting ongoing challenges in manufacturing.
 2. Inflation Rate: The inflation rate in Japan is expected to be around 4% year-over-year, with core inflation at 3.2%.
 3. Trade Balance: Japan's trade balance showed a deficit of ¥2,758.8 billion, with exports rising by 7.3% and imports by 16.2% year-over year.
 
-### Sector News:
+#### Sector News:
 Japan's economic sectors have been influenced by various policy and market developments. The technology sector is gaining attention due to investments in innovation and strategic partnerships. The energy sector is undergoing changes with plans to phase out the feed-in tariff system for solar power by 2032, aiming to consolidate small-scale projects and promote larger operators. Additionally, Japan is focusing on expanding its agricultural exports, including rice, with a goal to increase exports eight-fold by 2030. The country is also promoting its cold chain logistics standards in Southeast Asia to boost food exports.
 
-### Single Stock News:
+#### Single Stock News:
 Several Japanese companies have been in focus recently. Trading giants such as Itochu Corp., Mareni Corp, and Mitsubishi Corp. saw their shares rise after Warren Buffett's Berkshire Hathaway increased its stakes in these firms. This move is perceived as a vote of confidence in Japan's economic landscape. Despite these positive developments, challenges persist, including a decline in the Leading Economic Index (LEI) due to weak new orders for machinery and construction, which may signal caution in business investment decisions.
 
 ### India
 
 _Written by Charles SHI Qiyuan_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 1. SENSEX 30 - 73828.91, (-0.69%)
 2. NIFTY 50 - 22383.30, (-0.74%)
 3. Foreign Exchange Reserves: $653.9 billion (+$15.26B In the week)
 4. CPI of February: 3.61% (-65 base points)
 5. Growth in Net Sales of FDI in FY24: 9.3% (20.3% in FY23)
 
-### Sector News:
+#### Sector News:
 Energy Sector: 
 This week, India made a significant adjustment to its energy strategy. On Wednesday, Parliament passed an amendment bill that separates oil operations from the mining sector. The aim is to encourage foreign investors to enter India's oil and gas exploration industry, with hopes of attracting more international capital to enhance domestic energy self-sufficiency and drive industry modernization. At the same time, updated data shows that since February, Indian refineries have been turning to crude oil imports from Latin America and Africa, with a slight increase, to replace Russian oil. In February, Russian oil imports dropped by 3% compared to the previous month to around 1.54 million barrels per day, marking the lowest share since January 2024. This shift allows Indian refiners to reduce the instability in the global oil supply chain and increase the diversity and stability of their energy supplies.
 
-### Single Stock News:
+#### Single Stock News:
 _Indian Railway Finance Corp Ltd (NSE: IRFC):_
 This stock will be in the spotlight next week as the board will discuss and approve the proposal for the second interim dividend of the fiscal year on Monday, and the stock has announced a record date of March 21 for dividend payment. However, the stock has fallen more than 20% so far this year (down 4.03% this week, now at 117.03) following the stock market crash since November 2024.
 
