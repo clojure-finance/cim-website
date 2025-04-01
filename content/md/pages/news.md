@@ -438,6 +438,62 @@ Tata Steel Ltd (NSE: TATASTEEL): This week, Tata Steel’s stock declined by 0.8
 
 </x-accordion>
 
+<x-accordion summary="Week of 7/02/2025">
+ 
+### US
+
+_Written by Rachel HU Xinyue_
+
+#### Macro:
+This week, market sentiment was rather poor, with all three major indices experiencing slight declines: the Dow Jones Industrial Average fell by 0.54%, the S&P 500 dropped by 0.24%, and the Nasdaq declined by 0.53%. Several economic data releases this week presented a mixed outlook. Regarding the nonfarm payrolls data, the U.S. economy added 143,000 jobs in January, significantly lower than the revised 307,000 jobs in December and the forecasted 170,000 jobs. However, other data signals were more positive, such as the U.S. unemployment rate, which dropped by 0.1 percentage points to 4.0%, the lowest level since May. This suggests that the labor market remains relatively healthy, which could make it difficult for the Federal Reserve to shift its neutral stance on interest rate cuts.As for industry PMIs, the ISM Services PMI for January, after a downward revision for December, dropped from 54 to 52.8, significantly lower than the expected 54.3, possibly due to the negative impact of tariffs. On the other hand, the Manufacturing PMI rose from 49.2 in December to 50.9 in January, exceeding the expected 49.8. In December, job openings in the labor market decreased by 556,000 to 7.6 million, lower than the market expectation of 8 million. Meanwhile, the University of Michigan's Consumer Confidence Index for February 2025 dropped from 71.1 in January to 67.8, below the forecasted 71.1. This marks the second consecutive month of decline and the lowest level since July 2024. Furthermore, the public's inflation expectations for the coming year surged from 3.3% to 4.3%, reflecting concerns about a potential resurgence of high inflation, which has raised market caution. The combination of this week’s employment data and comments from former President Trump regarding tariffs has dampened market risk appetite, increasing risk-aversion sentiment. As a result, the 10-year U.S. Treasury yield briefly dipped before rising above 4.51%. Concerns about a potential trade war, the possibility of weakening oil demand, rising U.S. crude oil inventories, and Trump’s reiterated commitment to increasing U.S. oil production have all put pressure on oil prices. U.S. crude oil fell by 2.11%, while Brent crude oil declined by 1.33%. Meanwhile, gold rose by 2.23% this week.
+
+### Sector News:
+Affected by the overall market trend, semiconductor stocks generally declined this week, with AMD falling by 7.24%, TSMC dropping by 1.53%, and Wolfspeed decreasing by 13.05%. In contrast, nuclear energy stocks surged across the board, with Centrus Energy jumping nearly 30%, Oklo Inc. rising over 22%, and NuScale Power increasing by more than 14%.
+
+### Single Stock News:
+Aurora's ADR (AUR) rose by 17.46%, as the company’s AI platform, GPTBots.ai, was enhanced through the integration of DeepSeek LLM. Amazon (AMZN) declined by 3.59%, due to first-quarter earnings guidance falling short of expectations and capital expenditures exceeding projections. Tesla (TSLA) dropped by 10.52%, and it sold 63,238 China-made vehicles in January, representing an 11.5% year-on-year decline and a 32.6% month-on-month drop, marking the fourth consecutive month of decline.
+
+### Mainland China & HKSAR
+
+_Written by David LU Zhiyuanu_
+
+### Macro:
+Last week, the Chinese and Hong Kong stock markets showed notable gains in the first week after the Chinese New Year. The Shanghai Stock Exchange (SSE) increased by 2.3%, and the Shenzhen Stock Exchange (SZSE) rose by 3.22%, reflecting optimism in the domestic markets. Meanwhile, the Hang Seng Index in Hong Kong surged by an impressive 5.05%, signaling strong investor confidence in the region. These increases occurred despite external pressures, including tariffs imposed by former U.S. President Donald Trump on Chinese products. The positive performance could be attributed to post-holiday market recovery, investor optimism about China's economic resilience, and expectations of domestic policy support to counter external challenges. However, ongoing trade tensions remain a potential risk for sustained growth.
+
+### Sector News:
+Last week, the Chinese and Hong Kong markets experienced notable fluctuations across various sectors. Apple concept stocks rose against the trend in the tech sector, with AAC Technologies (2018.HK) surging over 7%. This came amid reports that Apple is developing a more advanced Siri digital assistant with stronger conversational capabilities, aiming to surpass OpenAI’s ChatGPT and other voice services. Meanwhile, chips, internet, and securities services industries declined, reflecting broader weakness in these sectors. The gaming sector outperformed significantly after the National Press and Publication Administration approved 112 domestic online games in November 2024, marking the second consecutive month with over 110 game approvals, signaling a strong recovery in this industry. In contrast, the electric vehicle (EV) sector underperformed due to news that Warren Buffett’s Berkshire Hathaway reduced its stake in BYD to below 5%, further scaling back its long-term investment in China’s largest EV maker as the company refocuses on U.S. investments.
+
+### Single Stock News:
+Hangzhou Raycloud Technology Co Ltd (SHA. 688365) has increased by 36.46% in the passing week. The 36.46% surge in the past week suggests strong market confidence, likely driven by positive earnings expectations, industry growth in cloud services, or strategic advancements. As a tech company, it may benefit from investor interest in high-growth sectors post-Chinese New Year. Beijing Thunisoft Co Ltd (SHA. 300271) has increased by 20.05% in the passing week. The 20.05% increase reflects optimism in the software and IT services sector. This growth could be linked to favorable policies, new contracts, or recovery in the technology sector. Investors may see potential in its role within China's digital transformation initiatives.
+
+### Japan
+
+_Written by Dacian DENG Shen_
+
+### Macro:
+Japan's stock markets declined over the week, with the Nikkei 225 Index decreasing by 2.0% and the TOPIX Index by 1.8%, as hawkish comments from the Bank of Japan (BoJ) strengthened the yen. This impacted the profit outlook for Japan’s export-heavy industries. The yield on the 10-year Japanese government bond increased to 1.28% due to expectations of further interest rate increases by the BoJ. Data indicated a sharp rise in nominal wages in December and a second consecutive month of growth in real wages, alongside a rebound in household spending. The BoJ's January meeting summary revealed discussions about the divergence in monetary policies between the BoJ and the U.S. Federal Reserve (Fed), noting concerns over potential market fluctuations and increased flexibility in the BoJ’s monetary policy due to the Fed's expected pause in rate cuts.
+
+### Sector News:
+Energy Sector: Donald Trump announced that Nippon Steel had abandoned its plan to acquire US Steel, but would invest heavily in the Pittsburgh producer. Trump mentioned the prospect of this investment at a joint press conference with Japanese Prime Minister Shigeru Ishiba. Although details of the investment remain unfinalized, Trump said he would meet with Nippon officials to work out the details. The United Steelworkers union, a major opponent of the acquisition, remains concerned about Nippon Steel. Trump also stated that he would consider tariffs on Japanese exports if the U.S. trade deficit wasn't eliminated and that he would unveil reciprocal tariffs on other nations the following week. Furthermore, Japan would be buying more U.S. liquefied natural gas.
+
+### Single Stock News:
+Renault has restarted discussions with Foxconn, a Taiwanese iPhone contract manufacturer, regarding its stake in Nissan. This follows the collapse of merger talks between Nissan and Honda. Renault is also looking for new investors, including approaching technology companies like Apple. Renault's search for new investors stems from concerns about potentially depressed shares in Nissan, which lacks a new partner. At present, Renault holds a 36% stake in Nissan, including 18.7% held in a French trust that it wants to offload. Although Renault is open to selling its shares, Nissan has the first right of refusal. Nissan is also searching for a strategic tech partner after ending talks with Honda to create the world’s fourth-largest carmaker.
+
+### India
+
+_Written by Justin CHUNG Lok Yin_
+
+### Macro:
+This week, the Indian market faced notable uncertainty ahead of the Reserve Bank of India’s (RBI) rate decision on Friday, February 7. Concerns over monetary policy led foreign portfolio investors (FPIs) to withdraw over ₹8,800 crore from Indian equities, creating significant pressure on the rupee, which fell to a historic low of 87.79 against the US dollar. Market performance was volatile. The NIFTY 50 Index reached a weekly high of 23,773.55 on Wednesday, February 5, before failing to break the 23,800 resistance level and slipping below the 23,500 support level. On Thursday, February 6, it also fell below its 50-day moving average. Despite these corrections, the NIFTY 50 Index rose by 0.96% for the week, while the SENSEX Index outperformed with a 1.36% gain. On Friday, February 7, the RBI announced its first repo rate cut since 2020, lowering it from 6.5% to 6.25%. The decision, though expected, was a response to declining corporate profitability, which contributed to India’s underperformance against other Asian markets in 2024. However, the RBI also downgraded its 2025 real GDP growth forecast from 7.2% to 6.7%, citing ongoing risks such as geopolitical tensions, protectionist trade policies, commodity price volatility, and financial market uncertainties. While the rate cut was a positive step, the lack of additional liquidity measures and the downgraded forecast disappointed the market, preventing a rebound on Friday. With limited room for fiscal stimulus due to budgetary constraints, economists expect the RBI to take a central role in supporting the economy. Analysts anticipate further rate cuts of 0.5% to 1% to stimulate growth.
+
+### Sector News:
+The real estate sector continued to underperform, with the NIFTY Realty Index falling by 2.86% during the week and 11.81% year-to-date. After delivering a strong 65% return over the past two years, the sector appears to have entered a correction phase. Slowing housing sales, resulting from high property prices, have negatively impacted real estate companies’ revenues and cash flows. According to PropEquity, residential real estate sales in India’s top nine cities fell by 9% in 2024, with new supply dropping by 15%. Despite these challenges, the recent RBI rate cut is expected to benefit the sector by lowering borrowing costs and improving affordability, which could support demand in the coming months.
+
+### Single Stock News:
+National Mineral Development Corporation Ltd (NSE: NMDC): NMDC, a government-backed enterprise specializing in mineral resources, delivered strong performance this week, with its stock rising by 7.36%. The rally of the domestic mineral supplier was supported by higher domestic demand for infrastructure and hence metals, the imposition of anti-dumping duties on Chinese steel products, and global supply chain challenges due to uncertain development of global tariff policies. The RBI’s rate cut further boosted sentiment, as lower borrowing costs are expected to support infrastructure development and commodity demand.
+
+</x-accordion>
+
 <x-accordion summary="Week of 25/01/2025">
 
 ### US
