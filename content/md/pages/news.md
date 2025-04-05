@@ -13,7 +13,7 @@
 _Written by Rachel HU Xinyue_
 
 #### Weekly Key Data:
-1. Dow Jones Industrial Average：41,985.35 (+1.2%) over the past 5 day
+1. Dow Jones Industrial Average：41,985.35 (+1.2%) over the past 5 days
 2. S&P 500 Index：5,667.56 (+0.51%) over the past 5 days
 3. NASDAQ Composite Index：17,784.05 (+0.17%) over the past 5 days
 4. Retail Sales MoM：0.2% (up from -1.2% in February, above the forecast of 0.5%)
