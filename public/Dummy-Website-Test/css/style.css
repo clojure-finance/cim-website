@@ -47,6 +47,7 @@ body {
     font-weight: 400;
     line-height: 28px;
     background: var(--background);
+    zoom: 75%;
 
     text-rendering: optimizeLegibility;
     vertical-align: baseline;

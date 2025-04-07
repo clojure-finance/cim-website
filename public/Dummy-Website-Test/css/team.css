@@ -37,7 +37,7 @@
     font-weight: 600;
     font-size: 27px;
     margin-top: 5px;
-    height: 65px;
+    height: auto;
 }
 
 .our-team .team-member .team-member-description {
