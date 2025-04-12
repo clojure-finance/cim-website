@@ -104,14 +104,14 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Ashley-Lee.jpg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Ashley-Lee.JPG"/>
         <h3 class="team-member-name">Ashley LEE Juyeon</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Ashley Lee is a Year 2 Computer Science student with a 2nd major in Finance. Her keen interests in both fields motivated her to join CIM, an interdisciplinary approach to technology and finance. Also part of the Web Development team, she currently explores both the financial and technical aspects of CIM.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Chuck-Lam.jpg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Chuck-Lam.JPG"/>
         <h3 class="team-member-name">Chuck Lam Chak Yu</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Lam Chak Yu, Chuck. Chuck is a Year-3 Student studying in the University of Hong Kong, double majoring Finance and Computer Science. With a strong blend of financial and technical expertise, Chuck has participated various internships and case competitions. In CIM, he was in telecommunications team and currently in technology sector team, focusing on research. He is eager to expand his knowledge and learn more in trading. He is excited about the opportunity to gain experience in investment through CIM.</p>
