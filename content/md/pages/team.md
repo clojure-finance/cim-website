@@ -125,6 +125,13 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Haley-Yap.jpg"/>
+        <h3 class="team-member-name">Haley Nicholas Aidden Gotan Yap</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Web Development</h2>
+        <p class="team-member-description">Haley Yap is a second-year Economics and Finance student from the Philippines with a deep passion for the financial sector and investments in various opportunities, ranging from stocks, ETFs, cryptocurrencies, and much more.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Ashley-Lee.JPG"/>
         <h3 class="team-member-name">Ashley LEE Juyeon</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
