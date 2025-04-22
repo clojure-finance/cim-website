@@ -55,3 +55,59 @@
     border-radius: 10px;
     flex: 1;
 }
+
+details {
+    margin: 10px 0;
+    border: 1px solid var(--secondary);
+    border-radius: 5px;
+    background-color: var(--blockquote-background); /* Background color for details */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+/* Styling the summary element (header) */
+details > summary {
+    background-color: var(--secondary-hover); /* Background color for summary */
+    color: var(--header-color); /* Text color for summary */
+    cursor: pointer;
+    padding: 12px 16px;
+    font-size: 16px; /* Keep the font size unchanged */
+    font-weight: bold;
+    border-bottom: 1px solid var(--secondary);
+    list-style: none; /* Remove default marker */
+    user-select: none; /* Prevent text selection on click */
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Hover effect for summary */
+details > summary:hover {
+    background-color: var(--secondary); /* Lighter color on hover */
+    color: var(--header-color-bright); /* Brighter text on hover */
+}
+
+/* Custom marker for summary (optional) */
+details > summary::marker {
+    display: none; /* Remove default marker */
+}
+
+details > summary::after {
+    content: "▼"; /* Custom marker: downward arrow */
+    float: right;
+    font-size: 12px;
+    transition: transform 0.3s ease;
+}
+
+details[open] > summary::after {
+    transform: rotate(-180deg); /* Rotate arrow when expanded */
+}
+
+/* Styling the description content inside details */
+details > .team-member-description {
+    padding: 12px 16px;
+    font-size: inherit; /* Keep the font size consistent */
+    color: var(--text-color-bright); /* Brighter color for description text */
+    line-height: 1.6;
+    background-color: var(--blockquote-background); /* Match container background */
+    border-top: 1px solid var(--secondary);
+}
