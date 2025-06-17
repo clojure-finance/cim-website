@@ -8,7 +8,7 @@
 
 <x-accordion summary="Week of 06/06/2025">
 
- _Published by Ashley LEE_
+ _Published by Ashley LEEE_
 ### US
 
 _Written by Kevin XIA Yunchu_
