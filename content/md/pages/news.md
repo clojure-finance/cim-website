@@ -6,6 +6,123 @@
  
 ## Headlines
 
+<x-accordion summary="Week of 06/06/2025">
+
+ _Published by Ashley LEE_
+### US
+
+_Written by Kevin XIA Yunchu_
+
+#### Weekly Key Data:
+1. S&P 500: 6,000.36 (+1.5%)
+2. Dow Jones Industrial Average: 42,762.87 (+1.2%)
+3. Nasdaq Composite: 19,529.95 (+2.2%)
+4. Russell 2000: 2,132.25 (+1.7%)
+5. May Nonfarm Payrolls: +139,000 jobs (above expectations)
+6. Unemployment Rate: 4.2% (steady)
+7. Average Hourly Earnings YoY: +3.9% (down from 4.2% in April)
+8. 10-year Treasury Yield: ~4.41% (down from 4.51%)
+
+#### Sector News:
+Technology stocks led the market gains this week, with the Nasdaq Composite rising 2.2%. Tesla was a standout, surging over 5% after tensions between CEO Elon Musk and President Donald Trump eased, helping the company recover a portion of the $150 billion in market value lost earlier. Other major tech companies including Nvidia, Alphabet, Meta Platforms, Microsoft, Apple, and Amazon also posted gains ranging from 1% to 2%. However, Broadcom shares declined nearly 4% after issuing a revenue forecast below expectations. In retail, Lululemon’s shares fell sharply by 21% following a downward revision of its annual profit forecast, citing increased tariff-related costs. Energy prices remained steady, with crude oil near $65 per barrel amid ongoing supply concerns.
+
+#### Single Stock News:
+Tesla’s stock rebounded strongly this week, climbing more than 5% after a public dispute between CEO Elon Musk and President Trump appeared to de-escalate, restoring investor confidence. Broadcom reported a revenue outlook that missed analyst expectations, leading to a nearly 4% drop in its share price. Lululemon issued a profit warning, attributing the revision to higher costs from tariffs, which caused its shares to plunge 21%. The overall market optimism was supported by a stronger-than-expected May jobs report and steady unemployment, which helped ease concerns over an economic slowdown and increased hopes for potential Federal Reserve rate cuts later this year.
+
+### Europe
+
+_Written by Kevin XIA Yunchu_
+
+#### Weekly Key Data:
+1. EURO STOXX 50 Index: 5430.17 (+1.18%)
+2. Euro Area Unemployment Rate (April 2025): 6.2% (down from 6.3% in March 2025)
+3. EU Unemployment Rate (April 2025): 5.9% (stable compared with March 2025)
+4. Euro Area Annual Inflation: 1.9%
+5. EU GDP Annual Growth Rate: 1.6%
+
+#### Sector News:
+Across European regions, industry contributions were largely positive in May, with cyclical sectors leading performance. Tech contributed broadly, especially in the U.S., as U.S. Big Tech rallied on strong earnings and outlook, with the exception of Apple Inc. which has potentially higher exposure to trade risks. Financials, discretionary, and industrials contributed across all regions, notably U.S. discretionary and Asia-Pacific Financials. Health Care generally struggled and lagged the most. 
+
+The outlook for euro area economic growth is clouded by trade tensions and elevated global uncertainty. For 2025 as a whole, these effects are seen to be partly compensated by stronger than expected economic activity in the first quarter, which likely reflects in part the frontloading of exports in anticipation of higher tariffs. In the medium term economic activity is seen to be supported by the recently announced new fiscal measures. Annual average real GDP growth is expected to be 0.9% in 2025, 1.1% in 2026 and 1.3% in 2027.
+
+#### Single Stock News:
+JD Sports shares plunged over 7% after reporting a 2% drop in underlying sales. Julius Baer fell 5.5% following news of a CHF 130 million writedown. Marks & Spencer lost more than 3% after revealing a recent cyberattack could result in a £300 million hit to operating profit. Infineon gained 1.6% after announcing a collaboration with Nvidia to develop a new power delivery architecture for AI data centers. 
+
+The EURO STOXX 50 Index closed the week at 5430.17, a 1.18% increase, marking its largest one-week gain since mid-May. The European Central Bank (ECB) reduced the three key ECB interest rates by 25 basis points on June 5. The next meeting is scheduled for June 17, 2025. Euro area economic activity increased by 0.3% in the first quarter of 2025. Domestic demand, driven by private consumption, likely made a positive contribution to growth in the first quarter, as did net trade. The industrial sector shows signs of a recovery, with a manufacturing output PMI of 51.5 while the services PMI indicates stagnation.
+
+### Mainland China & HKSAR
+
+_Written by Kevin XIA Yunchu_
+
+#### Weekly Key Data:
+1. Hang Seng Index (HSI): 24,181.43 (+1.63%)
+2. Shanghai Composite Index: 3,399.77 (+0.43%)
+3. Number of Hang Seng Index Constituents: Increased from 83 to 85 (effective June 9)
+4. Hong Kong Unemployment Rate: Approximately 3.1% (stable)
+5. Hang Seng TECH Index Constituents: 30 (including new inclusion of BYD Co. Ltd.)
+6. Hang Seng Composite Index Constituents: Increased from 502 to 505
+
+#### Sector News:
+The Mainland China and Hong Kong markets demonstrated steady gains this week, supported by positive liquidity conditions and ongoing economic stabilization measures. The Hang Seng Index rose 1.63% to close at 24,181.43, marking its highest level since late March 2025, while the Shanghai Composite Index advanced 0.43% to 3,399.77. The recent increase in China’s Bloomberg Credit Impulse Index to 24.04 in April reflects the effectiveness of the People’s Bank of China’s expansionary monetary policy, which has enhanced liquidity and supported credit growth. This credit expansion is historically correlated with cyclical uptrends in the Hong Kong market. 
+
+The Hang Seng Indexes Company Limited implemented its quarterly index review, increasing the number of Hang Seng Index constituents from 83 to 85, with notable inclusions such as Midea Group Co., Ltd. and ZTO Express. The Hang Seng TECH Index welcomed BYD Co. Ltd., a leading electric vehicle manufacturer, highlighting the ongoing importance of innovation and green technology in the region’s economic development. The Hang Seng Composite Index also expanded, reflecting the broadening of market representation.
+
+Investor interest remained strong in sectors aligned with China’s strategic priorities, including new energy vehicles, technology, and healthcare. Electric vehicle makers such as BYD and Li Auto continued to show robust performance, supported by government policies promoting sustainable development. Pharmaceutical companies like Wuxi Biologics and Hansoh Pharmaceutical also advanced, benefiting from increased healthcare investment.
+
+#### Single Stock News:
+BYD Co. Ltd. was newly included in the Hang Seng TECH Index, underscoring its growing influence in the electric vehicle sector. The company’s shares continued to perform well amid strong domestic demand and supportive policy environments. Li Auto’s shares rose 3.8%, reflecting positive market sentiment toward the new energy vehicle industry. Mining stocks, including Zijin Mining, surged as gold prices reached a one-week high, with Zijin gaining 7.5%. CATL, a major EV battery producer, jumped 9% following a strong market debut.
+
+JD Sports experienced a decline of over 7% after reporting a 2% drop in underlying sales, while Marks & Spencer’s shares fell more than 3% due to a cyberattack-related profit impact. Julius Baer’s shares dropped 5.5% following a significant writedown announcement.
+
+### Japan
+
+_Written by Kevin XIA Yunchu_
+
+#### Weekly Key Data:
+1. Nikkei 225: 38,088.57 (+0.92%)
+2. TOPIX: Up 5.10% in May 2025
+3. Japan Unemployment Rate: 2.5% (March 2025)
+4. Inflation Rate: 3.6% (March 2025)
+5. GDP Annual Growth Rate: 1.7% (March 2025)
+6. GDP Growth Annualized (Q1 2025): -0.2%
+7. Retail Sales YoY: +3.1% (March 2025)
+
+#### Sector News:
+Japanese equities showed resilience in May and early June, supported by easing global economic concerns and robust domestic demand. The TOPIX index rose 5.10% in May, while the Nikkei 225 gained 0.92% during the week ending June 6, 2025. Of the 33 Tokyo Stock Exchange sectors, 29 advanced, led by Nonferrous Metals, Warehousing & Harbor Transportation Services, and Machinery. Conversely, Electric Power & Gas, Pulp & Paper, and Iron & Steel sectors saw declines.
+
+The market benefited from positive developments in US-China trade relations, with the US and China agreeing to significantly reduce additional tariffs, easing fears of a prolonged global economic slowdown. This contributed to buying interest in domestically focused stocks and high-tech sectors, boosted by strong earnings reports from major US chipmakers. However, the yen temporarily appreciated against the US dollar ahead of a meeting between US and Japanese finance ministers, reflecting concerns over potential pressure on Japan to strengthen its currency, which weighed on export-sensitive stocks.
+
+#### Single Stock News:
+Sompo Holdings shares declined 6.6%, while Tokio Marine Holdings, Advantest Corp., and Sony Group Corp. also faced losses. Toyota Motor edged up 0.1% following the launch of a new software system in its revamped RAV4 model, signaling ongoing innovation in the automotive sector.
+
+Electric vehicle and technology-related stocks continued to attract investor interest amid global trends toward sustainability and digitalization. Meanwhile, concerns remain over potential impacts from US tariffs scheduled to take effect in July, particularly on Japan’s automotive exports.
+
+### India
+
+_Written by Charles SHI Qiyuan_
+
+#### Weekly Key Data:
+1. SENSEX 30 - 82188.99, (+0.92%)
+2. NIFTY 50 - 25000.30, (+1.65%)
+3. Projected Inflation for FY26: 3.7%, (Real Rate 1.5% )
+4. Budget for the Department of Agriculture and Farmers' Welfare: Rs 1,37,664.35 crore in 2024-25 (5 times compared to 2013-14)
+5. FY26 Centre outlays incentives scheme: Rs 1.5 lakh cr
+6. FY24–25 FDI inflows: USD 81 billion (+14%)
+7. Cash Reserve Ratio Cut: a phased 100 basis points (bps)
+
+#### Sector News:
+Real Estate Sector: This week, it was the second-best performing sector, with a gain of 7.97%. On Friday, the Reserve Bank of India announced a 50 basis point rate cut, which exceeded market expectations. At the same time, the RBI also indicated plans to reduce the reserve ratio to continue injecting liquidity into banks. Driven by these policies, the stock market rebounded strongly on Friday, with the Nifty Real Estate Index leading all sectors (up more than 3%).
+
+This rate cut marks the RBI’s third consecutive reduction in the repo rate in 2025, with a total decrease of 100 basis points so far this year. The significant rate cut is clearly positive news for the real estate industry, as it helps lower mortgage rates, improves housing affordability for buyers, and stimulates demand. In addition, lower interest rates reduce borrowing costs for developers, supporting project financing and expansion. This proactive monetary easing policy aims to boost economic growth, reduce borrowing costs, and improve the affordability of home loans, thereby directly benefiting the real estate sector. Analysts expect strong recovery in housing demand and real estate investment over the next 2 to 3 years, particularly in the affordable and mid-income housing segments.
+
+#### Single Stock News:
+_Tata Technologies Ltd (NSE: TATATECH)_
+⁠As Apple expands its manufacturing operations beyond China, India has become one of its major production hubs. The Tata Group has rapidly emerged as a key supplier, assembling iPhones at three factories in southern India for both domestic and international markets — one of which also produces certain iPhone components. In the latest reported expansion of their collaboration, Apple has transferred its iPhone and MacBook device repair services—previously handled by the Indian subsidiary of Taiwan’s Wistron Group, ICT Service Management Solutions—to Tata. These after-sales repairs are expected to be carried out at Tata’s iPhone assembly campus in Karnataka.
+⁠
+In recent years, iPhone sales in the Indian market have surged. Of the 11 million smartphones sold in India last year, iPhones accounted for about 7%, up from just 1% market share in 2020. At the same time, amid escalating U.S. - China trade tensions due to Trump-era tariffs, India has also become a popular site for iPhone manufacturing and exports. The latest contract award highlights Apple’s growing confidence in Tata, whose role in the U.S. tech giant’s supply chain is steadily strengthening.
+
+</x-accordion>
+
 <x-accordion summary="Week of 21/03/2025">
 
 ### US
