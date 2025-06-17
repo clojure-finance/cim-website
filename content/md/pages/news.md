@@ -23,6 +23,7 @@ _Written by Kevin XIA Yunchu_
 6. Unemployment Rate: 4.2% (steady)
 7. Average Hourly Earnings YoY: +3.9% (down from 4.2% in April)
 8. 10-year Treasury Yield: ~4.41% (down from 4.51%)
+10. 
 
 #### Sector News:
 Technology stocks led the market gains this week, with the Nasdaq Composite rising 2.2%. Tesla was a standout, surging over 5% after tensions between CEO Elon Musk and President Donald Trump eased, helping the company recover a portion of the $150 billion in market value lost earlier. Other major tech companies including Nvidia, Alphabet, Meta Platforms, Microsoft, Apple, and Amazon also posted gains ranging from 1% to 2%. However, Broadcom shares declined nearly 4% after issuing a revenue forecast below expectations. In retail, Lululemon’s shares fell sharply by 21% following a downward revision of its annual profit forecast, citing increased tariff-related costs. Energy prices remained steady, with crude oil near $65 per barrel amid ongoing supply concerns.
