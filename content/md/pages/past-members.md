@@ -6,6 +6,34 @@
 
 <div class="our-team">
     <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Erika-Lau.jpg"/>
+        <h3 class="team-member-name">Erika LAU Tsz Yee</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager, Head of Research</h2>
+        <p class="team-member-description">Erika Lau leads the global market commentary and thematic investment analysis as the Head of Research at CIM. She has a deep passion for the intricacies of equity markets and overlooks the Consumer Staples portfolio. Erika has honed her skills through valuable internships at HSBC, Citibank and several APAC-focused hedge funds. She is a member of the class of 2025 at the University of Hong Kong, where she is specializing in finance and economics.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Kevin-Xia.jpg"/>
+        <h3 class="team-member-name">Kevin XIA Yunchu</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Research</h2>
+        <p class="team-member-description">Kevin XIA Yunchu is a senior portfolio manager in CIM, he is currently a year 2 International Business and Global Management student. Kevin is interested in the secondary market, specifically momentum and news driven trading. Besides, Kevin enjoys playing poker and bouldering during his free time.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Darren-Fung.jpg"/>
+        <h3 class="team-member-name">Darren FUNG Nok Yin</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager, Head of Web Development</h2>
+        <p class="team-member-description">Darren Fung Nok Yin is a Year 3 Quantitative Finance student at The University of Hong Kong, acting as a senior portfolio manager, head of trading for financial stocks and head of the web development team. With a keen interest in the stock market and investment, he actively pursues technical and fundamental analysis, trading stocks and options as a hobby. His passion drives him to continuously expand his knowledge in these areas.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Haley-Yap.jpg"/>
+        <h3 class="team-member-name">Haley Nicholas Aidden Gotan Yap</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Web Development</h2>
+        <p class="team-member-description">Haley Yap is a second-year Economics and Finance student from the Philippines with a deep passion for the financial sector and investments in various opportunities, ranging from stocks, ETFs, cryptocurrencies, and much more.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic/Cindy-Tang.jpg"/>
         <h3 class="team-member-name">Cindy TANG Xin</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
@@ -24,6 +52,27 @@
         <h3 class="team-member-name">David FAN Rongshuo</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-description">David FAN Rongshuo is a senior portfolio manager in CIM, he is currently a year 2 Fintech student. David is interested in both traditional and quantitative trading. He's into macro trading, taking macro events and companies’ announcement into consideration. Besides, David is also interested in momentum trading as well, seeking the optimal moment to “get on the boat” and “get off at the proper time”.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Anson-Lam.jpg"/>
+        <h3 class="team-member-name">Anson LAM Yat Tung</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <p class="team-member-description">Anson Lam is a Quantitative Finance major student. He is interested in quantitative investing. He is also passionate about closely monitoring market trends, macro news to find inefficiency in the market and profitable trading opportunities.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Jonathan Chen.jpg"/>
+        <h3 class="team-member-name">Jonathan CHEN Junliang</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <p class="team-member-description">Double majoring in Economics and Computer science has equipped me with the ability to conduct in-depth macro fundamental analysis and a solid coding skill set. I am interesed in quantitative research, to combine financial insights with technical capabilities and o analyze market trends from multiple perspectives and develop data-driven strategies for investment and financial analysis.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Dacian-Deng.jpeg"/>
+        <h3 class="team-member-name">Dacian DENG Shen</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <p class="team-member-description">DENG Shen Dacian is a third-year BSc(QFin) student with a keen interest in equity investment. Currently serving as a senior portfolio manager at CIM, Shen is eager to enhance his understanding of equity investment through his association with CIM. Shen views CIM as an invaluable platform that offers him the opportunity to expand his knowledge in this field.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
