@@ -37,20 +37,6 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Alex-Xu.jpg"/>
-        <h3 class="team-member-name">Alex XU Shu Ming</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Head of Data Analysis</h2>
-        <p class="team-member-description">Alex is a driven sophomore of the International Business and Global Management program from the University of Hong Kong, possessing a keen interest in consulting and investment analysis. With a robust understanding of business principles, exceptional interpersonal and technical skills, and a deep passion for financial markets and quantitative strategies, he is well-prepared and eager to make a significant impact in the field of business and finance.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Bella-Liu.jpg"/>
-        <h3 class="team-member-name">Bella LIU Yiming</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Data Analysis</h2>
-        <p class="team-member-description">LIU Yiming, Bella, a student in BBA (Fina & ISA), is currently a deputy group leader for the Data Analysis group. Interest across American and HK stock markets. She has been looking at investments related to consumer discretionary and also led the Data analysis group to create a stock price prediction technique, and hopes this will help CIM as a whole.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Carlos-Or.jpg"/>
         <h3 class="team-member-name">Carlos OR King Nang</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
@@ -58,24 +44,10 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Catherine-Zhao.png"/>
-        <h3 class="team-member-name">Catherine ZHAO Wenqi</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Catherine ZHAO Wenqi is a FinTech student with a strong passion for both finance and computer science. As a newcomer to the stock market, she is eager to deepen her understanding of investment strategies and industry insights. Additionally, as a member of Data Analysis Group, she is exploring ways to integrate her programming skills into the world of investing, aiming to bridge the gap between technology and finance.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Jonward-Xu.jpeg"/>
         <h3 class="team-member-name">Jonward XU Wenxuan</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-description">Jonward XU Wenxuan is a student taking the double degree programme in Business Administration and Law. Jonward is now a senior portfolio manager in CIM. Jonward joined CIM because of interest in investment and asset management, and is now responsible for managing portfolios (mostly of energy industry), designing macro investment strategies and using programming to predict the stock price.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Justin-Qiao.jpg"/>
-        <h3 class="team-member-name">Justin QIAO Yuhan</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Justin is a student majoring in Marketing Analytics and Technology. He hold the position of Junior Portfolio Manager and joined the Data Analysis Group driven by a keen interest in data analysis and asset management. He enjoys analyzing complex data sets, managing portfolios, and developing investment strategies to optimize financial outcomes. Passionate about the intersection of technology and finance, Justin is eager to deepen their knowledge of programming for data analysis. He is excited to contribute to the evolving landscape of analytics and finance.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -99,13 +71,6 @@
         <p class="team-member-description">Toby is a student from BSc(QFin), also with a double major in statistics. Toby currently serves as a junior portfolio manager at CIM and is also a part of the Data Analysis Team. Toby focuses on equity research and investment in the US real estate Industry. Joining CIM, he is eager to learn how to decide on investment strategies based on data analysis through programming. Toby regards CIM as a meaningful platform for him to get more investment skills and market sense.</p>
         <div class="team-member-pad"></div>
     </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Yinsheng-Yang.JPG"/>
-        <h3 class="team-member-name">Yinsheng Yang</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Vincent Yang is a Bachelor of Business Administration (International Business and Global Management) student at the University of Hong Kong. Passionate about finance and investment, Vincent has gained hands-on experience in investment banking, ESG research, and private equity. He has developed skills in financial modeling, equity research, and market analysis, and is eager to apply these skills to contribute to the Centre for Investment Management. Vincent is particularly interested in exploring the intersection of technology and finance, as well as sustainable investment strategies. He looks forward to collaborating with peers and mentors to deepen his understanding of global markets and investment management.</p>
-        <div class="team-member-pad"></div>
-    </div>
 
 </div>
 
@@ -121,17 +86,10 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Chuck-Lam.JPG"/>
-        <h3 class="team-member-name">Chuck Lam Chak Yu</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Lam Chak Yu, Chuck. Chuck is a Student studying in the University of Hong Kong, double majoring Finance and Computer Science. With a strong blend of financial and technical expertise, Chuck has participated various internships and case competitions. In CIM, he was in telecommunications team and currently in technology sector team, focusing on research. He is eager to expand his knowledge and learn more in trading. He is excited about the opportunity to gain experience in investment through CIM.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Jerry-Ting.jpg"/>
         <h3 class="team-member-name">Jerry TING Kit Lam</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Jerry is a freshman majoring in Financial Technology, with a particular interest in wealth management and equity trading. His goal is to enhance his understanding of financial markets and develop analytical skills as a junior portfolio manager at CIM. He believes that her experience in CIM will improve his research skills and help him better formulate trade strategies using both fundamental and technical analysis.</p>
+        <p class="team-member-description">Jerry is a student majoring in Financial Technology, with a particular interest in wealth management and equity trading. His goal is to enhance his understanding of financial markets and develop analytical skills as a junior portfolio manager at CIM. He believes that her experience in CIM will improve his research skills and help him better formulate trade strategies using both fundamental and technical analysis.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -155,11 +113,11 @@
         <p class="team-member-description">Selina DENG, a Marketing Analysis & Technology student, is passionate about stock markets and portfolio construction. Currently serving as a junior portfolio manager at CIM, she is also actively engaged in A-share investments, where she applies analytical frameworks and tries to uncover actionable insights into evolving trends. Seeking to deepen her understanding of financial markets, she eagerly joined the CIM and remains committed to bridging academic knowledge with practical expertise, fostering growth in analytical rigor and investment acumen.</p>
         <div class="team-member-pad"></div>
     </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Yeo-KiahHuah.jpeg"/>
-        <h3 class="team-member-name">YEO Kiah Huah</h3>
+     <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Selina-Deng.jpg"/>
+        <h3 class="team-member-name">Selina DENG Jiahui</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Yeo is a student majoring in Data Science and Finance. He is highly passionate about applying technology to the financial sector. As an incoming Technology Summer Analyst at a European investment bank, Yeo aims to contribute his technological expertise and insights to CIM. His primary focus within CIM includes global technology industry research and web development.</p>
+        <p class="team-member-description">Selina DENG, a Marketing Analysis & Technology student, is passionate about stock markets and portfolio construction. Currently serving as a junior portfolio manager at CIM, she is also actively engaged in A-share investments, where she applies analytical frameworks and tries to uncover actionable insights into evolving trends. Seeking to deepen her understanding of financial markets, she eagerly joined the CIM and remains committed to bridging academic knowledge with practical expertise, fostering growth in analytical rigor and investment acumen.</p>
         <div class="team-member-pad"></div>
     </div>
 </div>
@@ -192,14 +150,7 @@
         <img class="team-member-pfp" src="../../img/team-members-pic/Justin-Chung.jpg"/>
         <h3 class="team-member-name">Justin CHUNG Lok Yin</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Justin CHUNG Lok Yin, BFin (AMPB) III, specializes in the Utilities sector and Indian market research for CIM. With internships in Raffles Family Office, Safari Asia Asset Management and Teneo Financial Advisory, Justin has honed his analytical mindset and investment expertise. A proponent of value investing, fundamental analysis and long-termism, Justin welcomes opportunities to exchange experiences with new connections in the financial industry.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Kathy-Tam.JPG"/>
-        <h3 class="team-member-name">Kathy TAM Ka Ioi</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Kathy is a dedicated finance student with a strong interest in equity research and portfolio management. As a Junior Portfolio Manager, she leverages her analytical skills and passion for financial markets to identify investment opportunities and manage risk. Kathy thrives in collaborative environments and is committed to delivering value-driven insights to support informed decision-making and optimize portfolio performance.</p>
+        <p class="team-member-description">Justin CHUNG Lok Yin, BFin (AMPB), specializes in the Utilities sector and Indian market research for CIM. With internships in Raffles Family Office, Safari Asia Asset Management and Teneo Financial Advisory, Justin has honed his analytical mindset and investment expertise. A proponent of value investing, fundamental analysis and long-termism, Justin welcomes opportunities to exchange experiences with new connections in the financial industry.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -207,20 +158,6 @@
         <h3 class="team-member-name">Rachel HU Xinyue</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-description">Rachel Hu is a Economics & Finance student with a strong interest in the stock market and investment strategies. As part of the research team at the Centre for Investment Management, she monitors market trends, tracks macroeconomic shifts, and analyzes investment opportunities. Though new to finance, she is eager to apply her skills and contribute meaningful insights. Committed to continuous learning, she aims to develop market intuition and make informed investment decisions in the future.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Robin-Hong.jpg"/>
-        <h3 class="team-member-name">Robin HONG Yee Ching</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Robin Hong Yee Ching is a junior portfolio manager in CIM, he is currently a International Business and Global Management student from the University of Hong Kong. Robin is interested in both traditional trading and investment analysis. He's well-prepared with interpersonal and technical skills, and eager to make a significant impact at CIM.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Sarah-Leong.jpg"/>
-        <h3 class="team-member-name">Sarah LEONG Si Ian</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Sarah is a student majoring in Economics and Finance, passionate about aquiring practical skills in stock portfolio management and conducting thorough market research. With a solid business background, she aims to effectively integrate her theoretical knowledge into real-life scenarios while gaining valuable hands-on experience and insights in managing diverse investment portfolios.</p>
         <div class="team-member-pad"></div>
     </div>
 
