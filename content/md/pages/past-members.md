@@ -104,13 +104,6 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/past-members-pic/Fan-Rongshuo.JPG"/>
-        <h3 class="team-member-name">David FAN Rongshuo</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager</h2>
-        <p class="team-member-description">David FAN Rongshuo was a senior portfolio manager in CIM, he is a student. David is interested in both traditional and quantitative trading. He's into macro trading, taking macro events and companies’ announcement into consideration. Besides, David is also interested in momentum trading as well, seeking the optimal moment to “get on the boat” and “get off at the proper time”.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Anson-Lam.jpg"/>
         <h3 class="team-member-name">Anson LAM Yat Tung</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
@@ -130,6 +123,13 @@
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-description">DENG Shen Dacian is a BSc(QFin) student with a keen interest in equity investment. Having served as a senior portfolio manager at CIM, Shen is eager to enhance his understanding of equity investment through his association with CIM. Shen views CIM as an invaluable platform that offers him the opportunity to expand his knowledge in this field.</p>
         <div class="team-member-pad"></div>
+    </div>
+   <div class="team-member">
+         <img class="team-member-pfp" src="../../img/past-members-pic/Fan-Rongshuo.JPG"/>
+         <h3 class="team-member-name">David FAN Rongshuo</h3>
+         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+         <p class="team-member-description">David FAN Rongshuo was a senior portfolio manager in CIM, he is a student. David is interested in both traditional and quantitative trading. He's into macro trading, taking macro events and companies’ announcement into consideration. Besides, David is also interested in momentum trading as well, seeking the optimal moment to “get on the boat” and “get off at the proper time”.</p>
+         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic/Cindy-Tang.jpg"/>
