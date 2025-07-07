@@ -8,42 +8,42 @@
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic2/Alex-Xu.jpg"/>
         <h3 class="team-member-name">Alex XU Shu Ming</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Head of Data Analysis in 2024-25</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager, Head of Data Analysis 2024-25</h2>
         <p class="team-member-description">Alex is a driven student of the International Business and Global Management program from the University of Hong Kong, possessing a keen interest in consulting and investment analysis. With a robust understanding of business principles, exceptional interpersonal and technical skills, and a deep passion for financial markets and quantitative strategies, he is well-prepared and eager to make a significant impact in the field of business and finance.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic2/Bella-Liu.jpg"/>
         <h3 class="team-member-name">Bella LIU Yiming</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Data Analysis in 2024-25</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Data Analysis 2024-25</h2>
         <p class="team-member-description">LIU Yiming, Bella, a student in BBA (Fina & ISA), is currently a deputy group leader for the Data Analysis group. Interest across American and HK stock markets. She has been looking at investments related to consumer discretionary and also led the Data analysis group to create a stock price prediction technique, and hopes this will help CIM as a whole.</p>
         <div class="team-member-pad"></div>
     </div>  
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic2/Darren-Fung.jpg"/>
         <h3 class="team-member-name">Darren FUNG Nok Yin</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Head of Web Development in 2024-25</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager, Head of Web Development 2024-25</h2>
         <p class="team-member-description">Darren Fung Nok Yin is a Quantitative Finance student at The University of Hong Kong, acted as a senior portfolio manager, head of trading for financial stocks and head of the web development team. With a keen interest in the stock market and investment, he actively pursues technical and fundamental analysis, trading stocks and options as a hobby. His passion drives him to continuously expand his knowledge in these areas.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic2/Haley-Yap.jpg"/>
         <h3 class="team-member-name">Haley Nicholas Aidden Gotan Yap</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Web Development in 2024-25</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Web Development 2024-25</h2>
         <p class="team-member-description">Haley Yap is a Economics and Finance student from the Philippines with a deep passion for the financial sector and investments in various opportunities, ranging from stocks, ETFs, cryptocurrencies, and much more.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic2/Erika-Lau.jpg"/>
         <h3 class="team-member-name">Erika LAU Tsz Yee</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Head of Research in 2024-25</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager, Head of Research 2024-25</h2>
         <p class="team-member-description">Erika Lau leads the global market commentary and thematic investment analysis as the Head of Research at CIM. She has a deep passion for the intricacies of equity markets and overlooks the Consumer Staples portfolio. Erika has honed her skills through valuable internships at HSBC, Citibank and several APAC-focused hedge funds. She is a member of the class of 2025 at the University of Hong Kong, where she is specializing in finance and economics.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic2/Kevin-Xia.jpg"/>
         <h3 class="team-member-name">Kevin XIA Yunchu</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Research in 2024-25</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Research 2024-25</h2>
         <p class="team-member-description">Kevin XIA Yunchu is a senior portfolio manager in CIM, he is a International Business and Global Management student. Kevin is interested in the secondary market, specifically momentum and news driven trading. Besides, Kevin enjoys playing poker and bouldering during his free time.</p>
         <div class="team-member-pad"></div>
     </div>
