@@ -86,13 +86,6 @@
          <div class="team-member-pad"></div>
      </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic2/Jerry-Ting.jpg"/>
-        <h3 class="team-member-name">Jerry TING Kit Lam</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Jerry is a student majoring in Financial Technology, with a particular interest in wealth management and equity trading. His goal is to enhance his understanding of financial markets and develop analytical skills as a junior portfolio manager at CIM. He believes that her experience in CIM will improve his research skills and help him better formulate trade strategies using both fundamental and technical analysis.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic2/Joey-Lai.jpg"/>
         <h3 class="team-member-name">Joey LAI In I</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
