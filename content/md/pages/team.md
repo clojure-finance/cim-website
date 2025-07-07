@@ -25,14 +25,14 @@
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Larina-Qu.jpg"/>
         <h3 class="team-member-name">Larina QU Hongru</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Head of Data Analysis in 2025-26</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager, Head of Data Analysis 2025-26</h2>
         <p class="team-member-description">Qu Hongru is currently a BEcon & Fin student and a part of the Data Analysis Team at CIM. Specializing in US healthcare industry investment, she has been building her skills in industry research and stock pitching. With a keen interest in portfolio management, Qu Hongru is passionate about applying her analytical abilities to develop thoughtful investment strategies and contribute to the dynamic world of finance.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Allen-Jiang.jpg"/>
         <h3 class="team-member-name">Allen JIANG Luning</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Data Analysis in 2025-26</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Data Analysis 2025-26</h2>
         <p class="team-member-description">Allen is a Accounting Data Analytics student at the University of Hong Kong, with a keen interest in financial analysis. In her role as a junior portfolio manager and member of the data analytics team, she expects to develop her investment strategy with the support of data and analytical tools. Through this long-term program, she hopes to develop a better market sense and make more informed trading decisions in the future.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -81,14 +81,14 @@
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Ashley-Lee.JPG"/>
         <h3 class="team-member-name">Ashley LEE Juyeon</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Head of Web Development in 2025-26</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager, Head of Web Development 2025-26</h2>
         <p class="team-member-description">Ashley Lee is a Computer Science student with a 2nd major in Finance. Her keen interests in both fields motivated her to join CIM, an interdisciplinary approach to technology and finance. Also part of the Web Development team, she currently explores both the financial and technical aspects of CIM.</p>
         <div class="team-member-pad"></div>
     </div>
    <div class="team-member">
          <img class="team-member-pfp" src="../../img/team-members-pic/Louise-Danielle.jpg"/>
          <h3 class="team-member-name">Louise Danielle SUGIARTO</h3>
-         <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Web Development in 2025-26</h2>
+         <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Web Development 2025-26</h2>
          <p class="team-member-description">Louise is a student studying BEng(DS&E). She developed strong communication, analytical, and creative skills that she's eager to bring to the team. Her investment interest started in high school, and it gave her the courage to explore the field more deeply. She's always open to learning from every experience by utilizing any given opportunity.</p>
          <div class="team-member-pad"></div>
      </div>
@@ -118,18 +118,25 @@
 ## Research Team
 
 <div class="our-team">
+   <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Charles-Shi.JPG"/>
+          <h3 class="team-member-name">Charles SHI Qiyuan</h3>
+          <h2 class="team-member-position">Senior Portfolio Manager, Head of Research 2025-26</h2>
+          <p class="team-member-description">Charles Shi, a student majoring in Economics and Finance, is driven by a passion for applying in-depth knowledge in investment analysis. As part of the Research Team, he maintains a high degree of sensitivity to the financials equities and to emerging markets, such as India. Constantly refined analysis skills enables him to efficiently extract key information from dynamic data, demonstrating the potential for capturing investment opportunities and making data-driven decisions.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Rachel-Hu.jpg"/>
+        <h3 class="team-member-name">Rachel HU Xinyue</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Research 2025-26</h2>
+        <p class="team-member-description">Rachel Hu is a Economics & Finance student with a strong interest in the stock market and investment strategies. As part of the research team at the Centre for Investment Management, she monitors market trends, tracks macroeconomic shifts, and analyzes investment opportunities. Though new to finance, she is eager to apply her skills and contribute meaningful insights. Committed to continuous learning, she aims to develop market intuition and make informed investment decisions in the future.</p>
+        <div class="team-member-pad"></div>
+    </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Alexander-Antoniou.jpg"/>
         <h3 class="team-member-name">Alexander Antoniou</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-description">Alec Antoniou is a multinational, results-driven student, leveraging his engineering background to identify and capitalize on strategic investment opportunities. With experience in fintech and corporate banking, he currently applies a data-driven, analytical approach to investment strategy in the Utilities team at CIM. His focus lies in energy and infrastructure banking across EMEA and emerging markets.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Charles-Shi.JPG"/>
-        <h3 class="team-member-name">Charles SHI Qiyuan</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager</h2>
-        <p class="team-member-description">Charles Shi, a student majoring in Economics and Finance, is driven by a passion for applying in-depth knowledge in investment analysis. As part of the Research Team, he maintains a high degree of sensitivity to the financials equities and to emerging markets, such as India. Constantly refined analysis skills enables him to efficiently extract key information from dynamic data, demonstrating the potential for capturing investment opportunities and making data-driven decisions.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -146,14 +153,6 @@
         <p class="team-member-description">Justin CHUNG Lok Yin, BFin (AMPB), specializes in the Utilities sector and Indian market research for CIM. With internships in Raffles Family Office, Safari Asia Asset Management and Teneo Financial Advisory, Justin has honed his analytical mindset and investment expertise. A proponent of value investing, fundamental analysis and long-termism, Justin welcomes opportunities to exchange experiences with new connections in the financial industry.</p>
         <div class="team-member-pad"></div>
     </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Rachel-Hu.jpg"/>
-        <h3 class="team-member-name">Rachel HU Xinyue</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager</h2>
-        <p class="team-member-description">Rachel Hu is a Economics & Finance student with a strong interest in the stock market and investment strategies. As part of the research team at the Centre for Investment Management, she monitors market trends, tracks macroeconomic shifts, and analyzes investment opportunities. Though new to finance, she is eager to apply her skills and contribute meaningful insights. Committed to continuous learning, she aims to develop market intuition and make informed investment decisions in the future.</p>
-        <div class="team-member-pad"></div>
-    </div>
-
  
 </div>
 
