@@ -119,9 +119,16 @@
           <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
+        <img class="team-member-pfp" src="../../img/past-members-pic2/Sarah-Leong.jpg"/>
+        <h3 class="team-member-name">Sarah LEONG Si Ian</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Research 2025-26</h2>
+        <p class="team-member-description">Sarah is a student majoring in Economics and Finance, passionate about aquiring practical skills in stock portfolio management and conducting thorough market research. With a solid business background, she aims to effectively integrate her theoretical knowledge into real-life scenarios while gaining valuable hands-on experience and insights in managing diverse investment portfolios.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic2/Rachel-Hu.jpg"/>
         <h3 class="team-member-name">Rachel HU Xinyue</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Research 2025-26</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-description">Rachel Hu is a Economics & Finance student with a strong interest in the stock market and investment strategies. As part of the research team at the Centre for Investment Management, she monitors market trends, tracks macroeconomic shifts, and analyzes investment opportunities. Though new to finance, she is eager to apply her skills and contribute meaningful insights. Committed to continuous learning, she aims to develop market intuition and make informed investment decisions in the future.</p>
         <div class="team-member-pad"></div>
     </div>
