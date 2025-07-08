@@ -62,13 +62,6 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/past-members-pic2/Sarah-Leong.jpg"/>
-        <h3 class="team-member-name">Sarah LEONG Si Ian</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Sarah is a student majoring in Economics and Finance, passionate about aquiring practical skills in stock portfolio management and conducting thorough market research. With a solid business background, she aims to effectively integrate her theoretical knowledge into real-life scenarios while gaining valuable hands-on experience and insights in managing diverse investment portfolios.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic2/Robin-Hong.jpg"/>
         <h3 class="team-member-name">Robin HONG Yee Ching</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
