@@ -57,13 +57,6 @@
         <p class="team-member-description">Sophia is a Data Science student pursuing a double major in Finance. Currently serving as a Junior Portfolio Manager within the Data Analysis team, she possesses a keen interest to deepen her knowledge of stock markets and investment management. With a focus on developing her quantitative and technical analysis skills, Sophia aspires to leverage machine learning techniques to enhance portfolio performance.</p>
         <div class="team-member-pad"></div>
     </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Toby-Huang.jpg"/>
-        <h3 class="team-member-name">Toby HUANG Hongbin</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Toby is a student from BSc(QFin), also with a double major in statistics. Toby currently serves as a junior portfolio manager at CIM and is also a part of the Data Analysis Team. Toby focuses on equity research and investment in the US real estate Industry. Joining CIM, he is eager to learn how to decide on investment strategies based on data analysis through programming. Toby regards CIM as a meaningful platform for him to get more investment skills and market sense.</p>
-        <div class="team-member-pad"></div>
-    </div>
 
 </div>
 
