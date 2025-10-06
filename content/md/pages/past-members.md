@@ -250,5 +250,12 @@
         <p class="team-member-description">David Lu Zhiyuan is a Computer Engineering student with a minor in Finance. Zhiyuan currently serves as a junior portfolio manager at CIM and is also a part of the research group. With strong analytical and problem-solving skills from his engineering background, he is eager to apply quantitative approaches to investment research and financial modelling. Through CIM, he hopes to refine his market analysis skills, gain exposure to different asset classes, and build a solid foundation for a future career in finance.</p>
         <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/past-members-pic/Aisha-Zhumabayeva.jpeg"/>
+        <h3 class="team-member-name">Aisha ZHUMABAYEVA</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-description">Aisha Zhumabayeva is a Financial Technology major student. She is interested both in finance and computer science. Her aim as a junior portfolio manager is to learn more about financial markets, improve her market sense and get more knowledgable on investment strategies. She is eager to contribute to CIM with her skills and knowledge.</p>
+        <div class="team-member-pad"></div>
+    </div>
    
 </div>
