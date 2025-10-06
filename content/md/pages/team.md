@@ -92,13 +92,6 @@
         <p class="team-member-description">Selina DENG, a Marketing Analysis & Technology student, is passionate about stock markets and portfolio construction. Currently serving as a junior portfolio manager at CIM, she is also actively engaged in A-share investments, where she applies analytical frameworks and tries to uncover actionable insights into evolving trends. Seeking to deepen her understanding of financial markets, she eagerly joined the CIM and remains committed to bridging academic knowledge with practical expertise, fostering growth in analytical rigor and investment acumen.</p>
         <div class="team-member-pad"></div>
     </div>
-     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Aisha-Zhumabayeva.jpeg"/>
-        <h3 class="team-member-name">Aisha ZHUMABAYEVA</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-description">Aisha Zhumabayeva is a Financial Technology major student. She is interested both in finance and computer science. Her aim as a junior portfolio manager is to learn more about financial markets, improve her market sense and get more knowledgable on investment strategies. She is eager to contribute to CIM with her skills and knowledge.</p>
-        <div class="team-member-pad"></div>
-    </div>
 </div>
 
 ## Research Team
