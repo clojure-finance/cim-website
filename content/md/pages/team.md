@@ -79,7 +79,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Lena-Delafontenelle.jpg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Rebecca-Li.jpg"/>
         <h3 class="team-member-name">Rebecca LI Jiarui</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined 2025</p>
@@ -171,7 +171,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Justin-Chung.jpg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/William-Zhang.jpg"/>
         <h3 class="team-member-name">William ZHANG Jiahua</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined 2025</p>
@@ -179,7 +179,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Justin-Chung.jpg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Emilie-Pou.jpg"/>
         <h3 class="team-member-name">Emilie POU Ho Yuet</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined 2025</p>
