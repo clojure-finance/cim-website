@@ -193,6 +193,24 @@
         <p class="team-member-joined">Joined 2025</p>
         <p class="team-member-description">Adrian Ping is a BBA student majoring in Finance. He specializes in equity research and data-driven investment analysis, with experience developing investment theses, building financial models, and synthesizing insights from dynamic market data. He has led multiple research and consulting projects, demonstrating strong analytical rigor and the ability to integrate qualitative judgment with quantitative validation. Curious and intellectually driven, he continuously deepens his market understanding and refines disciplined research frameworks to support disciplined portfolio decisions.</p>
         <div class="team-member-pad"></div>
+     </div>
+     <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Tiffany-Zhang.jpeg"/>
+        <h3 class="team-member-name">Tiffany ZHANG Difei</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Tiffany Zhang, a FinTech student at the University of Hong Kong and a Junior Portfolio Manager at CIM, is dedicated to the industrials industry. Functionally focused on research, she thrives on deep analytical tasks to uncover investment opportunities and support portfolio strategy. She is driven by a profound curiosity and a desire to continuously learn, aiming to build a career in investment management grounded in rigorous, research-based analysis.</p>
+        <div class="team-member-pad"></div>
+     </div>
+     <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Lucy-Zhou.jpeg"/>
+        <h3 class="team-member-name">Lucy ZHOU Zihan</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Lucy Zhou is an Economics and Finance student at the University of Hong Kong. As a junior portfolio manager at CIM, she is eager to learn how to conduct in-depth analysis of the stock market and enhance her investment management skills. Lucy is now a part of research team and also responsible for tracking industrials stocks. She is willing to integrate her knowledge of economics and finance with real-world stock market movements to contribute to the team, sharing her insights of the stock market and learning from others’ unique and profound perspectives.</p>
+        <div class="team-member-pad"></div>
+ 
+       
  
 </div>
 
