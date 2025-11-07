@@ -86,6 +86,13 @@
         <p class="team-member-description">Rebecca LI Jiarui is an Accounting and Finance student at the University of Hong Kong and a member of Data Analysis Team at CIM. Serving as a Junior Portfolio Manager, she is deeply enthusiastic about investment management. Through this program, she aims to develop highly practical skills in data analytics to formulate strategic investment recommendations, as well as to build up her collaborative abilities and teamwork within a professional setting. </p>
         <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Felix-Lee.jpg"/>
+        <h3 class="team-member-name">Lee Cheuk Lun</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Felix is a dedicated Year 2 student pursuing a Bachelor of Business Administration in International Business and Global Management (BBA IBGM). Currently serving as a junior portfolio manager in the data analytics team, he possesses a strong passion for quantitative finance and asset management. Felix is eager to leverage data analytics to backtest and develop innovative investment strategies. His analytical mindset and commitment to understanding market dynamics drive him to excel in his studies and professional endeavors, as he aims to explore new avenues in finance and contribute to the evolving landscape of the industry.</p>
+        <div class="team-member-pad"></div>
 
 </div>
 
@@ -208,6 +215,14 @@
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined 2025</p>
         <p class="team-member-description">Lucy Zhou is an Economics and Finance student at the University of Hong Kong. As a junior portfolio manager at CIM, she is eager to learn how to conduct in-depth analysis of the stock market and enhance her investment management skills. Lucy is now a part of research team and also responsible for tracking industrials stocks. She is willing to integrate her knowledge of economics and finance with real-world stock market movements to contribute to the team, sharing her insights of the stock market and learning from others’ unique and profound perspectives.</p>
+        <div class="team-member-pad"></div>
+      </div>
+      <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/April-Wang.JPG"/>
+        <h3 class="team-member-name">Wang Chang</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">April Wang Chang is a student majoring in Business Analytics at the University of Hong Kong. With hands-on experience in equity research and stock pitch competitions, she has developed a strong passion for investment and trading. Currently serving in the research function group at the Centre for Investment Management, she actively seeks to exchange insights with fellow members, deepen her industry knowledge, and refine her analytical skills through collaborative learning.</p>
         <div class="team-member-pad"></div>
  
        
