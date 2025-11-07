@@ -78,14 +78,6 @@
         <p class="team-member-description">Lena is a student in the dual degree programme between Sciences Po Paris and the University of Hong Kong, majoring in Finance at HKU. She joined the Centre for Investment Management (CIM) because of her interest in investment management. At CIM, Lena has the opportunity to work on investment projects, manage portfolios, and deepen her understanding of investment strategies. Her aim as a junior portfolio manager is to learn more about financial markets, improve her market sense, and become more knowledgeable about investment strategies. She is eager to contribute to CIM with her skills and knowledge.</p>
         <div class="team-member-pad"></div>
     </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Rebecca-Li.jpg"/>
-        <h3 class="team-member-name">Rebecca LI Jiarui</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-joined">Joined 2025</p>
-        <p class="team-member-description">Rebecca LI Jiarui is an Accounting and Finance student at the University of Hong Kong and a member of Data Analysis Team at CIM. Serving as a Junior Portfolio Manager, she is deeply enthusiastic about investment management. Through this program, she aims to develop highly practical skills in data analytics to formulate strategic investment recommendations, as well as to build up her collaborative abilities and teamwork within a professional setting.</p>
-        <div class="team-member-pad"></div>
-    </div>
 
 </div>
 
