@@ -186,6 +186,13 @@
         <p class="team-member-description">Emilie is a motivated student taking the BBA(Law)&LLB double-degree program. She is interested in investment management and passionate to learn about the financial market. As a member of the research team, she is also constantly following news and trends in finance, as well as learning to be a better investor and portfolio manager.</p>
         <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Adrian-Ping.jpg"/>
+        <h3 class="team-member-name">Adrian PING An</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Adrian Ping is a BBA student majoring in Finance. He specializes in equity research and data-driven investment analysis, with experience developing investment theses, building financial models, and synthesizing insights from dynamic market data. He has led multiple research and consulting projects, demonstrating strong analytical rigor and the ability to integrate qualitative judgment with quantitative validation. Curious and intellectually driven, he continuously deepens his market understanding and refines disciplined research frameworks to support disciplined portfolio decisions.</p>
+        <div class="team-member-pad"></div>
  
 </div>
 
