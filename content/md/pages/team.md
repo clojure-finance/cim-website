@@ -34,6 +34,7 @@
         <img class="team-member-pfp" src="../../img/team-members-pic/Allen-Jiang.jpg"/>
         <h3 class="team-member-name">Allen JIANG Luning</h3>
         <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Data Analysis 2025-26</h2>
+        <p class="team-member-joined">Joined 2024</p>
         <p class="team-member-description">Allen is a Accounting Data Analytics student at the University of Hong Kong, with a keen interest in financial analysis. In her role as a junior portfolio manager and member of the data analytics team, she expects to develop her investment strategy with the support of data and analytical tools. Through this long-term program, she hopes to develop a better market sense and make more informed trading decisions in the future.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -41,6 +42,7 @@
         <img class="team-member-pfp" src="../../img/team-members-pic/Jonward-Xu.jpeg"/>
         <h3 class="team-member-name">Jonward XU Wenxuan</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2024</p>
         <p class="team-member-description">Jonward XU Wenxuan is a student taking the double degree programme in Business Administration and Law. Jonward is now a senior portfolio manager in CIM. Jonward joined CIM because of interest in investment and asset management, and is now responsible for managing portfolios (mostly of energy industry), designing macro investment strategies and using programming to predict the stock price.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -48,6 +50,7 @@
         <img class="team-member-pfp" src="../../img/team-members-pic/Kelvin-Yue.jpg"/>
         <h3 class="team-member-name">Kelvin YUE Hohin</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2024</p>
         <p class="team-member-description">Kelvin Yue is a student pursuing Economics & Finance at HKU. By joining CIM, he aims to develop a comprehensive understanding of various industries and make well-informed investment decisions through collaboration. His investment approach is grounded in meticulous research, analyzing companies' operations, macro-environment, fundamentals, and technicals. Committed to continuous learning, Kelvin strives to stay ahead in the ever-evolving world of finance.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -55,7 +58,24 @@
         <img class="team-member-pfp" src="../../img/team-members-pic/Sophia-Cheng.jpg"/>
         <h3 class="team-member-name">Sophia CHENG Ka Ki</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2024</p>
         <p class="team-member-description">Sophia is a Data Science student pursuing a double major in Finance. Currently serving as a Junior Portfolio Manager within the Data Analysis team, she possesses a keen interest to deepen her knowledge of stock markets and investment management. With a focus on developing her quantitative and technical analysis skills, Sophia aspires to leverage machine learning techniques to enhance portfolio performance.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Selina-Deng.jpg"/>
+        <h3 class="team-member-name">Selina DENG Jiahui</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2024</p>
+        <p class="team-member-description">Deng Jiahui is an economics and finance student with a strong interest in macro investing, portfolio management, and multi-asset allocation. She gains practical experience as a senior portfolio manager at CIM and through her own A-share investments. Her goal is to continuously integrate academic learning with hands-on practice to enhance her analytical and investment capabilities.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Lena-Delafontenelle.jpg"/>
+        <h3 class="team-member-name">Lena Liv Emma Delafontenelle</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Lena is a student in the dual degree programme between Sciences Po Paris and the University of Hong Kong, majoring in Finance at HKU. She joined the Centre for Investment Management (CIM) because of her interest in investment management. At CIM, Lena has the opportunity to work on investment projects, manage portfolios, and deepen her understanding of investment strategies. Her aim as a junior portfolio manager is to learn more about financial markets, improve her market sense, and become more knowledgeable about investment strategies. She is eager to contribute to CIM with her skills and knowledge.</p>
         <div class="team-member-pad"></div>
     </div>
 
@@ -68,7 +88,8 @@
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Ashley-Lee.JPG"/>
         <h3 class="team-member-name">Ashley LEE Juyeon</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Head of Web Development 2025-26</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager, Head of Web Development 2025-26</h2>        
+        <p class="team-member-joined">Joined 2024</p>
         <p class="team-member-description">Ashley Lee is a Computer Science student with a 2nd major in Finance. Her keen interests in both fields motivated her to join CIM, an interdisciplinary approach to technology and finance. Also part of the Web Development team, she currently explores both the financial and technical aspects of CIM.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -76,6 +97,7 @@
          <img class="team-member-pfp" src="../../img/team-members-pic/Louise-Danielle.jpg"/>
          <h3 class="team-member-name">Louise Danielle SUGIARTO</h3>
          <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Web Development 2025-26</h2>
+         <p class="team-member-joined">Joined 2024</p>
          <p class="team-member-description">Louise is a student studying BEng(DS&E). She developed strong communication, analytical, and creative skills that she's eager to bring to the team. Her investment interest started in high school, and it gave her the courage to explore the field more deeply. She's always open to learning from every experience by utilizing any given opportunity.</p>
          <div class="team-member-pad"></div>
      </div>
@@ -83,14 +105,16 @@
         <img class="team-member-pfp" src="../../img/team-members-pic/Joey-Lai.jpg"/>
         <h3 class="team-member-name">Joey LAI In I</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2024</p>
         <p class="team-member-description">Joey Lai In I is a student pursuing a Bachelor of Engineering in Computer Science. She has a strong passion for problem-solving, especially in artificial intelligence and robotics. Additionally, Joey is intrigued by the stock and finance markets and is eager to delve into these areas through data analysis. At present, she is part of the web development team at CIM, where she enjoys coding and collaborating with her peers. Joey is enthusiastic about broadening her understanding of the finance industry and gaining hands-on experience in investment.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Selina-Deng.jpg"/>
-        <h3 class="team-member-name">Selina DENG Jiahui</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager</h2>
-        <p class="team-member-description">Selina DENG, a Marketing Analysis & Technology student, is passionate about stock markets and portfolio construction. Currently serving as a junior portfolio manager at CIM, she is also actively engaged in A-share investments, where she applies analytical frameworks and tries to uncover actionable insights into evolving trends. Seeking to deepen her understanding of financial markets, she eagerly joined the CIM and remains committed to bridging academic knowledge with practical expertise, fostering growth in analytical rigor and investment acumen.</p>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Nicholas-Fedlim.jpg"/>
+        <h3 class="team-member-name">Nicholas FEDLIM</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Nicholas Fedlim, a Data Science student pursuing a double major in Finance, is passionate about acquiring practical skills in stock portfolio management. As a Junior Portfolio Manager in CIM, he aims to bridge his theoretical knowledge with real-world investment scenarios. He further supports this data-driven mission on the Web Development team, where he applies his programming skills to maintain and enhance the CIM’s digital platforms. He is committed to bridging his technical expertise with financial awareness to contribute to the team's analytical rigor. </p>
         <div class="team-member-pad"></div>
     </div>
 </div>
@@ -102,6 +126,7 @@
           <img class="team-member-pfp" src="../../img/team-members-pic/Charles-Shi.JPG"/>
           <h3 class="team-member-name">Charles SHI Qiyuan</h3>
           <h2 class="team-member-position">Senior Portfolio Manager, Head of Research 2025-26</h2>
+          <p class="team-member-joined">Joined 2024</p>
           <p class="team-member-description">Charles Shi, a student majoring in Economics and Finance, is driven by a passion for applying in-depth knowledge in investment analysis. As part of the Research Team, he maintains a high degree of sensitivity to the financials equities and to emerging markets, such as India. Constantly refined analysis skills enables him to efficiently extract key information from dynamic data, demonstrating the potential for capturing investment opportunities and making data-driven decisions.</p>
           <div class="team-member-pad"></div>
     </div>
@@ -109,6 +134,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Sarah-Leong.jpg"/>
         <h3 class="team-member-name">Sarah LEONG Si Ian</h3>
         <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Research 2025-26</h2>
+        <p class="team-member-joined">Joined 2024</p>
         <p class="team-member-description">Sarah is a student majoring in Economics and Finance, passionate about aquiring practical skills in stock portfolio management and conducting thorough market research. With a solid business background, she aims to effectively integrate her theoretical knowledge into real-life scenarios while gaining valuable hands-on experience and insights in managing diverse investment portfolios.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -116,6 +142,7 @@
         <img class="team-member-pfp" src="../../img/team-members-pic/Rachel-Hu.jpg"/>
         <h3 class="team-member-name">Rachel HU Xinyue</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2024</p>
         <p class="team-member-description">Rachel Hu is a Quantitative Finance student with a strong interest in the stock market and investment strategies. As part of the research team at the Centre for Investment Management, she monitors market trends, tracks macroeconomic shifts, and analyzes investment opportunities. Though new to finance, she is eager to apply her skills and contribute meaningful insights. Committed to continuous learning, she aims to develop market intuition and make informed investment decisions in the future.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -123,6 +150,7 @@
         <img class="team-member-pfp" src="../../img/team-members-pic/Alexander-Antoniou.jpg"/>
         <h3 class="team-member-name">Alexander Antoniou</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2024</p>
         <p class="team-member-description">Alec Antoniou is a multinational, results-driven student, leveraging his engineering background to identify and capitalize on strategic investment opportunities. With experience in fintech and corporate banking, he currently applies a data-driven, analytical approach to investment strategy in the Utilities team at CIM. His focus lies in energy and infrastructure banking across EMEA and emerging markets.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -130,6 +158,7 @@
         <img class="team-member-pfp" src="../../img/team-members-pic/Justin-Chung.jpg"/>
         <h3 class="team-member-name">Justin CHUNG Lok Yin</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2024</p>
         <p class="team-member-description">Justin CHUNG Lok Yin, BFin (AMPB), specializes in the Utilities sector and Indian market research for CIM. With internships in Raffles Family Office, Safari Asia Asset Management and Teneo Financial Advisory, Justin has honed his analytical mindset and investment expertise. A proponent of value investing, fundamental analysis and long-termism, Justin welcomes opportunities to exchange experiences with new connections in the financial industry.</p>
         <div class="team-member-pad"></div>
     </div>
