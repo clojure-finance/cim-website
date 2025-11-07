@@ -78,6 +78,14 @@
         <p class="team-member-description">Lena is a student in the dual degree programme between Sciences Po Paris and the University of Hong Kong, majoring in Finance at HKU. She joined the Centre for Investment Management (CIM) because of her interest in investment management. At CIM, Lena has the opportunity to work on investment projects, manage portfolios, and deepen her understanding of investment strategies. Her aim as a junior portfolio manager is to learn more about financial markets, improve her market sense, and become more knowledgeable about investment strategies. She is eager to contribute to CIM with her skills and knowledge.</p>
         <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Lena-Delafontenelle.jpg"/>
+        <h3 class="team-member-name">Rebecca LI Jiarui</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Rebecca LI Jiarui is an Accounting and Finance student at the University of Hong Kong and a member of Data Analysis Team at CIM. Serving as a Junior Portfolio Manager, she is deeply enthusiastic about investment management. Through this program, she aims to develop highly practical skills in data analytics to formulate strategic investment recommendations, as well as to build up her collaborative abilities and teamwork within a professional setting.</p>
+        <div class="team-member-pad"></div>
+    </div>
 
 </div>
 
@@ -160,6 +168,22 @@
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-joined">Joined 2024</p>
         <p class="team-member-description">Justin CHUNG Lok Yin, BFin (AMPB), specializes in the Utilities sector and Indian market research for CIM. With internships in Raffles Family Office, Safari Asia Asset Management and Teneo Financial Advisory, Justin has honed his analytical mindset and investment expertise. A proponent of value investing, fundamental analysis and long-termism, Justin welcomes opportunities to exchange experiences with new connections in the financial industry.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Justin-Chung.jpg"/>
+        <h3 class="team-member-name">William ZHANG Jiahua</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">William is currently a year one Quantitative Finance student at the University of Hong Kong. He is a junior portfolio manager in the research group, developing his research skills, with an interest to understand the US stock market. William also aspires to practice portfolio risk management skills in his industry group real estate, while exploring different investment tools such as derivatives and funds. With these hands-on experiences, he hopes to contribute to CIM by providing useful research insights shaped by his ability to tell a meaningful story from numbers and data.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Justin-Chung.jpg"/>
+        <h3 class="team-member-name">Emilie POU Ho Yuet</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Emilie is a motivated student taking the BBA(Law)&LLB double-degree program. She is interested in investment management and passionate to learn about the financial market. As a member of the research team, she is also constantly following news and trends in finance, as well as learning to be a better investor and portfolio manager.</p>
         <div class="team-member-pad"></div>
     </div>
  
