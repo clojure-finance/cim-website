@@ -315,6 +315,14 @@
         <p class="team-member-description">April Wang Chang is a student majoring in Business Analytics at the University of Hong Kong. With hands-on experience in equity research and stock pitch competitions, she has developed a strong passion for investment and trading. Currently serving in the research function group at the Centre for Investment Management, she actively seeks to exchange insights with fellow members, deepen her industry knowledge, and refine her analytical skills through collaborative learning.</p>
         <div class="team-member-pad"></div>
       </div> 
+       <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Ling-Guo.JPG"/>
+        <h3 class="team-member-name">Guo Yuling</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Guo Yuling is currently a BEcon & Fin student and a member of the Research Team at CIM. With a solid background in industry research and stock pitching, she has developed a strong interest and practical experience in asset allocation and portfolio management through her participation in various finance-focused summer camps. These experiences have not only honed her analytical and strategic thinking skills but also deepened her passion for the dynamic field of investment management. Guo Yuling is eager to continue exploring opportunities in portfolio management and is committed to applying her expertise to contribute meaningfully to the finance industry.</p>
+        <div class="team-member-pad"></div>
+      </div> 
       <div class="team-member">
          <img class="team-member-pfp" src="../../img/team-members-pic/Vicky-Huang.jpg"/>
          <h3 class="team-member-name">Vicky HUANG Lihan</h3>
