@@ -56,11 +56,11 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Sophia-Cheng.jpg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Sophia-CHENG-Ka-Ki"/>
         <h3 class="team-member-name">Sophia CHENG Ka Ki</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-joined">Joined 2024</p>
-        <p class="team-member-description">Sophia is a Data Science student pursuing a double major in Finance. Currently serving as a Junior Portfolio Manager within the Data Analysis team, she possesses a keen interest in deepening her knowledge of stock markets and investment management. With a focus on developing her quantitative and technical analysis skills, Sophia aspires to leverage machine learning techniques to enhance portfolio performance.</p>
+        <p class="team-member-description">Sophia is a Data Science student pursuing a second major in Finance. She is committed to exploring financial markets and investment management through a data-driven and analytical approach. Her interests lie in developing quantitative research skills and utilizing machine learning techniques to generate investment insights and optimize portfolio performance.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
