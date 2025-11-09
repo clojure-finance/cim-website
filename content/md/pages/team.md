@@ -71,6 +71,14 @@
         <p class="team-member-description">Deng Jiahui is an economics and finance student with a strong interest in macro investing, portfolio management, and multi-asset allocation. She gains practical experience as a senior portfolio manager at CIM and through her own A-share investments. Her goal is to continuously integrate academic learning with hands-on practice to enhance her analytical and investment capabilities.</p>
         <div class="team-member-pad"></div>
     </div>
+     <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Aryan-Gupta-Manchanda.jpeg"/>
+        <h3 class="team-member-name">Aryan Gupta Manchanda</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Aryan is a student pursuing Economics and Finance, driven by a natural curiosity of the mechanisms of financial markets. As a member of the Data Analysis team at CIM, he utilises analytical tools to transform raw data into actionable insights which directly enhance portfolio performance. He is eager to continue developing his analytical skills and contribute to data driven decision making, aiding investment strategies in the future.</p>
+        <div class="team-member-pad"></div>
+    </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Lena-Delafontenelle.jpg"/>
         <h3 class="team-member-name">Lena Liv Emma Delafontenelle</h3>
