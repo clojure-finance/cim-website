@@ -79,6 +79,14 @@
         <p class="team-member-description">Aryan is a student pursuing Economics and Finance, driven by a natural curiosity of the mechanisms of financial markets. As a member of the Data Analysis team at CIM, he utilises analytical tools to transform raw data into actionable insights which directly enhance portfolio performance. He is eager to continue developing his analytical skills and contribute to data driven decision making, aiding investment strategies in the future.</p>
         <div class="team-member-pad"></div>
     </div>
+      <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Aryan-Arora.jpg"/>
+        <h3 class="team-member-name">Aryan Arora</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Aryan Arora is an undergraduate student majoring in Economics and Finance, with a strong passion for financial markets, investment strategy, and quantitative modeling. He serves as a Junior Portfolio Manager at CIM, where he applies analytical and research skills to support portfolio management initiatives. Fascinated by how data and economics drive real-world financial decisions, Aryan continually seeks to deepen his understanding of global markets and innovative financial solutions that create sustainable impact.</p>
+        <div class="team-member-pad"></div>
+    </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Lena-Delafontenelle.jpg"/>
         <h3 class="team-member-name">Lena Liv Emma Delafontenelle</h3>
