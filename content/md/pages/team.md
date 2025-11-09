@@ -143,7 +143,23 @@
         <p class="team-member-description">Patrick is a Quantitative Finance student with a strong passion for investing and financial analysis. As a member of the Data Analysis Team at CIM, he is focused on developing his skills in data-driven research and equity valuation. With a keen interest in quantitative modeling and portfolio construction, he aims to apply rigorous analytical techniques to uncover investment opportunities. Through collaborative learning and hands-on experience, he strives to deepen his understanding of financial markets and contribute meaningfully to the team’s investment strategies.</p>
         <div class="team-member-pad"></div>
     </div>
-    
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Kitty-Ye.png"/>
+          <h3 class="team-member-name">Kitty YE Yingqi</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <p class="team-member-joined">Joined 2025</p>
+          <p class="team-member-description">Kitty Ye is a Junior Portfolio Manager in the Data Analysis team at CIM, currently majoring in Quantitative Finance. Passionate about applying quantitative models and computational methods to financial markets, she focuses on developing data-driven investment strategies to analyze trends and assess risks. By leveraging statistical techniques and programming, Kitty aims to enhance portfolio performance and deliver actionable insights to support the team’s strategic decision-making.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Jason-Chung.JPEG"/>
+          <h3 class="team-member-name">Jason CHUNG Ka Ho</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <p class="team-member-joined">Joined 2025</p>
+          <p class="team-member-description">Jason is a student majoring in Quantitative Finance, currently serving as a Junior Portfolio Manager within the Data Analysis Team at CIM. With a specialized focus on the energy sector, he is dedicated to honing his skills in quantitative analysis and equity valuation. Michael is passionate about leveraging programming and data-driven insights to build robust financial models and develop strategic investment theses. He is committed to continuous learning in the dynamic field of finance and aims to contribute meaningfully to portfolio performance through his analytical rigor.</p>
+          <div class="team-member-pad"></div>
+    </div>
+ 
 </div>
 
 
@@ -307,6 +323,31 @@
         <p class="team-member-description">Sze-to Chun Yin is a student taking the business administration and law. Matthew joined CIM as a junior portfolio manager, aiming to learn more about world markets and investment. He is now responsible for managing portfolios, mostly for the technological industry. He is also part of the research group, constantly studying market trends and industries. Matthew hopes to be able to become a consistent contributor to gain more hands-on experience in investment.</p>
         <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Doraa-He.jpg"/>
+          <h3 class="team-member-name">Doraa HE Xu</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <p class="team-member-joined">Joined 2025</p>
+          <p class="team-member-description">He Xu Doraa is an Economics and Finance student with a strong passion for the stock market and investment strategy. Her quantitative analysis skill is honed by a minor in mathematics and a research analyst internship. As the junior portfolio manager of the healthcare group, she is eager to leverage her rigorous financial acumen and analytical skills to identify and evaluate investment opportunities.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Molly-Liu.jpg"/>
+          <h3 class="team-member-name">Molly Liu Litong</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <p class="team-member-joined">Joined 2025</p>
+          <p class="team-member-description">Molly is a sophomore majoring in Quantitative Finance, whose passion lies in industry research and stock pitching. She has set a clear career goal of pursuing a role in investment banking—an ambition supported by her strong academic foundation spanning Mathematics, Programming, Statistics, and Finance. Leveraging this interdisciplinary background, she is actively honing practical skills critical to her target field, including data analysis, rigorous stock pitching, and other core competencies for financial markets.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Diana-Liu.jpg"/>
+          <h3 class="team-member-name">Diana LIU Haolin</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <p class="team-member-joined">Joined 2025</p>
+          <p class="team-member-description">Liu Haolin, Diana, a HKU BBA student major in Finance, is currently a Junior Portfolio Manager in the Research Team at the Center of Investment Management. She is interested in exploring how data and market trends shape investment decisions. By analyzing company fundamentals and economic indicators, she aims to develop a clearer understanding of portfolio construction and risk management. Through teamwork and research practice, she continues to strengthen her analytical mindset and interest in investment management.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    
 </div>
  
 
