@@ -344,6 +344,7 @@
           <h3 class="team-member-name">Diana LIU Haolin</h3>
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
           <p class="team-member-joined">Joined 2025</p>
+          <p class="team-member-description">Liu Haolin, Diana, a HKU BBA student major in Finance, is currently a Junior Portfolio Manager in the Research Team at the Center of Investment Management. She is interested in exploring how data and market trends shape investment decisions. By analyzing company fundamentals and economic indicators, she aims to develop a clearer understanding of portfolio construction and risk management. Through teamwork and research practice, she continues to strengthen her analytical mindset and interest in investment management.</p>
           <div class="team-member-pad"></div>
     </div>
     
