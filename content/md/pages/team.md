@@ -79,6 +79,22 @@
         <p class="team-member-description">Aryan is a student pursuing Economics and Finance, driven by a natural curiosity of the mechanisms of financial markets. As a member of the Data Analysis team at CIM, he utilises analytical tools to transform raw data into actionable insights which directly enhance portfolio performance. He is eager to continue developing his analytical skills and contribute to data driven decision making, aiding investment strategies in the future.</p>
         <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Rishabh-Khanna.jpg"/>
+        <h3 class="team-member-name">Rhishabh Khanna</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Rishabh Khanna is currently a Quantitative Finance student, driven by his passion and commitment towards gaining knowledge and creating consequential change. In his role as a Junior Portfolio Manager specialising in Materials Industry investment, he has built skills in monitoring industry fluctuations and applying fundamental and technical analysis to predict stock trends. Within the Data Analysis Team, he hopes to enhance his market strength and gain further experience working with specialised methodologies and programming to deduce market movements and optimise data-backed responses to take full advantage of investment opportunities.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/YIYANG-LU.jpg"/>
+        <h3 class="team-member-name">Louis LU Yiyang</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Louis LU Yiyang is a BEcon&Fin student with a double major in computer science. He is a part of CIM data analysis team. As a junior portfolio manager, he is mainly reponsible for investment of financials industry. Passionate about portfolio management and technology‑driven investing, he hopes to apply his analytical abilitie to real-world investment,   contributing to the CIM group's performances.</p>
+        <div class="team-member-pad"></div>
+    </div>
       <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Aryan-Arora.jpg"/>
         <h3 class="team-member-name">Aryan Arora</h3>
@@ -273,6 +289,30 @@
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-joined">Joined 2024</p>
         <p class="team-member-description">Justin CHUNG Lok Yin, BFin (AMPB), specializes in the Utilities sector and Indian market research for CIM. With internships in Raffles Family Office, Safari Asia Asset Management and Teneo Financial Advisory, Justin has honed his analytical mindset and investment expertise. A proponent of value investing, fundamental analysis and long-termism, Justin welcomes opportunities to exchange experiences with new connections in the financial industry.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Ka-Ying-Mabel-Lok.jpg"/>
+        <h3 class="team-member-name">Mabel LOK Ka Ying</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Mabel is currently majoring in Asset Management and Private Banking, eager to explore the finance industry, with profolio management being a main focus.  By facing real-life market scenarios, she hopes to gain practical experience in researching and applying various investment strategies, and collect insights in investing in different industries on the stock market.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Cathy-Tam.jpg"/>
+        <h3 class="team-member-name">Daisy DAI Yingxi</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Daisy DAI is a dedicated Accounting and Finance student driven by a strong passion for applying analytical skills to evaluate investment opportunities and assess corporate health. As a Junior Portfolio Manager of the Research Team, she demonstrates a keen eye for details when analysing complex financial data and is adept at performing rigorous financial modelling. Committed to continuous learning, Daisy excels at translating detailed financial information into actionable insights, aiming to make well-supported, data-driven decisions in a dynamic market environment and contribute a fresh, analytical perspective.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/DAI-Yingxi.jpg"/>
+        <h3 class="team-member-name">Cathy TAM Tsz Ching</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Cathy is a BBA (IBGM) student at the University of Hong Kong. She oversees the Telecommunications portfolio and works closely with peers to conduct weekly analyses of the telecommunications market and stock trends. In addition, as a dedicated member of the Research Team, she is actively expanding her skills and knowledge in stock analysis, equity research and report writting. </p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
