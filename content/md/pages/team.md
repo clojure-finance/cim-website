@@ -214,6 +214,14 @@
         <p class="team-member-description">Nicholas Fedlim, a Data Science student pursuing a double major in Finance, is passionate about acquiring practical skills in stock portfolio management. As a Junior Portfolio Manager in CIM, he aims to bridge his theoretical knowledge with real-world investment scenarios. He further supports this data-driven mission on the Web Development team, where he applies his programming skills to maintain and enhance the CIM’s digital platforms. He is committed to bridging his technical expertise with financial awareness to contribute to the team's analytical rigor. </p>
         <div class="team-member-pad"></div>
     </div>
+     <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Sumon-Myat.jpg"/>
+        <h3 class="team-member-name">Hannah MYAT Su Mon</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Hannah is pursuing a Bachelor of Engineering in Computer Science. With a strong interest in both technology and finance, she aims to apply her engineering and programming skills to data-driven financial analysis and investment. Currently serving as a junior portfolio manager and a member of web development team at CIM, she aims to broaden her understanding of finance, strengthen her analytical mindset, and gain practical experience in both investment and web development. </p>
+        <div class="team-member-pad"></div>
+    </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Henry-Li.jpg"/>
         <h3 class="team-member-name">Henry LI Yan Heng</h3>
