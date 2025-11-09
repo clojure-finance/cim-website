@@ -127,6 +127,31 @@
         <p class="team-member-description">Jason Lin is a Fintech and Finance double major student at HKU. He is a junior portfolio manager in the data analysis group who specialises in real estate. By joining CIM, he hopes to broaden his understanding of diverse asset classes and sharpen his analytical skills through exposure to real‑world investment strategies. Jason aims to leverage this experience to enhance his portfolio management capabilities and contribute meaningfully to the team’s research and decision‑making processes.</p>
         <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Cici-Wang.jpg"/>
+        <h3 class="team-member-name">Cici WANG Siqi/h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Cici is a student majoring in Economics and Finance at the University of Hong Kong, with a keen interest in financial analysis and investment. With an interdisciplinary background in business and computer science, and as a junior portfolio manager and a member in the data analysis team, she is interested in using programming and data analyzing skills to facilitate investment decision making and to gain insight into the developing new investment strategies.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Arman-Abilkassym.jpg"/>
+        <h3 class="team-member-name">Arman ABILKASSYM/h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Arman Abilkassym, a first-year Economics and Finance student, is actively pursuing his passion for investments as a Junior Portfolio Manager at CIM. He is keenly focused on bridging the gap between theoretical finance and practical application. By analyzing market trends, evaluating potential assets, and assisting in the management of investment portfolios, Arman is rapidly acquiring the skills and insights necessary for a successful career in financial markets.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Patrick-Tsang.jpeg"/>
+        <h3 class="team-member-name">Patrick TSANG Chun Shing/h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Patrick is a Quantitative Finance student with a strong passion for investing and financial analysis. As a member of the Data Analysis Team at CIM, he is focused on developing his skills in data-driven research and equity valuation. With a keen interest in quantitative modeling and portfolio construction, he aims to apply rigorous analytical techniques to uncover investment opportunities. Through collaborative learning and hands-on experience, he strives to deepen his understanding of financial markets and contribute meaningfully to the team’s investment strategies.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    
      
 </div>
 
@@ -164,6 +189,14 @@
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined 2025</p>
         <p class="team-member-description">Nicholas Fedlim, a Data Science student pursuing a double major in Finance, is passionate about acquiring practical skills in stock portfolio management. As a Junior Portfolio Manager in CIM, he aims to bridge his theoretical knowledge with real-world investment scenarios. He further supports this data-driven mission on the Web Development team, where he applies his programming skills to maintain and enhance the CIM’s digital platforms. He is committed to bridging his technical expertise with financial awareness to contribute to the team's analytical rigor. </p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Henry-Li.jpg"/>
+        <h3 class="team-member-name">Henry LI Yan Heng</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Henry is a student pursuing a Bachelor of Finance in Asset Management and Private Banking. He is a critical thinker who has a strong passion for problem-solving, the stock market and portfolio construction. With the aim of learning more about the financial markets and applying his theoretical knowledge to real-life scenarios, he joined CIM. </p>
         <div class="team-member-pad"></div>
     </div>
 </div>
@@ -267,6 +300,22 @@
          <p class="team-member-description">Huang Lihan is a dedicated BBA student specializing in Finance, with an interest in developing practical expertise in equity portfolio management and in-depth market analysis. Equipped with a solid foundation in business and finance, she aims to seamlessly apply academic insights to real-world investment scenarios. Through hands-on experience as a junior portfolio manager, Huang Lihan is committed to refining her analytical skills and deepening her understanding of managing diversified investment portfolios.</p>
          <div class="team-member-pad"></div>
      </div>
- 
+     <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Arman-Abilkassym.jpg"/>
+        <h3 class="team-member-name">Arman ABILKASSYM/h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Arman Abilkassym, a first-year Economics and Finance student, is actively pursuing his passion for investments as a Junior Portfolio Manager at CIM. He is keenly focused on bridging the gap between theoretical finance and practical application. By analyzing market trends, evaluating potential assets, and assisting in the management of investment portfolios, Arman is rapidly acquiring the skills and insights necessary for a successful career in financial markets.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Matthew-Szeto.jpeg"/>
+        <h3 class="team-member-name">Matthew SZE-TO Chun Yin/h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Sze-to Chun Yin is a student taking the business administration and law. Matthew joined CIM as a junior portfolio manager, aiming to learn more about world markets and investment. He is now responsible for managing portfolios, mostly for the technological industry. He is also part of the research group, constantly studying market trends and industries. Matthew hopes to be able to become a consistent contributor to gain more hands-on experience in investment.</p>
+        <div class="team-member-pad"></div>
+    </div>
 </div>
+ 
 
