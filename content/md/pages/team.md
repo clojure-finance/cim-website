@@ -137,7 +137,7 @@
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Patrick-Tsang.jpeg"/>
-        <h3 class="team-member-name">Patrick TSANG Chun Shing/h3>
+        <h3 class="team-member-name">Patrick TSANG Chun Shing</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined 2025</p>
         <p class="team-member-description">Patrick is a Quantitative Finance student with a strong passion for investing and financial analysis. As a member of the Data Analysis Team at CIM, he is focused on developing his skills in data-driven research and equity valuation. With a keen interest in quantitative modeling and portfolio construction, he aims to apply rigorous analytical techniques to uncover investment opportunities. Through collaborative learning and hands-on experience, he strives to deepen his understanding of financial markets and contribute meaningfully to the team’s investment strategies.</p>
