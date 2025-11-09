@@ -56,7 +56,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Sophia-CHENG-Ka-Ki"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Sophia-Cheng.JPG"/>
         <h3 class="team-member-name">Sophia CHENG Ka Ki</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-joined">Joined 2024</p>
