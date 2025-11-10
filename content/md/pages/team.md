@@ -246,6 +246,30 @@
         <p class="team-member-description">Henry is a student pursuing a Bachelor of Finance in Asset Management and Private Banking. He is a critical thinker who has a strong passion for problem-solving, the stock market and portfolio construction. With the aim of learning more about the financial markets and applying his theoretical knowledge to real-life scenarios, he joined CIM. </p>
         <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Sean-Ren.jpg"/>
+        <h3 class="team-member-name">Sean REN Xuxiang</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Sean Ren is a second-year Bachelor of Arts and Science student double majoring in Financial Technology and Computer Science. With a solid foundation in software engineering and database management, he combines technical expertise with analytical thinking. Deeply interested in both Computer Science and Finance, he actively seeks opportunities to contribute to innovative projects in both fields. </p>
+        <div class="team-member-pad"></div>
+    </div>
+        <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Carrie-Chan.jpeg"/>
+        <h3 class="team-member-name">Carrie CHAN Tsz Tung</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Carrie is currently a student majoring in Accounting and Finance at HKU. She joined CIM because of her keen interest in investment and her desire to explore more in the finance field. She is passionate about enhancing her investing skills and gaining practical experience in finance. Her eagerness to further understand investment strategies makes CIM an ideal fit for her aspirations. </p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Arya-Rajesh.jpeg"/>
+        <h3 class="team-member-name">Arya Rajesh</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <p class="team-member-joined">Joined 2025</p>
+        <p class="team-member-description">Arya is a double degree student pursuing Computer Engineering and Finance at the University of Hong Kong. She joined The Center for Investment Management to deepen her understanding of the markets and apply her skills in a real-world context. She is eager to learn more about fintech integration and data analysis in investment management while contributing her technical skills to support CIM and grow her abilities in a practical setting. </p>
+        <div class="team-member-pad"></div>
+    </div>
 </div>
 
 ## Research Team
