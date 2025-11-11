@@ -2,6 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
 <url>
 <loc>
+<<<<<<< HEAD
 https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/404.html
 </loc>
 <lastmod>
@@ -18,6 +19,8 @@ https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/archives/index.
 </url>
 <url>
 <loc>
+=======
+>>>>>>> origin/main
 https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/authors-output/cim@hkubusiness/index.html
 </loc>
 <lastmod>
@@ -34,7 +37,7 @@ https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/index.html
 </url>
 <url>
 <loc>
-https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/pages-output/contact/index.html
+https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/404.html
 </loc>
 <lastmod>
 2025-11-11
@@ -42,10 +45,11 @@ https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/pages-output/co
 </url>
 <url>
 <loc>
-https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/pages-output/insights/index.html
+https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/archives/index.html
 </loc>
 <lastmod>
 2025-11-11
+<<<<<<< HEAD
 </lastmod>
 </url>
 <url>
@@ -94,6 +98,8 @@ https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/posts-output/du
 </loc>
 <lastmod>
 2025-11-11
+=======
+>>>>>>> origin/main
 </lastmod>
 </url>
 <url>
@@ -102,6 +108,73 @@ https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/tags/index.html
 </loc>
 <lastmod>
 2025-11-11
+<<<<<<< HEAD
+=======
+</lastmod>
+</url>
+<url>
+<loc>
+https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/pages-output/insights/index.html
+</loc>
+<lastmod>
+2025-11-11
+</lastmod>
+</url>
+<url>
+<loc>
+https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/pages-output/settings/index.html
+</loc>
+<lastmod>
+2025-11-11
+</lastmod>
+</url>
+<url>
+<loc>
+https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/pages-output/contact/index.html
+</loc>
+<lastmod>
+2025-11-11
+</lastmod>
+</url>
+<url>
+<loc>
+https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/pages-output/news/index.html
+</loc>
+<lastmod>
+2025-11-11
+</lastmod>
+</url>
+<url>
+<loc>
+https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/pages-output/team/index.html
+</loc>
+<lastmod>
+2025-11-11
+</lastmod>
+</url>
+<url>
+<loc>
+https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/pages-output/past-members/index.html
+</loc>
+<lastmod>
+2025-11-11
+</lastmod>
+</url>
+<url>
+<loc>
+https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/pages-output/strategy/index.html
+</loc>
+<lastmod>
+2025-11-11
+</lastmod>
+</url>
+<url>
+<loc>
+https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/index 2.html
+</loc>
+<lastmod>
+2025-11-11
+>>>>>>> origin/main
 </lastmod>
 </url>
 <url>
@@ -110,6 +183,25 @@ https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/tags-output/tes
 </loc>
 <lastmod>
 2025-11-11
+<<<<<<< HEAD
+=======
+</lastmod>
+</url>
+<url>
+<loc>
+https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/posts-output/dummy/index.html
+</loc>
+<lastmod>
+2025-11-11
+</lastmod>
+</url>
+<url>
+<loc>
+https://pleituer.github.io/Dummy-Website-Test/Dummy-Website-Test/404 2.html
+</loc>
+<lastmod>
+2025-11-11
+>>>>>>> origin/main
 </lastmod>
 </url>
 </urlset>
