@@ -81,7 +81,7 @@
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Rishabh-Khanna.jpg"/>
-        <h3 class="team-member-name">Rhishabh Khanna</h3>
+        <h3 class="team-member-name">Rishabh Khanna</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined 2025</p>
         <p class="team-member-description">Rishabh Khanna is currently a Quantitative Finance student, driven by his passion and commitment towards gaining knowledge and creating consequential change. In his role as a Junior Portfolio Manager specialising in Materials Industry investment, he has built skills in monitoring industry fluctuations and applying fundamental and technical analysis to predict stock trends. Within the Data Analysis Team, he hopes to enhance his market strength and gain further experience working with specialised methodologies and programming to deduce market movements and optimise data-backed responses to take full advantage of investment opportunities.</p>
