@@ -1,4 +1,4 @@
-{:title "Market News"
+<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/160c5dd5-4e34-4ab5-a3ab-cd99a589d442" /><img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/ce162955-7545-4247-9597-a8ca56f8d1ec" />{:title "Market News"
  :layout :page
  :page-index 0
  :navbar? true
@@ -6,8 +6,206 @@
  
 ## Headlines
 
-<x-accordion summary="Week of 06/06/2025">
+<x-accordion summary="Week of 07/11/2025">
+ _Published by Ashley LEE_
+ 
+### US
 
+_Written by Rachel HU Xinyue_
+
+#### Weekly Key Data:
+1. Dow Jones Industrial Average: 46987.10 (-1.21%) over the past 5 days
+2. S&P 500 Index: 6728.80 (-1.63%) over the past 5 days
+3. NASDAQ Composite Index: 23004.54 (-3.04%) over the past 5 days
+4. VIX: 19.08 (+9.40%) over the past 5 days
+5. United States ISM Manufacturing PMI: 48.7 (down from 49.1 in September, below market forecasts of 49.5)
+6. United States ISM Services PMI: 52.4 (up from 50 in September, above market forecasts of 50.8)
+7. United States Michigan Consumer Sentiment: 50.3 (down from 53.6 in October, below market forecasts of 53.2)
+8. United States API Crude Oil Stock Change: 6.5 million barrels increase (above the forecast of 2.4 million)
+9. United States Non-Farm Payrolls: The official employment statistics due November 7 were deferred on account of the federal government shutdown. ADP Research Institute, serving as a provisional indicator, estimates that private-sector payrolls rose by 42,000 in October
+
+#### Sector News:
+Tech stocks weakened broadly over the week, exerting significant downward pressure on the Nasdaq as the sector’s combined market capitalization declined by over USD 1 trillion. The “Magnificent 7” collectively fell by 3.21%. Specifically, NVIDIA (NVDA) plunged 7.08%, Tesla (TSLA) slid 5.92%, Meta Platforms (META) dropped 4.11%, and Microsoft (MSFT) retreated 4.05%. Meanwhile, Alphabet Class A (GOOGL) edged down 0.84%, Apple (AAPL) eased 0.70%, and Amazon (AMZN) inched up 0.08%, marking the only weekly advance among the group.
+
+Rare-earth-related equities advanced broadly over the week. Following the release of its latest earnings report on November 6, MP Materials Corp. (MP)—the largest rare-earth producer in the United States—rose 12.8%, leading to a sustained late-session rally across the sector. American Resources Corp. (AREC) gained more than 11%, while USA Rare Earth Inc. (USAR) appreciated 9.73%, further reinforcing overall market strength within the rare-earth segment.
+
+#### Single Stock News:
+Coherent (COHR.US) advanced 17.09% over the week, buoyed by strong earnings performance. The laser and optical components manufacturer released its fiscal Q1 2025 results on November 5, reporting revenue of USD 1.58 billion, up 17% year-on-year, and earnings per share of USD 1.16, both exceeding market expectations and underscoring the company’s robust operational momentum. This marks the fourth consecutive quarter in which Coherent has outperformed consensus earnings estimates, highlighting its consistent execution and sustained profitability.
+
+Kenvue (KVUE.US) advanced 17.47% over the week following merger news. Global personal care giant Kimberly-Clark (KMB.US) announced plans to acquire all outstanding common shares of Kenvue in a transaction valued at USD 48.7 billion. Upon completion, the combined entity is projected to generate approximately USD 32 billion in annual net revenue and USD 7 billion in adjusted EBITDA for fiscal 2025, becoming the world’s second-largest health and personal care products company, behind only Procter & Gamble (PG.US).
+
+### Mainland China
+
+_Written by Molly LIU Litong_
+
+#### Weekly Key Data:
+1. SSE Composite Index: 3997.56 (-0.25%)
+2. Shenzhen Component Index: 13404.06 (-0.36%)
+3. ChiNext Price Index: 3208.21 (-0.51%)
+4. CSI 300 Index: 4678.79 (-0.31%)
+5. Consumer Price Index (CPI) in October: increased by 0.2%
+6. Producer Price Index (PPI) in October: fell by 2.1%
+7. Gross Domestic Product (GDP) in the first three quarters: grew by 5.2%
+
+#### Sector News:
+The mainland market fluctuated repeatedly this week. The Shanghai Composite Index reclaimed the 4,000-point mark on Thursday but was affected by the sharp decline in overseas stock markets. The three major indices pulled back collectively on Friday, with the Shanghai Composite Index falling below 4,000 points again. Weekly turnover edged down slightly but remained above 10 trillion yuan.
+
+In terms of market highlights, the power equipment sector stood out as the sole outperformer, with main capital inflows exceeding 66.7 billion yuan for the week. The two main drivers creating opportunities for power equipment are the global energy transition and the rapid growth of AI computing power. Specifically, SPIC Industry-Finance Holdings (000958.SZ) rose 2.81%, Sichuan New Energy Power (000155.SZ) appreciated 2.76% and China Southern Power Grid Energy Storage (600995.SH) gained 2.58%.
+
+The chemical industry chain has also maintained a continuous upward trend recently, as Basic Chemicals recorded over 30.9 billion yuan in net inflows and the LIST0041 Chemicals index increased by 2.69%. The chemical industry's stock performance is influenced by shifting global demand, government policies such as subsidies and capacity expansion, and a strategic focus on higher-margin specialty chemicals. 
+
+#### Single Stock News:
+Wingtech Technology (600745.SZ) ranked first. Driven by positive news in the late trading session on Friday, its stock soared straight to the daily limit, and the positive sentiment continued to gain momentum over the weekend.
+
+Do-Fluoride New Materials (002407.SZ) came in second. Boosted by the price hike of lithium hexafluorophosphate, price-increase themes have become the core of the current market, as phosphorus chemicals, fluorine chemicals, various chemical sectors, and resource price hikes have surged in turn.
+
+TBEA (600089.SH) took the third spot. As a leading enterprise in power grid equipment, its stock price hit an all-time high, with a sharp surge and a wave of daily limits on Wednesday, triggered by news of AI-related power shortages.
+
+### Hong Kong SAR
+
+_Written by Ling GUO Yuling_
+
+#### Weekly Key Data:
+1. Hang Seng Index: 26,243.83 (-0.92%)
+2. Hang Seng Tech Index: 5835.36 (-1.80%)
+3. Hang Seng China Enterprises Index: 9267.56 (-0.94%)
+4. GDP: +3.8% （July – September 2025）
+5. Unemployment Rate: 3.9% (July - September 2025)
+6. Inflation Rate (CPI): 1.0% (year-on-year)
+7. Retail Sales Value YoY: +5.9% (year-on-year)
+8. Export Value YoY: +16.1% (year-on-year)
+
+#### Sector News:
+Hong Kong equities experienced a consolidative week, with the Hang Seng Index slipping 0.92% as global monetary policy uncertainties dampened investor sentiment. Performance across sectors was mixed, with the Technology sector underperforming, while Consumer and Tourism-related stocks showed resilience, supported by solid macroeconomic fundamentals.
+
+The market's cautious tone contrasted with the strong performance of the underlying economy. The sustained "higher-for-longer" interest rate environment from the US Federal Reserve continued to pressure growth-sensitive tech stocks. However, this was offset by a series of strong Q3 2025 economic data, which painted a picture of vigorous economic expansion.
+
+The Hong Kong economy grew 3.8% year-on-year in the third quarter, driven by a dual engine of external trade and domestic demand. Goods exports surged 16.1% year-on-year, fueled by strong global demand for electronics and smooth regional trade flows. Service exports also expanded significantly, bolstered by a steady recovery in tourism and active cross-border financial activities amid rising global markets. On the domestic front, private consumption expenditure increased further, reflected in a steady 5.9% growth in retail sales. Overall investment expenditure accelerated, supported by economic growth and a stabilizing residential property market.
+
+#### Single Stock News:
+SMIC：41.125 at 02/07/2025 and 77.264 at 30/09/2025
+SMIC emerged as the standout performer in Q3 2025, with its share price surging approximately 87.9% from July to September. Two key factors drove this sharp rise:
+
+1. Strong Macroeconomic Support
+Hong Kong’s September exports jumped 16.1% year-on-year, led by electronics demand, signaling a strong recovery in semiconductor orders, particularly from Mainland China. As a leading domestic foundry, SMIC benefited directly, with expectations of rising capacity utilization.
+
+3. Key Technological Breakthrough
+SMIC reportedly achieved improved yield rates in its second-generation 7nm process and began mass production for a leading domestic AI chip designer. This breakthrough reinforced confidence in China’s progress in semiconductor self-sufficiency.
+
+In summary, SMIC’s surge was driven by macroeconomic recovery and technological advancements, making it a bellwether for China’s semiconductor revival.
+
+### Europe
+
+_Written by Diana LIU Haolin_
+
+#### Weekly Key Data:
+1. EU Unemployment Rate (Sep 2025): 6.0% , stay stable compared with August.
+2. Euro Area Annual Inflation (Oct 2025): 2.1%, down from 2.2% in September.
+3. EURO STOXX 50 Index: Dropped 1.69% to 5,566.53.
+4. DAX (Germany): Dropped 0.75% to 23,555.74.
+5. CAC (France): 40: Dropped 0.18% to 7,950.18.
+6. FTSE 100 (London): Dropped 0.55% to 9,682.57.
+
+#### Sector News:
+In general, European corporate earnings for the third quarter have surprised to the upside, with final data suggesting growth of 4.3%, significantly exceeding initial forecasts of 0.4%. This has provided some support to equities, though performance is mixed.
+
+The pullback in the technology sector was the main driver of the market's negative performance. The STOXX Europe 600 Technology index (SX8P) was one of the worst-performing sectors for the week. It plummeted 2.07% on Friday (Nov 7) alone, cementing its weekly loss as investors took profits. Investor sentiment was dampened by concerns around elevated valuations in the technology sector, especially given the global tech/AI-valuations debate. 
+
+The industrials and basic resources sectors underperformed, with resource-heavy stocks hit by weaker commodity prices and risk-off mood. 
+
+#### Single Stock News:
+ITV plc (ITV.L): ITV shares surged nearly 20% on Friday, leading the STOXX 600. It follows reports late on Thursday revealing Comcast-owned Sky was holding talks with ITV over a possible deal of £1.6 billion to buy the public service broadcaster’s media and entertainment arm, which includes its terrestrial TV channels, streaming service ITVX and ITV’s 40% stake in ITN news. 
+ 
+International Consolidated Airlines Group S.A. (IAG.L): IAG was among the weakest performers, plunging 6.9% after reporting a drop in net profit and flat revenue. It is the latest airline group to signal a slowdown in the lucrative transatlantic market as travel from Europe to the U.S. has softened, with some analysts citing policy-related uncertainty affecting transatlantic travel.
+ 
+Major Names: Performance was mixed. ASML Holding (+0.3%), LVMH (+0.3%), SAP (+0.8%), Hermès (+1.5%), and Siemens (+0.6%) recorded gains, while L’Oréal slipped 0.2%.
+
+### Japan
+
+_Written by Vivien TAO Wei_
+
+#### Weekly Key Data:
+1. Nikkei 225: 50,276.37 (+4.55%)
+2. TOPIX: Up 2.88% in October 2025
+3. Japan Unemployment Rate: 2.6% (September 2025)
+4. Inflation Rate: 2.9% (September 2025)
+5. GDP Annual Growth Rate: 1.2% (Q2 2025)
+6. GDP Growth Annualized (Q2 2025): 2.2%
+7. Retail Sales YoY: +0.5% (September 2025)
+
+#### Sector News:
+Japanese equities extended gains into the month of October and the start of November, powered by the global AI boom and finalization of the US-Japan trade agreement. For the month, the Nikkei 225 index surged 4.55% while the TOPIX index advanced 2.88%. Market performance showed a clear divergence, with Precision Instruments and Electronics leading the gains, while Retail Trade and Electric Power & Gas sectors fell.
+
+The sustained enthusiasm for AI and the newly concluded US-Japan trade deal benefited the market, but stretched valuations raised concerns about an AI bubble, as some fund managers warned. The deal countered these concerns to some extent as it included Japanese commitments to invest in key sectors of the US economy-a plus to the earnings outlook for exporters and technology firms.
+
+The persistent weakness of the yen was a core theme, boosting exporters but weighing on domestic demand. This contrasted sharply with the performance differential between globally oriented manufacturers and domestically-focused consumer stocks. Authorities' warnings over excessive currency volatility added another layer of caution to the market sentiment.
+
+#### Single Stock News:
+SoftBank Group Corp. saw active investor interest after being named a key implementer of Japan's $550 billion U.S. investment pledge under the new trade deal and securing a $15 billion bridge loan for AI investments. NTT Inc. also attracted attention following its record $17.7 billion global bond sale to finance the privatization of its AI and data center arm, NTT Data.
+ 
+Conversely, Rakuten Group Inc. and Nissan Motor Co. faced heightened investor scrutiny as active issuers of overseas high-yield bonds, reflecting their aggressive expansion strategies but also raising concerns over their relatively higher financial risk.
+ 
+Automotive exporters including Toyota Motor Corp. and Honda Motor Co. found support on optimism that the U.S.-Japan trade agreement would provide a stable, tariff-free environment for their key exports.
+
+### India
+
+_Written by Adrian PING An_
+
+#### Weekly Key Data:
+Figure (daily, weekly)
+1. NIFTY 50: 25,492.30(-0.07%, -1.05%)
+2. SENSEX 30: 83,216.28(-0.11%, -0.91%)
+3. PMI Composite: 60.4 (-0.6pct)
+4. PMI Manufacturing: 59.2 (+1.5pct)
+5. PMI Services:58.9 (-2.0pct)
+
+#### Sector News:
+PSU(Public Sector Undertakings) Bank Sector: It is the top gainer this week as The Nifty PSU Bank index (.NIFTYPSU) rose by 0.87% on Friday alone and concluded the week with a 2.1% gain. The performance was an extension of a powerful trend: the index has now posted its third consecutive weekly advance, building on a 7% rally from the previous week.
+
+The recent rally in PSU bank stocks is driven by three factors: higher foreign investor inflows, policy direction, and improving fundamentals. Foreign institutional investors increased their stakes as PSU banks showed stronger performance and balance-sheet improvement, which boosted market confidence. At the same time, speculation that the government may raise the foreign ownership limit in PSU banks from 20% to 49% led investors to position ahead of possible passive inflows. 
+
+Policy sentiment strengthened further when Finance Minister Nirmala Sitharaman confirmed that the government is working with the RBI and lenders to build “big, world-class banks.” 
+Fundamentals reinforced the move: SBI reported a 10% year-on-year increase in net profit to ₹20,160 crore, core operating profit came in about 15% above estimates, credit growth guidance was revised up to 12–14%, and asset quality improved to gross NPAs of 1.73% and net NPAs of 0.42%.
+
+#### Single Stock News:
+Shriram Finance Ltd. (NSE: SHRIRAMFIN) was a top gainer in the Nifty 50 this week, surging approximately 9% amid broader market caution. The stock hit a new 52-week high of ₹820.00 on Friday, closing at ₹816.35 on elevated trading volumes. The rally was ignited by the company's strong Q2FY26 results, which beat market expectations. Following this positive earnings surprise, the stock benefited from a wave of analyst upgrades, with widespread 'Buy' or 'Strong Buy' ratings. Analysts are optimistic due to factors like low credit costs, strong EPS growth, and potential upside from new partnerships or future rating improvements.
+
+### South East Asia
+
+_Written by Daisy DAI Yingxi_
+
+#### Weekly Key Data:
+1. Straits Times Index (STI): 4,492.25 (+1.14% in the past week)
+2. Jakarta Composite Index (JCI): 8,395 (+0.69% on Nov 7, 2025, securing a +2.8% weekly rise)
+3. FTSE Bursa Malaysia KLCI (FBM KLCI): 1,619.13 (+0.62% in the past week)
+4. SET Index: 1,302.91 (-0.79% on Nov 7, 2025, resulting in a -0.50% weekly change)
+5. PSE Composite Index (PSEi): 5,759.37
+6. VN-Index: 1,599.10, (-2.65%)
+7. Inflation Rate (CPI, Latest Data for 2025):
+• Indonesia: 2.86% (Year-on-Year, October 2025)
+• Philippines: 1.7% (Year-on-Year, October 2025)
+• Singapore: 0.7% (Year-on-Year, September 2025)
+• Thailand: -0.76% (Year-on-Year, October 2025)
+• Malaysia: 1.5% (Year-on-Year, September 2025)
+• Vietnam: 3.25% (Year-on-Year, October 2025)
+
+#### Sector News:
+In the AI sector, GenAI Fund has allocated US$6 million to six startups selected for the first cohort of ASEAN’s Enterprise FastTrack AI Accelerator on November 7th, which is expected to accelerate the development of enterprise-grade AI solutions across the region. 
+
+In the E-commerce domain, Amazon has announced its plan to establish Vietnam as a high-quality e-commerce export hub for Southeast Asia by 2026 on November 7th, indicating increasing confidence in the market's manufacturing capabilities and logistics infrastructure. 
+
+In the sustainable development division, the ASEAN Taxonomy Board (ATB) released Version 4 of the ASEAN Taxonomy for Sustainable Finance on November 6th, 2025. This marks a major milestone in ASEAN’s sustainable finance journey, as the updated taxonomy provides a clear and consistent framework for identifying sustainable investments.
+
+In the construction and supply chain, the Southeast Asian construction industry is projected to grow by over 6.2% annually from 2024 to 2028, fueled by urbanization and increased infrastructure investments. Japanese electronics supplier Kaga Electronics announced a billion-yen investment to build a new plant in Thailand on November 6th, underscoring the region's growing role in global supply chains.
+
+#### Single Stock News:
+DBS Group Holdings Ltd (DBS) reported better-than-expected third-quarter earnings for 2025 and announced a commitment to increase its dividend payout for the upcoming fiscal year on November 6th. The commitment sent the bank's market cap above $157 billion, and a new record of $55.55 per share price. The consistent dividend payouts and capital return program provide a stable and predictable return for investors.
+ 
+Grab Holdings Ltd (GRAB) has shown strong growth in its on-demand services and reported a 22% year-over-year increase in revenue for the third quarter of 2025 on November 4th. The stock price saw a decline following the earnings report. However, analyst ratings are generally positive, as the recent pullback in the stock price could present a buying opportunity for long-term investors. In general, investors should be mindful of the company's path to sustained profitability.
+
+</x-accordion>
+
+<x-accordion summary="Week of 06/06/2025">
  _Published by Ashley LEE_
  
 ### US
@@ -1832,3 +2030,4 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
