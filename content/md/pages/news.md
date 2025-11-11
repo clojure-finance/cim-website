@@ -1,10 +1,14 @@
-<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/160c5dd5-4e34-4ab5-a3ab-cd99a589d442" /><img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/ce162955-7545-4247-9597-a8ca56f8d1ec" />{:title "Market News"
+{:title "Market News"
  :layout :page
  :page-index 0
  :navbar? true
  :to-root "../.."}
+----
+<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/160c5dd5-4e34-4ab5-a3ab-cd99a589d442" />
+<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/ce162955-7545-4247-9597-a8ca56f8d1ec" />
+
  
-## Headlines
+ ## Headlines
 
 <x-accordion summary="Week of 07/11/2025">
  
