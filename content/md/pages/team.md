@@ -191,6 +191,14 @@
           <p class="team-member-description">Jason is a student majoring in Quantitative Finance, currently serving as a Junior Portfolio Manager within the Data Analysis Team at CIM. With a specialized focus on the energy sector, he is dedicated to honing his skills in quantitative analysis and equity valuation. Michael is passionate about leveraging programming and data-driven insights to build robust financial models and develop strategic investment theses. He is committed to continuous learning in the dynamic field of finance and aims to contribute meaningfully to portfolio performance through his analytical rigor.</p>
           <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Lucas-Yin.jpg"/>
+          <h3 class="team-member-name">Lukas YIN Yat</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <p class="team-member-joined">Joined 2025</p>
+          <p class="team-member-description">JLukas is currently pursuing EDI, Law, and Economics at HKU. He is now a junior portfolio manager in the materials sector and a member of the data analytics team. He is passionate about finance with a solid foundation in various disciplines and looks forward to crafting investment approaches aided by data and analytical instruments. By being a part of CIM, he seeks to build a keener market awareness and execute more strategic trades.</p>
+          <div class="team-member-pad"></div>
+    </div>
  
 </div>
 
@@ -441,6 +449,14 @@
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
           <p class="team-member-joined">Joined 2025</p>
           <p class="team-member-description">Liu Haolin, Diana, a HKU BBA student major in Finance, is currently a Junior Portfolio Manager in the Research Team at the Center of Investment Management. She is interested in exploring how data and market trends shape investment decisions. By analyzing company fundamentals and economic indicators, she aims to develop a clearer understanding of portfolio construction and risk management. Through teamwork and research practice, she continues to strengthen her analytical mindset and interest in investment management.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Jacky-Lui.jpg"/>
+          <h3 class="team-member-name">Jackie LUI Ching Ho</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <p class="team-member-joined">Joined 2025</p>
+          <p class="team-member-description">Jackie is an Accounting and Finance student with a great interest in investing, trading, and portfolio management. As a Junior Portfolio Manager at CIM, he focuses on the consumer discretionary sector, actively managing investment portfolios through in-depth fundamental analysis and market trends. Jackie also conducts regular research on macroeconomic indicators and corporate financials to provide investment insights and market news. His practical experience in portfolio construction and market analysis, in addition to his passion for financial markets, demonstrates his ability to excel in the finance industry.</p>
           <div class="team-member-pad"></div>
     </div>
     
