@@ -137,7 +137,7 @@
          <img class="team-member-pfp" src="../../img/past-members-pic/Fan-Rongshuo.JPG"/>
          <h3 class="team-member-name">David FAN Rongshuo</h3>
          <h2 class="team-member-position">Senior Portfolio Manager</h2>
-         <p class="team-member-joined">Joined 2023</p>
+         <p class="team-member-joined">Joined Academic Year 2022-23</p>
          <p class="team-member-description">David FAN Rongshuo was a senior portfolio manager in CIM, he is a student. David is interested in both traditional and quantitative trading. He's into macro trading, taking macro events and companies’ announcement into consideration. Besides, David is also interested in momentum trading as well, seeking the optimal moment to “get on the boat” and “get off at the proper time”.</p>
          <div class="team-member-pad"></div>
     </div>
@@ -145,7 +145,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Cindy-Tang.jpg"/>
         <h3 class="team-member-name">Cindy TANG Xin</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
-        <p class="team-member-joined">Joined 2023</p>
+        <p class="team-member-joined">Joined Academic Year 2022-23</p>
         <p class="team-member-description">Cindy Tang is a student double majoring in Economics and Finance and AMPB. She joined CIM because of her interest in investment and asset management. Cindy enjoys analyzing market trends, managing portfolios, and designing macro investment strategies. She’s eager to learn more about using programming to analyze data since digitization is the trend in the financial industry.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -153,7 +153,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Elvis-Lui.jpg"/>
         <h3 class="team-member-name">Elvis LUI Yu On</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
-        <p class="team-member-joined">Joined 2023</p>
+        <p class="team-member-joined">Joined Academic Year 2022-23</p>
         <p class="team-member-description">Elvis is a highly motivated and driven second-year student with a passion for technology and finance. With majors in Systems Analytics and AMPB, he possesses a comprehensive knowledge of the intersection between technology and business value. He has traded cryptocurrencies and US stocks since 2020 and is currently exploring opportunities in the Hong Kong and China shares market.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -161,7 +161,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Phillip-Ting.jpg"/>
         <h3 class="team-member-name">Philip TING Tak Lung</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
-        <p class="team-member-joined">Joined 2023</p>
+        <p class="team-member-joined">Joined Academic Year 2022-23</p>
         <p class="team-member-description">Philip is a Accounting and Finance student and a student ambassador at HKU Business School. Apart from his role as a senior portfolio manager at the CIM program, he is also part of the publicity team. He has years of investment experience and is interested in macro investing, portfolio management, and multi-asset allocation.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -225,7 +225,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Li-Chengpu.jpg"/>
         <h3 class="team-member-name">Leo LI Chengpu</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-joined">Joined 2023</p>
+        <p class="team-member-joined">Joined Academic Year 2022-23</p>
         <p class="team-member-description">Li Chengpu is a student from BSc(QFin), also with a double major in Computer Science. Chengpu currently serves as a senior portfolio manager at CIM, and also a part of the Data Analysis Team. Chengpu focuses on the equity research and investment in US and China Telecommunication Industry. Joining in CIM, he hopes to learn how to design a better investment strategies based on the big data analysis through programming. Chengpu regards CIM as an valuable place for him to improve his investment skills and market senses.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -273,7 +273,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Yang-Runqi.jpeg"/>
         <h3 class="team-member-name">Jason YANG Runqi</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-joined">Joined 2023</p>
+        <p class="team-member-joined">Joined Academic Year 2022-23</p>
         <p class="team-member-description">Yang Runqi, a student in the BEng + BBA double degree program, majors in Computer Science and Finance, with a minor in Computational Mathematics. As a Senior Portfolio Manager at CIM, Yang Runqi demonstrates a strong interest in the intersection of computer science and finance. The opportunity to utilize Clojure for financial market analysis is an exciting endeavor. Yang Runqi eagerly anticipates engaging in discussions with like-minded individuals to exchange knowledge in related field.</p>
         <div class="team-member-pad"></div>
     </div>
