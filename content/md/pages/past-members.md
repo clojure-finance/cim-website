@@ -49,7 +49,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Kevin-Xia.jpg"/>
         <h3 class="team-member-name">Kevin XIA Yunchu</h3>
         <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Research 2024-25</h2>
-        <p class="team-member-joined">Joined Academic Year 2023-24/p>
+        <p class="team-member-joined">Joined Academic Year 2023-24</p>
         <p class="team-member-description">Kevin XIA Yunchu is a senior portfolio manager in CIM, he is a International Business and Global Management student. Kevin is interested in the secondary market, specifically momentum and news driven trading. Besides, Kevin enjoys playing poker and bouldering during his free time.</p>
         <div class="team-member-pad"></div>
     </div>
