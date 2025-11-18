@@ -196,7 +196,7 @@
           <h3 class="team-member-name">Lukas YIN Yat</h3>
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
           <p class="team-member-joined">Joined 2025</p>
-          <p class="team-member-description">JLukas is currently pursuing EDI, Law, and Economics at HKU. He is now a junior portfolio manager in the materials sector and a member of the data analytics team. He is passionate about finance with a solid foundation in various disciplines and looks forward to crafting investment approaches aided by data and analytical instruments. By being a part of CIM, he seeks to build a keener market awareness and execute more strategic trades.</p>
+          <p class="team-member-description">Lukas is currently pursuing EDI, Law, and Economics at HKU. He is now a junior portfolio manager in the materials sector and a member of the data analytics team. He is passionate about finance with a solid foundation in various disciplines and looks forward to crafting investment approaches aided by data and analytical instruments. By being a part of CIM, he seeks to build a keener market awareness and execute more strategic trades.</p>
           <div class="team-member-pad"></div>
     </div>
  
