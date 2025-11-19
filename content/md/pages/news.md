@@ -163,13 +163,13 @@ _Written by Arman Abilkassym_
 4.	SET Index: 1,269.26 (-2.58%)
 5.	PSE Composite Index (PSEi): 5,584.35 (-2.49%)
 6.	VN-Index: 1,635.46 (+0.25%)
-7.	     Inflation Rate (CPI, Latest Data for 2025):
-        Indonesia: 2.86% (Year-on-Year, October 2025)
-        Philippines: 1.7% (Year-on-Year, October 2025)
-        Singapore: 0.7% (Year-on-Year, September 2025)
-        Thailand: -0.76% (Year-on-Year, October 2025)
-        Malaysia: 1.5% (Year-on-Year, September 2025)
-        Vietnam: 3.25% (Year-on-Year, October 2025)
+7.	Inflation Rate (CPI, Latest Data for 2025):
+   Indonesia: 2.86% (Year-on-Year, October 2025)
+   Philippines: 1.7% (Year-on-Year, October 2025)
+   Singapore: 0.7% (Year-on-Year, September 2025)
+   Thailand: -0.76% (Year-on-Year, October 2025)
+   Malaysia: 1.5% (Year-on-Year, September 2025)
+   Vietnam: 3.25% (Year-on-Year, October 2025)
 
 #### Sector News:
 In the AI sector CIMB Investment Bank Bhd (CIMB Securities) maintained a BUY call on Malaysian Pacific Industries Bhd with a raised target price of RM41, citing strong growth prospects from AI-related semiconductor demand. Infineon’s FY26F AI power revenue target was lifted to €1.5 billion from €1.0 billion. It is expected to lift AI-related revenue contribution from 8–9% in FY6/25 to around 15% by FY6/27F.
@@ -2207,6 +2207,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
