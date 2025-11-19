@@ -73,7 +73,7 @@
     </div>
      <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Aryan-Gupta-Manchanda.jpeg"/>
-        <h3 class="team-member-name">Aryan Gupta Manchanda</h3>
+        <h3 class="team-member-name">Aryan GUPTA MANCHANDA</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2025-26</p>
         <p class="team-member-description">Aryan is a student pursuing Economics and Finance, driven by a natural curiosity of the mechanisms of financial markets. As a member of the Data Analysis team at CIM, he utilises analytical tools to transform raw data into actionable insights which directly enhance portfolio performance. He is eager to continue developing his analytical skills and contribute to data driven decision making, aiding investment strategies in the future.</p>
@@ -81,7 +81,7 @@
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Rishabh-Khanna.jpg"/>
-        <h3 class="team-member-name">Rishabh Khanna</h3>
+        <h3 class="team-member-name">Rishabh KHANNA</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2025-26</p>
         <p class="team-member-description">Rishabh Khanna is currently a Quantitative Finance student, driven by his passion and commitment towards gaining knowledge and creating consequential change. In his role as a Junior Portfolio Manager specialising in Materials Industry investment, he has built skills in monitoring industry fluctuations and applying fundamental and technical analysis to predict stock trends. Within the Data Analysis Team, he hopes to enhance his market strength and gain further experience working with specialised methodologies and programming to deduce market movements and optimise data-backed responses to take full advantage of investment opportunities.</p>
@@ -97,7 +97,7 @@
     </div>
       <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Aryan-Arora.jpg"/>
-        <h3 class="team-member-name">Aryan Arora</h3>
+        <h3 class="team-member-name">Aryan ARORA</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2025-26</p>
         <p class="team-member-description">Aryan Arora is an undergraduate student majoring in Economics and Finance, with a strong passion for financial markets, investment strategy, and quantitative modeling. He serves as a Junior Portfolio Manager at CIM, where he applies analytical and research skills to support portfolio management initiatives. Fascinated by how data and economics drive real-world financial decisions, Aryan continually seeks to deepen his understanding of global markets and innovative financial solutions that create sustainable impact.</p>
@@ -105,7 +105,7 @@
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Lena-Delafontenelle.jpg"/>
-        <h3 class="team-member-name">Lena Liv Emma Delafontenelle</h3>
+        <h3 class="team-member-name">Lena Liv Emma DELAFONTENELLE</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2025-26</p>
         <p class="team-member-description">Lena is a student in the dual degree programme between Sciences Po Paris and the University of Hong Kong, majoring in Finance at HKU. She joined the Centre for Investment Management (CIM) because of her interest in investment management. At CIM, Lena has the opportunity to work on investment projects, manage portfolios, and deepen her understanding of investment strategies. Her aim as a junior portfolio manager is to learn more about financial markets, improve her market sense, and become more knowledgeable about investment strategies. She is eager to contribute to CIM with her skills and knowledge.</p>
@@ -121,7 +121,7 @@
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Felix-Lee.jpg"/>
-        <h3 class="team-member-name">Lee Cheuk Lun</h3>
+        <h3 class="team-member-name">LEE Cheuk Lun</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2025-26</p>
         <p class="team-member-description">Felix is a dedicated Year 2 student pursuing a Bachelor of Business Administration in International Business and Global Management (BBA IBGM). Currently serving as a junior portfolio manager in the data analytics team, he possesses a strong passion for quantitative finance and asset management. Felix is eager to leverage data analytics to backtest and develop innovative investment strategies. His analytical mindset and commitment to understanding market dynamics drive him to excel in his studies and professional endeavors, as he aims to explore new avenues in finance and contribute to the evolving landscape of the industry.</p>
@@ -272,7 +272,7 @@
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Arya-Rajesh.jpeg"/>
-        <h3 class="team-member-name">Arya Rajesh</h3>
+        <h3 class="team-member-name">Arya RAJESH</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2025-26</p>
         <p class="team-member-description">Arya is a double degree student pursuing Computer Engineering and Finance at the University of Hong Kong. She joined The Center for Investment Management to deepen her understanding of the markets and apply her skills in a real-world context. She is eager to learn more about fintech integration and data analysis in investment management while contributing her technical skills to support CIM and grow her abilities in a practical setting. </p>
@@ -309,7 +309,7 @@
     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Alexander-Antoniou.jpg"/>
-        <h3 class="team-member-name">Alexander Antoniou</h3>
+        <h3 class="team-member-name">Alexander ANTONIOU</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2024-25</p>
         <p class="team-member-description">Alec Antoniou is a multinational, results-driven student, leveraging his engineering background to identify and capitalize on strategic investment opportunities. With experience in fintech and corporate banking, he currently applies a data-driven, analytical approach to investment strategy in the Utilities team at CIM. His focus lies in energy and infrastructure banking across EMEA and emerging markets.</p>
@@ -389,7 +389,7 @@
       </div>
       <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/April-Wang.JPG"/>
-        <h3 class="team-member-name">Wang Chang</h3>
+        <h3 class="team-member-name">April WANG Chang</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2025-26</p>
         <p class="team-member-description">April Wang Chang is a student majoring in Business Analytics at the University of Hong Kong. With hands-on experience in equity research and stock pitch competitions, she has developed a strong passion for investment and trading. Currently serving in the research function group at the Centre for Investment Management, she actively seeks to exchange insights with fellow members, deepen her industry knowledge, and refine her analytical skills through collaborative learning.</p>
@@ -397,7 +397,7 @@
       </div> 
        <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Ling-Guo.JPG"/>
-        <h3 class="team-member-name">Guo Yuling</h3>
+        <h3 class="team-member-name">Ling GUO Yuling</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2025-26</p>
         <p class="team-member-description">Guo Yuling is currently a BEcon & Fin student and a member of the Research Team at CIM. With a solid background in industry research and stock pitching, she has developed a strong interest and practical experience in asset allocation and portfolio management through her participation in various finance-focused summer camps. These experiences have not only honed her analytical and strategic thinking skills but also deepened her passion for the dynamic field of investment management. Guo Yuling is eager to continue exploring opportunities in portfolio management and is committed to applying her expertise to contribute meaningfully to the finance industry.</p>
@@ -437,7 +437,7 @@
     </div>
     <div class="team-member">
           <img class="team-member-pfp" src="../../img/team-members-pic/Molly-Liu.jpg"/>
-          <h3 class="team-member-name">Molly Liu Litong</h3>
+          <h3 class="team-member-name">Molly LIU Litong</h3>
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
           <p class="team-member-joined">Joined Academic Year 2025-26</p>
           <p class="team-member-description">Molly is a sophomore majoring in Quantitative Finance, whose passion lies in industry research and stock pitching. She has set a clear career goal of pursuing a role in investment banking—an ambition supported by her strong academic foundation spanning Mathematics, Programming, Statistics, and Finance. Leveraging this interdisciplinary background, she is actively honing practical skills critical to her target field, including data analysis, rigorous stock pitching, and other core competencies for financial markets.</p>
