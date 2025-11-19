@@ -32,6 +32,153 @@ Walmart announced that John Furner is the successor to Doug McMillon, indicating
 
 Investors showed growing interest in Alphabet when Berkshire Hathaway disclosed a new investment of almost 18 million shares (about USD 5 billion), which is considered as one of Warren Buffett's final significant allocations before retiring as CEO. The announcement helped the company climb by about 2% in after-hours trading on November 14, adding to a solid year-to-date performance fueled by AI-related product momentum and a more favorable antitrust environment. 
 
+### Mainland China
+
+_Written by William Zhang_
+
+#### Weekly Key Data:
+1.	SSE Composite Index: 3,990.49 (-0.28%) over the past 5 trading days.
+2.	Shenzhen Component Index: 13,216.03 (-1.76%) over the past 5 trading days.
+3.	ChiNext Price Index: 3,111.51 (-3.43%) over the past 5 trading days.
+4.	CSI 300 Index: 4,628.14 (-1.28%) over the past 5 trading days.
+5.	Consumer Price Index (CPI) in October: +0.2% year-on-year.
+6.	Producer Price Index (PPI) in October: -2.1% year-on-year.
+7.	Industrial Production in October: +4.9% year-on-year (slower than prior).
+8.	Gross Domestic Product (GDP): +3.73% since last year.
+
+#### Sector News:
+The power/electric equipment sector in China continues to attract strong interest. With the rise of AI/data center build out and expected 8% growth in power demand by 2028, analysts such as UBS see significant potential and upside for suppliers of grid and data center power equipment.
+
+Chemical & raw materials chains are showing positive momentum. Although broad industrial PPI remains in deflation, some chemical segments are seeing price hikes (e.g. lithium hexafluorophosphate for batteries) and policy focus on higher margin specialty chemicals.
+
+Market sentiment overall is improving where foreign investors are again entering the Chinese equity market, domestic tech and advanced manufacturing themes are gaining traction, yet macro growth remains uneven, with weak consumption and property headwinds.
+
+#### Single Stock News:
+Winnovation Culturaltainment Development Ltd (000620 SZ): The stock rose around +10.13% over the trading week, leading the Shenzhen Stock Exchange. The company operates cultural tourism, hotel and real estate businesses in China. Despite the strong weekly gain, underlying fundamentals remain weak, where the company reported net income of negative 533 million yuan in 2024.
+
+Shannon Semiconductor Technology Co., Ltd. (300475 SZ): The stock declined notably this week at around -9.5%. It is a Chinese semiconductor and electronics components company with exposure to cloud, IoT and memory markets. The latest cash flow shows a negative operating cash flow of -CNY 47.65 million, suggesting cash generation is weak despite strong revenue growth of CNY 24,271 million (up 115% from last year). The sharp weekly drop likely reflects market concern that strong revenue growth is not yet translating into robust profitability.
+
+### Hong Kong SAR
+
+_Written by He Xu Doraa_
+
+#### Weekly Key Data:
+1.	Hang Seng Index: 26572.46 (+1.26%)
+2.	Hang Seng Tech Index: 5812.80 (-0.42%)
+3.	Hang Seng China Enterprises Index: 9397.96 (-0.48%)
+4.	HIBOR (weekly): 2.6447% (-0.0866%)
+5.	Unemployment Rate: 3.9% (July - September 2025)
+6.	Inflation Rate (CPI): 109.1
+
+#### Sector News:
+Hong Kong equities posted a mixed but ultimately positive weekly performance, with the Hang Seng Index advancing 1.26% to close at 26,572.46. However, the week was marked by significant volatility and a sharp divergence between the broader market and the technology sector. The Healthcare and IT sectors witnessed notable inflows, with turnover increasing 28.15% and 16.63% respectively. In contrast, traditional sectors such as Energy and Consumer Discretionary experienced significant outflows. The index rallied to a weekly high of 27,188.81 on Thursday, bolstered by easing short-term liquidity pressures, as evidenced by the one-week HIBOR falling 8.66 basis points to 2.6447%. This rally was abruptly reversed on Friday, with the index shedding 1.85% in a single session. The sell-off was primarily triggered by a sharp downturn in US tech stocks, which reignited global concerns over tighter liquidity and higher-for-longer interest rate expectations, prompting investors to lock in profits. 
+The Hang Seng Tech Index was a notable underperformer, ending the week down 0.42% at 5,812.80. Major constituent stocks faced substantial selling pressure, with Baidu (09888.HK) and JD.com, Inc. (09618.HK) falling approximately 7% and 6%, respectively. At the same time, Alibaba (09988.HK) declined 4%. This highlights the sector's continued sensitivity to global monetary policy shifts and investor risk appetite.
+
+Similarly, the Hang Seng China Enterprises Index retreated from its weekly high, finishing with a modest decline of 0.48% to 9397.96. The index demonstrated resilience within a valuation repair channel but ultimately succumbed to the broader pullback driven by Federal Reserve policy uncertainty and global market volatility.
+Despite uncertainty, the Hong Kong economy maintained a smooth performance in general. The inflation rate remained stable at about 109.1, and the unemployment rate was at its low point at 3.9%, indicating low inflation and a resilient economy.
+
+#### Single Stock News:
+1.	Alibaba (09988.HK)
+Alibaba’s stock price saw a notable pullback this week, closing at 154.9hkd on November 14th with a significant weekly decline of 9.5%.  On the closing day, the short volume ratio reached 17.22%, much higher than the market average of 14.88%, indicating heightened bearish sentiment. The release of financial statements and the development of the AI product Qian Wen might be short-term catalysts, while the Fed’s rate cut in December may have a potential impact on its shares. 
+
+2.	Ascletis Pharma-B(01672.HK)：
+Ascletis Pharma-B surged over 45% this week and closed at 13.74 hkd on November 14th, driven by market attention towards the R&D progress and commercial potential of its core product pipeline like HCV and NASH drugs.
+
+### Europe
+
+_Written by Joshua Chan_
+
+#### Weekly Key Data:
+1.  Euro Stoxx 50 index: 5,693.77 (+0.86%) 
+2.  DAX(Germany): 23,876.55 (-0.23%) 
+3.  CAC 40(France): 8,170 (+1.71%) 
+4.  FTSE 100 (London): 9,698 (+0.42%) 
+
+#### Sector News:
+Financials and banks were the best movers this week, surging on US shutdown relief and rate cut hopes – think CAC and IBEX banks popping 3-4%, with better loan vibes and lower rate tailwinds keeping the party going.
+
+Healthcare kept the momentum, with pharma giants like Merck up on earnings beats and M&A whispers; the sector grabbed +1.3% amid solid drug sales, even as tech took a breather from AI hype.
+
+For market sentiment, there are solid weekly wins (best since Sept for STOXX), but Friday’s hawkish Fed talk trimmed gains – industrials dipped 1.8% on profit-taking, and energy lagged with oil swings. Overall, foreign inflows and ECB optimism rule, though watch US tariffs for curveballs.
+
+#### Single Stock News:
+1.	Infineon Technologies AG (IFX.DE): 
+German chip wizard soared +6.9% this week, stealing the DAX spotlight. They’re big in AI data center semis, and bumping up full-year sales guidance on booming demand had investors cheering. Revenue’s cooking with 7% organic growth eyed, but supply chain snags linger – strong play if AI keeps rolling.
+
+2.	Siemens Energy AG (ENR1.DE): 
+The German energy company had a tough ride, tumbling -9.4% after earnings. The energy tech firm’s medium-term sales hike didn’t wow, with next year’s profit outlook missing the mark amid wind turbine woes. Q3 ops earnings beat a bit, but cash burn and project delays spooked the market – revenue up yoy, yet profitability’s the headache.
+
+### Japan
+
+_Written by Tiffany ZHANG Difei_
+
+#### Weekly Key Data:
+1.	Nikkei 225: 50,376.5 (-1.8%)
+2.	TOPIX: Up 1.8% in this week
+3.	Japan Unemployment Rate: 2.6% (Oct 2025)
+4.	Inflation Rate: 2.7% (March 2025)
+5.	GDP Annual Growth Rate: 0.11% (Oct 2025)
+6.	GDP Growth Annualized (Q2 2025): +1.7%
+7.	Retail Sales YoY: +3.44% (Oct 2025)
+
+#### Sector News:
+Japan’s new economic stimulus package catalyzed strategic shifts in the retail and tech sectors. In cosmetics, major players like Shiseido accelerated organizational overhauls to boost global competitiveness. This coincided with the government’s rollout of a ¥14 trillion plan featuring consumption vouchers and industrial funds, all designed to stimulate domestic consumer spending.
+Simultaneously, the tech sector faced a sharp reversal. After months of AI-fueled rallies, investors engaged in profit-taking, triggered by storage chip giant Kioxia's 23% plunge following a significant profit drop. This sell-off dragged down peers like Advantest and Tokyo Electron, as wary investors rotated capital into more stable, earnings-backed industries. These dual trends highlighted a market carefully balancing optimism from government support against growing concerns over stretched valuations in the high-flying tech sector.
+
+
+#### Single Stock News:
+Shiseido Group (TOKYO: 4911) fell 4.2% on November 11 after Q3 2025 results and a 2030 strategic overhaul (announced Nov 10). Jan-Sept net sales dropped 4% YoY to ¥693.8 billion, with a ¥63.4 billion non-recurring charge; the firm will narrow focus to high-growth skincare/sunscreen, ramp up AI investment, and restructure executives in 2026, lowering its full-year 2025 outlook to a ¥52 billion net loss.
+Rakuten Group (TOKYO: 4755) rose 2.3% on November 13 following an November 11 AI partnership with HP Japan. Starting H1 2026, Rakuten’s on-device AI platform will integrate into HP’s Japanese PCs, offering secure local tools (summarization, translation) and links to its 1.9 billion-member ecosystem—marking its first offline-online AI deployment.
+
+### India
+
+_Written by Matthew Sze-to_
+
+#### Weekly Key Data:
+Weekly Key Data: Figure (daily, weekly)
+NIFTY 50: 25910.05 (+0.12%, +1.45%)
+SENSEX 30: 84562.78 (+0.100%, 1.32%)
+PMI Composite: 60.4 (-0.6pct) (October Statistics)
+PMI Manufacturing: 59.2 (+1.5pct) (October Statistics)
+PMI Services: 58.9 (-2.0pct) (October Statistics)
+
+#### Sector News:
+Indian Technological Sector is a rapidly growing industry, with projections suggesting that the industry could be reaching an evaluation of $350 billion by 2026. This growth is driven mainly by rising digital adoption across the country, continuous government support, and increasing investments. 
+
+This growth can be attributed to the rising AI industry. India’s export of IT services remained to be the largest contributor, accounting for over 65% of total IT exports from the nation. This is a rising industry as well. IT spending in India has continued to growth by 11.1% in 2024 to reach 138.6 billion US dollars. The Indian software product industry is also projected to reach 100 billion USD by 2025 as the industry aims to explain globally. To support the technological growth, India’s system infrastructure software market is also rapidly rising. Performance reviews forecasts that the market is to reach 20.8 billion US dollars by 20240, growing at a compound annual growth rate of 9.2%. 
+
+To further support the ecosystem, the government has partnered with Paytm. The company will provide mentorship, infrastructure support, market access and funding opportunities to startups. The stock price of Paytm also support this (One97 Communications Ltd). The stock price of the company, since their partnership with the government in February, has grown by over 52.63%. This invertedly highlights the growth/growth potential of India’s growing financial industry. 
+
+#### Single Stock News:
+For this week, I’ll be extending from the industry news on technology and analyze the stock of Reliance Industries. Their current stock price is at 1518.20 INR with 0.48% growth today. The more interesting statistic would be their growth in the last month, reaching 8.57%, making it one of the fastest growing companies in India’s technological sector. This can be attributed to Reliance Industries’ plans to set up a 1-gigawatt AI data center in India’s Andhra Pradesh. This was a major step in investment of India’s technological industry and we can be estimating continuous growth in Reliance’s stocks in the near future. 
+
+### SEA
+
+_Written by Arman Abilkassym_
+
+#### Weekly Key Data:
+1.	STI index: 4,538.56 (+1.2%)
+2.	Jakarta Composite Index (JCI): 8,370.44 (-0.29%)
+3.	FTSE Bursa Malaysia KLCI (FBM KLCI): 1,625.67 (+0.4%)
+4.	SET Index: 1,269.26 (-2.58%)
+5.	PSE Composite Index (PSEi): 5,584.35 (-2.49%)
+6.	VN-Index: 1,635.46 (+0.25%)
+7.	     Inflation Rate (CPI, Latest Data for 2025):
+        Indonesia: 2.86% (Year-on-Year, October 2025)
+        Philippines: 1.7% (Year-on-Year, October 2025)
+        Singapore: 0.7% (Year-on-Year, September 2025)
+        Thailand: -0.76% (Year-on-Year, October 2025)
+        Malaysia: 1.5% (Year-on-Year, September 2025)
+        Vietnam: 3.25% (Year-on-Year, October 2025)
+
+#### Sector News:
+In the AI sector CIMB Investment Bank Bhd (CIMB Securities) maintained a BUY call on Malaysian Pacific Industries Bhd with a raised target price of RM41, citing strong growth prospects from AI-related semiconductor demand. Infineon’s FY26F AI power revenue target was lifted to €1.5 billion from €1.0 billion. It is expected to lift AI-related revenue contribution from 8–9% in FY6/25 to around 15% by FY6/27F.
+
+In the technology sector, Prime Minister Pham Minh Chinh has announced an unprecedented commitment of $3.8 billion from the 2026 budget for national innovation and technology initiatives. Vietnam’s digital industry continues to thrive. According to the Ministry of Science and Technology, the ICT sector recorded over $165 billion in revenue during the first 10 months of 2025, a 52.4% increase year-on-year. Exports of digital products hit $142 billion, up 27%. It indicates that the Vietnamese digital and technology sectors are growing rapidly, and the government intends to continue it.
+
+#### Single Stock News:
+BDO Unibank, Inc. showed a stunning fall of 10.53% for the past week, making it the lowest price for the bank's stocks since March 2023. The BDO is the biggest bank in the Philippines. The company is paying stable dividends and showed better than expected revenue in July 2025 (last time revenue recorded). The company is showing growth in Net income and Assets but the price for stocks is fluctuating from 119 to 165. 
+
 </x-accordion>
  
 <x-accordion summary="Week of 07/11/2025">
@@ -2060,6 +2207,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
