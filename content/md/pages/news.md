@@ -5,7 +5,35 @@
  :to-root "../.."}
 
  ## Headlines
+<x-accordion summary="Week of 14/11/2025">
 
+_Published by Carrie CHAN_
+
+### US
+
+_Written by Jackie LUI Ching Ho_
+
+#### Weekly Key Data:
+1.	Dow Jones Industrial Average: 47147.48 (+0.34%)
+2.	S&P 500 Index: 6734.11 (+0.08%)
+3.	NASDAQ Composite Index: 22900.59 (-0.45%)
+4.	VIX: 19.83 (+3.93%)
+5.	U.S. 10-Year Note Auction: 4.074% (down from 4.117% in October)
+6.	U.S. 30-Year Bond Auction: 4.694% (down from 4.734% in October)
+7.	U.S. Crude Oil Inventories: 6.413M (Increase from 5.202M last week)
+
+#### Sector News:
+Retailers such as Walmart and Target increased holiday discounts and meal donation campaigns ahead of Thanksgiving, indicating an increased focus on value propositions to capture price-sensitive demand. At the same time, elevated inflation, higher tariffs, and less food assistance continued to undermine confidence and discretionary budgets, raising the possibility of a weaker Black Friday season. 
+
+Sustained worldwide investment in LNG export capacity and significant resource projects in oil, gas, nuclear, and renewables is changing the medium-term supply dynamics for major US producers. The United States Department of Energy announced around USD 355 million in additional financing to enhance American production of essential materials used in the energy, transportation, and defense supply chains, supporting energy development.
+
+#### Single Stock News:
+Walmart announced that John Furner is the successor to Doug McMillon, indicating leadership continuity as the company navigates a softening demand environment and rising price pressures. On November 14, the firm also introduced its 2025 Black Friday Deals Event, which featured aggressive discounts and expanded product lines to defend market share during a highly promotional holiday season. Management continues to prioritize value, convenience, and omnichannel performance while preparing for anticipated tariff adjustments and evolving customer buying patterns.
+
+Investors showed growing interest in Alphabet when Berkshire Hathaway disclosed a new investment of almost 18 million shares (about USD 5 billion), which is considered as one of Warren Buffett's final significant allocations before retiring as CEO. The announcement helped the company climb by about 2% in after-hours trading on November 14, adding to a solid year-to-date performance fueled by AI-related product momentum and a more favorable antitrust environment. 
+
+</x-accordion>
+ 
 <x-accordion summary="Week of 07/11/2025">
  
  _Published by Ashley LEE_
@@ -2032,6 +2060,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
