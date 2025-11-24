@@ -4,6 +4,7 @@
  :navbar? true
  :to-root "../.."}
 
+These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities.
  ## Headlines
 <x-accordion summary="Week of 14/11/2025">
 

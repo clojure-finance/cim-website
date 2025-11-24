@@ -3,7 +3,8 @@
  :page-index 1
  :navbar? true
  :to-root "../.."}
-
+ 
+These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities.
 ## Headlines
 
 <x-accordion summary="Current AI Development: A Comprehensive Analysis">
