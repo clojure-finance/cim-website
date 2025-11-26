@@ -5,7 +5,177 @@
  :to-root "../.."}
 
 These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities.
- ## Headlines
+## Headlines
+<x-accordion summary="Week of 21/11/2025">
+
+_Published by Nicholas FEDLIM_
+
+### US
+
+_Written by Vicky HUANG Lihan_
+
+#### Weekly Key Data:
+1.	Dow Jones Industrial Average: 46,245.41 (-1.86%) over the past 5 days
+2.	S&P 500 Index: 6602.99 (-2.11%) over the past 5 days
+3.	NASDAQ Composite Index: 22273.08 (-3.12%) over the past 5 days
+4.	VIX: 23.43 (+11.31%) over the past 5 days
+
+#### Sector News:
+U.S. equities came under pressure this week, with the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite declining roughly 1.8%, 2.0%, and 2.5%, respectively, while the VIX surged to recent highs, signalling rising market caution. Sector performance diverged notably: Technology remained the primary drag, as concerns about AI-related valuations and leverage risks tempered the impact of strong earnings, with even major software names selling off despite beating expectations. 
+
+In contrast, discount retailers outperformed, highlighted by Ross Stores’ 8% gain, as signs of value-oriented spending supported performance. Homebuilding and real estate–related sectors showed resilience, supported by growing expectations of potential Federal Reserve rate cuts, helping names such as D.R. Horton and Lennar stabilize. Healthcare was among the few bright spots, with its sector index leading gains for the month, while Technology ranked as the weakest performer.
+
+#### Single Stock News:
+Alphabet (GOOG.US) rose this week as accelerating AI rollouts pushed its market cap to the world’s third largest, briefly challenging peer Microsoft at the top of the global rankings. The launches of Gemini 3 and Nano Banana Pro (Gemini 3 Pro Image) reinforced its competitive positioning, while filings indicated an increased stake of USD 4.9 billion, coinciding with improved sentiment. The stock closed at USD 299.66, up 4.90% over the past five days, nearing the top of its 52-week range (USD 142.66–306.89). GOOG is up 52.12% YTD and 71.34% YoY.
+
+### Mainland China
+
+_Written by April WANG_
+
+#### Weekly Key Data:
+1.	SSE Composite Index: 3,834.89 (-3.85%) over the past 5 trading days
+2.	Shenzhen Component Index: 12,538.07 (-5.02%) over the past 5 trading days
+3.	ChiNext Price Index: 2,920.08 (-5.72%) over the past 5 trading days
+4.	CSI 300 Index: 4,453.61 (-3.53%) over the past 5 trading days
+5.	Consumer Price Index (CPI) in October: +0.2% YoY
+6.	Producer Price Index (PPI) in October: -2.1% YoY
+7.	Industrial Production in October: +4.9% YoY
+8.	Gross Domestic Product (GDP): +5.2% YoY
+
+#### Sector News:
+This week, China's industrial silicon market saw intensified futures volatility, with the SI2601 contract slightly correcting by -0.67% to close at 8,960 yuan/ton. Wednesday's sharp surge, driven by new energy metals, was reversed on Thursday and Friday due to weak fundamentals. Supply edged down as Southwest China continued furnace shutdowns ahead of the dry season, with national operating furnaces dropping 5 units week-on-week to 262 (32.91% operating rate, per Bai Chuan Ying Fu as of Nov 20), and more maintenance plans are pending. 
+
+Demand remained weak overall: polysilicon and silicone sectors faced production cuts amid anti-involution efforts to curb redundant competition, while aluminium alloy maintained rigid demand, and October exports softened. Production costs rose on higher electricity prices in the Southwest, keeping profit under pressure. In summary, the market is in a weak supply-demand balance with sentiment-driven fluctuations, and the SI2601 contract is expected to trade between 8,800-9,400 yuan/ton, and participants remain cautious.
+
+#### Single Stock News:
+_Zhejiang CF Moto Power Co., Ltd. (603129.SH)_: The stock price increased 8.05% over the last trading week. Zhejiang CF MOTO POWER Co., Ltd. is a leader in the electric motorcycle industry in mainland China. With sound financial health, its stock price has increased by 105.05% over the past year. While some analysts view the company’s prospects favourably, views vary and depend on market conditions.
+
+### Hong Kong SAR
+
+_Written by Lok Yin Justin CHUNG_
+
+#### Weekly Key Data:
+1.	Hang Seng Index: 25,220.02 (-4.41%)
+2.	Hang Seng Tech Index: 5,395.49 (-6.50%)
+3.	Hang Seng China Enterprises Index: 8,919.78 (-4.72%)
+4.	HIBOR (1-month): 2.50000%
+
+#### Sector News:
+During the week, both JPMorgan and UBS expressed constructive views on the Hong Kong financial sector. Improved revenue visibility is identified as steady deposit growth and stable HIBOR supporting net interest income. Banks’ digital‑asset strategies were also described as divergent, with Standard Chartered (2888.HK) having a relatively comprehensive footprint in stablecoins and the broader crypto ecosystem. Three longer‑term drivers were identified: rising offshore capital‑market activity as Mainland enterprises expand overseas; incremental return of foreign investors to China from prior underweights, with MSCI Hong Kong and MSCI China still trading at an estimated 24%–32% discount to MSCI ACWI; and ongoing wealth accumulation supporting growth in Hong Kong’s asset and wealth management AUM. 
+
+#### Single Stock News:
+Xiaomi (1810.HK) shares fell below HKD 40 on 19 November 2025, touching an intraday low of HKD 38.22 (down over 3%) and more than 30% below the June peak, despite stronger-than-expected Q3 results released the prior evening. 
+
+Q3 revenue was RMB 113.12 billion (+22.3% YoY), above the RMB 112.5 billion consensus. Adjusted net profit rose 80.9% YoY to RMB 11.31 billion, a record high. Group gross margin increased to 22.9% from 20.4% in Q3 2024. By segment, Smartphone × AIoT revenue reached RMB 84.1 billion; smartphone revenue was RMB 46.0 billion with shipments continuing to grow YoY. IoT and lifestyle products revenue was RMB 27.6 billion (+5.6% YoY). Internet services revenue was RMB 9.4 billion (+10.8% YoY), with overseas internet revenue at RMB 3.3 billion (34.9% share, record high). Innovative businesses, including smart EVs and AI, generated RMB 29.0 billion in revenue, with smart EV revenue at RMB 28.3 billion; the segment reported its first quarterly operating profit (RMB 0.7 billion).
+
+Despite the strong print, shares remained under pressure amid debates over the safety concerns of its auto products. The company may also be subject to multiple performance risks, including stronger-than-expected smartphone competition, rising memory costs, slower IoT progress, and intense EV industry competition. 
+
+### Europe
+
+_Written by Lucy ZHOU Zihan_
+
+#### Weekly Key Data:
+1.	Euro Stoxx 50 index: 5,515.09 (-3.05%)
+2.	DAX (Germany): 23,091.87 (-3.38%)
+3.	CAC 40 (France): 7,982.65 (-2.20%)
+4.	FTSE 100 (London): 9,539.71 (-1.64%)
+
+#### Sector News:
+European stocks experienced a decline this week, with the Stoxx Europe 600 falling 0.9%. The sell-off was primarily led by the technology sector, which declined 2.2% amid a global tech rout fueled by valuation concerns and hawkish signals from the U.S. Federal Reserve.
+
+Despite broad market weakness, the services sector showed remarkable resilience. The eurozone's services PMI rose to an 18-month high of 53.1, supporting the composite PMI at 52.4. This contrasted sharply with manufacturing, which fell into contraction at 49.7, reflecting weak demand and declining new orders.
+
+Regional disparities were evident. Germany's composite PMI fell to 52.1, a notable setback as manufacturing deepened its contraction. France, however, saw stabilization with its PMI rebounding to 50.8, driven by stronger services activity. The divergence points to an uneven economic recovery within the eurozone.
+
+#### Single Stock News:
+1. Deutsche Bank Aktiengesellschaft (DBK.DE)
+   
+Germany's banking heavyweight faced headwinds, slipping 1.49% as its asset manager DWS exited Asia Pacific private credit, prompting market concerns about regional challenges. The 0.49% dip in DWS shares reflected investor concerns, although the bank's ambitious 2028 targets include a 5% revenue growth to €37 billion and a higher dividend payout ratio of 60%. The plan banks on strict cost control and operational efficiency, but the recent dip shows investor patience is needed for this long-term transformation to pay off.
+
+2. Siemens Energy AG (ENR.DE)
+   
+The German engineering giant was fluctuating this week. There were two important events. Its Smart Infrastructure division sealed a global partnership with Delta to deliver prefab energy solutions for AI data centers, aimed at addressing rising demand. The company also raised its gas turbine expansion plans, targeting 30GW annually by 2028. The order backlog has surged over 60% this year, while production is being booked through 2028. These may suggest a supportive demand environment, though execution remains a key risk.
+
+### Japan
+
+_Written by TAM Tsz Ching, Cathy_
+
+#### Weekly Key Data:
+1.	Nikkei 225: 48625.88(-2.40 %)
+2.	TOPIX: Fell -0.06 % in October 2025
+3.	Japan Unemployment Rate: 2.6% (September 2025)
+4.	Inflation Rate: 2.9% (September 2025)
+5.	GDP Annual Growth Rate: 1.2% (Q2 2025)
+6.	GDP Growth Annualized (Q2 2025): 2.2%
+7.	Retail Sales YoY: +0.5% (September 2025)
+8.	USD/JPY: ¥156.4 per US$1 (November 2025)
+9.	Bank of Japan core CPI (YoY): 2.1% (October 2025)
+10.	10-year JGB yield: 1.78%
+
+#### Sector News:
+Japan’s PMI Composite Output Index rose to 52.0 in recent weeks, which is the joint-highest in 15 months. This reflects steady growth in the services sector and a stabilizing manufacturing sector. Manufacturing contraction eased, and expectations for new product launches and business development strengthened business confidence to its highest in nearly a year.
+ 
+Markets expect the Bank of Japan could raise interest rates at an upcoming meeting amid concerns about yen weakness and cost pressures. Meanwhile, the Japanese government approved a ¥21.3 trillion stimulus package, which increased concerns over fiscal sustainability as the yen reached multi-year lows and government bond yields hit post-2008 highs. This was one of the largest stimulus packages since the pandemic period.
+
+#### Single Stock News:
+SoftBank Group Corp. shares fell more than 10% as traders grew wary about aggressive valuations across AI and tech, and global volatility led to outflows from risk assets. The primary trigger has been the growing market anxiety over aggressive valuations in the AI sector. SoftBank's value is heavily tied to Arm Holdings, a chip design company whose stock had soared on the AI boom. As traders began questioning the sustainability of relatively high valuations, Arm's shares faced pressure, potentially eroding the core asset underpinning SoftBank's portfolio value. 
+
+Advantest and Tokyo Electron also fell by 12% and 7% respectively, due to concerns related to AI-driven tech correction. JAC (Japanese Advisory Committee) Recruitment announced a ¥1 billion share buyback and an upgrade in its earnings forecast, with an annual growth outlook of 19.9%. This is above market averages, driving a rise in its dividend to ¥36 per share.
+
+### India
+
+_Written by Emilie POU_
+
+#### Weekly Key Data:
+Weekly Key Data: Figure (daily, weekly)
+1.	NIFTY 50: 26,068.15(-124.00, -0.47%)
+2.	SENSEX 30: 85,231.92 (-400.76, -0.47%)
+3.	PMI Composite: 59.9 (-0.8%)
+4.	PMI Manufacturing: 57.4 (-1.7%)
+5.	PMI Services: 59.5 (+1.0%)
+
+#### Sector News:
+Having focused on the banking and technology sectors in the past two weeks, we can also examine another fast-growing industry of the Indian market this week - Media and Entertainment. The major driver in this market has been the AVGC-XR Sector, which is the “Animation, Visual Effects, Gaming, Comics, and Extended Reality” sector. Another key driver was digital media, the largest segment in the industry, contributing 32% of the sector's revenues in recent estimates.
+
+Potential growth drivers
+1. Government support: The government is focusing on transforming the creative economy into a global powerhouse through innovation, skill development, and policy convergence.
+2. Cost advantage: India offers a 40% to 60% cost advantage in animation and VFX services as compared to many leading markets, attracting international projects. This is due to the supply of expertise with moderate education levels at a low labour cost. 
+3. Karnataka's role: Karnataka, a Southern state of India, has developed into a hub for the AVGC-XR sector, with the AVGC-XR Policy 2024–29 supporting the scaling of exportable VFX, gaming, and real-time 3D services. This supports a rapid growth of AVGC-XR start-ups in the region, supporting industry growth. 
+
+#### Single Stock News:
+Zomato has rapidly appreciated its stock over the past year. The company is one among the most popular food delivery companies in India. In recent months, Zomato experienced an 8.07% drop in its stock value due to market instability. Despite a monthly decline, shares remain higher year-on-year, seeing a 16.64% increase over the past year. The 52-week high is ₹304.70, and the 52-week low is ₹146.30. Analyst ratings diverge, with price targets at around ₹300. 
+
+Investments in Quick Commerce have driven its growth. Zomato's efforts to scale up its quick-commerce business (Blinkit) have increased operational expenses, impacting profits in the short term. However, some analysts believe this will lead to future profitability as stores mature. Shares rose following the Union Budget 2025 announcement, which included income tax relief that some analysts expect could support consumption. The company has also looked into expansion and innovation. Market news hints at Zomato currently looking into profitability issues, operational expansion challenges and regulatory obstacles. Expectations for innovation and business expansion may become primary factors driving its market value.
+
+### South East Asia 
+
+_Written by Mable LOK_
+
+#### Weekly Key Data:
+1.	Straits Times Index (STI): 4469.14 (-1.79%)
+2.	Jakarta Composite Index (JCI): 8414.35 (+0.52%)
+3.	FTSE Bursa Malaysia KLCI (FBM KLCI): 1617.57 (-0.50%)
+4.	SET Index: 552.53 (-0.65%)
+5.	PSE Composite Index (PSEi): 5997.13 (+7.39%)
+6.	VN-Index: 1654.93 (+1.44%)
+7.	Unemployment Rate:
+  - Singapore: 2.0% (unchanged from 2025 Q2)
+  - Indonesia: 4.85% (+0.09% from 2025 Q1)
+  - Malaysia: 3% (unchanged from 2025 Q2)
+  - Thailand: 0.76% (-0.12% from 2025 Q2)
+  - Philippines: 3.8% (-1.5% from 2025 Q2)
+  - Vietnam: 2.22% (-0.02% from 2025 Q2)
+
+#### Sector News:
+For the financial sector, Singapore announced a collaboration between SGX and Nasdaq to facilitate dual listings, potentially improving access to U.S. capital for Asian growth companies valued at over S$2 million. 
+ 
+As for the tourism sector, tourism businesses in Thailand have reported profit growth despite a 35% reduction in Chinese visitors. Companies reporting improved profitability include Thai Airways and Minor International PCL, supported by cost controls and stronger European demand.
+
+#### Single Stock News:
+VinFast Auto Ltd (VFS) has reported a negative gross profit margin and net loss of 24 trillion dong in its Q3 report, resulting in a drop of 12% in share price despite its growth in sales.  Contributing factors included U.S. tariff headwinds, continued R&D investment, and new loan facilities totalling $250 million.
+
+</x-accordion>
+ 
 <x-accordion summary="Week of 14/11/2025">
 
 _Published by Carrie CHAN_
@@ -26,12 +196,12 @@ _Written by Jackie LUI Ching Ho_
 #### Sector News:
 Retailers such as Walmart and Target increased holiday discounts and meal donation campaigns ahead of Thanksgiving, indicating an increased focus on value propositions to capture price-sensitive demand. At the same time, elevated inflation, higher tariffs, and less food assistance continued to undermine confidence and discretionary budgets, raising the possibility of a weaker Black Friday season. 
 
-Sustained worldwide investment in LNG export capacity and significant resource projects in oil, gas, nuclear, and renewables is changing the medium-term supply dynamics for major US producers. The United States Department of Energy announced around USD 355 million in additional financing to enhance American production of essential materials used in the energy, transportation, and defense supply chains, supporting energy development.
+Sustained worldwide investment in LNG export capacity and significant resource projects in oil, gas, nuclear, and renewables is changing the medium-term supply dynamics for major US producers. The United States Department of Energy announced around USD 355 million in additional financing to enhance American production of essential materials used in the energy, transportation, and defence supply chains, supporting energy development.
 
 #### Single Stock News:
 Walmart announced that John Furner is the successor to Doug McMillon, indicating leadership continuity as the company navigates a softening demand environment and rising price pressures. On November 14, the firm also introduced its 2025 Black Friday Deals Event, which featured aggressive discounts and expanded product lines to defend market share during a highly promotional holiday season. Management continues to prioritize value, convenience, and omnichannel performance while preparing for anticipated tariff adjustments and evolving customer buying patterns.
 
-Investors showed growing interest in Alphabet when Berkshire Hathaway disclosed a new investment of almost 18 million shares (about USD 5 billion), which is considered as one of Warren Buffett's final significant allocations before retiring as CEO. The announcement helped the company climb by about 2% in after-hours trading on November 14, adding to a solid year-to-date performance fueled by AI-related product momentum and a more favorable antitrust environment. 
+Investors showed growing interest in Alphabet when Berkshire Hathaway disclosed a new investment of almost 18 million shares (about USD 5 billion), which is considered as one of Warren Buffett's final significant allocations before retiring as CEO. The announcement helped the company climb by about 2% in after-hours trading on November 14, adding to a solid year-to-date performance fueled by AI-related product momentum and a more favourable antitrust environment. 
 
 ### Mainland China
 
@@ -48,16 +218,16 @@ _Written by William Zhang_
 8.	Gross Domestic Product (GDP): +3.73% since last year.
 
 #### Sector News:
-The power/electric equipment sector in China continues to attract strong interest. With the rise of AI/data center build out and expected 8% growth in power demand by 2028, analysts such as UBS see significant potential and upside for suppliers of grid and data center power equipment.
+The power/electric equipment sector in China continues to attract strong interest. With the rise of AI/data center build-out and expected 8% growth in power demand by 2028, analysts such as UBS see significant potential and upside for suppliers of grid and data center power equipment.
 
-Chemical & raw materials chains are showing positive momentum. Although broad industrial PPI remains in deflation, some chemical segments are seeing price hikes (e.g. lithium hexafluorophosphate for batteries) and policy focus on higher margin specialty chemicals.
+Chemical & raw materials chains are showing positive momentum. Although broad industrial PPI remains in deflation, some chemical segments are seeing price hikes (e.g. lithium hexafluorophosphate for batteries) and policy focus on higher margin speciality chemicals.
 
-Market sentiment overall is improving where foreign investors are again entering the Chinese equity market, domestic tech and advanced manufacturing themes are gaining traction, yet macro growth remains uneven, with weak consumption and property headwinds.
+Market sentiment overall is improving, where foreign investors are again entering the Chinese equity market, domestic tech and advanced manufacturing themes are gaining traction, yet macro growth remains uneven, with weak consumption and property headwinds.
 
 #### Single Stock News:
-Winnovation Culturaltainment Development Ltd (000620 SZ): The stock rose around +10.13% over the trading week, leading the Shenzhen Stock Exchange. The company operates cultural tourism, hotel and real estate businesses in China. Despite the strong weekly gain, underlying fundamentals remain weak, where the company reported net income of negative 533 million yuan in 2024.
+Winnovation Culturaltainment Development Ltd (000620 SZ): The stock rose around +10.13% over the trading week, leading the Shenzhen Stock Exchange. The company operates cultural tourism, hotel and real estate businesses in China. Despite the strong weekly gain, underlying fundamentals remain weak, where the company reported a net income of negative 533 million yuan in 2024.
 
-Shannon Semiconductor Technology Co., Ltd. (300475 SZ): The stock declined notably this week at around -9.5%. It is a Chinese semiconductor and electronics components company with exposure to cloud, IoT and memory markets. The latest cash flow shows a negative operating cash flow of -CNY 47.65 million, suggesting cash generation is weak despite strong revenue growth of CNY 24,271 million (up 115% from last year). The sharp weekly drop likely reflects market concern that strong revenue growth is not yet translating into robust profitability.
+Shannon Semiconductor Technology Co., Ltd. (300475 SZ): The stock declined notably this week by around -9.5%. It is a Chinese semiconductor and electronics components company with exposure to cloud, IoT and memory markets. The latest cash flow shows a negative operating cash flow of -CNY 47.65 million, suggesting cash generation is weak despite strong revenue growth of CNY 24,271 million (up 115% from last year). The sharp weekly drop likely reflects market concern that strong revenue growth is not yet translating into robust profitability.
 
 ### Hong Kong SAR
 
@@ -83,7 +253,7 @@ Despite uncertainty, the Hong Kong economy maintained a smooth performance in ge
 Alibaba’s stock price saw a notable pullback this week, closing at 154.9hkd on November 14th with a significant weekly decline of 9.5%.  On the closing day, the short volume ratio reached 17.22%, much higher than the market average of 14.88%, indicating heightened bearish sentiment. The release of financial statements and the development of the AI product Qian Wen might be short-term catalysts, while the Fed’s rate cut in December may have a potential impact on its shares. 
 
 2.	Ascletis Pharma-B(01672.HK)：
-Ascletis Pharma-B surged over 45% this week and closed at 13.74 hkd on November 14th, driven by market attention towards the R&D progress and commercial potential of its core product pipeline like HCV and NASH drugs.
+Ascletis Pharma-B surged over 45% this week and closed at 13.74 HKD on November 14th, driven by market attention towards the R&D progress and commercial potential of its core product pipeline, like HCV and NASH drugs.
 
 ### Europe
 
@@ -128,7 +298,7 @@ Simultaneously, the tech sector faced a sharp reversal. After months of AI-fuele
 
 
 #### Single Stock News:
-Shiseido Group (TOKYO: 4911) fell 4.2% on November 11 after Q3 2025 results and a 2030 strategic overhaul (announced Nov 10). Jan-Sept net sales dropped 4% YoY to ¥693.8 billion, with a ¥63.4 billion non-recurring charge; the firm will narrow focus to high-growth skincare/sunscreen, ramp up AI investment, and restructure executives in 2026, lowering its full-year 2025 outlook to a ¥52 billion net loss.
+Shiseido Group (TOKYO: 4911) fell 4.2% on November 11 after Q3 2025 results and a 2030 strategic overhaul (announced Nov 10). Jan-Sept net sales dropped 4% YoY to ¥693.8 billion, with a ¥63.4 billion non-recurring charge; the firm will narrow its focus to high-growth skincare/sunscreen, ramp up AI investment, and restructure executives in 2026, lowering its full-year 2025 outlook to a ¥52 billion net loss.
 Rakuten Group (TOKYO: 4755) rose 2.3% on November 13 following an November 11 AI partnership with HP Japan. Starting H1 2026, Rakuten’s on-device AI platform will integrate into HP’s Japanese PCs, offering secure local tools (summarization, translation) and links to its 1.9 billion-member ecosystem—marking its first offline-online AI deployment.
 
 ### India
@@ -144,16 +314,16 @@ PMI Manufacturing: 59.2 (+1.5pct) (October Statistics)
 PMI Services: 58.9 (-2.0pct) (October Statistics)
 
 #### Sector News:
-Indian Technological Sector is a rapidly growing industry, with projections suggesting that the industry could be reaching an evaluation of $350 billion by 2026. This growth is driven mainly by rising digital adoption across the country, continuous government support, and increasing investments. 
+Indian Technological Sector is a rapidly growing industry, with projections suggesting that the industry could reach an evaluation of $350 billion by 2026. This growth is driven mainly by rising digital adoption across the country, continuous government support, and increasing investments. 
 
-This growth can be attributed to the rising AI industry. India’s export of IT services remained to be the largest contributor, accounting for over 65% of total IT exports from the nation. This is a rising industry as well. IT spending in India has continued to growth by 11.1% in 2024 to reach 138.6 billion US dollars. The Indian software product industry is also projected to reach 100 billion USD by 2025 as the industry aims to explain globally. To support the technological growth, India’s system infrastructure software market is also rapidly rising. Performance reviews forecasts that the market is to reach 20.8 billion US dollars by 20240, growing at a compound annual growth rate of 9.2%. 
+This growth can be attributed to the rising AI industry. India’s export of IT services remained the largest contributor, accounting for over 65% of total IT exports from the nation. This is a rising industry as well. IT spending in India has continued to grow by 11.1% in 2024 to reach 138.6 billion US dollars. The Indian software product industry is also projected to reach 100 billion USD by 2025 as the industry aims to expand globally. To support the technological growth, India’s system infrastructure software market is also rapidly rising. Performance reviews forecast that the market is to reach 20.8 billion US dollars by 20240, growing at a compound annual growth rate of 9.2%. 
 
-To further support the ecosystem, the government has partnered with Paytm. The company will provide mentorship, infrastructure support, market access and funding opportunities to startups. The stock price of Paytm also support this (One97 Communications Ltd). The stock price of the company, since their partnership with the government in February, has grown by over 52.63%. This invertedly highlights the growth/growth potential of India’s growing financial industry. 
+To further support the ecosystem, the government has partnered with Paytm. The company will provide mentorship, infrastructure support, market access and funding opportunities to startups. The stock price of Paytm also supports this (One97 Communications Ltd). The stock price of the company, since their partnership with the government in February, has grown by over 52.63%. This invertedly highlights the growth/growth potential of India’s growing financial industry. 
 
 #### Single Stock News:
-For this week, I’ll be extending from the industry news on technology and analyze the stock of Reliance Industries. Their current stock price is at 1518.20 INR with 0.48% growth today. The more interesting statistic would be their growth in the last month, reaching 8.57%, making it one of the fastest growing companies in India’s technological sector. This can be attributed to Reliance Industries’ plans to set up a 1-gigawatt AI data center in India’s Andhra Pradesh. This was a major step in investment of India’s technological industry and we can be estimating continuous growth in Reliance’s stocks in the near future. 
+For this week, I’ll be extending from the industry news on technology and analysing the stock of Reliance Industries. Their current stock price is at 1518.20 INR with 0.48% growth today. The more interesting statistic would be their growth in the last month, reaching 8.57%, making it one of the fastest-growing companies in India’s technological sector. This can be attributed to Reliance Industries’ plans to set up a 1-gigawatt AI data center in India’s Andhra Pradesh. This was a major step in the investment of India’s technological industry, and we can estimate continuous growth in Reliance’s stocks in the near future. 
 
-### SEA
+### South East Asia
 
 _Written by Arman Abilkassym_
 
@@ -165,20 +335,20 @@ _Written by Arman Abilkassym_
 5.	PSE Composite Index (PSEi): 5,584.35 (-2.49%)
 6.	VN-Index: 1,635.46 (+0.25%)
 7.	Inflation Rate (CPI, Latest Data for 2025):
-   Indonesia: 2.86% (Year-on-Year, October 2025)
-   Philippines: 1.7% (Year-on-Year, October 2025)
-   Singapore: 0.7% (Year-on-Year, September 2025)
-   Thailand: -0.76% (Year-on-Year, October 2025)
-   Malaysia: 1.5% (Year-on-Year, September 2025)
-   Vietnam: 3.25% (Year-on-Year, October 2025)
+   - Indonesia: 2.86% (Year-on-Year, October 2025)
+   - Philippines: 1.7% (Year-on-Year, October 2025)
+   - Singapore: 0.7% (Year-on-Year, September 2025)
+   - Thailand: -0.76% (Year-on-Year, October 2025)
+   - Malaysia: 1.5% (Year-on-Year, September 2025)
+   - Vietnam: 3.25% (Year-on-Year, October 2025)
 
 #### Sector News:
-In the AI sector CIMB Investment Bank Bhd (CIMB Securities) maintained a BUY call on Malaysian Pacific Industries Bhd with a raised target price of RM41, citing strong growth prospects from AI-related semiconductor demand. Infineon’s FY26F AI power revenue target was lifted to €1.5 billion from €1.0 billion. It is expected to lift AI-related revenue contribution from 8–9% in FY6/25 to around 15% by FY6/27F.
+In the AI sector, CIMB Investment Bank Bhd (CIMB Securities) maintained a BUY call on Malaysian Pacific Industries Bhd with a raised target price of RM41, citing strong growth prospects from AI-related semiconductor demand. Infineon’s FY26F AI power revenue target was lifted to €1.5 billion from €1.0 billion. It is expected to lift AI-related revenue contribution from 8–9% in FY6/25 to around 15% by FY6/27F.
 
-In the technology sector, Prime Minister Pham Minh Chinh has announced an unprecedented commitment of $3.8 billion from the 2026 budget for national innovation and technology initiatives. Vietnam’s digital industry continues to thrive. According to the Ministry of Science and Technology, the ICT sector recorded over $165 billion in revenue during the first 10 months of 2025, a 52.4% increase year-on-year. Exports of digital products hit $142 billion, up 27%. It indicates that the Vietnamese digital and technology sectors are growing rapidly, and the government intends to continue it.
+In the technology sector, Prime Minister Pham Minh Chinh has announced an unprecedented commitment of $3.8 billion from the 2026 budget for national innovation and technology initiatives. Vietnam’s digital industry continues to thrive. According to the Ministry of Science and Technology, the ICT sector recorded over $165 billion in revenue during the first 10 months of 2025, a 52.4% increase year-on-year. Exports of digital products hit $142 billion, up 27%. It indicates that the Vietnamese digital and technology sectors are growing rapidly, and the government intends to continue this.
 
 #### Single Stock News:
-BDO Unibank, Inc. showed a stunning fall of 10.53% for the past week, making it the lowest price for the bank's stocks since March 2023. The BDO is the biggest bank in the Philippines. The company is paying stable dividends and showed better than expected revenue in July 2025 (last time revenue recorded). The company is showing growth in Net income and Assets but the price for stocks is fluctuating from 119 to 165. 
+BDO Unibank, Inc. showed a stunning fall of 10.53% for the past week, making it the lowest price for the bank's stocks since March 2023. The BDO is the biggest bank in the Philippines. The company is paying stable dividends and showed better-than-expected revenue in July 2025 (the last time revenue was recorded). The company is showing growth in Net income and Assets, but the price for stocks is fluctuating from 119 to 165. 
 
 </x-accordion>
  
@@ -229,7 +399,7 @@ The mainland market fluctuated repeatedly this week. The Shanghai Composite Inde
 
 In terms of market highlights, the power equipment sector stood out as the sole outperformer, with main capital inflows exceeding 66.7 billion yuan for the week. The two main drivers creating opportunities for power equipment are the global energy transition and the rapid growth of AI computing power. Specifically, SPIC Industry-Finance Holdings (000958.SZ) rose 2.81%, Sichuan New Energy Power (000155.SZ) appreciated 2.76% and China Southern Power Grid Energy Storage (600995.SH) gained 2.58%.
 
-The chemical industry chain has also maintained a continuous upward trend recently, as Basic Chemicals recorded over 30.9 billion yuan in net inflows and the LIST0041 Chemicals index increased by 2.69%. The chemical industry's stock performance is influenced by shifting global demand, government policies such as subsidies and capacity expansion, and a strategic focus on higher-margin specialty chemicals. 
+The chemical industry chain has also maintained a continuous upward trend recently, as Basic Chemicals recorded over 30.9 billion yuan in net inflows and the LIST0041 Chemicals index increased by 2.69%. The chemical industry's stock performance is influenced by shifting global demand, government policies such as subsidies and capacity expansion, and a strategic focus on higher-margin speciality chemicals. 
 
 #### Single Stock News:
 Wingtech Technology (600745.SZ) ranked first. Driven by positive news in the late trading session on Friday, its stock soared straight to the daily limit, and the positive sentiment continued to gain momentum over the weekend.
@@ -264,7 +434,7 @@ SMIC：41.125 at 02/07/2025 and 77.264 at 30/09/2025
 SMIC emerged as the standout performer in Q3 2025, with its share price surging approximately 87.9% from July to September. Two key factors drove this sharp rise:
 
 1. Strong Macroeconomic Support
-Hong Kong’s September exports jumped 16.1% year-on-year, led by electronics demand, signaling a strong recovery in semiconductor orders, particularly from Mainland China. As a leading domestic foundry, SMIC benefited directly, with expectations of rising capacity utilization.
+Hong Kong’s September exports jumped 16.1% year-on-year, led by electronics demand, signalling a strong recovery in semiconductor orders, particularly from Mainland China. As a leading domestic foundry, SMIC benefited directly, with expectations of rising capacity utilization.
 
 3. Key Technological Breakthrough
 SMIC reportedly achieved improved yield rates in its second-generation 7nm process and began mass production for a leading domestic AI chip designer. This breakthrough reinforced confidence in China’s progress in semiconductor self-sufficiency.
@@ -276,7 +446,7 @@ In summary, SMIC’s surge was driven by macroeconomic recovery and technologica
 _Written by Diana LIU Haolin_
 
 #### Weekly Key Data:
-1. EU Unemployment Rate (Sep 2025): 6.0% , stay stable compared with August.
+1. EU Unemployment Rate (Sep 2025): 6.0%, remains stable compared with August.
 2. Euro Area Annual Inflation (Oct 2025): 2.1%, down from 2.2% in September.
 3. EURO STOXX 50 Index: Dropped 1.69% to 5,566.53.
 4. DAX (Germany): Dropped 0.75% to 23,555.74.
@@ -288,7 +458,7 @@ In general, European corporate earnings for the third quarter have surprised to 
 
 The pullback in the technology sector was the main driver of the market's negative performance. The STOXX Europe 600 Technology index (SX8P) was one of the worst-performing sectors for the week. It plummeted 2.07% on Friday (Nov 7) alone, cementing its weekly loss as investors took profits. Investor sentiment was dampened by concerns around elevated valuations in the technology sector, especially given the global tech/AI-valuations debate. 
 
-The industrials and basic resources sectors underperformed, with resource-heavy stocks hit by weaker commodity prices and risk-off mood. 
+The industrials and basic resources sectors underperformed, with resource-heavy stocks hit by weaker commodity prices and a risk-off mood. 
 
 #### Single Stock News:
 ITV plc (ITV.L): ITV shares surged nearly 20% on Friday, leading the STOXX 600. It follows reports late on Thursday revealing Comcast-owned Sky was holding talks with ITV over a possible deal of £1.6 billion to buy the public service broadcaster’s media and entertainment arm, which includes its terrestrial TV channels, streaming service ITVX and ITV’s 40% stake in ITN news. 
@@ -313,7 +483,7 @@ _Written by Vivien TAO Wei_
 #### Sector News:
 Japanese equities extended gains into the month of October and the start of November, powered by the global AI boom and finalization of the US-Japan trade agreement. For the month, the Nikkei 225 index surged 4.55% while the TOPIX index advanced 2.88%. Market performance showed a clear divergence, with Precision Instruments and Electronics leading the gains, while Retail Trade and Electric Power & Gas sectors fell.
 
-The sustained enthusiasm for AI and the newly concluded US-Japan trade deal benefited the market, but stretched valuations raised concerns about an AI bubble, as some fund managers warned. The deal countered these concerns to some extent as it included Japanese commitments to invest in key sectors of the US economy-a plus to the earnings outlook for exporters and technology firms.
+The sustained enthusiasm for AI and the newly concluded US-Japan trade deal benefited the market, but stretched valuations raised concerns about an AI bubble, as some fund managers warned. The deal countered these concerns to some extent as it included Japanese commitments to invest in key sectors of the US economy - a plus to the earnings outlook for exporters and technology firms.
 
 The persistent weakness of the yen was a core theme, boosting exporters but weighing on domestic demand. This contrasted sharply with the performance differential between globally oriented manufacturers and domestically-focused consumer stocks. Authorities' warnings over excessive currency volatility added another layer of caution to the market sentiment.
 
@@ -322,7 +492,7 @@ SoftBank Group Corp. saw active investor interest after being named a key implem
  
 Conversely, Rakuten Group Inc. and Nissan Motor Co. faced heightened investor scrutiny as active issuers of overseas high-yield bonds, reflecting their aggressive expansion strategies but also raising concerns over their relatively higher financial risk.
  
-Automotive exporters including Toyota Motor Corp. and Honda Motor Co. found support on optimism that the U.S.-Japan trade agreement would provide a stable, tariff-free environment for their key exports.
+Automotive exporters, including Toyota Motor Corp. and Honda Motor Co., found support in optimism that the U.S.-Japan trade agreement would provide a stable, tariff-free environment for their key exports.
 
 ### India
 
@@ -337,7 +507,7 @@ Figure (daily, weekly)
 5. PMI Services:58.9 (-2.0pct)
 
 #### Sector News:
-PSU(Public Sector Undertakings) Bank Sector: It is the top gainer this week as The Nifty PSU Bank index (.NIFTYPSU) rose by 0.87% on Friday alone and concluded the week with a 2.1% gain. The performance was an extension of a powerful trend: the index has now posted its third consecutive weekly advance, building on a 7% rally from the previous week.
+PSU(Public Sector Undertakings) Bank Sector: It is the top gainer this week as the Nifty PSU Bank index (.NIFTYPSU) rose by 0.87% on Friday alone and concluded the week with a 2.1% gain. The performance was an extension of a powerful trend: the index has now posted its third consecutive weekly advance, building on a 7% rally from the previous week.
 
 The recent rally in PSU bank stocks is driven by three factors: higher foreign investor inflows, policy direction, and improving fundamentals. Foreign institutional investors increased their stakes as PSU banks showed stronger performance and balance-sheet improvement, which boosted market confidence. At the same time, speculation that the government may raise the foreign ownership limit in PSU banks from 20% to 49% led investors to position ahead of possible passive inflows. 
 
@@ -359,12 +529,12 @@ _Written by Daisy DAI Yingxi_
 5. PSE Composite Index (PSEi): 5,759.37
 6. VN-Index: 1,599.10, (-2.65%)
 7. Inflation Rate (CPI, Latest Data for 2025):
-• Indonesia: 2.86% (Year-on-Year, October 2025)
-• Philippines: 1.7% (Year-on-Year, October 2025)
-• Singapore: 0.7% (Year-on-Year, September 2025)
-• Thailand: -0.76% (Year-on-Year, October 2025)
-• Malaysia: 1.5% (Year-on-Year, September 2025)
-• Vietnam: 3.25% (Year-on-Year, October 2025)
+  - Indonesia: 2.86% (Year-on-Year, October 2025)
+  - Philippines: 1.7% (Year-on-Year, October 2025)
+  - Singapore: 0.7% (Year-on-Year, September 2025)
+  - Thailand: -0.76% (Year-on-Year, October 2025)
+  - Malaysia: 1.5% (Year-on-Year, September 2025)
+  - Vietnam: 3.25% (Year-on-Year, October 2025)
 
 #### Sector News:
 In the AI sector, GenAI Fund has allocated US$6 million to six startups selected for the first cohort of ASEAN’s Enterprise FastTrack AI Accelerator on November 7th, which is expected to accelerate the development of enterprise-grade AI solutions across the region. 
@@ -401,7 +571,7 @@ _Written by Kevin XIA Yunchu_
 8. 10-year Treasury Yield: ~4.41% (down from 4.51%)
 
 #### Sector News:
-Technology stocks led the market gains this week, with the Nasdaq Composite rising 2.2%. Tesla was a standout, surging over 5% after tensions between CEO Elon Musk and President Donald Trump eased, helping the company recover a portion of the $150 billion in market value lost earlier. Other major tech companies including Nvidia, Alphabet, Meta Platforms, Microsoft, Apple, and Amazon also posted gains ranging from 1% to 2%. However, Broadcom shares declined nearly 4% after issuing a revenue forecast below expectations. In retail, Lululemon’s shares fell sharply by 21% following a downward revision of its annual profit forecast, citing increased tariff-related costs. Energy prices remained steady, with crude oil near $65 per barrel amid ongoing supply concerns.
+Technology stocks led the market gains this week, with the Nasdaq Composite rising 2.2%. Tesla was a standout, surging over 5% after tensions between CEO Elon Musk and President Donald Trump eased, helping the company recover a portion of the $150 billion in market value lost earlier. Other major tech companies, including Nvidia, Alphabet, Meta Platforms, Microsoft, Apple, and Amazon, also posted gains ranging from 1% to 2%. However, Broadcom shares declined nearly 4% after issuing a revenue forecast below expectations. In retail, Lululemon’s shares fell sharply by 21% following a downward revision of its annual profit forecast, citing increased tariff-related costs. Energy prices remained steady, with crude oil near $65 per barrel amid ongoing supply concerns.
 
 #### Single Stock News:
 Tesla’s stock rebounded strongly this week, climbing more than 5% after a public dispute between CEO Elon Musk and President Trump appeared to de-escalate, restoring investor confidence. Broadcom reported a revenue outlook that missed analyst expectations, leading to a nearly 4% drop in its share price. Lululemon issued a profit warning, attributing the revision to higher costs from tariffs, which caused its shares to plunge 21%. The overall market optimism was supported by a stronger-than-expected May jobs report and steady unemployment, which helped ease concerns over an economic slowdown and increased hopes for potential Federal Reserve rate cuts later this year.
@@ -418,14 +588,14 @@ _Written by Kevin XIA Yunchu_
 5. EU GDP Annual Growth Rate: 1.6%
 
 #### Sector News:
-Across European regions, industry contributions were largely positive in May, with cyclical sectors leading performance. Tech contributed broadly, especially in the U.S., as U.S. Big Tech rallied on strong earnings and outlook, with the exception of Apple Inc. which has potentially higher exposure to trade risks. Financials, discretionary, and industrials contributed across all regions, notably U.S. discretionary and Asia-Pacific Financials. Health Care generally struggled and lagged the most. 
+Across European regions, industry contributions were largely positive in May, with cyclical sectors leading performance. Tech contributed broadly, especially in the U.S., as U.S. Big Tech rallied on strong earnings and outlook, with the exception of Apple Inc., which has potentially higher exposure to trade risks. Financials, discretionary, and industrials contributed across all regions, notably U.S. discretionary and Asia-Pacific Financials. Health Care generally struggled and lagged the most. 
 
-The outlook for euro area economic growth is clouded by trade tensions and elevated global uncertainty. For 2025 as a whole, these effects are seen to be partly compensated by stronger than expected economic activity in the first quarter, which likely reflects in part the frontloading of exports in anticipation of higher tariffs. In the medium term economic activity is seen to be supported by the recently announced new fiscal measures. Annual average real GDP growth is expected to be 0.9% in 2025, 1.1% in 2026 and 1.3% in 2027.
+The outlook for euro area economic growth is clouded by trade tensions and elevated global uncertainty. For 2025 as a whole, these effects are seen to be partly compensated by stronger-than-expected economic activity in the first quarter, which likely reflects in part the frontloading of exports in anticipation of higher tariffs. In the medium term, economic activity is seen to be supported by the recently announced new fiscal measures. Annual average real GDP growth is expected to be 0.9% in 2025, 1.1% in 2026 and 1.3% in 2027.
 
 #### Single Stock News:
 JD Sports shares plunged over 7% after reporting a 2% drop in underlying sales. Julius Baer fell 5.5% following news of a CHF 130 million writedown. Marks & Spencer lost more than 3% after revealing a recent cyberattack could result in a £300 million hit to operating profit. Infineon gained 1.6% after announcing a collaboration with Nvidia to develop a new power delivery architecture for AI data centers. 
 
-The EURO STOXX 50 Index closed the week at 5430.17, a 1.18% increase, marking its largest one-week gain since mid-May. The European Central Bank (ECB) reduced the three key ECB interest rates by 25 basis points on June 5. The next meeting is scheduled for June 17, 2025. Euro area economic activity increased by 0.3% in the first quarter of 2025. Domestic demand, driven by private consumption, likely made a positive contribution to growth in the first quarter, as did net trade. The industrial sector shows signs of a recovery, with a manufacturing output PMI of 51.5 while the services PMI indicates stagnation.
+The EURO STOXX 50 Index closed the week at 5430.17, a 1.18% increase, marking its largest one-week gain since mid-May. The European Central Bank (ECB) reduced the three key ECB interest rates by 25 basis points on June 5. The next meeting is scheduled for June 17, 2025. Euro area economic activity increased by 0.3% in the first quarter of 2025. Domestic demand, driven by private consumption, likely made a positive contribution to growth in the first quarter, as did net trade. The industrial sector shows signs of a recovery, with a manufacturing output PMI of 51.5, while the services PMI indicates stagnation.
 
 ### Mainland China & HKSAR
 
@@ -465,12 +635,12 @@ _Written by Kevin XIA Yunchu_
 7. Retail Sales YoY: +3.1% (March 2025)
 
 #### Sector News:
-Japanese equities showed resilience in May and early June, supported by easing global economic concerns and robust domestic demand. The TOPIX index rose 5.10% in May, while the Nikkei 225 gained 0.92% during the week ending June 6, 2025. Of the 33 Tokyo Stock Exchange sectors, 29 advanced, led by Nonferrous Metals, Warehousing & Harbor Transportation Services, and Machinery. Conversely, Electric Power & Gas, Pulp & Paper, and Iron & Steel sectors saw declines.
+Japanese equities showed resilience in May and early June, supported by easing global economic concerns and robust domestic demand. The TOPIX index rose 5.10% in May, while the Nikkei 225 gained 0.92% during the week ending June 6, 2025. Of the 33 Tokyo Stock Exchange sectors, 29 advanced, led by Nonferrous Metals, Warehousing & Harbour Transportation Services, and Machinery. Conversely, Electric Power & Gas, Pulp & Paper, and Iron & Steel sectors saw declines.
 
 The market benefited from positive developments in US-China trade relations, with the US and China agreeing to significantly reduce additional tariffs, easing fears of a prolonged global economic slowdown. This contributed to buying interest in domestically focused stocks and high-tech sectors, boosted by strong earnings reports from major US chipmakers. However, the yen temporarily appreciated against the US dollar ahead of a meeting between US and Japanese finance ministers, reflecting concerns over potential pressure on Japan to strengthen its currency, which weighed on export-sensitive stocks.
 
 #### Single Stock News:
-Sompo Holdings shares declined 6.6%, while Tokio Marine Holdings, Advantest Corp., and Sony Group Corp. also faced losses. Toyota Motor edged up 0.1% following the launch of a new software system in its revamped RAV4 model, signaling ongoing innovation in the automotive sector.
+Sompo Holdings shares declined 6.6%, while Tokio Marine Holdings, Advantest Corp., and Sony Group Corp. also faced losses. Toyota Motor edged up 0.1% following the launch of a new software system in its revamped RAV4 model, signalling ongoing innovation in the automotive sector.
 
 Electric vehicle and technology-related stocks continued to attract investor interest amid global trends toward sustainability and digitalization. Meanwhile, concerns remain over potential impacts from US tariffs scheduled to take effect in July, particularly on Japan’s automotive exports.
 
@@ -490,13 +660,13 @@ _Written by Charles SHI Qiyuan_
 #### Sector News:
 Real Estate Sector: This week, it was the second-best performing sector, with a gain of 7.97%. On Friday, the Reserve Bank of India announced a 50 basis point rate cut, which exceeded market expectations. At the same time, the RBI also indicated plans to reduce the reserve ratio to continue injecting liquidity into banks. Driven by these policies, the stock market rebounded strongly on Friday, with the Nifty Real Estate Index leading all sectors (up more than 3%).
 
-This rate cut marks the RBI’s third consecutive reduction in the repo rate in 2025, with a total decrease of 100 basis points so far this year. The significant rate cut is clearly positive news for the real estate industry, as it helps lower mortgage rates, improves housing affordability for buyers, and stimulates demand. In addition, lower interest rates reduce borrowing costs for developers, supporting project financing and expansion. This proactive monetary easing policy aims to boost economic growth, reduce borrowing costs, and improve the affordability of home loans, thereby directly benefiting the real estate sector. Analysts expect strong recovery in housing demand and real estate investment over the next 2 to 3 years, particularly in the affordable and mid-income housing segments.
+This rate cut marks the RBI’s third consecutive reduction in the repo rate in 2025, with a total decrease of 100 basis points so far this year. The significant rate cut is clearly positive news for the real estate industry, as it helps lower mortgage rates, improves housing affordability for buyers, and stimulates demand. In addition, lower interest rates reduce borrowing costs for developers, supporting project financing and expansion. This proactive monetary easing policy aims to boost economic growth, reduce borrowing costs, and improve the affordability of home loans, thereby directly benefiting the real estate sector. Analysts expect a strong recovery in housing demand and real estate investment over the next 2 to 3 years, particularly in the affordable and mid-income housing segments.
 
 #### Single Stock News:
 _Tata Technologies Ltd (NSE: TATATECH)_
 ⁠As Apple expands its manufacturing operations beyond China, India has become one of its major production hubs. The Tata Group has rapidly emerged as a key supplier, assembling iPhones at three factories in southern India for both domestic and international markets — one of which also produces certain iPhone components. In the latest reported expansion of their collaboration, Apple has transferred its iPhone and MacBook device repair services—previously handled by the Indian subsidiary of Taiwan’s Wistron Group, ICT Service Management Solutions—to Tata. These after-sales repairs are expected to be carried out at Tata’s iPhone assembly campus in Karnataka.
 ⁠
-In recent years, iPhone sales in the Indian market have surged. Of the 11 million smartphones sold in India last year, iPhones accounted for about 7%, up from just 1% market share in 2020. At the same time, amid escalating U.S. - China trade tensions due to Trump-era tariffs, India has also become a popular site for iPhone manufacturing and exports. The latest contract award highlights Apple’s growing confidence in Tata, whose role in the U.S. tech giant’s supply chain is steadily strengthening.
+In recent years, iPhone sales in the Indian market have surged. Of the 11 million smartphones sold in India last year, iPhones accounted for about 7%, up from just 1% market share in 2020. At the same time, amid escalating U.S.-China trade tensions due to Trump-era tariffs, India has also become a popular site for iPhone manufacturing and exports. The latest contract award highlights Apple’s growing confidence in Tata, whose role in the U.S. tech giant’s supply chain is steadily strengthening.
 
 </x-accordion>
 
@@ -582,7 +752,7 @@ Foxconn is close to a deal with Mitsubishi Motors to produce electric vehicles (
 
 #### Single Stock News:
 _Mitsubishi Motors_
-The potential partnership with Foxconn could positively impact Mitsubishi's stock by signaling innovation and cost-efficiency in the EV market. However, the company has yet to confirm the deal officially.
+The potential partnership with Foxconn could positively impact Mitsubishi's stock by signalling innovation and cost-efficiency in the EV market. However, the company has yet to confirm the deal officially.
 
 _SoftBank Group_
 SoftBank's acquisition of Ampere Computing further solidifies its position in the AI sector. This move may bolster investor confidence in SoftBank's long-term growth strategy centered around AI infrastructure.
@@ -606,7 +776,7 @@ _Written by Justin CHUNG Lok Yin_
 
 #### Sector News:
 Aviation: 
-India's aviation sector is showing a healthy picture, with domestic air passenger traffic showing a robust 11.04% year-on-year growth in February. International passenger traffic too has shown robust growth, with Indian carriers carrying approximately 280.9 lakh passengers between April-January, a 14.8% rise over last year and a 41.3% rise over pre-Covid levels.
+India's aviation sector is showing a healthy picture, with domestic air passenger traffic showing a robust 11.04% year-on-year growth in February. International passenger traffic too has shown robust growth, with Indian carriers carrying approximately 280.9 lakh passengers between April-January, a 14.8% rise over last year and a 41.3% rise over pre-COVID levels.
 
 Among airlines, Akasa Air achieved a 4.7% share of the market by transporting 6.59 lakh passengers, while SpiceJet recorded a 3.2% share with 4.54 lakh passengers. 
 
@@ -817,7 +987,7 @@ _Written by Hong Yee Ching Robin_
 European stock markets closed higher Friday as a busy week for earnings drew to a close. The regional Stoxx 600 index ended the session 0.52% higher, after earnings disappointments led to two sessions in the red. Germany’s DAX closed 0.12% lower as the country heads into its election weekend, while France’s CAC 40.
 
 #### Sector News:
-A European fund focused on defense companies has garnered $1 billion in assets. The Future of Defence UCITS ETF, which has the ticker NATO on the London, Italian, Swiss and French stock exchanges, employs a “NATO screen” to provide exposure to companies domiciled in NATO or allied member states, according to its manager HANetf. The fund, launched in 2023, has accumulated $1.08 billion in total assets under management, with $210 million in new fund flows this year. The ETF holds about 60 stocks and has risen more than 15% this year, outperforming the broader benchmarkers Stoxx Europe 600 and S&P 500.
+A European fund focused on defense companies has garnered $1 billion in assets. The Future of Defense UCITS ETF, which has the ticker NATO on the London, Italian, Swiss and French stock exchanges, employs a “NATO screen” to provide exposure to companies domiciled in NATO or allied member states, according to its manager HANetf. The fund, launched in 2023, has accumulated $1.08 billion in total assets under management, with $210 million in new fund flows this year. The ETF holds about 60 stocks and has risen more than 15% this year, outperforming the broader benchmarkers Stoxx Europe 600 and S&P 500.
 
 #### Single Stock News:
 Ferrexpo shares rebound by 15% Shares in London-listed miner Ferrexpo rebounded by about 15% a day after it lost nearly a third of its value. The stock plunged on Thursday after news emerged of the Ukrainian government’s decision to move ahead with the nationalization of the company’s Poltava mining and processing plant. Reuters news agency reported that the Ukrainian State Bureau of Investigations was awaiting court approval to seize the assets, amid allegations of misappropriation of funds related to illegal mining. The company’s shares also saw about half their value lost in a trading day earlier this month when Ukraine filed a $3.8 billion civil claim against the company. Shares had retraced much of their losses.
@@ -2208,6 +2378,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
