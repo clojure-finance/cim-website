@@ -224,7 +224,7 @@
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic/Li-Chengpu.jpg"/>
         <h3 class="team-member-name">Leo LI Chengpu</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2022-23</p>
         <p class="team-member-description">Li Chengpu is a student from BSc(QFin), also with a double major in Computer Science. Chengpu currently serves as a senior portfolio manager at CIM, and also a part of the Data Analysis Team. Chengpu focuses on the equity research and investment in US and China Telecommunication Industry. Joining in CIM, he hopes to learn how to design a better investment strategies based on the big data analysis through programming. Chengpu regards CIM as an valuable place for him to improve his investment skills and market senses.</p>
         <div class="team-member-pad"></div>
@@ -272,7 +272,7 @@
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic/Yang-Runqi.jpeg"/>
         <h3 class="team-member-name">Jason YANG Runqi</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2022-23</p>
         <p class="team-member-description">Yang Runqi, a student in the BEng + BBA double degree program, majors in Computer Science and Finance, with a minor in Computational Mathematics. As a Senior Portfolio Manager at CIM, Yang Runqi demonstrates a strong interest in the intersection of computer science and finance. The opportunity to utilize Clojure for financial market analysis is an exciting endeavor. Yang Runqi eagerly anticipates engaging in discussions with like-minded individuals to exchange knowledge in related field.</p>
         <div class="team-member-pad"></div>
