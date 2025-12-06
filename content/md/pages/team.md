@@ -255,7 +255,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Sean-Ren.jpg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Sean-Ren.jpeg"/>
         <h3 class="team-member-name">Sean REN Xuxiang</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2025-26</p>
