@@ -308,14 +308,6 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Alexander-Antoniou.jpg"/>
-        <h3 class="team-member-name">Alexander ANTONIOU</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager</h2>
-        <p class="team-member-joined">Joined Academic Year 2024-25</p>
-        <p class="team-member-description">Alec Antoniou is a multinational, results-driven student, leveraging his engineering background to identify and capitalize on strategic investment opportunities. With experience in fintech and corporate banking, he currently applies a data-driven, analytical approach to investment strategy in the Utilities team at CIM. His focus lies in energy and infrastructure banking across EMEA and emerging markets.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Justin-Chung.jpg"/>
         <h3 class="team-member-name">Justin CHUNG Lok Yin</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
