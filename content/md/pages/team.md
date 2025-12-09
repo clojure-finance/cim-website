@@ -340,7 +340,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/William-Zhang"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/William-Zhang.png"/>
         <h3 class="team-member-name">William ZHANG Jiahua</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <p class="team-member-joined">Joined Academic Year 2025-26</p>
