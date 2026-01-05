@@ -28,6 +28,7 @@
         <h3 class="team-member-name">Larina QU Hongru</h3>
         <h2 class="team-member-position">Senior Portfolio Manager, Head of Data Analysis 2025-26</h2>
         <p class="team-member-joined">Joined Academic Year 2024-25</p>
+        <p class="team-member-group">Industry Group: Healthcare</p>
         <p class="team-member-description">Qu Hongru is currently a BEcon & Fin student and a part of the Data Analysis Team at CIM. Specializing in the US healthcare industry investment, she has been building her skills in industry research and stock pitching. With a keen interest in portfolio management, Qu Hongru is passionate about applying her analytical abilities to develop thoughtful investment strategies and contribute to the dynamic world of finance.</p>
         <div class="team-member-pad"></div>
     </div>
