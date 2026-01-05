@@ -40,6 +40,16 @@
     height: auto;
 }
 
+.our-team .team-member .team-member-group {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.our-team .team-member .team-member-joined {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
 .our-team .team-member .team-member-description {
     background-color: var(--blockquote-background);
     margin: 0 -20px -20px -20px !important;
