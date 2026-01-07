@@ -113,39 +113,38 @@
         <p class="team-member-description">Kevin XIA Yunchu is a senior portfolio manager in CIM, he is a International Business and Global Management student. Kevin is interested in the secondary market, specifically momentum and news driven trading. Besides, Kevin enjoys playing poker and bouldering during his free time.</p>
         <div class="team-member-pad"></div>
     </div>
-    <div class="our-team">
-  <div class="team-member">
-         <img class="team-member-pfp" src="../../img/past-members-pic/Alexander-Antoniou.jpg"/>
-         <h3 class="team-member-name">Alexander ANTONIOU</h3>
+   <div class="team-member">
+          <img class="team-member-pfp" src="../../img/past-members-pic/Alexander-Antoniou.jpg"/>
+          <h3 class="team-member-name">Alexander ANTONIOU</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <p class="team-member-joined">Joined Academic Year 2024-25</p>
+          <p class="team-member-description">Alec Antoniou is a multinational, results-driven student, leveraging his engineering background to identify and capitalize on strategic investment opportunities. With experience in fintech and corporate banking, he currently applies a data-driven, analytical approach to investment strategy in the Utilities team at CIM. His focus lies in energy and infrastructure banking across EMEA and emerging markets.</p>
+          <div class="team-member-pad"></div>
+     </div>
+     <div class="team-member">
+         <img class="team-member-pfp" src="../../img/past-members-pic/Robin-Hong.jpg"/>
+         <h3 class="team-member-name">Robin HONG Yee Ching</h3>
          <h2 class="team-member-position">Junior Portfolio Manager</h2>
          <p class="team-member-joined">Joined Academic Year 2024-25</p>
-         <p class="team-member-description">Alec Antoniou is a multinational, results-driven student, leveraging his engineering background to identify and capitalize on strategic investment opportunities. With experience in fintech and corporate banking, he currently applies a data-driven, analytical approach to investment strategy in the Utilities team at CIM. His focus lies in energy and infrastructure banking across EMEA and emerging markets.</p>
+         <p class="team-member-description">Robin Hong Yee Ching is a junior portfolio manager in CIM, he is currently a International Business and Global Management student from the University of Hong Kong. Robin is interested in both traditional trading and investment analysis. He's well-prepared with interpersonal and technical skills, and eager to make a significant impact at CIM.</p>
          <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/past-members-pic/Robin-Hong.jpg"/>
-        <h3 class="team-member-name">Robin HONG Yee Ching</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <p class="team-member-joined">Joined Academic Year 2024-25</p>
-        <p class="team-member-description">Robin Hong Yee Ching is a junior portfolio manager in CIM, he is currently a International Business and Global Management student from the University of Hong Kong. Robin is interested in both traditional trading and investment analysis. He's well-prepared with interpersonal and technical skills, and eager to make a significant impact at CIM.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/past-members-pic/Jonathan Chen.jpg"/>
-        <h3 class="team-member-name">Jonathan CHEN Junliang</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager</h2>
-        <p class="team-member-joined">Joined Academic Year 2023-24</p>
-        <p class="team-member-description">Double majoring in Economics and Computer science has equipped me with the ability to conduct in-depth macro fundamental analysis and a solid coding skill set. I am interesed in quantitative research, to combine financial insights with technical capabilities and analyze market trends from multiple perspectives and develop data-driven strategies for investment and financial analysis.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/past-members-pic/Dacian-Deng.jpeg"/>
-        <h3 class="team-member-name">Dacian DENG Shen</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager</h2>
-        <p class="team-member-joined">Joined Academic Year 2023-24</p>
-        <p class="team-member-description">DENG Shen Dacian is a BSc(QFin) student with a keen interest in equity investment. Having served as a senior portfolio manager at CIM, Shen is eager to enhance his understanding of equity investment through his association with CIM. Shen views CIM as an invaluable platform that offers him the opportunity to expand his knowledge in this field.</p>
-        <div class="team-member-pad"></div>
-    </div>
+     </div>
+     <div class="team-member">
+         <img class="team-member-pfp" src="../../img/past-members-pic/Jonathan Chen.jpg"/>
+         <h3 class="team-member-name">Jonathan CHEN Junliang</h3>
+         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+         <p class="team-member-joined">Joined Academic Year 2023-24</p>
+         <p class="team-member-description">Double majoring in Economics and Computer science has equipped me with the ability to conduct in-depth macro fundamental analysis and a solid coding skill set. I am interesed in quantitative research, to combine financial insights with technical capabilities and analyze market trends from multiple perspectives and develop data-driven strategies for investment and financial analysis.</p>
+         <div class="team-member-pad"></div>
+     </div>
+     <div class="team-member">
+         <img class="team-member-pfp" src="../../img/past-members-pic/Dacian-Deng.jpeg"/>
+         <h3 class="team-member-name">Dacian DENG Shen</h3>
+         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+         <p class="team-member-joined">Joined Academic Year 2023-24</p>
+         <p class="team-member-description">DENG Shen Dacian is a BSc(QFin) student with a keen interest in equity investment. Having served as a senior portfolio manager at CIM, Shen is eager to enhance his understanding of equity investment through his association with CIM. Shen views CIM as an invaluable platform that offers him the opportunity to expand his knowledge in this field.</p>
+         <div class="team-member-pad"></div>
+     </div>
 </div>
 
 ## IDK Team
