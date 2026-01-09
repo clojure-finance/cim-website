@@ -4,7 +4,7 @@
  :navbar? true
  :to-root "../.."}
 
-## Academic Year 2024-25
+## Data Analysis Team
 
 <div class="our-team">
     <div class="team-member">
@@ -49,7 +49,7 @@
     </div>
 </div>
 
-## Academic Year 2023-24
+## Web Development Team
 
 <div class="our-team">
     <div class="team-member">
