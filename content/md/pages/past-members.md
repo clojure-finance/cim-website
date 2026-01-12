@@ -86,6 +86,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Bella-Liu.jpg"/>
         <h3 class="team-member-name">Bella LIU Yiming</h3>
         <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Data Analysis 2024-25</h2>
+        <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
         <p class="team-member-description">LIU Yiming, Bella, a student in BBA (Fina & ISA), is currently a deputy group leader for the Data Analysis group. Interest across American and HK stock markets. She has been looking at investments related to consumer discretionary and also led the Data analysis group to create a stock price prediction technique, and hopes this will help CIM as a whole.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -146,6 +147,7 @@
        <img class="team-member-pfp" src="../../img/past-members-pic/Carlos-Or.jpg"/>
        <h3 class="team-member-name">Carlos OR King Nang</h3>
        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+       <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
        <p class="team-member-description">King Nang is a student studying International Business and Global Management at the University of Hong Kong. As an amateur investor majoring in finance, he possesses a deep understanding of the intricacies of financial markets. King Nang's passion for stock trading is matched only by his fascination with business analytics. His analytical mindset and dedication to staying informed about market trends make him a promising individual in the world of finance.</p>
        <div class="team-member-pad"></div>
    </div>
@@ -167,6 +169,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Issam_Wang.jpeg"/>
         <h3 class="team-member-name">Sam WANG Issam</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Consumer Staples</h4>
         <p class="team-member-description">A junior portfolio manager at CIM, Sam is a Quantitative Finance student with an intended second major in Mathematics. He is a passionate math enthusiast, constantly fascinated by the logic behind financial markets. His interest lies in the application of mathematics and statistics in quantitative research of financial firms. Although still relatively new to quantitative, macro, and fundamental analysis, he looks forward to engaging with others and expanding his knowledge in the field.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -195,6 +198,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Kayla-Tarliman.jpg"/>
         <h3 class="team-member-name">Kayla TARLIMAN</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
         <p class="team-member-description">Kayla Tarliman is a driven business student with a keen interest in investing. She worked under the publicity team as a Junior Portfolio Manager at CIM. Apart from that, she has experience in analyzing multiple investments as well as managing her own portfolio.</p>
         <div class="team-member-pad"></div>
     </div>
