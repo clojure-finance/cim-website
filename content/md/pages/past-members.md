@@ -202,6 +202,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Lin-Ronghan.jpg"/>
         <h3 class="team-member-name">Kevin LIN Ronghan</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Technology</h4>  
         <p class="team-member-description">Kevin Lin is the deputy leader in the Data Analysis Division of the CIM. He is a quantitative finance student with a double major in mathematics and a minor in computer science. His research ambitions are focused on advancing risk management strategies and developing innovative quantitative investment techniques.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -265,6 +266,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Phillip-Ting.jpg"/>
         <h3 class="team-member-name">Philip TING Tak Lung</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Materials</h4>
         <p class="team-member-description">Philip is an Accounting and Finance student and a student ambassador at HKU Business School. Apart from his role as a senior portfolio manager at the CIM program, he is also part of the publicity team. He has years of investment experience and is interested in macro investing, portfolio management, and multi-asset allocation.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -279,6 +281,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Yang-Runqi.jpeg"/>
         <h3 class="team-member-name">Jason YANG Runqi</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Materials</h4>
         <p class="team-member-description">Yang Runqi, a student in the BEng + BBA double degree program, majors in Computer Science and Finance, with a minor in Computational Mathematics. As a Senior Portfolio Manager at CIM, Yang Runqi demonstrates a strong interest in the intersection of computer science and finance. The opportunity to utilize Clojure for financial market analysis is an exciting endeavor. Yang Runqi eagerly anticipates engaging in discussions with like-minded individuals to exchange knowledge in the related field.</p>
         <div class="team-member-pad"></div>
     </div>
