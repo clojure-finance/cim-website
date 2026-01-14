@@ -162,6 +162,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Berkeley-Wong.jpg"/>
         <h3 class="team-member-name">Berkeley WONG Man Yin</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Materials</h4>
         <p class="team-member-description">Berkeley Wong is a highly motivated and detail-oriented Economics and Finance student with a strong inclination towards technical analysis. He possesses a keen interest in both short-term and long-term trading strategies, and aspires to utilize his comprehensive understanding of economic theory and financial principles to conduct meticulous data analysis and forecasting. By employing these analytical skills, Berkeley aims to make well-informed investment decisions that align with his goal of achieving optimal outcomes.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -177,6 +178,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Joe-Liu.jpg"/>
         <h3 class="team-member-name">Joe LIU Cheuk Heng</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Industrials</h4>
         <p class="team-member-description">Joe Liu is a Finance (Asset Management and Private Banking) undergraduate student at The University of Hong Kong. Driven and passionate about investment, he joined CIM with research interest in industrials and tech stocks.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -236,6 +238,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Xu-Mingyuan.JPG"/>
         <h3 class="team-member-name">Leo XU Mingyuan</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Industrials</h4>
         <p class="team-member-description">Leo Xu joined the CIM in December 2023 as a junior portfolio manager. He is an undergraduate student at the University of Hong Kong Business School, majoring in Business Analytics and Asset Management. As the team head of the Industrials division, he works with his team to cover industrial equities in China and globally, focusing on corporate fundamentals and macro analysis are essential in formulating trading strategies. Leo aims to enter the primary market upon graduation.</p>
         <div class="team-member-pad"></div>
     </div>
