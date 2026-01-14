@@ -35,7 +35,7 @@ Quantum computing also saw heightened attention during the week. Developments in
 
 The Nuclear Power, Uranium, and Electrical Equipment themes gained attraction. Sentiment was boosted by reports that Meta Platforms agreed to purchase nuclear-generated electricity from companies such as Oklo and Vistrato power artificial intelligence data centers. Shares of Oklo (OKLO) and Vistra (VST) surged sharply, with OKLO up 17.88% over the past week and VST up a cumulative 2.1%., lifting the broader sector. Peers including NuScale Power (SMR) also advanced 9.21%, alongside uranium producers such as Centrus Energy (LEU), up 12.36%, and Cameco (CCJ), which gained 7.28%.
 
-### Single Stock News:
+#### Single Stock News:
 Shares of SanDisk Corp (SNDK) surged 12% on Friday to a fresh record high, lifting related storage names including Micron Technology (MU), Seagate Technology (STX), and Western Digital (WDC). The rally followed a Nomura research note indicating that demand for high-capacity 3D NAND used in enterprise SSDs remains robust; analysts suggested that prices for SanDisk’s relevant products this quarter could rise by more than 100% quarter-on-quarter. Unverified market reports suggested that SNDK has asked customers to prepay in full to secure 1-3 years of supply, pointing to tighter AI-related storage demand and helping propel the stock higher.
 
 Shares of Revolution Medicines (RVMD) repeatedly hit record highs, rising 51.46% over the week and lifting its market capitalization above $20 billion. The surge was driven by reports that Merck (MRK) is in acquisition talks with Revolution, with a potential deal price said to be $28-32 billion. If completed, this would mark the largest M&A transaction in the targeted oncology space in at least two years. Market attention was further supported by Revolution’s pipeline progress, as the company is running early-stage clinical trials of novel targeted therapies for pancreatic cancer and non-small cell lung cancer.
@@ -44,7 +44,7 @@ Shares of Revolution Medicines (RVMD) repeatedly hit record highs, rising 51.46%
 
 _Written by Molly LIU Litong_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 1. SSE Composite Index: 4120.43 (+3.82%) over the past 5 days 
 2. Shenzhen Component Index: 14120.15 (+4.40%) over the past 5 days 
 3. ChiNext Price Index: 3327.81 (+3.89%) over the past 5 days 
@@ -52,12 +52,12 @@ _Written by Molly LIU Litong_
 5. Consumer Price Index (CPI) in December: +0.8% YoY
 6. Producer Price Index (PPI) in December: -1.9% YoY
 
-### Sector News:
+#### Sector News:
 AI-related sectors in the A-share market advanced this week. The AI Marketing Index rose 12.03% to close at 1,863.43, while the AI Healthcare Concept Index gained 9.31% to finish at 967.45, both outperforming the broader market. Within the sector, stocks focused on AI application and commercialization led the gains. Easy Click Worldwide Network Technology closed at RMB 52.69 after hitting the daily limit-up of 20% on Friday. The move was accompanied by a sharp increase in trading volume and capital inflows, a pattern often viewed as indicative of heightened short-term trading activity in thematic stocks.
 
 The short video segment also posted solid gains over the five-day trading period. The Short Video Index increased 8.50% to 1,078.21, and the Xiaohongshu Concept Index advanced 8.24% to 1,723.96, amid growing market attention on content platforms and traffic-driven business models. Sector momentum increased toward the week's end, characterized by rising turnover and technical breakouts, which are commonly associated with active participation from short-term funds.
 
-### Single Stock News:
+#### Single Stock News:
 Leascend Technology (300051.SZ) advanced 20.06% this week, triggering the daily limit-up, amid a broader market rotation into the “AI + power infrastructure” theme. The company focuses on the development and application of high-efficiency heterojunction (HJT) solar cell technology, a business positioned to potentially benefit from power and clean energy infrastructure upgrades related to AI growth. The share price increase coincided with rising market expectations for electricity demand driven by global AI data center expansion, following reports that Meta and other tech giants had secured long-term nuclear power supply agreements.
 
 Guangdong Tloong Technology Group (300063.SZ) rose 20.02% this week, also hitting the daily limit-up, as trading activity concentrated on AI- and digital-economy-related themes. The stock experienced strong short-term momentum alongside increased trading volume, a move that occurred during a period of heightened market interest in technology services and application-oriented companies.
@@ -66,7 +66,7 @@ Guangdong Tloong Technology Group (300063.SZ) rose 20.02% this week, also hittin
 
 _Written by Ling GUO Yuling_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 1. Hang Seng Index: 26,231.79 (+0.32%)
 2. Hang Seng Tech Index: 5,687.14 (+0.15%)
 3. Hang Seng China Enterprises Index: 9,048.53 (+0.10%)
@@ -76,12 +76,12 @@ _Written by Ling GUO Yuling_
 7. Retail Sales Value YoY: +5.9% YoY (following the YoY growth rate of the most recent year)
 8. Export Value YoY: +16.1% YoY (following the YoY growth rate of exports in the most recent year)
 
-### Sector News:
+#### Sector News:
 Financial sector (banks and insurance): This week, financial stocks outperformed the broader market. The Hang Seng Index fell to around 26,100–26,200 points by January 9th, with its weekly gain shrinking. However, some leading financial stocks demonstrated resilience, with select bank and insurance stocks increasing between 1% and 3% during trading, which, given their heavy weight, contributed to index stability.
 
 The performance in financial stocks has been accompanied by the following market observations: first, expectations for a stable interest rate environment have reduced concerns regarding net interest margin pressure; second, the interim results of several banks have been stable, with a further improvement in the non-performing loan ratio. For the mainland insurance industry, premium income for the first 11 months of 2025 grew by approximately 7.6% year-on-year, with life insurance premiums increasing by around 9%, which offered fundamental support for listed insurance stocks in Hong Kong.
 
-### Single Stock News:
+#### Single Stock News:
 Tencent Holdings (0700.HK) outperformed this week. Amid fluctuations and consolidation in the Hong Kong market, the company's share price moved in contrast to the broader trend. It rose approximately 4-5% over the week and closed near HK$611.0 on Friday (January 9th), approaching the upper end of its range over the past year.
 
 Contributing factors identified by the market include the company's recent quarterly revenue and net profit, which achieved double-digit year-on-year growth and exceeded market expectations. Its domestic advertising business sustained a recovery, and the synergy between gaming and local services traffic resources showed signs of strengthening; concurrently, growth in cloud services and enterprise software rebounded. Market expectations for the application of its AI infrastructure and large models in areas such as advertising, game operations, and the Video Accounts ecosystem appear to have risen.
@@ -92,7 +92,7 @@ Since Q4 2025, several international investment banks have raised their target p
 
 _Written by Lucy ZHOU Zihan_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 1. Euro Stoxx 50 index: 5,997.47 (+1.54%)
 2. DAX(Germany): 25,261.64 (+2.05%)
 3. CAC 40(France): 8,362.09 (+1.34%)
@@ -101,7 +101,7 @@ _Written by Lucy ZHOU Zihan_
 6. Eurozone December Manufacturing PMI: 48.8 (nine-month low)
 7. Eurozone November PPI YoY: -1.7% (MoM +0.5%)
 
-### Sector News:
+#### Sector News:
 European stocks advanced this week, with the Stoxx Europe 600 gaining 1%. The market was supported by global cues, including dovish expectations for U.S. rates following mixed jobs data and news of a major potential merger in the mining sector.
 
 The Technology sector led the gains, surging 3.5% to an 18-month high. The catalyst was an upbeat revenue forecast from TSMC, which pointed to sustained robust demand for data center and AI chips. This benefited key European semiconductor capital equipment firms like ASML, underscoring the region’s critical, albeit niche, role in the global AI infrastructure supply chain. The strength suggests investors are allocating capital to the foundational hardware layer of the AI megatrend, beyond software and applications.
@@ -110,7 +110,7 @@ The Basic Resources/Mining sector experienced significant volatility driven by m
 
 The Aerospace & Defense sector rose over 2.5%. Against a backdrop of escalating geopolitical tensions, including recent U.S. military action in Venezuela, the sector drew sustained investor interest as a strategic hedge. Companies like Thales and Leonardo outperformed, demonstrating the market’s pricing of heightened geopolitical risk premiums and expectations for sustained government defense spending.
 
-### Single Stock News:
+#### Single Stock News:
 Fresenius Medical Care AG (FME.F): The German healthcare company's shares rose 1.15%. The key driver was its announcement to accelerate a €1 billion share buyback program, commencing the second tranche of €415 million. This move indicates management's confidence in its sustained business momentum and strong cash flow generation, addressing shareholder value through capital return.
 
 Banco Santander, S.A. (SAN.MC): The Spanish bank's shares added 0.4%. The positive movement followed the completion of its sale of a 49% stake in Santander Bank Polska to Erste Group for €7 billion in cash. This strategic divestiture strengthens Santander's capital position, allowing for potential reinvestment or shareholder returns, a move that appeared to meet market expectations.
@@ -119,7 +119,7 @@ Banco Santander, S.A. (SAN.MC): The Spanish bank's shares added 0.4%. The positi
 
 _Written by Vivien TAO Wei_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 1. Nikkei 225: 51939.89 (+1.82%)
 2. TOPIX: +1.89% in January 2026
 3. Japan Unemployment Rate: 2.6% (January 2026)
@@ -128,7 +128,7 @@ _Written by Vivien TAO Wei_
 6. GDP Growth Annualized (Q3 2025): -2.3
 7. Retail Sales YoY: -0.7% (December 2025)
 
-### Sector News:
+#### Sector News:
 Japanese equities rose over the week, despite domestic economic data continuing to soften. GDP contracted in Q4 and retail sales remained weak, amid persistent pressure on household demand. At the same time, the labor market stayed tight, and inflation remained above target, keeping expectations intact that the Bank of Japan will continue to normalize policy gradually.
 
 China–Japan relations became an increasingly important driver of sector performance. China’s latest restrictions on the export of dual-use items drew market attention to Japan’s dependence on Chinese rare earth supplies, which are critical for the automotive, electronics, machinery, and defense industries. As a result, downstream sectors with high China exposure lagged, particularly autos and capital goods, where investors priced in higher costs and potential supply disruptions.
@@ -138,7 +138,7 @@ Developments in the bond market also weighed on overall sentiment. Reduced BOJ b
 
 Foreign inflows remained a key support for the market, as overseas investors continued to view Japan as a relative safe haven amid global trade uncertainty. Still, with indices near record highs and domestic growth under pressure, capital rotation led to more uneven sector performance. 
 
-### Single Stock News:
+#### Single Stock News:
 Rare earth-related stocks were among the top performers during the week. Firms exposed to rare earth materials, recovery technologies and non-Chinese supply chains advanced amid expectations of stronger demand and improved pricing power.
 
 By contrast, automakers and heavy industrial names lagged. Stocks with significant exposure to China-focused supply chains came under pressure, as investors assessed the potential for export controls to raise costs and disrupt production.
@@ -149,7 +149,7 @@ Foreign investors continued to favor large-cap companies with global exposure an
 
 _Written by Matthew Sze-to_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 Weekly Key Data: Figure (daily, weekly)
 1. NIFTY 50: 25683.30 (-0.75%, -2.35%)
 2. SENSEX 30: 83576.24 (-0.72%, -2.46%)
@@ -157,21 +157,21 @@ Weekly Key Data: Figure (daily, weekly)
 4. PMI Manufacturing: 55.0 (-1.6pct) (December Statistics)
 5. PMI Services: 58.0 (-1.8pct) (December Statistics)
 
-### Sector News:
+#### Sector News:
 Writing in a conclusive manner, India’s banking industry has seen growth in 2025. Nifty 50, India’s stock market performance tracker, has seen a +10% growth in 2025, with public sector banks and private banks contributing to this growth. (+29% and +15% respectively)
 
 Bank stocks benefited from an earnings recovery and a less accommodative monetary policy stance from the Reserve Bank of India. Additionally, private sector banks gained support from the government’s consolidation project, with the aim of merging the current 12 banks into 4 major government-backed institutions. The expectation is that these larger entities will be better positioned to fund India’s infrastructure projects, supporting the broader national goal of achieving developed economy status by 2047.
 
 Analyst assessments of Q3 FY25 data point to positive trends in credit growth, easing margin pressure, and stable asset quality. These factors are projected to support further improvement in Q4 and enhance profitability into 2026. A key positive signal has been the sustained loan growth. Reserve Bank of India data shows banking system advances growing close to 12% year-on-year and 4.5% quarter-on-quarter as of mid-December, driven primarily by lending to small businesses alongside an acceleration in services sector credit. Overall, the sector is expected to maintain its sequential growth momentum.
 
-### Single Stock News:
+#### Single Stock News:
 Bank of India has been a standout performer in India’s stock market in 2026. The stock has outperformed sector peers, reaching Rs. 152.5, and has been on a consistent upward trajectory. The same conclusion is made when comparing the one-year performance of Bank of India with the Sensex 30, a profile of the 30 largest and most actively traded stocks on the Indian Market. Bank of India boasts a 42.84% return compared to the average 8.10% of the Sensex 30. The key ratios also reflect a strong performance entering the upcoming financial year. Bank of India’s NPA ratio is 2.54%, which is the lowest in the PSB sector, highlighting their disciplined credit practices and effective risk management. The ROA ratio also stands at 0.9%, reflecting efficient utilization of their assets to generate profits. Market trends and key metrics reflect that Bank of India has a high potential to grow beyond current valuations. If it continues to perform well under the favorable circumstances in India’s banking industry, it is likely Bank of India will be a top performing stock in 2026 as well.
  
 ### South East Asia
 
 _Written by Daisy DAI Yingxi_
 
-### Weekly Key Data:
+#### Weekly Key Data:
 1. Straits Times Index (STI): 4,771.59 (+0.57%)
 2. Jakarta Composite Index (JCI): 8,862 (-0.87%)
 3. FTSE Bursa Malaysia KLCI (FBM KLCI): 1,696.1 (+0.57%)
@@ -186,14 +186,14 @@ _Written by Daisy DAI Yingxi_
   - Malaysia: 1.4% (Year-on-Year, November 2025)
   - Vietnam: 3.00% (Year-on-Year, December 2025)
 
-### Sector News:
+#### Sector News:
 The technology sector remained a key driver this week, tracking the global AI rally and supported by positive export sentiment. Inari Amertron (INRI) was the top gainer, surging 5.68% over the past five days to recover from its December lows, marking a strong technical rebound. Regional peers followed suit, with Vietnam’s FPT Corp (FPT) advancing 4.27% amid growing optimism over its AI-cloud contracts, while Singapore’s Venture Corp (VMS) rose 2.94%, indicating sustained institutional interest in the electronics manufacturing space.
 
 Financial heavyweights displayed resilience, supported by positive cross-border payment volumes during the holiday season. Malayan Banking Berhad (Maybank) outperformed its regional peers, climbing 3.79% for the week as investors welcomed its dividend outlook. In contrast, DBS Group (DBS) posted more modest gains, rising approximately 0.95% (based on ADR data), consolidating near its recent highs. Meanwhile, in the startup space, Hyderabad-based finance operations platform Blue Copa raised US$7.5 million in Series A funding led by Singapore’s Analog Partners, signalling continued venture capital interest in ASEAN fintech solutions.
 
 In the Infrastructure & Utilities sector, while the "ASEAN Power Grid" theme remains a long-term driver, traditional plays like YTL Power (+1.81%) and Keppel Ltd (+0.19%) saw only measured gains amidst consolidation. However, companies focused on growth themes outperformed. Sunway Construction (+7.08%) rallied on continued optimism surrounding its hyperscale data center order book, outpacing broader utility peers.
 
-### Single Stock News:
+#### Single Stock News:
 Shares of Sea Limited (SE) advanced 3.3% this week, finding fresh support after Maybank upgraded the stock to a "Buy" rating. The bullish call highlights growing confidence in the company’s strategic investments into its Shopee e-commerce platform and SeaMoney financial services, which aim to strengthen its competitive position across Southeast Asia. However, the rally comes with a note of caution; the stock currently carries a Zacks Rank #5 (Strong Sell), reflecting broader analyst concerns over a recent trend of downward earnings estimate revisions. This divergence in sentiment suggests that while the long-term competitive outlook is maintained, investors should be mindful of potential short-term volatility and valuation risks as the next earnings season approaches.
 
 VinFast Auto (VFS) (+1.48%) shares remained in focus this week as the company balanced aggressive regional expansion against ongoing financial concerns. The Vietnamese EV maker officially inaugurated its new manufacturing plant in Indonesia, a strategic hub initially set to produce 50,000 vehicles annually with a roadmap to scale capacity to 350,000. The move builds on strong operational momentum, driven by robust domestic demand. Despite these growth milestones, the stock remains under pressure; market sentiment is currently weighed down by analyst scrutiny regarding VinFast's current valuation levels and rapid cash burn, leaving investors cautious about the capital intensity required to sustain its global ambitions.
@@ -2572,6 +2572,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
