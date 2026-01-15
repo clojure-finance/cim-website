@@ -108,7 +108,7 @@ The Technology sector led the gains, surging 3.5% to an 18-month high. The catal
 
 The Basic Resources/Mining sector experienced significant volatility driven by major corporate action. Shares of Glencore rallied approximately 10% following confirmed merger talks with Rio Tinto, whose shares declined about 3%. The market’s reaction priced in the potential creation of a dominant player in copper, a metal viewed as essential for the energy transition and AI-related power infrastructure. This move highlights how capital is chasing consolidation in sectors expected to supply the physical inputs for long-term technological and industrial shifts, despite execution and regulatory risks.
 
-The Aerospace & Defense sector rose over 2.5%. Against a backdrop of escalating geopolitical tensions, including recent U.S. military action in Venezuela, the sector drew sustained investor interest as a strategic hedge. Companies like Thales and Leonardo outperformed, demonstrating the market’s pricing of heightened geopolitical risk premiums and expectations for sustained government defense spending.
+The Aerospace & Defense sector rose over 2.5%. Against a backdrop of escalating geopolitical tensions, including developments in Venezuela, the sector drew sustained investor interest as a strategic hedge. Companies like Thales and Leonardo outperformed, demonstrating the market’s pricing of heightened geopolitical risk premiums and expectations for sustained government defense spending.
 
 #### Single Stock News:
 Fresenius Medical Care AG (FME.F): The German healthcare company's shares rose 1.15%. The key driver was its announcement to accelerate a €1 billion share buyback program, commencing the second tranche of €415 million. This move indicates management's confidence in its sustained business momentum and strong cash flow generation, addressing shareholder value through capital return.
@@ -2572,6 +2572,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
