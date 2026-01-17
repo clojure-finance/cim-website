@@ -102,6 +102,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Haley-Yap.jpg"/>
         <h3 class="team-member-name">Haley Nicholas Aidden Gotan Yap</h3>
         <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Web Development 2024-25</h2>
+     <h4 class="team-member-group">Industry Group: Utilities</h4>
         <p class="team-member-description">Haley Yap is a Economics and Finance student from the Philippines with a deep passion for the financial sector and investments in various opportunities, ranging from stocks, ETFs, cryptocurrencies, and much more.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -140,6 +141,7 @@
        <img class="team-member-pfp" src="../../img/past-members-pic/Anson-Lam.jpg"/>
        <h3 class="team-member-name">Anson LAM Yat Tung</h3>
        <h2 class="team-member-position">Senior Portfolio Manager</h2>
+       <h4 class="team-member-group">Industry Group: Utilities</h4>
        <p class="team-member-description">Anson Lam is a Quantitative Finance major student. He is interested in quantitative investing. He is also passionate about closely monitoring market trends, macro news to find inefficiency in the market and profitable trading opportunities.</p>
        <div class="team-member-pad"></div>
    </div>
@@ -216,6 +218,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Peter-Liu.jpg"/>
         <h3 class="team-member-name">Peter LIU Hong Zhi</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Utilities</h4>
         <p class="team-member-description">Liu Peter Hong Zhi is a BEng(DS&E) student who currently works as a junior portfolio manager at CIM. He is a member of the web development team and enjoys coding, particularly in the areas of data analysis, web development, and machine learning. Despite having limited experience, Liu Peter Hong Zhi is intrigued by the financial market and is eager to expand his knowledge and learn more about the finance industry. He is excited about the opportunity to gain experience in investment through CIM.</p>
         <div class="team-member-pad"></div>
     </div>
