@@ -195,6 +195,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Justin-Huang.jpg"/>
         <h3 class="team-member-name">Justin HUANG Yiyang</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Telecommunications</h4>
         <p class="team-member-description">Justin H. is an undergraduate in Quantitative Finance. He is passionate about closely following market trends, participating in different projects, and gaining exposure to various asset classes and finance practitioners. He has shouldered different responsibilities across front desks and middle offices at well-known Chinese investment banks. Being detail-oriented, flexible, and open, Justin wishes to be an active part of the Centre for Investment Management, where he hopes to accumulate a well-rounded set of technical skills, market sense, and experience in all kinds of industry practices.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -261,6 +262,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Cindy-Tang.jpg"/>
         <h3 class="team-member-name">Cindy TANG Xin</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Telecommunications</h4>
         <p class="team-member-description">Cindy Tang is a student double-majoring in Economics and Finance and AMPB. She joined CIM because of her interest in investment and asset management. Cindy enjoys analyzing market trends, managing portfolios, and designing macro investment strategies. She’s eager to learn more about using programming to analyze data since digitization is the trend in the financial industry.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -284,6 +286,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Li-Chengpu.jpg"/>
         <h3 class="team-member-name">Leo LI Chengpu</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Telecommunications</h4>
         <p class="team-member-description">Li Chengpu is a student from BSc(QFin), also with a double major in Computer Science. Chengpu currently serves as a senior portfolio manager at CIM and is also a part of the Data Analysis Team. Chengpu focuses on equity research and investment in the US and China Telecommunication Industry. Joining in CIM, he hopes to learn how to design better investment strategies based on big data analysis through programming. Chengpu regards CIM as a valuable place for him to improve his investment skills and market sense.</p>
         <div class="team-member-pad"></div>
     </div>
