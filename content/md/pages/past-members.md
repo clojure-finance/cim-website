@@ -79,6 +79,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Alex-Xu.jpg"/>
         <h3 class="team-member-name">Alex XU Shu Ming</h3>
         <h2 class="team-member-position">Senior Portfolio Manager, Head of Data Analysis 2024-25</h2>
+     <h4 class="team-member-group">Industry Group: Technology</h4>
         <p class="team-member-description">Alex is a driven student of the International Business and Global Management program from the University of Hong Kong, possessing a keen interest in consulting and investment analysis. With a robust understanding of business principles, exceptional interpersonal and technical skills, and a deep passion for financial markets and quantitative strategies, he is well-prepared and eager to make a significant impact in the field of business and finance.</p>
         <div class="team-member-pad"></div>
     </div>
