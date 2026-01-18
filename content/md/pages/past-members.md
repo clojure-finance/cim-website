@@ -158,6 +158,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Alexander-Pratama.jpg"/>
         <h3 class="team-member-name">Alexander PRATAMA</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
+    <h4 class="team-member-group">Industry Group: Technology</h4>
         <p class="team-member-description">Alexander is a Data Science student with a passion for Finance. Although new to finance, he is eager to learn as a portfolio manager. Interested by the intersection of investing and statistics, Alexander is enthusiastic to delve into the world of data-driven finance.</p>
         <div class="team-member-pad"></div>
     </div>
@@ -236,6 +237,7 @@
         <img class="team-member-pfp" src="../../img/past-members-pic/Simon-Zhou.JPG"/>
         <h3 class="team-member-name">Simon ZHOU Xuyang</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
+     <h4 class="team-member-group">Industry Group: Technology</h4>
         <p class="team-member-description">Simon Zhou is the deputy leader of the web development team. He is a freshman majoring in accounting data analytics, possessing a strong passion for the banking sector. In the CIM program, he focuses on researching the equities from the US TMT industry, and his strong analytic skills have made him well prepared to step into the world of finance.</p>
         <div class="team-member-pad"></div>
     </div>
