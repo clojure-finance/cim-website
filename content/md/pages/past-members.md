@@ -74,7 +74,7 @@
      <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic/David-Lu.jpg"/>
         <h3 class="team-member-name">David LU Zhiyuan</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h2 class="team-member-position">Junior Portfolio Manager, Research Team Member</h2>
         <h4 class="team-member-group">Industry Group: Consumer Staples</h4>
         <p class="team-member-description">David Lu Zhiyuan is a Computer Engineering student with a minor in Finance. Zhiyuan currently serves as a junior portfolio manager at CIM and is also a part of the research group. With strong analytical and problem-solving skills from his engineering background, he is eager to apply quantitative approaches to investment research and financial modelling. Through CIM, he hopes to refine his market analysis skills, gain exposure to different asset classes, and build a solid foundation for a future career in finance.</p>
         <div class="team-member-pad"></div>
@@ -151,7 +151,7 @@
    <div class="team-member">
        <img class="team-member-pfp" src="../../img/past-members-pic/Anson-Lam.jpg"/>
        <h3 class="team-member-name">Anson LAM Yat Tung</h3>
-       <h2 class="team-member-position">Senior Portfolio Manager</h2>
+       <h2 class="team-member-position">Senior Portfolio Manager, Data Analysis Team Member</h2>
        <h4 class="team-member-group">Industry Group: Utilities</h4>
        <p class="team-member-description">Anson Lam is a Quantitative Finance major student. He is interested in quantitative investing. He is also passionate about closely monitoring market trends, macro news to find inefficiency in the market and profitable trading opportunities.</p>
        <div class="team-member-pad"></div>
@@ -159,7 +159,7 @@
    <div class="team-member">
        <img class="team-member-pfp" src="../../img/past-members-pic/Carlos-Or.jpg"/>
        <h3 class="team-member-name">Carlos OR King Nang</h3>
-       <h2 class="team-member-position">Junior Portfolio Manager</h2>
+       <h2 class="team-member-position">Senior Portfolio Manager, Data Analysis Team Member</h2>
        <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
        <p class="team-member-description">King Nang is a student studying International Business and Global Management at the University of Hong Kong. As an amateur investor majoring in finance, he possesses a deep understanding of the intricacies of financial markets. King Nang's passion for stock trading is matched only by his fascination with business analytics. His analytical mindset and dedication to staying informed about market trends make him a promising individual in the world of finance.</p>
        <div class="team-member-pad"></div>
