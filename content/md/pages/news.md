@@ -6,6 +6,175 @@
 
 These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities.
 ## Headlines
+<x-accordion summary="Week of 15/01/2026">
+
+_Published by Sean Ren Xu Xiang_
+
+### US
+
+_Written by Jackie LUI Ching Ho_
+
+#### Weekly Key Data:
+1.	Dow Jones Industrial Average: 49359.33 (-0.17%)
+2.	S&P 500 Index: 6940.01 (-0.38%)
+3.	NASDAQ Composite Index: 23515.39 (-0.66%)
+4.	U.S. Consumer Price Index (CPI) YoY: 2.7% in December (Remain unchanged in November) 
+5.	U.S. Core Retail Sales MoM: 0.5% in November (Increase from 0.4% in October)
+6.	U.S. Producer Price Index (PPI) MoM: 0.2% in November (Increase from 0.1% in October)
+7.	U.S. Philadelphia Fed Manufacturing Index: 12.6 in January (Increase from -10.2 in December)
+
+#### Sector News: 
+The technology sector experienced a significant rise, primarily due to bullish optimism in the semiconductor industry. Taiwan Semiconductor Manufacturing (TSMC) reported record quarterly results and announced a $52-$56 billion spending plan for 2026, boosting confidence in technology sector. As a result, US-listed chip equipment manufacturers such as KLA and Applied Materials saw their share prices rise, with investors anticipating a minimum of 25% increase in orders. Similarly, AI chip makers such as Nvidia and AMD profited from increasing trust in long-term supply chain capacity and end-market demand.
+
+In the financials sector, a strong start to the Q4 results season sparked a broad-based rise led by big investment banks. Goldman Sachs and Morgan Stanley both experienced a rise of more than 4% in stock prices, boosting the Dow Jones Industrial Average as it recovered from recent lows. Goldman's strategic shift away from retail consumer banking and toward its historic strengths in global banking and markets has elicited strong investor reaction. Market players appear to be more confident that capital markets have reached a cyclical trough.
+
+#### Single Stock News
+1. Nvidia (NVDA)
+Nvidia remains the major proxy for the AI investment topic. Following the TSMC statement on January 15, Nvidia's shares increased by about 2.1% as the market saw TSMC's growth ambitions as a direct indicator of future Nvidia chip sales. However, investors are currently focused on possible concerns such as tighter export limits or indicators that major customers such as OpenAI or Microsoft may shorten their investment cycles. Because the stock is so widely held by institutional investors, it remains volatile in response to changes in the AI spending narrative.
+
+2.	Goldman Sachs (GS)
+Goldman Sachs presented the most significant banking industry update this week. The company announced Q4 net earnings of $4.62 billion, resulting in Earnings Per Share (EPS) of $14.01, much higher than the average expectation of $11.70. The report's most notable element was the performance of the stocks trading desk, which generated a record $4.31 billion in revenue. Furthermore, a 25% increase in investment banking fees supported the view that the industry is entering a new dealmaking cycle.
+
+### EU
+
+_Written by Joshua Chan_
+
+#### Weekly Key Data: 
+1.	Euro Stoxx 50 index: 6,029.45 (-0.17%)
+2.	DAX (Germany): 25,297.13 (-0.15%)
+3.	CAC 40 (France): 8,258.94 (-0.54%)
+4.	FTSE 100 (London): 10,235.29 (-0.04%)
+
+#### Sector News:
+European markets kicked off 2026 with robust momentum, hitting multiple record highs early in the month, driven by optimism around economic growth, falling interest rates from prior cycles, and increased defense spending amid geopolitical tensions. Tech and defense sectors led the change in the first weeks, with AI-related chip demand boosting names in semiconductors and equipment. Healthcare gained traction mid-month on positive earnings outlooks and M&A activity, such as AstraZeneca’s deals and strong forecasts from peers like Orion. Chemicals and utilities also saw lifts from corporate wins and auction successes.
+
+However, the week saw some consolidation and mixed performance, with pullbacks in tech (e.g., weighing on DAX) due to profit-taking and pressures in the retail sector stemming from inflation and shifts in consumer spending. Overall sentiment remains positive with foreign inflows, ECB accommodation expectations, and rotation into cyclicals, though geopolitical risks (Venezuela developments, trade uncertainties) and upcoming earnings add caution. The pan-European STOXX 600 briefly crossed the 600 mark earlier, reflecting broad strength despite Friday’s hawkish tones trimming some gains.
+
+#### Single Stock News:
+1. ASML Holding NV (ASML.AS):
+Dutch semiconductor equipment giant surged notably this month (e.g., +5% - 7% moves in early sessions), crossing major market cap milestones on AI chip demand tailwinds from TSMC’s record earnings. Shares hit records amid upgraded targets and strong sector momentum - a key play if AI infrastructure spending accelerates, though valuation risks linger in any slowdown.
+
+2. Infineon Technologies AG (IFX.DE): 
+The German chipmaker has demonstrated mixed performance recently, benefiting initially from its exposure to AI and data centers. However, the mid-January sessions exerted pressure, contributing to softness in the DAX. While long-term supply chain and demand dynamics remain supportive, short-term volatility is observed due to broader tech rotation and profit-taking. 
+
+### Mainland China
+
+_Written by William Zhang_
+
+#### Weekly Key Data:
+1.	SSE Composite Index: 4,101.91 (-0.80%) over the past 5 trading days. 
+2.	Shenzhen Component Index: 14,281.08 (+0.66%) over the past 5 trading days. 
+3.	ChiNext Price Index: 3,361.02 (+1.12%) over the past 5 trading days. 
+4.	CSI 300 Index: 4,731.87 (-0.79%) over the past 5 trading days. 
+5.	Consumer Price Index (CPI) in December: +0.8% year-on-year. 
+6.	Producer Price Index (PPI) in December: -1.9% year-on-year. 
+7.	Gross Domestic Product (GDP): +5.2% year-on-year. 
+
+#### Sector News:
+China’s equity market saw mixed performance over the week, with Shenzhen and ChiNext higher while Shanghai and CSI 300 lower, suggesting continued flows preferring higher growth/tech companies. A notable overhang into next week is new exchange measures to cool leverage: Shanghai, Shenzhen, and Beijing exchange announced higher margin requirements for new borrowings (effective Jan 19), which could reduce short term risk taking in an overheated market. 
+
+On the macro side, inflation signals improved with December CPI accelerated to +0.8% y/y while PPI reduced to -1.9% y/y. This supports the view that domestic demand is stabilizing but not booming, especially with producer prices still negative, keeping expectations steady for continued policy support to boost confidence. 
+
+#### Single Stock News:
+1.	Yonyou Network Technology Co., Ltd. (600588 SH)
+Yonyou shares jumped about 20.19% over the week (Jan 9 close to Jan 15 close), driven initially by guidance pointing to a smaller full year loss, which helped lift short term earnings expectations. Buying momentum then accelerated as the stock gained traction with speculation, eventually triggering a risk alert following abnormal price movements. The sharp move is a reminder of how quickly sentiment can swing in software and “AI application” names when capital flows into higher beta, policy favored themes. 
+
+2.	Baic Bluepark New Energy Technology Co., Ltd. (600733 SH)
+Baic Bluepark’s share price slightly dropped by 0.47% over the week, reflecting a more restrained market response despite improving operating data. On the fundamentals side, momentum remained strong, with vehicle sales up 84.1% year-on-year in 2025. The gap between solid sales growth and unchanged stock performance shows persistent competitive pressure and margin concerns in China’s EV/NEV market, even as overall volumes continue to expand.
+
+### SEA
+
+_Written by Arman Abilkassym_
+
+#### Weekly Key Data:
+1. Straits Times Index (STI): 4849.10 (+2.2%)
+2. Jakarta Composite Index (JCI): 9075.41 (+1.68%)
+3. FTSE Bursa Malaysia KLCI (FBM KLCI): 1712.74 (+1.55%)
+4. SET Index: 1275.60 (+1.78%)
+5. PSE Composite Index (PSEi): 6464.67 (+1.84%)
+6. VN-Index: 1879.13 (+0.47%)
+7. Inflation Rate (CPI, Latest Data for 2026):
+ • Indonesia: 2.92% (Year-on-Year, December 2025)
+ • Philippines: 1.8% (Year-on-Year, December 2025)
+ • Singapore: 1.2% (Year-on-Year, November 2025)
+ • Thailand: -0.28% (Year-on-Year, December 2025)
+ • Malaysia: 1.4% (Year-on-Year, November 2025)
+ • Vietnam: 3.00% (Year-on-Year, December 2025)
+
+#### Sector News:
+Thailand’s real estate market faces its worst slump since the 1997 crisis, with over 400,000 unsold condos. The International Monetary Fund (IMF) forecasts that Thailand's economy will grow by 1.6% in 2026, reflecting the deep structural issues still present in the economy. The Thai Stock Exchange’s real estate and construction index has dropped more than 42% from its peak in early 2023, though it has slightly recovered following interest rate cuts. Stocks that have seen sharp declines include WHA Corporation, Land and Houses, and Sansiri. However, in Bangkok, real estate in locations connected to public transport systems, near hospitals and educational institutions, and within business districts is still performing relatively well. While certain segments and areas of the real estate market still show promise, the overall market remains sluggish, with properties continuing to be difficult to sell.
+
+#### Single Stock News:
+1.	Land and Houses Plc. (LH.BK)
+Stock prices of Land and Houses Plc. fell a further 1.02% this week, extending a persistent downward trend that has gripped the stock since March 2023. The company is contending with a sustained multi-quarter revenue decline, a trend evident in its latest results. Revenue fell from THB 5.933 billion in the quarter ending June 30, 2025, to THB 5.222 billion in the quarter ending September 30, 2025. 
+
+### India
+
+_Written by Adrian Ping An_
+
+#### Weekly Key Data: Figure (daily, Monthly,Yearly)
+1.	NIFTY 50: 25,694.35 (+0.11%, -0.48%, 10.74%)
+2.	SENSEX 30: 83,570.35 (+0.23%, -1.17%, 9.07%)
+
+#### Sector News:
+Technology Services is currently the second-largest sector in the Indian equity market, trailing only Financials in terms of market capitalization. The sector commands an aggregate market cap of approximately INR 43.09 trillion, with an indicated dividend yield of around 1.76%. On the latest trading day, the sector advanced +1.74%, with trading volume of about 9.88 million shares, spanning 4 industries and 179 listed stocks. Over the past week, Technology Services has risen 1.82%, making it the third-best-performing sector in the market, behind only Miscellaneous and Non-Energy Minerals. Within the sector, Data Processing Services has been the strongest sub-segment, posting a weekly gain of 4.43%.
+
+Looking ahead, India’s technology services industry is widely expected to enter a recovery phase in 2026, supported by a rebound in enterprise IT spending and a structural shift toward AI- and cloud-led engagements. According to Gartner, total IT spending in India is projected to grow by approximately 10.6% to around USD 176 billion in 2026, marking an acceleration from the more subdued growth seen in recent years. This expansion reflects not only higher overall budgets, but also a reallocation of spending toward next-generation technologies such as artificial intelligence, cloud infrastructure, and digital modernization initiatives.
+
+#### Single Stock News:
+1.	Zen Technologies Limited (ZENTEC.NS)
+Zen Technologies Limited has emerged as one of the standout performers in India’s defense technology sector in early 2026. On January 16, 2026, the company’s shares surged by 8.17%, reaching Rs. 1,328.40, following the announcement of major defense contracts worth Rs. 404 crores from the Ministry of Defense. This increase was supported by a significant intraday high of Rs. 1,346.90, reflecting strong investor confidence in the company after securing orders for Anti-Drone and training simulator systems.
+
+The company boasts a Return on Equity (ROE) of 26.1% and a Return on Capital Employed (ROCE) of 37.2%, indicating superior profitability within its specialized niche. While its current Price-to-Earnings (P/E) ratio of approximately 48x suggests a premium valuation, this is justified by a strong Net Profit Margin of 30.74% and a robust order book.
+ 
+### Japan
+
+_Written by Tiffany Zhang Difei_
+
+#### Weekly Key Data:
+1.	Nikkei 225: 53,936.17 (-0.32%)
+2.	TOPIX: 3658.68 (-0.28%)
+3.	Japan Unemployment Rate: 2.6% (Nov 2025)
+4.	Inflation Rate: 2.91% (Jan 2026)
+5.	GDP Annual Growth Rate: +0.66% (Jan 2026)
+6.	GDP Growth Annualized (Q3 2025): -2.3%
+7.	Retail Sales YoY: +4.89% (Nov 2025)
+
+#### Sector News:
+Japan’s market saw high volatility this week amid political, monetary policy and geopolitical headwinds. A key development was Prime Minister Sanae Takaichi’s confirmed plan to dissolve the House of Representatives on January 23 for early elections, seeking to consolidate power (73% approval rating) and end the "twisted Diet" deadlock. This sparked a "Takaichi Rally," pushing the Nikkei 225 to a historic 54,341 on January 14 (nearly 8% YTD gain). However, enthusiasm was tempered by fiscal sustainability concerns, as Takaichi’s administration proposes a $135 billion stimulus package, stoking deficit fears and weakening yen confidence.
+
+Japan’s food retail sector exhibited mixed and range-bound performance over the previous week, underperforming the broader Nikkei 225 index amid ongoing inflationary pressures. Although consumer sentiment rose to 16%, consumers remain hesitant to spend extra money. The sector initially benefited from the market's "Takaichi Rally" but failed to sustain upward momentum. Investors remain cautious about margin compression due to soaring raw material and logistics costs, which are further complicated by the yen’s depreciation and the prospect of price increases for 15,000 food products in 2026.
+
+#### Single Stock News:
+1.	Mitsubishi Corporation (8058.T)
+On Friday, January 16, Mitsubishi Corporation's announcement of a $7.53 billion acquisition of U.S. natural gas assets (aligned with Aethon Energy's portfolio) shaped market sentiment. The deal, aimed at strengthening its integrated shale-to-LNG supply chain in the Haynesville and Gulf Coast regions, drew cautious investor optimism—lifting its shares 0.37% on long-term energy security prospects. However, gains were limited by concerns over the record-scale transaction's debt burden, execution risks, and regulatory reviews, resulting in a muted boost for broader energy-related stocks amid a general market pullback.
+
+### HKSAR
+
+_Written by He Xu Doraa_
+
+#### Weekly Key Data:
+
+1.	Hang Seng Index: 26844.96 (+2.34%)
+2.	Hang Seng Tech Index: 5822.18 (+2.37%)
+3.	Hang Seng China Enterprises Index: 9220.81 (+1.9%)
+4.	HIBOR (weekly): 2.82000% (-0.0704%)
+5.	Unemployment Rate: 3.8% 
+6.	Inflation Rate (CPI): 1.0% (year-on-year)
+
+#### Sector News:
+The Hang Seng Tech Index showed a strong performance, opening at 5,737.43 points on January 12th and closing at 5,822.18 points on January 16th, a cumulative weekly increase of 2.37%. The Hang Seng China Enterprises Index opened at 9,116.01 points on January 12th and closed at 9,220.81 points on January 16th, rising 1.9% cumulatively over the week. Market trading was active, with a total weekly turnover of approximately HKD 1.51 trillion.
+
+The upward movement was primarily ignited by the main investment themes in technology, such as artificial intelligence. A Citi China equity strategist pointed out that declining U.S. dollar interest rates directly benefit the Hong Kong dollar, and they are bullish on the Hong Kong stock market. Bank of Singapore believes that against the backdrop of the U.S. Federal Reserve cutting interest rates and a weakening U.S. dollar, the Hong Kong stock market is expected to reach a higher level.
+
+#### Single Stock News:
+1.	Asia Pacific Resources (01104)
+Asia Pacific Resources (01104) surged nearly 15% after issuing a profit alert on Jan.12, trading at HKD 3 with a turnover of HKD 2.88 million. The company expects to record a profit attributable to shareholders of approximately HKD 1.4 billion to HKD 1.9 billion for the six months ended December 31, 2025 (H1 FY2025/2026). This represents a significant turnaround compared to the loss attributable to shareholders of approximately HKD 309.9 million in the corresponding period of 2024. The company's stock closed at HKD 3.16 on January 16. Overall, driven by the positive profit alert, the company's share price showed an upward trend throughout the week.
+2.	OmniVision (00501.HK):
+OmniVision Group (Will Semiconductor) saw a bullish stock performance, primarily driven by its successful secondary listing on the Hong Kong Stock Exchange. On January 12, OmniVision's HK shares (00501.HK) surged 16.2% on their debut to close at HK$121.80, reflecting global investors' confidence in its semiconductor strategy, particularly within the automotive and high-end smartphone image sensor markets. Meanwhile, its A-shares (603501.SH) maintained steady growth. The HK$4.8 billion raised through the IPO will be primarily allocated to R&D, reinforcing optimistic expectations for its long-term competitiveness and serving as the core catalyst for the week's rally.
+
+</x-accordion>
+
 <x-accordion summary="Week of 09/01/2026">
 
 _Published by Hannah Myat Su Mon_
@@ -2572,6 +2741,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
