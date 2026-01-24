@@ -28,7 +28,7 @@ The technology sector experienced a significant rise, primarily due to bullish o
 
 In the financials sector, a strong start to the Q4 results season sparked a broad-based rise led by big investment banks. Goldman Sachs and Morgan Stanley both experienced a rise of more than 4% in stock prices, boosting the Dow Jones Industrial Average as it recovered from recent lows. Goldman's strategic shift away from retail consumer banking and toward its historic strengths in global banking and markets has elicited strong investor reaction. Market players appear to be more confident that capital markets have reached a cyclical trough.
 
-#### Single Stock News
+#### Single Stock News:
 1. Nvidia (NVDA)
 Nvidia remains the major proxy for the AI investment topic. Following the TSMC statement on January 15, Nvidia's shares increased by about 2.1% as the market saw TSMC's growth ambitions as a direct indicator of future Nvidia chip sales. However, investors are currently focused on possible concerns such as tighter export limits or indicators that major customers such as OpenAI or Microsoft may shorten their investment cycles. Because the stock is so widely held by institutional investors, it remains volatile in response to changes in the AI spending narrative.
 
@@ -2741,6 +2741,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
