@@ -87,15 +87,11 @@ _Written by LIU Haolin Diana_
 2. DAX (Germany): 24,900.71 (-1.57%) over the past 5 days
 3. CAC 40 (France): 8,143.05 (-1.40%) over the past 5 days
 4. FTSE 100 (London): 10,143.44 (-0.90%) over the past 5 days
-5. HCOB Eurozone Composite PMI (Jan Flash): 51.5 (Unchanged from December);
-Manufacturing rebounded to a 2-month high (49.4) while Services slowed to a
-4-month low (51.9).
-6. ZEW Economic Sentiment (Germany): Surged to 59.6 in January (+13.8 pts),
-signalling strong investor confidence in a 2026 recovery.
-
+5. HCOB Eurozone Composite PMI (Jan Flash): 51.5 (Unchanged from December); Manufacturing rebounded to a 2-month high (49.4) while Services slowed to a 4-month low (51.9).
+6. ZEW Economic Sentiment (Germany): Surged to 59.6 in January (+13.8 pts), signalling strong investor confidence in a 2026 recovery.
 
 #### Sector News:
-Despite the general decline in EU equities, the defence sector outperformed this week, driven by renewed geopolitical instability and specific trade rhetoric from the U.S. administration. Following President Trump's threat of 10% tariffs on several European nations in connection with a dispute over Greenland, investors rotated into defence stocks, viewing them as a hedge against geopolitical friction. Swedish manufacturer Saab (SAAB-B) rose over 4.1% early in the week, while peers including Rheinmetall (RHM) and Leonardo (LDO) posted gains exceeding 2%. The sector's resilience highlights the market's continued focus on the "defence supercycle," with security spending remaining a government priority regardless of broader
+Despite the general decline in EU equities, the defence sector outperformed this week, driven by renewed geopolitical instability and specific trade rhetoric from the U.S. administration. Following President Trump's announcement of potential 10% tariffs on several European nations in connection with a dispute over Greenland, investors rotated into defence stocks, viewing them as a hedge against geopolitical friction. Swedish manufacturer Saab (SAAB-B) rose over 4.1% early in the week, while peers including Rheinmetall (RHM) and Leonardo (LDO) posted gains exceeding 2%. The sector's resilience highlights the market's continued focus on the "defence supercycle," with security spending remaining a government priority regardless of broader
 trade headwinds.
 
 The telecommunications equipment sector saw improved sentiment, anchored by Ericsson’s earnings report released on Friday. While the broader technology sector remained cautious ahead of upcoming earnings from major firms such as SAP and ASML next week, the telecom infrastructure sub-sector strengthened. Investors focused on the monetisation of 5G and AI-ready network infrastructure, which drove organic sales growth for key players despite a "flattish" Radio Access Network (RAN) market. This performance alleviated concerns regarding a prolonged slowdown in global network spending, suggesting that enterprise modernisation and mission-critical networks continue to drive demand.
@@ -2908,6 +2904,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
