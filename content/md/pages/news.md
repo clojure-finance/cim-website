@@ -173,7 +173,6 @@ In the industrial sector, Malaysia and Vietnam maintained high rankings within A
 
 </x-accordion>
 
-## Headlines
 <x-accordion summary="Week of 15/01/2026">
 
 _Published by Sean Ren Xu Xiang_
@@ -2909,6 +2908,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
