@@ -204,15 +204,6 @@
           <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-          <img class="team-member-pfp" src="../../img/team-members-pic/Jason-Chung.JPEG"/>
-          <h3 class="team-member-name">Jason CHUNG Ka Ho</h3>
-          <h2 class="team-member-position">Junior Portfolio Manager</h2>
-          <h4 class="team-member-group">Industry Group: Energy</h4>
-          <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
-          <p class="team-member-description">Jason is a student majoring in Quantitative Finance, currently serving as a Junior Portfolio Manager within the Data Analysis Team at CIM. With a specialized focus on the energy sector, he is dedicated to honing his skills in quantitative analysis and equity valuation. Michael is passionate about leveraging programming and data-driven insights to build robust financial models and develop strategic investment theses. He is committed to continuous learning in the dynamic field of finance and aims to contribute meaningfully to portfolio performance through his analytical rigor.</p>
-          <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
           <img class="team-member-pfp" src="../../img/team-members-pic/Lucas-Yin.jpg"/>
           <h3 class="team-member-name">Lukas YIN Yat</h3>
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
