@@ -7,6 +7,56 @@
 These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities.
 ## Headlines
 
+<x-accordion summary="2025 Summary: Major Events in the Equity Market">
+
+_Written by William ZHANG Jiahua and Cathy TAM Tsz Ching, 26/01/2026_
+_Proofreading by Charles SHI Qiyuan_
+
+_Published by Louise Danielle Sugiarto_
+
+### Q1: Tariff and Trade Uncertainty in Global Equity Market
+
+In the first quarter of 2025, U.S. equity markets experienced a downturn, as rising policy uncertainty, particularly surrounding tariffs and world trade relations, weighed heavily on investor sentiment. Early in the year, growing concerns over protectionist measures and global trade disruptions led to a repricing of risk assets, with growth-oriented equities experiencing great pressure. This was reflected in the weaker performance of the Nasdaq relative to broader indices, as investors reassessed valuations of mega cap technology firms in heightened uncertainty. Specifically, discussions surrounding U.S. tariff increases on Chinese and European imports along with uncertainty over the future direction of U.S. trade policy, contributed to heightened market volatility and risk aversion. As a result, by the end of the quarter, the S&P 500 had declined by approximately 4.3%, while the Nasdaq Composite recorded a sharper drop of around 10.3%, showing a clear rotation from growth toward more defensive and value-oriented sectors[1].
+
+In Europe, equity markets were relatively stable during the same period. Expectations of future interest rate cuts and easing inflation helped reduce downside risks, allowing European equities to outperform U.S. growth stocks. In addition, European equity markets are more heavily weighted toward traditional industries and consumer staples, which tend to be more defensive and less sensitive to valuation-driven sell offs during periods of global uncertainty. Meanwhile, Japanese equities remained highly sensitive to developments in monetary policy, as expectations surrounding further normalization by the Bank of Japan and fluctuations in the yen influenced exporter performance and cross-border capital flows[2] [3]. In China, equity markets continued to be largely policy driven, with investors closely monitoring stimulus implementation and signs of economic stabilization, resulting in cautious market behavior throughout the quarter.
+
+### Q2: Increased Risk Taking Supported by Rate Cuts and AI-Driven Recovery
+
+In the second quarter of 2025, global equity markets experienced a strong rebound, showing a clear change from the risk avoiding sentiment earlier in the year. Expectations of interest rate cuts provided the “fuel” (lowering discount rates and boosting valuations), while “breakthrough earnings reports and orders in the AI sector” served as the “spark” (validating the profit narrative). Together, these elements ignited risk appetite. Investor sentiment improved as fears surrounding tariffs and trade tensions eased, allowing risk taking to return. As a result, major U.S. indices posted significant gains, with the S&P 500 rising by approximately 10.57% and the NASDAQ Composite surging by about 17.75% over the quarter, both reaching record highs. Market participation also increased, as gains extended beyond a narrow group of mega cap stocks[4].
+
+European equity markets benefited from supportive monetary policy developments, following the European Central Bank’s decision on June 5, 2025, to reduce interest rates by 25 basis points. Lower discount rates improved equity valuations and provided support to cyclical and financial sectors. This is because revenues in these sectors are more sensitive to changes in the economic cycle, and lower borrowing costs tend to stimulate investment and consumer spending, which directly increase their earnings outlook[5]. In Japan, equities improved alongside global markets, although gains were partially constrained by ongoing concerns over yen appreciation and the implications of further policy tightening[6]. Meanwhile, Chinese equity performance remained mixed, with mainland A shares showing volatile movements, while Hong Kong listed equities were more responsive to global technology trends and policy related developments.
+
+### Q3 Broadening Recovery and Emerging Market Outperformance
+
+In the third quarter of 2025, global equity markets delivered strong gains[7]. In the U.S., major equity indices continued to climb at a more moderate pace compared to Q2, with the S&P 500 index advancing 7%, NASDAQ 100 rising by around 10% and the Russell 2000 small-cap index gaining over 12%[8]. The most significant development was a structural shift in market leadership, specifically, the expansion of leading sectors from large-cap technology and AI-related stocks to broader segments. This transition reflected improving investor confidence in the equity market and a reduced reliance on a narrow group of growth stocks to drive index-level returns, indicating healthier market breadth.
+
+Major European indices, including the STOXX Europe 600, recorded positive returns and outperformed U.S. equities on a valuation-adjusted basis, reflecting fundamental differences in the sources of return between these two regions. While the gains in U.S. equities were primarily driven by earnings growth applied to already elevated levels, the advances in European stocks stemmed more from a recovery in previously depressed valuations such as relatively low P/E multiples. Improved sentiment toward the European growth outlook, alongside stabilizing energy prices and moderating inflation, helped reduce downside risks that had weighed on the region in previous years, improving investor confidence. This divergence has important implications for future expected returns. In the U.S., high starting valuations may imply that forward returns are increasingly dependent on sustained earnings growth, leaving equities more vulnerable to policy shocks and earnings fluctuations. Meanwhile, European equities entered Q3 with lower valuation multiples, allowing future returns to be supported by both earnings’ growth and valuation normalization, reinforcing European equities’ appeal to investors seeking diversification away from U.S. markets.
+
+Meanwhile, emerging markets outperformed developed markets, supported by a weaker U.S. dollar and renewed capital flows into Asia, including China, where policy support measures helped stabilize investor sentiment, contributing to improved equity performance[9]. Overall, the third quarter marked a continuation and expansion of the mid-year recovery, as monetary policy support and strong technology-led earnings reinforced confidence across global equity markets.
+
+### Q4 Year-End Stability and Global Diversification
+
+The fourth quarter of 2025 extended the equity market’s positive trend though the pace of gains moderated compared to earlier quarters. The S&P 500 gained approximately 2.7% and the NASDAQ 100 rose around 2.5%. This moderation reflected a transition from rapid recovery-led rallies toward a phase of consolidation. International equities outpaced U.S. returns, with developed and emerging market indices advancing near +5% over the quarter. Despite lingering concerns surrounding U.S. fiscal policy uncertainty and geopolitical tensions, equity markets demonstrated stability heading into year-end.
+
+European and international equities slightly outperformed U.S. markets, benefiting from relatively attractive valuations and expectations of further monetary easing by the ECB[10].  As inflation continued to trend lower across the euro area, investors grew more confident that interest rates had peaked, supporting equity demand across the region. Gains were concentrated in value-oriented sectors such as financials, energy, and industrials as investors balanced portfolios from earlier technology-driven rallies and increased exposure to international equity to diversify away from concentrated risk in U.S. large-cap growth stocks[11]. Seasonal year-end optimism further supported European equities, with several major indices approaching or reaching multi-year highs. 
+
+However, sentiment remained cautious due to weaker economic momentum in parts of the euro area and ongoing geopolitical uncertainties. By the end of the year, European equities were increasingly viewed as a diversification opportunity relative to U.S. markets, with investors allocating to sectors such as European financials and industrials which were less correlated with the U.S. technology-dominated indices[12], reinforcing a more balanced global equity outlook heading into 2026.
+ 
+Source: 
+1.	“Q1 2025 Quarterly Market Review,” TD Bank https://www.td.com/us/en/investing/learning-and-insights/quarterly-market-review-q125 
+2.	“Japan's cash in circulation falls for first time in 18 years in 2025 on BOJ stimulus exit,” Reuters https://www.reuters.com/world/asia-pacific/japans-cash-circulation-falls-first-time-18-years-2025-boj-stimulus-exit-2026-01-06/ 
+3.	“China's Economic Stimulus Measures Since September,” Reuters https://www.reuters.com/markets/asia/chinas-economic-stimulus-measures-since-september-2025-01-08/
+4.	“S&P 500, Nasdaq close at record highs, cap best quarter in over a year,” Reuters https://www.reuters.com/business/sp-500-nasdaq-futures-climb-record-highs-trade-optimism-2025-06-30/ 
+5.	“Monetary policy decisions,” European Central Bank https://www.ecb.europa.eu/press/govcdec/mopo/html/index.en.html 
+6.	“Japan's cash in circulation falls for first time in 18 years in 2025 on BOJ stimulus exit,” Reuters https://www.reuters.com/world/asia-pacific/japans-cash-circulation-falls-first-time-18-years-2025-boj-stimulus-exit-2026-01-06/ 
+7.	Quarterly markets review - Q3 2025, Schroders https://www.schroders.com/en-us/us/institutional/insights/quarterly-markets-review---q3-2025 
+8.	EXANTE Quarterly Macro Insights Q3 2025 https://exante.eu/press/publications/2742-exante-quarterly-macro-insights-q3-2025/ 
+9.	Equities in 2025: Embracing a Broader Equity Landscape, Goldman Sachs https://am.gs.com/en-us/institutions/insights/article/2025/equities-in-2025-embracing-a-broader-landscape 
+10.	Q3 2025 Macro Market Summary: A Quarter That Rewarded Diversification, ELYXWEALTH https://www.elyxwealth.com/insights/q3-2025-macro-market-summary-a-quarter-that-rewarded-diversification 
+11.	Q4 2025: Reflecting on the Investment Markets, Corient https://corient.com/us/en/insights/articles/q4-2025-thoughts-on-the-investment-markets 
+
+</x-accordion>
+
 <x-accordion summary="Current AI Development: A Comprehensive Analysis">
 
 _Written by Erika LAU Tsz Yee, 10/03/2025_
