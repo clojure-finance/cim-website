@@ -9,8 +9,7 @@ These reports are prepared by students for educational purposes only and do not 
 
 <x-accordion summary="2025 Summary: Major Events in the Equity Market">
 
-_Written by William ZHANG Jiahua and Cathy TAM Tsz Ching, 26/01/2026_
-_Proofreading by Charles SHI Qiyuan_
+_Written by William ZHANG Jiahua and Cathy TAM Tsz Ching, Proofreading by Charles SHI Qiyuan, 26/01/2026_
 
 _Published by Louise Danielle Sugiarto_
 
