@@ -59,7 +59,7 @@ slowing global industrial activity, particularly as weaker-than-expected manufac
 #### Single Stock News:
 SCANTECH (688583.SH), a Hangzhou-based provider of industrial-grade 3D visual digitization solutions specializing in high-precision scanning equipment for aerospace and automotive manufacturing, saw its shares rise 20% last week. The move followed several catalysts: the company’s strategic partnership with Tuozhu Technology on January 29 to develop and manufacture consumer-grade 3D scanners, indicating a key expansion into the consumer market; continued commercialization of its 6D pose tracking system in robotics and engineering machinery, with repeat orders suggesting improving market acceptance; the recent implementation of an equity incentive plan aligning core employee interests with long-term performance; and supportive policy signals related to “new quality productive forces,” alongside positive momentum across related industrial technology sectors such as telecom equipment.
 
-#### HKSAR
+### HKSAR
 
 _Written by Ling GUO Yuling_
 
@@ -79,7 +79,7 @@ Technology sector (platforms and hardware): Technology-related names generally t
 #### Single Stock News:
 Tencent Holdings (0700.HK): Tencent’s share price recorded a low- to mid-single-digit percentage increase over the week and is currently trading close to the upper band of its 12-month range, outperforming the broader Hong Kong market on a relative basis. The stock’s performance followed the company’s latest quarterly results, which showed double-digit year-on-year growth in revenue and net profit and modestly exceeded prevailing market forecasts, keeping attention on the sustainability of its earnings trajectory. The operating update highlighted a continued recovery in domestic advertising, improving momentum in cloud services and enterprise software, and further progress in monetizing video accounts, e-commerce-related traffic, and other value-added services within the ecosystem. Market participants also monitored developments in Tencent’s artificial intelligence infrastructure and large-model applications across gaming, advertising, and social platforms, as well as the scale and pace of ongoing share repurchase activity, viewing these factors as inputs into future assumptions on earnings quality, capital allocation, and free cash flow generation rather than as directions for investment action.
 
-#### EU
+### EU
 
 _Written by Diana LIU Haolin_
 
@@ -97,7 +97,7 @@ Defense & Aerospace: The defense sector continued to see capital inflows during 
 #### Single Stock News:
 ASML Holding (ASML.AS): The semiconductor equipment maker released its Q4 2025 and full-year results on Wednesday, January 28. ASML reported Q4 net sales of €9.7 billion with a gross margin of 52.2%, indicating sustained demand for its advanced lithography systems. The company posted basic EPS of €7.35 for the quarter. These results eased recent market concerns around a potential slowdown in semiconductor capital expenditure. SAP SE (SAP.DE): Europe’s largest software company reported Q4 and FY 2025 results on Thursday, January 29. While the company fell short of some analyst expectations on quarterly revenue, it reported an 8% increase in total revenue and an 11% rise in constant-currency terms for the full year. SAP also announced a new two-year share repurchase program of up to €10 billion, which supported the stock during the period. The company highlighted a 26% increase in cloud revenue, reflecting continued progress in its cloud transition. LVMH Moët Hennessy Louis Vuitton (MC.PA): The luxury group published its 2025 annual results on Monday, January 26. Management characterized performance as solid amid a challenging geopolitical environment. As a bellwether for the luxury sector, LVMH’s results were viewed as an indicator of relatively stable demand for high-end goods despite broader macroeconomic uncertainty and trade-related pressures.
 
-#### Japan
+### Japan
 
 _Written by Vivien TAO Wei_
 
@@ -117,7 +117,7 @@ Financial stocks came under pressure this week amid uncertainty ahead of the Feb
 Nomura Holdings stood out after regaining its position as Japan’s top M&A advisor in 2025. The firm worked on deals totaling a record ¥18.6 trillion, exceeding volumes reported by competitors such as Goldman Sachs. The performance reflected Nomura’s stronger positioning in an active M&A environment associated with corporate restructuring and governance-related initiatives and supported its share price performance during a period of broader market uncertainty. Mitsubishi UFJ Financial Group (MUFG) also remained in focus following developments in its partnership with Morgan Stanley. The Japan CEO of Morgan Stanley highlighted plans to expand its securities franchise in Japan
 through the collaboration with MUFG. The development drew attention to competitive dynamics within Japan’s financial sector recovery and reinforced MUFG’s role as a strategic partner for international financial institutions seeking to expand in the Japanese market.
 
-#### India
+### India
 
 _Written by Adrian PING An_
 
@@ -140,7 +140,7 @@ Hindustan Copper Ltd (HINDCOPPER)
 Hindustan Copper, India’s sole vertically integrated copper producer, experienced notable price volatility, closing at 555.10 on February 1 after a 19% correction following a 40% rally in January 2026. Despite the near-term pullback, the company retains a leading position, with access to approximately 45% of India’s copper ore reserves, estimated at 755.32 million tonnes. The Union Budget 2026 included measures relevant to the sector, including an exemption of basic customs duty on capital goods for processing critical minerals, which supports Hindustan Copper’s plan to expand mining capacity to 12.2 MTPA by FY31 (implying a projected CAGR of around 29%). From a financial perspective, the company maintains a low leverage profile, with a consolidated debt-to-equity ratio of 0.05 as of late 2025 and finance costs of 0.44 crore in Q2 FY26. In its latest quarterly results, Hindustan Copper reported an 83% year-on-year increase in net profit to 186 crore, alongside a 39% increase in revenue to 718 crore. While the stock is currently trading at a higher valuation multiple, with a P/E ratio of around 115x, its EBITDA margin of 39.3% and near debt-free balance sheet are viewed as factors contributing to earnings stability within a
 cyclical commodities environment. 
 
-#### SEA
+### SEA
 _Written by Daisy DAI Yingxi_
 Weekly Key Data:
 1.Straits Times Index (STI): 4,892.27
@@ -3057,6 +3057,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
