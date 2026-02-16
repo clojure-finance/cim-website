@@ -7,6 +7,159 @@
 These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities.
 
 ## Headlines
+
+<x-accordion summary="Week of 30/01/2026">
+
+ _Published by Henry LI Yan Heng_
+
+### US
+
+_Written by Rachel HU Xinyue_
+
+#### Weekly Key Data:
+1.Dow Jones Industrial Average: 48892.47 (-0.42%) over the past 5 days
+2.S&P 500 Index: 6939.03 (+0.34%) over the past 5 days
+3.NASDAQ Composite Index: 23461.82 (-0.17%) over the past 5 days
+4.United States Durable Goods Orders: 5.3% in November, above market forecasts of 1.1%
+5.United States Producer Price Inflation MoM: 0.5% in November, above market forecasts of 0.2%
+6.United States Fed Funds Interest Rate: The Fed left the federal funds rate unchanged at the 3.5% - 3.75% target
+range in its January 2026 meeting
+7.United States Adp Employment Change Weekly: +7.75K (-3.13%)
+8.United States API Crude Oil Stock Change: 0.25 million barrels decrease
+
+#### Sector News:
+Precious metals faced heightened selling pressure, with weakness extending quickly to mining equities. Donald Trump signaled his intention to nominate Kevin Warsh as Chair of the Federal Reserve, a development that markets interpreted as potentially increasing the likelihood of continued balance-sheet reduction and a tighter system liquidity environment. At the same time, strength in the U.S. dollar reinforced these expectations by raising the opportunity cost of holding non-yielding assets, contributing to outflows from traditional safe-haven positions. Spot gold declined by nearly 13% intraday, while spot silver at one point fell by more than 35%, among the most pronounced intraday moves
+in decades. Mining equities weakened in parallel with the underlying metals: Newmont (NEM) -11.49%, Agnico Eagle Mines (AEM) -11.61%, Barrick Gold (GOLD) -12.03%, and VanEck Gold Miners ETF (GDX) -12.76%.
+
+AI application software stocks declined following headlines related to Google’s Project Genie. The initiative was unveiled as a product concept that would enable users to create and interact with virtual worlds, leading investors to reassess competitive dynamics and potential demand shifts within interactive content and development ecosystems. Weakness was more pronounced among companies with direct exposure to user-generated content, real-time 3D creation tools, and game publishing, including Unity Software (U), Roblox (RBLX), and Take-Two Interactive
+(TTWO).
+
+#### Single Stock:
+Microsoft (MSFT) fell 8.5% on the week despite a Q2 beat. The stock declined after the company reported better- than-expected Q2 EPS and revenue, as investors focused on decelerating Azure growth, a 66% jump in capex to $37.5bn, and disclosures that ~45% of its $625bn commercial order backlog is tied to OpenAI. Tesla (TSLA) rose more than 4%, following reports that SpaceX is exploring a potential merger with Tesla and
+considering deeper cooperation with xAI to build a broader technology “super ecosystem.”
+
+### Mainland China
+
+_Written by Molly LIU Litong_
+
+#### Weekly Key Data:
+1.SSE Composite Index: 4117.95 (-0.44%) over the past 5 days
+2.Shenzhen Component Index: 14205.89 (-0.78%) over the past 5 days
+3.ChiNext Price Index: 3346.36 (-0.10%) over the past 5 days
+4.CSI 300 Index: 4706.34 (-0.01%) over the past 5 days
+5.Consumer Price Index (CPI) in December: +0.8% YoY
+6.Producer Price Index (PPI) in December: -1.9% YoY
+7.Industrial Production in December 2025: +5.2% YoY.
+8.Gross Domestic Product (GDP): +5.2% YoY
+
+#### Sector News:
+Telecommunication Equipment showed a positive performance, posting 4.17% growth last week. The gain was fueled by ongoing policy support for China’s digital infrastructure upgrade, which has spurred demand for 5G network gear and related communication devices. Positive market sentiment around the sector’s long-term growth potential, paired with expectations of higher capital expenditure from telecom operators, supported buying activity. Industrial Metals underperformed the market, declining 8.22% last week. The decrease reflected concerns over
+slowing global industrial activity, particularly as weaker-than-expected manufacturing data from major economies dampened demand for industrial metals. In addition, profit-taking following recent price gains, combined with concerns over potential oversupply and a softer commodity price outlook, contributed to the sector’s sell-off.
+
+#### Single Stock News:
+SCANTECH (688583.SH), a Hangzhou-based provider of industrial-grade 3D visual digitization solutions specializing in high-precision scanning equipment for aerospace and automotive manufacturing, saw its shares rise 20% last week. The move followed several catalysts: the company’s strategic partnership with Tuozhu Technology on January 29 to develop and manufacture consumer-grade 3D scanners, indicating a key expansion into the consumer market; continued commercialization of its 6D pose tracking system in robotics and engineering machinery, with repeat orders suggesting improving market acceptance; the recent implementation of an equity incentive plan aligning core employee interests with long-term performance; and supportive policy signals related to “new quality productive forces,” alongside positive momentum across related industrial technology sectors such as telecom equipment.
+
+#### HKSAR
+
+_Written by Ling GUO Yuling_
+
+#### Weekly Key Data:
+1.Hang Seng Index: 27,785.98 (+3.44% week-on-week)
+2.Hang Seng Tech Index: 5,561.91 (+2.73% week-on-week, using 5-day change as reference).
+3.Hang Seng China Enterprises Index: 9,317.09 (−2.47% on 30 Jan 2026).
+4.GDP: +3.8% (July - September 2025).
+5.Unemployment Rate: 3.9% (July - September 2025).
+6.Inflation Rate (CPI): 1.0% (latest published YoY inflation rate).
+7.Retail Sales Value YoY: +5.9% (year-on-year, following the most recent annual growth rate).
+8.Export Value YoY: +16.1% (year-on-year, following the latest available annual export growth rate).
+
+#### Sector News:
+Technology sector (platforms and hardware): Technology-related names generally tracked the Hang Seng Tech Index, which gained around 2–3% over the week, reflecting increased trading interest in growth-oriented equities and a partial reversal of prior underperformance. Within the sector, investors focused on companies with significant exposure to cloud computing, software, and artificial intelligence infrastructure, following a series of product upgrades, ecosystem enhancements, and partnership announcements from major internet platforms. Names linked to data center capacity, model training services, and enterprise digitalization attracted relatively higher turnover. At the same time, hardware and semiconductor stocks showed more differentiated performance as market participants assessed global demand indicators, inventory trends, currency movements, and developments in the export control environment. Overall, sector flows reflected the interaction between expectations for policy support, the earnings outlook for leading platforms, and risk appetite toward longer-duration growth assets.
+
+#### Single Stock News:
+Tencent Holdings (0700.HK): Tencent’s share price recorded a low- to mid-single-digit percentage increase over the week and is currently trading close to the upper band of its 12-month range, outperforming the broader Hong Kong market on a relative basis. The stock’s performance followed the company’s latest quarterly results, which showed double-digit year-on-year growth in revenue and net profit and modestly exceeded prevailing market forecasts, keeping attention on the sustainability of its earnings trajectory. The operating update highlighted a continued recovery in domestic advertising, improving momentum in cloud services and enterprise software, and further progress in monetizing video accounts, e-commerce-related traffic, and other value-added services within the ecosystem. Market participants also monitored developments in Tencent’s artificial intelligence infrastructure and large-model applications across gaming, advertising, and social platforms, as well as the scale and pace of ongoing share repurchase activity, viewing these factors as inputs into future assumptions on earnings quality, capital allocation, and free cash flow generation rather than as directions for investment action.
+
+#### EU
+
+_Written by Diana LIU Haolin_
+
+#### Weekly Key Data:
+1.EURO STOXX 50 Index: 5,947.81 (-0.06%) over the past 5 days.
+2.DAX (Germany): 24,538.81 (-1.45%) over the past 5 days.
+3.CAC 40 (France): 8,126.53 (-0.20%) over the past 5 days.
+4.FTSE 100 (London): 10,223.54 (+0.79%) over the past 5 days.
+5.Eurozone GDP (Q4 2025 Preliminary): Expanded by 0.3% QoQ (vs. 0.2% expected) and 1.4% YoY in 2025 Q4.
+6.IMF World Economic Outlook: Projecting global growth at 3.3% for 2026.
+
+#### Sector News:
+Defense & Aerospace: The defense sector continued to see capital inflows during the week, supported by the EU’s stated intention to increase investment in strategic regions, including Greenland. The development followed recent geopolitical discussions involving the United States and has focused market attention on infrastructure security and defense-related spending priorities. Technology: The technology sector experienced a mixed performance. While earnings releases from large-cap names such as SAP provided some support, broader sentiment remained cautious amid elevated valuation levels. Investors continued to monitor developments related to the upcoming U.S. Federal Reserve chair nomination, which is viewed as a potential factor influencing the interest rate outlook for growth-oriented equities. Basic Resources: Gold miners and related resource companies were in focus as gold prices moved above the USD 5,000/oz level, amid increased safe-haven demand. By contrast, the broader energy sector faced pressure during the period, reflecting volatility in oil prices.
+
+#### Single Stock News:
+ASML Holding (ASML.AS): The semiconductor equipment maker released its Q4 2025 and full-year results on Wednesday, January 28. ASML reported Q4 net sales of €9.7 billion with a gross margin of 52.2%, indicating sustained demand for its advanced lithography systems. The company posted basic EPS of €7.35 for the quarter. These results eased recent market concerns around a potential slowdown in semiconductor capital expenditure. SAP SE (SAP.DE): Europe’s largest software company reported Q4 and FY 2025 results on Thursday, January 29. While the company fell short of some analyst expectations on quarterly revenue, it reported an 8% increase in total revenue and an 11% rise in constant-currency terms for the full year. SAP also announced a new two-year share repurchase program of up to €10 billion, which supported the stock during the period. The company highlighted a 26% increase in cloud revenue, reflecting continued progress in its cloud transition. LVMH Moët Hennessy Louis Vuitton (MC.PA): The luxury group published its 2025 annual results on Monday, January 26. Management characterized performance as solid amid a challenging geopolitical environment. As a bellwether for the luxury sector, LVMH’s results were viewed as an indicator of relatively stable demand for high-end goods despite broader macroeconomic uncertainty and trade-related pressures.
+
+#### Japan
+
+_Written by Vivien TAO Wei_
+
+#### Weekly Key Data:
+1.Nikkei 225: 53373.74(+0.52%)
+2.TOPIX: 1716.52(-0.20%)
+3.Japan Unemployment Rate: 2.6% (January 2026)
+4.Inflation Rate: 2.1% (January 2026)
+5.GDP Annual Growth Rate: -1.8% (Q4 2025)
+6.GDP Growth Annualized (Q3 2025): -2.3
+7.Retail Sales YoY: -0.9% (January 2026)
+
+#### Sector News
+Financial stocks came under pressure this week amid uncertainty ahead of the February 8 snap election. This was reflected in the government bond market, where the auction of 10-year government bonds on Tuesday attracted weaker-than-expected demand. Investors have focused on the possibility that if Sanae Takaichi’s party secures a strong mandate, it could result in higher government spending. Such fiscal expansion may place upward pressure on long-term borrowing costs, which contributed to underperformance in rate-sensitive sectors such as banking and insurance. In contrast, the energy sector showed relative resilience, supported by strategic announcements from key industry participants. Japan’s largest refiner, Eneos Holdings, announced plans to expand its oil derivatives trading team in Singapore and other global hubs, indicating efforts to strengthen its international trading presence. Meanwhile, utility company JERA signed a 27-year LNG supply agreement with Qatar, a long-term arrangement that market participants view as supporting supply stability and mitigating price volatility.
+
+#### Single Stock News
+Nomura Holdings stood out after regaining its position as Japan’s top M&A advisor in 2025. The firm worked on deals totaling a record ¥18.6 trillion, exceeding volumes reported by competitors such as Goldman Sachs. The performance reflected Nomura’s stronger positioning in an active M&A environment associated with corporate restructuring and governance-related initiatives and supported its share price performance during a period of broader market uncertainty. Mitsubishi UFJ Financial Group (MUFG) also remained in focus following developments in its partnership with Morgan Stanley. The Japan CEO of Morgan Stanley highlighted plans to expand its securities franchise in Japan
+through the collaboration with MUFG. The development drew attention to competitive dynamics within Japan’s financial sector recovery and reinforced MUFG’s role as a strategic partner for international financial institutions seeking to expand in the Japanese market.
+
+#### India
+
+_Written by Adrian PING An_
+
+#### Weekly Key Data:
+NIFTY 50: 24,825.45 (-1.96%, -5.71%, +6.27%)
+SENSEX 30: 82,269.78 (-0.36%, -4.07%, +6.59%)
+Macroeconomic Performance: Economic Survey 2025-26 (released on 30/01/2026)
+1. GDP Growth: 7.4% (FY26 projected), 6.8% - 7.2% (FY27 projected).
+2. Inflation: Headline inflation averaged 1.7% (April-Dec 2025, the lowest in the CPI series)
+3. Foreign Exchange Reserves: USD 701.4 Billion (16/01/2026)
+4. Unemployment: 4.8% (December 2025), with female participation rising to 35.3%
+
+#### Sector News:
+Budget 2026: Impact on Pharma, EMS, and Infrastructure 
+On February 1, 2026, the Union Budget 2026–27 was presented, outlining measures aimed at supporting manufacturing through higher capital allocations. In the pharmaceutical sector, the government announced the 10,000 crore BioPharma Shakti initiative. Following the announcement, shares of Sun Pharma and Biocon rose by around 3.8%, as market participants assessed implications for biologics-related revenue visibility. In the EMS and semiconductor segment, funding for the Electronics Components Manufacturing Scheme was doubled to 40,000 crore, while semiconductor-related spending was increased to 8,000 crore. The budget also included a reduction in import duties on mobile components from 20% to 15%, which improved cost dynamics for companies such as Dixon Technologies. Infrastructure continued to feature prominently, with public capital expenditure raised to 12.2 lakh crore for FY27. Announced initiatives included seven new high-speed rail corridors (including Mumbai–Pune and Delhi–Varanasi) and the operationalization of 20 additional National Waterways. The budget also proposed a 10,000 crore SME₹
+Growth Fund to support MSME expansion, alongside plans for new mega textile parks. 
+
+#### Single Stock News: 
+Hindustan Copper Ltd (HINDCOPPER)
+Hindustan Copper, India’s sole vertically integrated copper producer, experienced notable price volatility, closing at 555.10 on February 1 after a 19% correction following a 40% rally in January 2026. Despite the near-term pullback, the company retains a leading position, with access to approximately 45% of India’s copper ore reserves, estimated at 755.32 million tonnes. The Union Budget 2026 included measures relevant to the sector, including an exemption of basic customs duty on capital goods for processing critical minerals, which supports Hindustan Copper’s plan to expand mining capacity to 12.2 MTPA by FY31 (implying a projected CAGR of around 29%). From a financial perspective, the company maintains a low leverage profile, with a consolidated debt-to-equity ratio of 0.05 as of late 2025 and finance costs of 0.44 crore in Q2 FY26. In its latest quarterly results, Hindustan Copper reported an 83% year-on-year increase in net profit to 186 crore, alongside a 39% increase in revenue to 718 crore. While the stock is currently trading at a higher valuation multiple, with a P/E ratio of around 115x, its EBITDA margin of 39.3% and near debt-free balance sheet are viewed as factors contributing to earnings stability within a
+cyclical commodities environment. 
+
+#### SEA
+_Written by Daisy DAI Yingxi_
+Weekly Key Data:
+1.Straits Times Index (STI): 4,892.27
+2.Jakarta Composite Index (JCI): 7,888.23
+3.FTSE Bursa Malaysia KLCI (FBM KLCI): 1,740.88
+4.SET Index: 1,315.31
+5.PSE Composite Index (PSEi): 6,297.08
+6.VN-Index: 1,805.43
+
+#### Sector News:
+Consumer Staples: Sector attention turned to regional expansion following strategic partnership headlines involving Eastroc Beverage. Eastroc Beverage entered into a strategic cooperation agreement with Sanlin Group to jointly establish the Indonesia Dongpeng Vitamin Functional Beverage Company. The development marks a further step in Eastroc Beverage’s expansion in Indonesia and has increased market focus on competitive dynamics within the regional functional beverage segment as part of the company’s broader internationalization efforts. Industrial & Technology: Companies in the industrial and technology sectors highlighted footprint expansion and ecosystem-related initiatives. Southco is expanding its presence in Southeast Asia through the opening of a new facility in Chon Buri, Thailand. Separately, Yuxin Technology highlighted technology sharing and “value co-creation” with local partners at the 2026 LION X VENTURES Summit, with a focus on collaboration within the Southeast Asian fintech ecosystem. Indonesia / MSCI: MSCI stated this week that if Indonesia does not make sufficient progress on transparency by May, it will reassess the country’s market accessibility status. Such a reassessment could result in a reduction in index
+weightings for Indonesian constituents in the MSCI Emerging Markets Index, or potentially a reclassification to frontier-market status. The announcement led market participants to revisit governance-related considerations, including enforcement of corporate governance standards, market transparency, asset ownership disclosure, and free-float levels.
+
+#### Single Stock News:
+Shares of Grab Holdings (GRAB) saw renewed trading interest this week, following a steep pullback of around 30% since September, after BofA Securities upgraded the stock to a “Buy” rating with a price target of $6.30. The move followed improving metrics in the company’s core mobility and delivery segments, alongside a net cash position of over $5 billion, which has drawn attention to balance sheet strength.
+At the same time, sentiment remained mixed. Bernstein recently lowered its price target to $5.80, citing near-term margin pressure related to new growth initiatives. While the company trades at a PEG ratio of 0.84, its elevated P/E multiple of around 302x and reduced net income estimates for 2025–2026 have kept focus on execution risks as Grab continues to expand into on-demand grocery, artificial intelligence, and fintech.
+
+</x-accordion>
+
 <x-accordion summary="Week of 23/01/2026">
 
 _Published by Louise Danielle Sugiarto_
@@ -2904,6 +3057,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
