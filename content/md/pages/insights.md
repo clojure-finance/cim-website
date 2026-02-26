@@ -7,6 +7,70 @@
 These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities.
 ## Headlines
 
+<x-accordion summary="An Overview of the 2025 Bond Market">
+
+_Written by: Emilie POU Ho Yuet, Mabel LOK Ka Ying_
+
+_Published by Ashley LEE Juyeon_
+
+### Walking Through the Year
+
+Major developed markets, especially the United States, lowered their interest rates in the short- and intermediate-term segments while increasing rates in the long-term segments during the first quarter of 2025. In March, Germany’s parliament approved the loosening of borrowing limits and exemptions for defense and security costs from its fiscal rules. A €500 billion infrastructure fund was created to spread over 12 years, resulting in Germany’s bond yield recording the largest jump since 1990, which also raised yields in the Eurozone.
+
+In early April 2025, the U.S. administration announced a broad package of new import tariffs, which surged recession fears that declined after negotiations were encouraged. Around the same period, Moody's downgraded the US sovereign rating from Aaa to Aa1, citing concerns over the government's fiscal trajectory. This downgrade induced worries about financing the US government's budget deficit and US debt sustainability, causing bond yields in the US to surge to their quarterly peak. In general, long- term government bond yields steepened around the world in 2025 Q2. With fears of recession and US debt sustainability, US Treasury yields reached their peak in the quarter, with the 10-Year Treasury Yield standing high at 4.2%. Yields on Japanese and Canadian government bonds spiked due to concerns over fiscal stimulus and uncertainty regarding US trade, respectively. Both the Bank of England and the European Central Bank cut interest rates, helping the former achieve strong performance among sovereigns in the quarter, with UK Government Bonds (Gilts) yielding 4.5%. However, German Bunds delivered negative returns as the market continued to react to increases in military and infrastructure spending from the previous quarter.
+
+The bond market proved resilient in Q3 of the year. This quarter was filled with uncertainties and tensions due to consistent and unpredictable tariffs, as well as central bank actions around the globe, signaling the market to make prudent decisions. As such, there was strong demand for fixed income due to attractive yields, with US fiscal shifts supporting short-term debt. On the other side of the globe, Asian markets showed strength in investment-grade and high-yield dollar bonds, and sustainable debt saw slowing but continued growth. In general, global bond markets posted strong gains, driven by robust demand in artificial intelligence (AI) and technology, along with solid corporate earnings. During this quarter, the US Fed recommitted to rate cuts after a pause, delivering three 0.25% cuts. The yield curve continued to steepen, and short-term and intermediate-term rates declined due to the Fed's actions. In terms of sustainable bonds, overall volumes of labeled sustainable bonds declined, representing the lowest Q3 issuance since 2020. 
+
+Following the resilient performance in the previous quarter, the bond market ended the year on a positive trend in the last quarter. Concerns about inflation from tariffs were prevalent; however, most inflation reporting during the year did not show a noticeable increase, with annual inflation rates in major markets like the US remaining stable at 2.7%. Emerging market debt stood out as the strongest performer, with the US emerging-market local-currency bond category leading the way, achieving a 3.38% average gain during the quarter and finishing the year with stock-like returns of 19.58%. Municipal bonds gained further in Q4, returning 4.2% and remaining a stable and resilient investment. Economic growth continued to surprise on the upside as consumer spending remained strong, reflecting an optimistic performance in the bond market as a whole. One significant obstacle in this quarter was that the U.S. federal government experienced a shutdown lasting 43 days in October and November, which impacted the availability of economic data and deprived markets of typical economic statistics. The Federal Reserve lowered interest rates by another 0.5% in Q4, further steepening the yield curve. Thus, in Q4, the bond market saw a smooth closing to the year, despite slight uncertainties.
+
+Overall, governments in the world adjusted their yields on bonds in 2025. US Treasury bills and notes, such as the 1-Year US Treasury Bill and 30-Year US Treasury Bond, experienced notable decreases in their yields. For instance, the yield of the 1-Year US Treasury Bill dropped from 4.18% in January to 3.54% in December, while the yield of the 30-Year US Treasury Bond fell from 4.773% to 4.18% over the same period. The total return on short- and intermediate-term US Treasury bonds increased to 4.24% due to the aforementioned drop. Outside the US, yields on German and UK government bonds rose to 2.85% and 4.48%, respectively. Following Japan's decision to raise interest rates from 0.25% in January to 0.75% in December across maturities, its government bond yields also rose. Major banks cut interest rates in the market. The Fed lowered rates by 75 basis points, while the Bank of England (BOE) and the European Central Bank (ECB) cut by 100 basis points. These actions aimed to combat uncertainties stemming from geopolitics, the risks of inflation, and a weaker employment market. An outlier was the Bank of Japan (BOJ), which chose to boost rates to its 30-year high (0.75% on December 19) in hopes of achieving price stability. Despite these factors, the year ended with an optimistic market outlook.
+
+### Market Snapshots
+
+The US bond market saw a dip due to a weakening U.S. dollar, while global markets outperformed the US in both equities and bonds. However, US fixed-income nmarkets showed a positive trend, with the Morningstar US Core Bond Index gaining 7.12% for the year. Elevated starting yields anchored performance across most fixed-income segments.
+
+In the UK, Gilts ranked as the second-best major sovereign debt market. Although inflation remained above target at 3.2% to 4.1% during the year, the Debt Management Office reassured the market by announcing modest bond issuance in November’s budget plan. Alongside interest rate cuts, Gilts delivered a 5.0% return for the year.
+
+European markets saw supportive measures, with increased ECB forecasts for 2026 and plans for new debt issuance. Consequently, markets climbed due to divergence in monetary policy.
+
+In Asia, Japan’s government bond yields climbed to a multi-decade high, with the 10-year Japanese Government Bond (JGB) yield reaching 2.06% by December, following the disclosure of a 21.3-trillion-yen fiscal stimulus package, raising concerns over the country’s debt burden.
+
+China also saw mixed reviews. Policymakers committed to a GDP growth target of around 5%, with stimulus measures and policy support expected to boost domestic consumption. Thus, the PRC's bond market expanded, driven by government financing of stimulus measures. Nonetheless, due to trade-policy uncertainty, general investment incentives decreased, causing a decline in the 10-year yield in its bond market.
+
+Emerging market equities dominated with annual returns above 30%. Specifically, emerging market debt was the top-performing fixed-income sector, returning 13.5%. Among these, Latin American bonds benefited from currency appreciation as the Brazilian real and Mexican peso rose against the US dollar.
+
+The Investment-Grade Credit Market in the US was well-received by investors, with issuance amounting to $1.585 trillion for the year. The technology sector played a major role in offering jumbo deals, such as Meta and Oracle’s bond sales of $30 billion and $18 billion, respectively. Returns from investment-grade corporate bonds outperformed Treasuries, primarily driven by the financial sector. On the other hand, investment-grade corporates in Europe lagged behind their US counterparts in total returns but demonstrated relatively stronger performance against Euro Treasuries, also led by the financial and utilities sectors.
+
+### Looking ahead
+Looking ahead into 2026, both difficulties and opportunities are expected to
+arise.
+
+Certain difficulties are foreseeable in the bond market for 2026. US’s growing debt increases the risk of higher future interest rates, as the government may need to offer more attractive yields to attract buyers. If the current fiscal policy continues, an increased supply of bonds could lead to downward pressure on prices and upward pressure on yields. Projections for economic growth have become less optimistic, particularly as inflation continues to erode consumer purchasing power.
+
+Nevertheless, opportunities also arise amidst uncertainties. Emerging market bonds could offer compelling opportunities, with high real yields in local currency emerging market bonds. Improving fiscal positions and resumed investor inflows present additional positives. High-quality bond investments are likely to benefit in an environment of slower growth and more Fed rate cuts, as lower yields could result in increased price appreciation. AI-related capital expenditures in Asia could also benefit AI-related bonds, creating new opportunities in a nascent field.
+ 
+Sources and references: 
+1. European Central Bank. (2025a, April 17). Monetary policy decisions. https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250417~42727d0 735.en.html
+2. European Central Bank. (2025b, June 5). Monetary policy decisions. https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250605~3b5f67d0 07.en.html
+3. Edginton, S. (2025, October 10). Q3 2025 Investment Review: Back to fundamentals. https://privatebank.jpmorgan.com/eur/en/insights/markets-and-investing/q3-20 25-investment-review-back-to-fundamentals
+4. Emerging Market Debt Market Commentary: Q2 2025. (2025, July 23). https://www.ssga.com/hk/en/individual/insights/emerging-market-debt- comme ntary-q2-2025
+5. Federal Reserve issues FOMC statement. (2025, September 17). Federal Reserve. https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm
+6. Federal Reserve issues FOMC statement. (2025a, October 29). Federal Reserve. https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a.htm
+7. Federal Reserve issues FOMC statement. (2025b, December 10). Federal Reserve. https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm
+8. Hineline, D. (2025, December 31). U.S Investment-Grade Credit Market: 2025 Year-End Review and Forward Outlook - AmeriVet Securities. AmeriVet Securities. https://amerivetsecurities.com/u-s-investment-grade-credit-market-2025-year- end-review-and-forward-outlook/
+9. Looking back at 2025: Fixed income. (2026, January 15). Bloomberg. https://www.bloomberg.com/professional/insights/markets/looking-back-at- 202 5-fixed-income/
+10. Monetary Policy Report - August 2025. (2025, August 7). Bank of England. https://www.bankofengland.co.uk/monetary-policy-report/2025/august-2025
+11. Q3 2025 Bond Market Update: Haunting headlines & healthy yields - Dynamic Advisor Solutions. (2025, October 10). Dynamic Advisor Solutions. https://dynamicadvisorsolutions.com/q3-2025-bond-market-update-haunting-headlines-healthy-yields/
+12. Quarterly Market Review - Q1 2025. (2025, April 13). Schroders. https://www.schroders.com/en-hk/hk/individual/insights/quarterly-markets-review-202503/
+13. Quarterly Markets Review - Q2 2025. (2025, July 2). Schroders. https://www.schroders.com/en-hk/hk/individual/insights/quarterly-markets-review---q2-2025/
+14. Quarterly Markets Review - Q4 2025. (2026, January 6). Schroders. https://www.schroders.com/en-gb/uk/individual/insights/quarterly-markets-review---q4-2025/
+15. Samant, S. (2026, January 5). Bond market wraps up 2025 with broad gains: Key takeaways for investors. Morningstar, Inc. https://www.morningstar.com/bonds/bond-market-wraps-up-2025-with-broad-gains
+16. Twelve Points. (2026, January 16). 2025 Q4 Market Review. https://www.twelvepoints.com/insights/2025-q4-market-review/
+17. “Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis.” Stlouisfed.org, 2025, fred.stlouisfed.org/series/DGS1#
+18. “Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Japan.” FRED, Federal Reserve Bank of St. Louis, 1 Jan. 1989, fred.stlouisfed.org/series/IRLTLT01JPM156N#
+
+</x-accordion>
+
 <x-accordion summary="2025 Summary: Major Events in the Equity Market">
 
 _Written by William ZHANG Jiahua and Cathy TAM Tsz Ching, Proofreading by Charles SHI Qiyuan, 26/01/2026_
