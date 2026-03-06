@@ -7,6 +7,171 @@
 These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities.
 
 ## Headlines
+<x-accordion summary="Week of 06/02/2026">
+
+### Japan
+
+_Written by Tiffany ZHANG Difei_
+
+#### Weekly Key Data:
+1. Nikkei 225: 54,253.68 (+0.81%)
+2. TOPIX: 3699.00 (+1.28%)
+3. Japan Unemployment Rate: 2.6% (Dec 2025)
+4. Inflation Rate: 2.1% (Jan 2026)
+5. GDP Annual Growth Rate: +0.66% (Jan 2026)
+6. GDP Growth Annualized (Q3 2025): -2.3%
+7. Retail Sales YoY: -0.9% (Jan 2026)
+
+#### Sector News:
+The semiconductors & Tech sector was the most dynamic sector. It led the historic rally on Feb 3, with stocks like Kioxia (+12.7%) and Advantest (+7%) surging. The sector faced pressure mid-week from a global tech sell-off but staged a recovery on Friday. Due to Historic One-Day Rally and "Takaichi Trade" Election Bets, the market priced in expectations that a victory of Prime Minister Sanae Takaichi in the Feb 8 snap election would mean continued fiscal support for strategic industries like chips.
+
+On the other hand, the Financials sector demonstrated strong performances. Mizuho Financial (+5.8%) rose after strong earnings and a share buyback announcement. Market analysts suggested that despite volatility in Japanese Government Bonds (JGBs), major banks' large unrealized equity gains cushion them from potential losses.
+
+#### Single Stock News:
+1. Sanko Kogyo (7922)
+Sanko Kogyo (7922), which has a weekly gain of +78.08%, expressed support for Baron's tender offer for Sanko Sangyo as part of a management buyout (MBO) on Feb 3. This support was well received, causing the stock price to rise close to the tender offer price of 726 yen.
+2. Toyota Motor’s (7203)
+On Feb 6, Toyota Motor's (7203) stock showed resilience and gained strength. This positive performance was driven by investor support following the release of its quarterly results that afternoon, which reported solid growth in operating profit and prompted the company to raise its full-year forecast.
+
+### Mainland China
+
+_Written by William ZHANG_
+
+#### Weekly Key Data:
+1. SSE Composite Index: 4,065.58 (-0.35%) over the past 5 trading days.
+2. Shenzhen Component Index: 13,906.73 (-1.57%) over the past 5 trading days.
+3. ChiNext Price Index: 3,236.46 (-3.91%) over the past 5 trading days.
+4. CSI 300 Index: 4,643.60 (-1.33%) over the past 5 trading days.
+5. Consumer Price Index (CPI) in December 2025: +0.8% year-on-year.
+6. Producer Price Index (PPI) in December 2025: -1.9% year-on-year.
+7. Gross Domestic Product (GDP) in 2025: +5.2% year-on-year.
+
+#### Sector News:
+This week, developments in China’s semiconductor and AI infrastructure sector were shaped by both domestic funding activity and external supply conditions. Several China related chip designers advanced capital raising efforts in Hong Kong, with companies such as Montage Technology and Axera Semiconductor pursuing secondary listings or IPO processes to support research and development and business expansion.
+
+At the same time, overseas supply constraints remained relevant, as regulatory conditions surrounding the export of advanced AI chips continued to influence acquisition and deployment timelines for large-scale AI computing in China. Together, these factors suggested the sector’s sensitivity to capital availability and global policy developments affecting high performance computing hardware.
+
+#### Single Stock News:
+1. Montage Technology Co., Ltd. (688008.SH)
+Montage Technology Co., Ltd. (688008.SH) had a decline of approximately 10.1% over the past five trading days (Jan 30–Feb 6, 2026). During the week, market attention centered on the company’s movement toward a secondary listing in Hong Kong, with proceeds intended for research and development, commercialization activities, and general corporate purposes. Separately, the company disclosed in a STAR Market filing that its 2025 net profit attributable to shareholders was expected to fall within RMB 2.15 billion to 2.35 billion range, based on preliminary and unaudited figures. 
+
+### HKSAR
+
+_Written by Doraa HE Xu_
+
+#### Weekly Key Data:
+1. Hang Seng Index: 26559.95 (-1.21%)
+2. Hang Seng Tech Index: 5346.20 (-1.11%)
+3. Hang Seng China Enterprises Index: 9031.38 (-0.68%)
+4. HIBOR (weekly): 2.05% (-0.0199%)
+5. Unemployment Rate: 3.8%
+6. Inflation Rate (CPI): 1.0% (year-on-year)
+
+#### Sector News:
+During the trading week of February 2–6, 2026, the Hong Kong market navigated a volatile landscape, the Hang Seng Index (HSI) closed at 26,559.95, a 1.21% decline. The primary catalyst for this downturn was a sharp retreat in the Technology Sector, as the Hang Seng TECH Index fell to 5,346.2 amid global skepticism regarding the immediate profitability of heavy AI capital expenditures. Despite this secondary market pressure, the IPO and Fundraising sector showed resilience; Hong Kong solidified its status as an AI hub by raising nearly US$4.9 billion for AI firms over the preceding two months, bolstered by the high-profile HK$10.68 billion debut of Muyuan Foods.
+
+In the Property Sector, a distinct divergence emerged: secondary residential home prices hit a two-year peak, supported by the Centaline City Leading Index (CCL) rising to 147.23, while the commercial office market continued to struggle with vacancy rates exceeding 15%. This sector also saw a major regulatory update as the HKMA announced the expansion of the Payment Arrangements for Property Transactions (PAPT) to the secondary market, modernising mortgage settlements by eliminating physical cheques. Further supporting the Financial Services sector, the HKMA unveiled a new Fintech Promotion Blueprint focusing on Quantum Preparedness and Distributed Ledger Technology, while the government proposed expanding tax incentives for family offices to include gold-linked ETFs. Collectively, these developments reflect a market in transition, balancing macroeconomic tech headwinds against robust regulatory modernization and a strengthening residential real estate foundation.
+
+#### Single Stock News:
+1. Tencent Holdings (0700.HK)
+Tencent faced downward pressure as investors reassessed the valuation of heavyspending AI firms. The stock hit a 22-month low during the week, ending at HK$547.50 on February 6, a decline from its February 2 opening of HK$598.00. Despite the slump, Tencent remained a top-traded stock via the Shanghai-Hong Kong Stock Connect, recording a daily volume of RMB 4.30 billion
+2. Muyuan Foods (2714.HK)
+The week featured the landmark IPO of the world’s largest hog farmer, which officially listed on the HKEX on February 6, 2026. It became the first pig farming enterprise with an "A+H" dual-listing in China, raising HK$10.68 billion from 14 cornerstone investors. The stock opened flat at HK$39.00, exactly at its IPO offer price, and at a discount of over 25% compared to its A shares. It rose 3.90% on its debut Friday and closed at HK$39.00, bucking the broader market downtrend, with over 40.58 million shares traded and a total turnover of approximately HK$1.63 billion.
+3. SMIC (0981.HK)
+Semiconductor Manufacturing International Corporation (SMIC) mirrored the global weakness in the technology and semiconductor sectors. The stock fell steadily throughout the week, starting at HK$72.20 on February 2 and closing at HK$67.60 on February 6. Investors trimmed exposure to growth-sensitive chip stocks ahead of the company's upcoming earnings report scheduled for February 10, 2026.
+
+### India
+
+_Written by Matthew SZE-TO_
+
+#### Weekly Key Data (Figure (daily, weekly)):
+1. NIFTY 50: 25693.70 (+0.20%, +3.38%)
+2. SENSEX 30: 83580.40 (+0.32%, +3.23%)
+3. PMI Composite: 58.4 (-1.1 from December)
+4. PMI Manufacturing: 55.4 (+0.4 from December)
+5. PMI Services: 58.5 (+0.5 from December)
+
+#### Sector News:
+The Nifty FMCG index rose 2.27% on Feb 6 and closed at 51882.75, reflecting a relative strong position compared with broader benchmarks during the week in the Indian Market. The movement was likely driven by rebounds in the stock exposed to cigarettes and staples, following price adjustments implemented in response to the recent Goods and Service Tax reforms. The Goods and Service Tax rate increased to 40% on tobacco products, which prompted swift pass-through to consumers in cigarette-linked segments. Looking closer at specific industry analysis, SBI’s data indicates that a moderately positive overall budget impact through strengthened rural and semi-urban consumption drivers. Major players in the FMCG industry also announced plans to increase advertising spends by 10-15% respectively through 2026, likely to capitalize on margin improvements and seasonal demand upticks. Despite regulations on tobacco, competition in staples and uneven rural wage growth persists as difficulties in the industry.
+
+#### Single Stock News:
+ITC Ltd. shares rose by 5% on Feb 6. This growth signified ITC’s increase following last month’s 4% decrease. This is likely related to their newest quarterly earnings reports. The report showed 7.1% YoY gross revenue growth, an interim dividend of 6.5 rupees per share and the confirmation of price hikes to offset tax increases. However, considering ITC’s performance compared to Sensex, ITC’s returns generally lag behind Sensex’s, which takes into the account of major key players in the Indian Markets. Nonetheless, the short-term momentum that ITC has accumulated in the past week has showed its unique performance as a notable rebound stock within the FMCG sector. This shows that ITC can outperform both its sector average and the broader Sensex index amid negative market environment, highlighting its resilience at least in the short term. 
+
+### SEA
+
+_Written by Arman ABILKASSYM_
+
+#### Weekly Key Data:
+1. Straits Times Index (STI): 4934.41 (+0.6%)
+2. Jakarta Composite Index (JCI): 7935.26 (-4.73%)
+3. FTSE Bursa Malaysia KLCI (FBM KLCI): 1732.83 (-0.46%)
+4. SET Index: 1354.01 (+2.14%)
+5. PSE Composite Index (PSEi): 6390.91 (+0.98%)
+6. VN-Index: 1755.49 (-4.02%)
+7. Inflation Rate (CPI, Latest Data for 2026):
+• Indonesia: 3.55% (Year-on-Year, January 2026)
+• Philippines: 2.00% (Year-on-Year, January 2026)
+• Singapore: 1.20% (Year-on-Year, December 2025)
+• Thailand: -0.66% (Year-on-Year, January 2026)
+• Malaysia: 1.60% (Year-on-Year, December 2025)
+• Vietnam: 2.53% (Year-on-Year, January 2026)
+
+#### Sector News:
+Indonesia's stocks and currency skidded on Friday after Moody's lowered the country's credit rating outlook. The benchmark Jakarta Composite Index (.JKSE), lost 2.5% while the rupiah dropped as much as 0.37% to 16,888 per dollar, its lowest since Jan 22 and down 1% for the year. Moody's on Friday also cut its outlook for five of the country's biggest banks and seven companies, including Indonesia's biggest telecoms firm Telkom Indonesia (TLKM.JK), its cellular provider unit Telkomsel, instant-noodle maker Indofood CBP Sukses Makmur (ICBP.JK), and heavy equipment and mining company United Tractors (UNTR.JK). The outlook reduction also affected energy firm Pertamina, its upstream unit and miner MIND ID.
+
+Thailand is positioning itself to host Southeast Asia’s first Disneyland, as the Government steps up efforts to attract a world-class theme park as part of its broader push to expand family-oriented entertainment and tourism. The proposed location for any Disneyland would be within the Eastern Economic Corridor (EEC), the threeprovince development zone east of Bangkok that showcases Thailand’s ambitions in high-tech manufacturing, sustainable development, and modern urban living. Further strengthening the area’s appeal, the Government is developing a national sports complex in the EEC, highlighted by a world-class football stadium with an 80,000-seat capacity intended for international sporting events, concerts, and large-scale entertainment. Disney currently operates theme parks in Tokyo, Hong Kong, and Shanghai.
+#### Single Stock News:
+1. Telkom Indonesia (TLKM.JK)
+The stock price of Indonesia’s biggest telecoms firm Telkom Indonesia (TLKM.JK) has fallen by 6.11% to 3380 IDR. The cut of outlook by Moody’s agency was a reason that influenced it. The company’s price has fluctuated between the price 1900 IDR and 4850 IDR since October 2015. The last two earnings and revenue reports from the company did not meet the expectations. The next report is anticipated to be released by March 17, 2026.
+
+### US
+
+_Written by Jackie LUI Ching Ho_
+
+#### Weekly Key Data:
+1. Dow Jones Industrial Average: 50115.67 (+2.47%)
+2. S&P 500 Index: 6932.3 (-0.10%)
+3. NASDAQ Composite Index: 23031.21 (-1.84%)
+4. U.S. ISM Manufacturing Purchasing Managers Index (PMI) in January: 52.6
+(Increased from 47.9 in December)
+5. U.S. ISM Non-Manufacturing Purchasing Managers Index (PMI) in January: 53.8
+(Decreased from 54.4 in December)
+6. U.S. ADP Nonfarm Employment Change in January: 22K (Decreased from 41K
+in December)
+
+#### Sector News:
+The software sector faced significant pressure this week, driven by rising concerns about the long-term viability of traditional "Software as a Service" (SaaS) business models in the face of generative AI breakthroughs. A basket of big US software equities witnessed a strong correction, with Thomson Reuters (TRI) down 20.39%, ServiceNow (NOW) down 13.9%, and Salesforce (CRM) down 9.86%. The recent advances in Anthropic’s AI agent software, automating contract evaluations and optimizing compliance operations, served as the key driver for this repricing. The market perceived this technological advancement as a direct challenge to the subscription pricing power of legacy workflow and legal software.
+
+The financial sector demonstrated a positive rotation toward regional banking. The KBW Regional Banking Index (KRX) climbed 6.99% this week, outpacing large money center banks. The difference reflects a market trend toward smaller-cap value opportunities, which is supported by improved credit quality, a steeper yield curve, and increased loan demand.
+
+#### Single Stock News:
+1. Amazon (AMZN)
+Amazon (AMZN) saw a significant drop, plunging 12.11% following their Q4 2025 earnings announcement. While the firm maintained strong performance, generating 13.63% year-over-year revenue growth and exceeding expectations with a 24% expansion of its AWS cloud division. However, management's decision to increase 2026 capital expenditure projection to USD 200 billion, primarily directed toward its satellite internet constellation (Amazon Leo) and broader AI/data infrastructure expansion, turned the attention to capital intensity and execution risk.
+2. Procter & Gamble (PG)
+Procter & Gamble (PG) gained 4.88% this week and is up over 12.0% year to date, continuing its rebound from a quiet 2025. The move is supported by stable secondquarter performance, reaffirmed guidance, and a capital return plan of about USD 15 billion (dividends and buybacks). In a backdrop of increased volatility in technology and software, investors appear to be rotating into consumer staples companies.
+
+### EU Market
+
+_Written by Joshua CHAN_
+
+#### Weekly Key Data:
+1. Euro Stoxx 50 index: 5,998.40 (+0.85%)
+2. DAX (Germany): 24,721.46 (+0.74%)
+3. CAC 40 (France): 8,273.84 (+1.81%)
+4. FTSE 100 (London): 10,369.75 (+1.43%)
+
+#### Sector News:
+Banks continued to outperform strongly, driving gains as the sector reached multiyear highs on robust earnings momentum, improved lending prospects, and supportive ECB policy signals. Financials benefited from recovery themes and positive corporate updates, with many names posting strong results and optimistic outlooks.
+
+Healthcare showed mixed but positive momentum, boosted by select earnings beats and strategic moves like GSK's growth plans and AstraZeneca's listing shifts. Energy and utilities held steady or gained on commodity stability and transition investments, while consumer stocks and telecoms provided support through rallies. Tech faced some pressure from AI-related reassessments and software sector concerns (e.g., after recent AI advancements), leading to selective pullbacks, though semiconductors showed recovery signs. Industrials and cyclicals rotated positively amid broader optimism. Overall, sentiment strengthened on earnings strength, ECB accommodation, and shifts away from overextended areas, with caution around geopolitical factors, trade dynamics, and upcoming data. The week featured a strong close, reversing early dips and capping gains for key benchmarks.
+
+#### Single Stock News:
+1. ASML Holding NV (ASML.AS):
+The Dutch semiconductor equipment leader continued its strong performance, with notable gains this week amid tech sector recovery and sustained AI-driven chip demand. Shares benefited from positive analyst upgrades and momentum in high-tech manufacturing – a beneficiary of ongoing data center expansion and electrification trends, though global supply and trade uncertainties remain watch points.
+2. GSK plc (GSK.L):
+The British pharmaceutical giant surged impressively this week (up around 6-7% in key sessions), hitting 25-year highs after the new CEO outlined ambitious plans to accelerate sales growth, speed up medicine development, and enhance pipeline momentum. Strong outlook and strategic focus lifted investor confidence – a solid play in healthcare amid earnings season, with potential for further upside on execution, though broader sector volatility persists.
+
+</x-accordion>
 
 <x-accordion summary="Week of 30/01/2026">
 
