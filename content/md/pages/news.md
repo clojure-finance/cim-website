@@ -35,7 +35,7 @@ On Feb 6, Toyota Motor's (7203) stock showed resilience and gained strength. Thi
 
 ### Mainland China
 
-_Written by William ZHANG_
+_Written by William ZHANG Jiahua_
 
 #### Weekly Key Data:
 1. SSE Composite Index: 4,065.58 (-0.35%) over the past 5 trading days.
@@ -82,7 +82,7 @@ Semiconductor Manufacturing International Corporation (SMIC) mirrored the global
 
 ### India
 
-_Written by Matthew SZE-TO_
+_Written by Matthew SZE-TO Chun Yin_
 
 #### Weekly Key Data (Figure (daily, weekly)):
 1. NIFTY 50: 25693.70 (+0.20%, +3.38%)
@@ -518,7 +518,7 @@ Goldman Sachs presented the most significant banking industry update this week. 
 
 ### EU
 
-_Written by Joshua Chan_
+_Written by Joshua CHAN_
 
 #### Weekly Key Data: 
 1.	Euro Stoxx 50 index: 6,029.45 (-0.17%)
@@ -540,7 +540,7 @@ The German chipmaker has demonstrated mixed performance recently, benefiting ini
 
 ### Mainland China
 
-_Written by William Zhang_
+_Written by William ZHANG Jiahua_
 
 #### Weekly Key Data:
 1.	SSE Composite Index: 4,101.91 (-0.80%) over the past 5 trading days. 
@@ -565,7 +565,7 @@ Baic Bluepark’s share price slightly dropped by 0.47% over the week, reflectin
 
 ### SEA
 
-_Written by Arman Abilkassym_
+_Written by Arman ABILKASSYM_
 
 #### Weekly Key Data:
 1. Straits Times Index (STI): 4849.10 (+2.2%)
@@ -797,7 +797,7 @@ Foreign investors continued to favor large-cap companies with global exposure an
  
 ### India
 
-_Written by Matthew Sze-to_
+_Written by Matthew SZE-TO Chun Yin_
 
 #### Weekly Key Data:
 Weekly Key Data: Figure (daily, weekly)
@@ -1049,7 +1049,7 @@ Investors showed growing interest in Alphabet when Berkshire Hathaway disclosed 
 
 ### Mainland China
 
-_Written by William Zhang_
+_Written by William ZHANG Jiahua_
 
 #### Weekly Key Data:
 1.	SSE Composite Index: 3,990.49 (-0.28%) over the past 5 trading days.
@@ -1101,7 +1101,7 @@ Ascletis Pharma-B surged over 45% this week and closed at 13.74 HKD on November 
 
 ### Europe
 
-_Written by Joshua Chan_
+_Written by Joshua CHAN_
 
 #### Weekly Key Data:
 1.  Euro Stoxx 50 index: 5,693.77 (+0.86%) 
@@ -1147,7 +1147,7 @@ Rakuten Group (TOKYO: 4755) rose 2.3% on November 13 following an November 11 AI
 
 ### India
 
-_Written by Matthew Sze-to_
+_Written by Matthew SZE-TO Chun Yin_
 
 #### Weekly Key Data:
 Weekly Key Data: Figure (daily, weekly)
@@ -1169,7 +1169,7 @@ For this week, I’ll be extending from the industry news on technology and anal
 
 ### South East Asia
 
-_Written by Arman Abilkassym_
+_Written by Arman ABILKASSYM_
 
 #### Weekly Key Data:
 1.	STI index: 4,538.56 (+1.2%)
