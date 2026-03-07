@@ -7,6 +7,141 @@
 These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities.
 ## Headlines
 
+
+
+<x-accordion summary="A Close Look at Hong Kong's Real Estate Market: Performances and Trends">
+
+_Written by: Vicky HUANG Lihan, Ling GUO Yuling_
+
+_Published by Arya RAJESH_
+
+### 1. Executive Summary
+
+This article reviews 2025 market conditions and assesses the sustainability of this recovery into 2026 and its key policy implications. Mixed performances across subsectors are observed. The private residential sale price index as of October 2025 rose by 1-2% year-over-year, partly reversing the cumulative 15-20% decline since 2022, while the rental index returned to low-to-mid single-digit growth, supporting stable landlord returns. Commercial real estate performance was mixed, but improving, though Grade-A offices still faced high vacancies. Retail benefited from tourism's return, and modern logistics assets outperformed, with large investment deals above HKD 100 million totalling about HKD 39 billion, a 12% increase. In 2025, Hong Kong's real estate market showed signs of stabilisation, with transaction volume leading a broad recovery across residential, commercial, industrial, and retail sectors.
+
+### 2. Macro Environment and Policy Context
+
+### 2.1 Interest Rate Trends and Overall Market Environment
+
+In 2025, the Hong Kong residential market operates under peaking-then-declining interest rates and increased housing supply, leading to a recovery in transaction activity but only moderate price growth. Market forecasts generally suggest that residential transactions may reach around 60,000 units or above for the year, while overall prices are expected to remain in a low single-digit growth range of roughly 0-5%, reflecting improved sentiment but limited room for a sharp rebound under high inventory and external uncertainties.
+ 
+### 2.2 Financing Environment and Mortgage Conditions
+
+The summer of 2025 saw extraordinary HIBOR volatility driven by currency-peg mechanics. The April 2025 US reciprocal tariff announcements triggered widespread US dollar weakness, with the DXY plunging from January peaks of 110 to lows near 97.9. As the HKD surged to the strong side of its peg, the HKMA sold HK$129 billion in exchange for USD, leading to a surge in banking system liquidity and a collapse in interbank rates, with overnight HIBOR falling from over 4% to near zero within weeks. Notably, 1M HIBOR plunged from 4% in early May to below 1% within a month, as the aggregate balance rose from HK$44 billion to HK$174 billion. This dramatic fall created a massive interest rate differential with USD rates. The one-month SOFR-HIBOR spread expanded beyond 370 basis points, which in turn incentivised carry trades (borrowing cheap HKD to invest in higher-yielding USD assets). The wide gap from May triggered carry trades that pushed the Hong Kong dollar to the weak end of its peg and triggered further HKMA interventions, this time draining liquidity. The overnight rate rebounded sharply to 2.9% by mid-August, and the one-month HIBOR surged from approximately 0.9% to 2.6% within a week. By late 2025, the aggregate balance had stabilised at HK$50–80 billion after the HKMA drained roughly HK$120 billion in August, bringing the fluctuations to a close and leaving rates in a more normalised range heading into 2026.
+
+By late 2025, declining interest rates materially altered the cost-of-ownership equation. One-month HIBOR stabilised below 3%, while prime lending rates also edged lower. In certain submarkets, monthly mortgage payments declined to levels below comparable rental costs, creating a positive ownership-rental cost spread. This shift provided fundamental support for price stabilisation and laid the groundwork for potential upside in 2026.
+
+### 2.3 Housing Supply Planning and Regional Development Strategy
+
+Long-term growth expectations continued to be shaped by infrastructure-led development, particularly within the Northern Metropolis. The 2024 Long Term Housing Strategy progress report sets a 2025/26-2034/35 overall housing supply target of 440,000 units, about 308,000 public and 132,000 private, backed by identified land resources.
+
+Government policy in 2025 placed stronger emphasis on area-based planning and innovative land development models. The Northern Metropolis, located in the northern New Territories along the Shenzhen River, is being developed as a roughly 30,000-hectare strategic growth area to provide substantial additional residential and commercial land and to strengthen transport links with the core business districts of Hong Kong and Shenzhen. Flagship projects such as the San Tin Technopole are expected to enhance Hong Kong's technology and innovation ecosystem, while ongoing transport infrastructure investments are improving regional connectivity. Together, these initiatives are strengthening the long-term land value and development potential of the New Territories.
+
+### 3. Market Performances
+
+### 3.1 Overall Investment Activities and Transaction Volume
+
+Investment activity in 2025 was marked by a small number of sizeable transactions amid generally cautious market sentiment. While deals exceeding HKD 100 million remained limited in count, the total value of large transactions rose by approximately 12% year-on-year to around HKD 39 billion. Market participation was largely driven by domestic capital and institutional investors, with professional buyers dominating transaction activity. Investor preference remained skewed toward assets offering stable income visibility and long-term value preservation rather than speculative upside.
+
+### 3.2 Residential Property Market
+
+In 2025, Hong Kong's residential property market saw a clear rebound in transaction activity, a development that preceded stabilisation in prices. Preliminary data show that total residential sale and purchase agreement registrations reached about 62,000 units in 2025, up approximately 17% compared with 2024. This increase reflects a meaningful return of market participation after several years of subdued activity.
+
+The primary market was especially strong. Over 20,000 first-hand private residential units were registered, representing an almost 20% year-on-year increase-the highest level since the First-hand Residential Properties Sales Ordinance came into effect in 2013. A key factor was developers' pricing approach: new launches were typically offered at 10% - 15% discounts relative to nearby secondary prices, a strategy that helped convert dormant buyer interest into actual transactions. About 52% of primary sales were "tail units" from earlier project phases. This indicates that a significant portion of long-standing inventory was absorbed, leaving unsold stock at its lowest level in over two years.
+
+The secondary market also regained traction. Despite competition from discounted new launches, secondary transactions were close to 44,900 units for the year, returning to a level consistent with the previous five-year average. The removal of market-cooling measures supported this rebound.
+
+### 3.2.1 Price Trends
+
+After bottoming out in the first half of the year, residential prices gradually strengthened. The Rating and Valuation Department's private residential price index rose to 297.3 points by November 2025, representing an approximately 2.8% increase for the year and marking the end of three consecutive years of price declines.
+
+The recovery, however, was uneven across segments. Smaller units recorded only modest price movements, while mid-sized units (70-99.9 sq m) outperformed, reflecting stronger end-user demand and improved affordability relative to larger luxury units.
+
+### 3.2.2 Rent Trends
+
+The rental market significantly outperformed the sales market. The private residential rental index reached a record high of 200.7 points in November 2025, with rents rising over 4% year-on-year. This divergence between moderate price growth and robust rental growth highlights a structural shift in housing demand. Inflows of non-local professionals and students continued to support rental absorption, while some potential buyers deferred purchase decisions amid lingering interest rate uncertainty.
+
+Rental yields in Hong Kong in June 2025 rose to their highest level in more than 13 years, fuelled by strong leasing demand from mainland Chinese students. The Centaline Rental Index Yields rose for a second consecutive month to 3.56% in June, the highest since November 2011. Average gross rental yield stood at 3.9% in Q2 2025, up from 3.88% in Q4 2024, 3.52% in Q3 2024, 3.54% in Q2 2024, and 3.39% in Q1 2024. This demonstrates a steady upward march reflecting rents outpacing capital values. This widening was stark in absolute terms: home values remained around 25% lower than the peak in 2021, while the rental price index rose to the highest since records began in 1993.
+
+### 3.2.3 Implications
+
+The widening gap between rental growth and price appreciation has enhanced the investment attractiveness of residential assets, particularly from a yield perspective. In several submarkets, rental yields stabilised or improved as rents rose faster than capital values, narrowing the yield gap relative to financing costs. This dynamic encouraged investor participation in selected segments, especially income-focused strategies.
+
+Regionally, pricing dispersion became more evident. Well-connected mass-market areas and selected New Territories locations appeared relatively underpriced, supported by improving infrastructure and resilient rental demand. In contrast, prime luxury districts remained comparatively expensive on a price-to-rent basis, with slower recovery momentum reflecting more discretionary demand. One possible explanation could be the robust demand from incoming skilled professionals and a surge in non-local students, especially in neighbourhoods near universities. Average rents near HKU escalated to HK$65 per square foot, with small apartments (~215 sq ft) renting for as much as HK$13,000 per month. In September, some housing estates near universities gained rental returns of more than 4.5%. For example, Garfield Garden in Kennedy Town saw a rental yield of 4.68%, recording a 100 bps premium above average yield.
+
+Overall, the market entered a phase of selective repricing rather than broad-based recovery, reinforcing a more disciplined and fundamentals-driven investment environment.
+
+### 3.3 Commercial and Industrial Sectors
+
+The Grade-A office market continued to contend with high vacancy, with citywide rates hovering between 17% and 20%. However, a distinct divergence emerged in the second half of the year. While decentralised districts struggled, core districts, particularly Central, showed improving fundamentals. Central recorded modest rental growth and solid net absorption, driven by a flight to quality. Occupiers capitalised on the narrowed rent gap between prime and secondary buildings to upgrade their workspaces. For example, The Henderson by Henderson Land became a primary beneficiary of this trend. In a marquee deal, US quantitative trading firm Jane Street leased approximately 223,000 square feet (across six floors), signifying strong demand from high-value financial tenants. Other premium tenants like Christie's and Carlyle also anchored their presence here, reinforcing Central's status as the premier hub for wealth management and luxury auctions.
+
+Traditional financial anchors like HSBC and other major banks maintained their strategic strongholds in the Core Central district (e.g., opening what HSBC described as the world's tallest wealth management office.), providing a floor for occupancy rates. The expansion of Mainland Chinese financial institutions and returning hedge funds further supported rental levels in these prime assets.
+
+### 3.4 Retail Sector
+
+Retail investment activity in 2025 remained selective, with capital concentrated in prime assets and clear differentiation in pricing. Core retail properties generally traded at net yields of around 2.5%-3.0%, while non-core assets required yields of 4.0% or above, reflecting a continued flight to quality. Notable market transactions, including HKD 1-1.5 billion acquisitions by long-term local capital, demonstrated sustained demand for scarce, income-secure retail assets despite a still-fragile leasing recovery. Leasing fundamentals improved modestly alongside the rebound in tourism, with prime rents recording low single-digit quarter-on-quarter growth and vacancy rates trending lower. In contrast, the food and beverage segment remained under pressure, prompting landlords to rely on rental concessions and flexible lease structures.
+
+### 3.5 Industrial and Logistics
+
+Industrial property displayed resilience, but with notable internal variation. Traditional warehouse space faced higher vacancy, reaching around 13% as export activity fluctuated. At the same time, demand for modern logistics facilities, particularly those supporting e-commerce and cold-chain operations, remained relatively strong. Noteworthy transactions included owner-occupier purchases of industrial properties, and rents for advanced logistics space held up better than the overall market average.
+
+### 4. Outlook
+
+Hong Kong's residential market enters 2026 with a broadly improving backdrop: most major consultancies now expect prices to have bottomed out, with mainstream home values projected to rise by around 3-8% and annual transactions to stay above 60,000 units as buying interest gradually normalises. While external risks around global growth, US rate-cut timing, mainland China's recovery, and geopolitics still warrant attention, the balance of opinion has shifted towards a measured recovery scenario in which lower interest rates, returning mainland demand, and a more supportive policy stance on affordability and land supply together foster a more stable, healthier housing market over the medium term. While the residential market is expected to stabilize, demand for Grade-A offices remains subdued amid ongoing relocations and supply overhangs.
+
+### References
+
+1. Bloomberg. (2025). Bloomberg terminal data: HIBOR, SOFR, DXY time series
+(January–December 2025). Bloomberg L.P.
+2. CBRE. (2026). Asia Pacific real estate market outlook 2026: Hong Kong chapter.
+CBRE.
+3. 4. CBRE. (2026). Hong Kong office marketview Q4 2025. CBRE.
+Centaline Property Agency. (2025). Centaline rental index and yield statistics (Q1–Q2
+2025). Centaline Group.
+5. Centaline Property Agency. (2025). Hong Kong residential property market outlook
+2025. Centaline Group.
+6. Centaline Property Agency. (2025). Rental market update: University district
+(HKU–Kennedy Town). Centaline Group.
+7. Colliers. (2026). Hong Kong industrial and logistics market report 2025. Colliers
+International.
+8. Development Bureau. (2021). Northern Metropolis development strategy. Hong Kong
+SAR Government.
+9. Development Bureau. (2023). San Tin Technopole: Planning and development
+overview. Hong Kong SAR Government.
+10. Henderson Land Development Company Limited. (2025). Leasing update for The
+Henderson [Press release]. Henderson Land.
+11. Hong Kong Monetary Authority. (2025). Aggregate balance and HKD exchange fund
+bills statistics (Monthly data, May–December 2025). HKMA.
+12. Hong Kong Monetary Authority. (2025, December 11). HKMA adjusts base rate to
+4.0 per cent [Press release]. HKMA.
+13. Hong Kong Mortgage Corporation Limited. (2024). Mortgage insurance programme:
+Product leaflet. HKMC.
+14. HSBC. (2025). HSBC opens world’s tallest wealth management office at ICC in Hong
+Kong [Press release]. The Hongkong and Shanghai Banking Corporation Limited.
+15. JLL. (2025). Hong Kong residential market monitor Q1–Q4 2024 and Q2 2025. Jones
+Lang LaSalle.
+16. JLL. (2026). Asia Pacific property outlook 2026: Hong Kong. Jones Lang LaSalle.
+17. Knight Frank. (2025). Hong Kong residential market forecast 2025. Knight Frank.
+18. Knight Frank. (2026). Hong Kong residential and investment forecast 2026. Knight
+Frank.
+19. Land Registry. (2026). Statistics on sale and purchase agreements for building units
+2013–2025. Hong Kong SAR Government.
+20. Midland Realty. (2026). Hong Kong residential transactions statistics 2019–2025.
+Midland Holdings.
+21. Rating and Valuation Department. (2024). Historical property price and rental indices
+1993–2024. Hong Kong SAR Government.
+22. Rating and Valuation Department. (2025). Hong Kong property review: Residential
+(2025 October update). Hong Kong SAR Government.
+23. Rating and Valuation Department. (2025). Property market statistics: Private domestic
+– Price indices (January–November 2025). Hong Kong SAR Government.
+24. Rating and Valuation Department. (2025). Property market statistics: Private domestic
+– Rental indices (January–November 2025). Hong Kong SAR Government.
+25. Savills. (2026). Hong Kong investment market in 2025. Savills Research.
+26. South China Morning Post. (2025, September 10). Rents near Hong Kong University
+hit record as mainland students return. South China Morning Post Publishers.
+27. Transport and Housing Bureau. (2024). Long term housing strategy: Progress report
+2024. Hong Kong SAR Government.
+
 <x-accordion summary="An Overview of the 2025 Bond Market">
 
 _Written by: Emilie POU Ho Yuet, Mabel LOK Ka Ying_
