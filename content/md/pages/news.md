@@ -309,7 +309,8 @@ cyclical commodities environment.
 
 ### SEA
 _Written by Daisy DAI Yingxi_
-Weekly Key Data:
+
+#### Weekly Key Data:
 1.Straits Times Index (STI): 4,892.27
 2.Jakarta Composite Index (JCI): 7,888.23
 3.FTSE Bursa Malaysia KLCI (FBM KLCI): 1,740.88
@@ -3224,6 +3225,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
