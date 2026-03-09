@@ -9,6 +9,8 @@ These reports are prepared by students for educational purposes only and do not 
 ## Headlines
 <x-accordion summary="Week of 06/02/2026">
 
+_Published by Joey LAI_
+
 ### Japan
 
 _Written by Tiffany ZHANG Difei_
@@ -3222,6 +3224,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
