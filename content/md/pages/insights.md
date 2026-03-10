@@ -7,11 +7,104 @@
 These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities.
 ## Headlines
 
+<x-accordion summary="UK-US Immigration Restrictions and Global Inflation: From Domestic Labor Shortages to Global Financial Tightening">
 
+_Written by Diana LIU Haolin, Adrian PING An, Lucy ZHOU Zihan, 02/03/2026_
+_Proofread by Charles SHI Qiyuan_
+
+_Published by Nicholas FEDLIM_
+
+### 1. Introduction
+
+The resurgence of global inflation in the post-pandemic era is driven by multiple factors, notably supply chain disruptions and expansionary monetary policies. However, recent economic analyses suggest that labor market dynamics, specifically those influenced by restrictive immigration policies in major economies, play a significant role (Peri & Zaiour, 2022). While immigration policy involves a range of social, political, and security considerations beyond the scope of this article, this analysis focuses specifically on the macroeconomic and financial transmission channels.
+
+Over the past decade, immigration restrictions in the UK and the US constrained labor supply elasticity, contributing to the persistence of core inflation within these nations. Through mechanisms involving currency appreciation and capital flow volatility, these domestic policy choices can transmit inflationary pressures and financial tightening to the broader global economy (Gopinath et al., 2020).
+
+### 2. Theoretical Framework: From Domestic Shocks to Global Transmission
+
+To understand the global implications of labor shortages in major advanced economies, it is necessary to establish a transmission mechanism connecting labor economics with international finance. At the domestic level, immigration restrictions function as an exogenous negative supply shock, shifting the Long-Run Aggregate Supply (LRAS) curve to the left (Summers, 2022). In an environment where aggregate demand is stable or recovering, this contraction of potential output creates structural upward pressure on the price level.
+
+This supply-side constraint is fundamentally driven by a decline in the labor market's matching efficiency. Restrictive immigration policies shrink the pool of available workers with specific skills or geographic mobility, making it increasingly difficult for firms to fill vacancies. In economic terms, this causes an outward shift of the Beveridge Curve: for any given level of unemployment, the job vacancy rate remains abnormally high. As matching efficiency falls—meaning businesses face greater friction in finding suitable workers—firms are forced to raise nominal wages to attract scarce labor. This triggers a Wage-Price Spiral, particularly in the labor-intensive service sector, where costs are quickly passed to consumers. The result is "sticky" service inflation that remains resistant to standard interest rate adjustments (Federal Reserve Bank of Kansas City, 2022).
+
+### 2.1 The International Transmission Mechanism
+
+The propagation of this domestic inflation to the global stage is further explained by the Mundell-Fleming Model and the Dominant Currency Paradigm (Gopinath et al., 2020). When a major currency issuer (like the US or UK) faces persistent inflation due to labor constraints, its central bank typically responds with aggressive interest rate hikes. This widens the interest rate differential, attracting global capital and causing the domestic currency to appreciate. Given that global commodities and trade invoicing are heavily concentrated in these dominant currencies, a stronger dollar or pound effectively transmits imported inflation to trading partners -- a phenomenon known as the exchange rate pass-through.
+
+This mechanism leads to a period of policy synchronization, where other central banks are compelled to mirror these restrictive hikes to mitigate capital flight and defend their own currencies against depreciation. This collective movement triggers a sharp reduction in global market liquidity as the cost of borrowing rises simultaneously across borders. Emerging markets are particularly vulnerable to this shift; the combination of a stronger USD and higher global yields often leads to sudden capital reversals, increased debt-servicing costs for dollar-denominated obligations, and a contraction in industrial output. Consequently, a localized labor supply shock in a core economy can transform into a synchronized tightening of global financial conditions, weighing heavily on global growth and financial stability (IMF, 2023). 
+
+### 3. The United States – The Global Inflation Catalyst
+
+Over the past decade, the United States provides a case study of how domestic labor shortages can precipitate a global tightening cycle due to the dollar's dominance in the international financial system.
+
+### 3.1 The Accumulation of Deficit (2017 – 2019)
+
+Labor market tightening in the U.S. began well before the pandemic, marked by a structural shift in labor mobility. Net international migration (NIM) levels began to decline from prior averages, falling from approximately 1,047,000 in 2016 to roughly 595,000 in 2019—a 43% decrease (CBO, 2024). This decline was driven by increased administrative friction, such as the "Buy American, Hire American" executive order, which saw H-1B visa denial rates for initial employment jump from 6% in 2015 to 24% by 2019 (NFAP, 2019). Proponents of these measures argued they were necessary to protect domestic wages and employment opportunities, though the net macroeconomic effects remain debated. This pre-pandemic erosion of labor market "slack" reduced the elasticity of supply and steepened the Phillips Curve, priming the economy for future wage sensitivity even before the COVID-19 shock (Peri & Zaiour, 2022).
+
+### 3.2 The Supply Shock & Policy Response (2020 – 2022)
+
+The acute shock occurred with pandemic-related border closures and the application of Title 42, which brought net migration to near-zero levels. As the economy reopened in 2021, the Kansas City Fed estimated a structural shortfall of approximately 2 million workers, largely attributed to this prolonged halt in immigration (Federal Reserve Bank of Kansas City, 2022). This shortfall fueled a rapid wage-price increase, particularly in the leisure and hospitality sectors, contributing to CPI peaking at 9.1% in June 2022 (BLS, 2022). In response to this structural pressure, the Federal Reserve executed a series of aggressive rate hikes, including consecutive increases of 75 basis points. This domestic reaction triggered significant global spillovers via the Strong Dollar Channel; as the US Dollar Index (DXY) reached multi-decade highs, nations dependent on dollar-denominated imports faced escalating costs, effectively synchronizing a global tightening cycle (IMF, 2023).
+
+### 3.3 The Rebound & Disinflation (2023 – 2024)
+
+In the subsequent period, administrative processing accelerated. The Congressional Budget Office (CBO) estimated a net immigration surge of 3.3 million in 2023 (CBO, 2024, p. 20). This influx was pivotal not only in filling low-skill vacancies but also in facilitating structural adjustments across high-demand sectors like healthcare and manufacturing. In healthcare, foreign-born professionals helped mitigate severe staffing shortages in nursing and elder care, while in manufacturing, the return of skilled labor stabilized production lines (American Immigration Council, 2024). This expansion of labor supply allowed the U.S. to achieve strong GDP growth alongside falling inflation ("disinflation"), alleviating pressure on the dollar and stabilizing global interest rate expectations.
+
+### 4. The United Kingdom – A Case of Structural Constraints
+
+In contrast to the cyclical fluctuation seen in the US -- where immigration rebounded sharply to alleviate supply pressures -- the UK experience illustrates the impact of structural changes to labor mobility on regional supply chains and inflation persistence. This contrast reinforces the central thesis that the nature of the labor shock (cyclical vs. structural) significantly influences its economic consequences and transmission mechanisms.
+
+### 4.1 Post-Brexit Adjustments (2016 – 2020)
+
+Following the decision to exit the European Union and end "Freedom of Movement," the UK economy faced a period of structural adjustment. The ending of "Freedom of Movement" sharply reduced EU-origin labor inflows, particularly in low-wage sectors (Migration Observatory, 2022). The policy shift reflected broader public priorities around sovereignty and border control, though it introduced new frictions into the labour market. The initial depreciation of the Sterling raised import costs, while business investment slowed amid heightened uncertainty (ECB, 2023). More significantly, the net inflow of EU nationals—a key source of labor elasticity—diminished, setting the stage for a persistently tight labor market (Oxford Review of Economic Policy, 2022).
+
+### 4.2 Implementation & Supply Chain Disruption (2021 – 2022)
+
+The shift of the Points-Based System in January 2021 restricted the entry of workers for lower-paid roles (Migration Observatory, 2022). This policy shift coincided with a recovery in demand, leading to acute shortages in specific sectors, most notably the Heavy Goods Vehicle (HGV) driver crisis. The resulting logistics bottlenecks drove significant cost-push inflation, with UK CPI peaking at 11.1%, the highest among G7 nations (ONS, 2022).
+
+This impact was magnified by the UK economy's heavy reliance on labor-intensive service sectors. Sectors such as healthcare, social care, and hospitality, which have a high proportion of EU-born workers, faced extreme staffing shortages (Independent Report for the MAC, 2023). Unable to fill vacancies, firms in these sectors were compelled to offer significant wage increases to attract and retain staff. This wage pressure proved particularly "sticky" because it was driven by a structural scarcity of labor rather than cyclical demand. Consequently, these labor-intensive sectors became primary drivers of persistent domestic services inflation, which proved less responsive to initial interest rate adjustments by the Bank of England.
+
+Regionally, this generated spillover effects. As a key logistics node, disruptions in UK transport efficiency affected supply chains between Ireland and Continental Europe, contributing to higher regional logistics costs (CNBC, 2021). The persistence of inflation in the UK also signaled a "de-anchoring" of expectations -- a situation where the public begins to expect that inflation will remain above the central bank's target, influencing regional bond yields. This vulnerability arose because the supply-driven nature of the inflation (stemming from labor shortages) was less directly addressable by monetary tightening alone, potentially reducing the perceived effectiveness of the Bank's policy.
+
+### 4.3 Persistent Inflation & Policy Trade-offs (2023 – 2025)
+
+Despite economic headwinds, policy remained restrictive, with the baseline minimum salary threshold for the Skilled Worker visa increasing to £38,700 in April 2024 (House of Commons Library, 2024). The UK's core inflation has remained comparatively sticky, necessitating a "Higher for Longer" interest rate stance from the Bank of England (Bank of England, 2024). This divergence has implications for financial stability, aligning with the international transmission framework introduced earlier. The UK's persistent inflation and the associated "Higher for Longer" rate path directly influence the Gilt market. As a benchmark for global fixed-income pricing, instability in the Gilt market can trigger repricing across global sovereign bond markets. For instance, the sharp rise in Gilt yields during the 2022 market turmoil was not an isolated event; it prompted a broader reassessment of risk in other advanced-economy bond markets, leading to capital outflows and increased borrowing costs internationally (BIS, 2022). Thus, a structurally induced labor shortage in the UK can, via its sovereign debt market, transmit financial tightening signals to the global economy.
+
+### 5. Conclusion
+
+This analysis highlights that immigration policies in major economies like the US and UK act as potent macroeconomic variables with cross-border implications.
+
+  - **Supply-Side Impact**: Restrictive immigration policies function as negative supply shocks. By limiting potential output, they exacerbate wage-price spirals, making inflation control more costly in terms of interest rate policy.
+  - **Comparative Dynamics**: The divergence between the US and UK in recent years offers a critical insight. The U.S. experience suggests that a cyclical expansion of labor supply can serve as a powerful disinflationary mechanism, easing price pressures without a sharp economic downturn. In contrast, the UK's case demonstrates the risks of structural labor market rigidity. When embedded by policy changes, labor shortages can prolong inflation, entrench tighter monetary policy, and increase vulnerability to expectation de-anchoring.
+  - **Global Interconnectedness**: The costs of domestic labor shortages are not contained within national borders. Through currency appreciation and interest rate synchronization, these supply shocks are transmitted globally. Policy coordination and a recognition of labor mobility's role in global price stability are essential considerations for future economic governance.
+    
+Looking forward, these findings suggest that immigration policy dynamics are an underappreciated variable in macroeconomic and financial stability analysis and deserve closer attention from market participants. For major economies, a clear trade-off exists between restrictive policies and inflation control. For emerging markets, this creates vulnerability: labor mobility decisions in core economies can trigger volatile capital flows and tighter financial conditions abroad. Future governance requires greater recognition of labor mobility’s role in price stability and a more coordinated approach to managing supply-driven spillovers.
+
+### References
+
+1.	American Immigration Council. (2024). The Role of Immigrants in the U.S. Healthcare and Manufacturing Sectors.
+2.	Bank for International Settlements (BIS). (2022). Leverage and liquidity backstops: cues from pension funds and gilt market disruptions. Basel, Switzerland.
+3.	Bank of England. (2023). Monetary Policy Report - August 2023. London, UK.
+4.	Bank of England. (2024). Monetary Policy Report – February 2024. London, UK.
+5.	CNBC. (2021). The UK’s Supply Chain Crisis and its Regional Impact. https://www.cnbc.com/2021/10/14/uk-supply-chain-crisis-how-it-happened-and-when-it-will-end.html
+6.	Congressional Budget Office (CBO). (2024). The Demographic Outlook: 2024 to 2054. Washington, D.C.
+7.	European Central Bank (ECB). (2023). Economic Bulletin Issue 1/2023.
+8.	Federal Reserve Bank of Kansas City. (2022). Labor Shortages and the Immigration Shortfall. Economic Review, vol. 107, no. 4.
+9.	Gopinath, G., Boz, E., Casas, C., Díez, F. J., Gourinchas, P. O., & Plagborg-Møller, M. (2020). Dominant Currency Paradigm. American Economic Review, 110(3), 677-719.
+10.	House of Commons Library. (2024). Changes to legal migration rules for family and work visas in 2024 (Research Briefing CBP-9920). https://commonslibrary.parliament.uk/research-briefings/cbp-9920/
+11.	International Monetary Fund (IMF). (2023). World Economic Outlook: A Rocky Recovery. Washington, D.C.
+12.	Migration Advisory Committee (MAC). (2023). Independent Report: Labor Shortages in Social Care.
+13.	National Foundation for American Policy (NFAP). (2019). H-1B Denial Rates Past and Present.
+14.	Office for National Statistics (ONS). (2022). Consumer Price Inflation, UK: October 2022.
+15.	Oxford Review of Economic Policy. (2022). Labor Markets After Brexit.
+16.	Peri, G., & Zaiour, R. (2022). Labor Shortages and the Immigration Shortfall. UC Davis: Global Migration Center.
+17.	Summers, L. H. (2022). Hope for the Best, Prepare for the Worst. Council on Foreign Relations.
+18.	The Migration Observatory. (2022). The Post-Brexit Immigration System. University of Oxford.
+19.	U.S. Bureau of Labor Statistics (BLS). (2022). Consumer Price Index Summary - June 2022.
+
+</x-accordion>
 
 <x-accordion summary="A Close Look at Hong Kong's Real Estate Market: Performances and Trends">
 
-_Written by: Vicky HUANG Lihan, Ling GUO Yuling_
+_Written by: Vicky HUANG Lihan, Ling GUO Yuling, 17/02/2026_
 
 _Published by Arya RAJESH_
 
@@ -35,7 +128,7 @@ By late 2025, declining interest rates materially altered the cost-of-ownership 
 
 Long-term growth expectations continued to be shaped by infrastructure-led development, particularly within the Northern Metropolis. The 2024 Long Term Housing Strategy progress report sets a 2025/26-2034/35 overall housing supply target of 440,000 units, about 308,000 public and 132,000 private, backed by identified land resources.
 
-Government policy in 2025 placed stronger emphasis on area-based planning and innovative land development models. The Northern Metropolis, located in the northern New Territories along the Shenzhen River, is being developed as a roughly 30,000-hectare strategic growth area to provide substantial additional residential and commercial land and to strengthen transport links with the core business districts of Hong Kong and Shenzhen. Flagship projects such as the San Tin Technopole are expected to enhance Hong Kong's technology and innovation ecosystem, while ongoing transport infrastructure investments are improving regional connectivity. Together, these initiatives are strengthening the long-term land value and development potential of the New Territories.
+Government policy in 2025 placed a stronger emphasis on area-based planning and innovative land development models. The Northern Metropolis, located in the northern New Territories along the Shenzhen River, is being developed as a roughly 30,000-hectare strategic growth area to provide substantial additional residential and commercial land and to strengthen transport links with the core business districts of Hong Kong and Shenzhen. Flagship projects such as the San Tin Technopole are expected to enhance Hong Kong's technology and innovation ecosystem, while ongoing transport infrastructure investments are improving regional connectivity. Together, these initiatives are strengthening the long-term land value and development potential of the New Territories.
 
 ### 3. Market Performances
 
@@ -67,7 +160,7 @@ Rental yields in Hong Kong in June 2025 rose to their highest level in more than
 
 The widening gap between rental growth and price appreciation has enhanced the investment attractiveness of residential assets, particularly from a yield perspective. In several submarkets, rental yields stabilised or improved as rents rose faster than capital values, narrowing the yield gap relative to financing costs. This dynamic encouraged investor participation in selected segments, especially income-focused strategies.
 
-Regionally, pricing dispersion became more evident. Well-connected mass-market areas and selected New Territories locations appeared relatively underpriced, supported by improving infrastructure and resilient rental demand. In contrast, prime luxury districts remained comparatively expensive on a price-to-rent basis, with slower recovery momentum reflecting more discretionary demand. One possible explanation could be the robust demand from incoming skilled professionals and a surge in non-local students, especially in neighbourhoods near universities. Average rents near HKU escalated to HK$65 per square foot, with small apartments (~215 sq ft) renting for as much as HK$13,000 per month. In September, some housing estates near universities gained rental returns of more than 4.5%. For example, Garfield Garden in Kennedy Town saw a rental yield of 4.68%, recording a 100 bps premium above average yield.
+Regionally, pricing dispersion became more evident. Well-connected mass-market areas and selected New Territories locations appeared relatively underpriced, supported by improving infrastructure and resilient rental demand. In contrast, prime luxury districts remained comparatively expensive on a price-to-rent basis, with slower recovery momentum reflecting more discretionary demand. One possible explanation could be the robust demand from incoming skilled professionals and a surge in non-local students, especially in neighbourhoods near universities. Average rents near HKU escalated to HK$65 per square foot, with small apartments (~215 sq ft) renting for as much as HK$13,000 per month. In September, some housing estates near universities gained rental returns of more than 4.5%. For example, Garfield Garden in Kennedy Town saw a rental yield of 4.68%, recording a 100 bps premium above the average yield.
 
 Overall, the market entered a phase of selective repricing rather than broad-based recovery, reinforcing a more disciplined and fundamentals-driven investment environment.
 
@@ -75,7 +168,7 @@ Overall, the market entered a phase of selective repricing rather than broad-bas
 
 The Grade-A office market continued to contend with high vacancy, with citywide rates hovering between 17% and 20%. However, a distinct divergence emerged in the second half of the year. While decentralised districts struggled, core districts, particularly Central, showed improving fundamentals. Central recorded modest rental growth and solid net absorption, driven by a flight to quality. Occupiers capitalised on the narrowed rent gap between prime and secondary buildings to upgrade their workspaces. For example, The Henderson by Henderson Land became a primary beneficiary of this trend. In a marquee deal, US quantitative trading firm Jane Street leased approximately 223,000 square feet (across six floors), signifying strong demand from high-value financial tenants. Other premium tenants like Christie's and Carlyle also anchored their presence here, reinforcing Central's status as the premier hub for wealth management and luxury auctions.
 
-Traditional financial anchors like HSBC and other major banks maintained their strategic strongholds in the Core Central district (e.g., opening what HSBC described as the world's tallest wealth management office.), providing a floor for occupancy rates. The expansion of Mainland Chinese financial institutions and returning hedge funds further supported rental levels in these prime assets.
+Traditional financial anchors like HSBC and other major banks maintained their strategic strongholds in the Core Central district (e.g., opening what HSBC described as the world's tallest wealth management office), providing a floor for occupancy rates. The expansion of Mainland Chinese financial institutions and returning hedge funds further supported rental levels in these prime assets.
 
 ### 3.4 Retail Sector
 
@@ -91,60 +184,38 @@ Hong Kong's residential market enters 2026 with a broadly improving backdrop: mo
 
 ### References
 
-1. Bloomberg. (2025). Bloomberg terminal data: HIBOR, SOFR, DXY time series
-(January–December 2025). Bloomberg L.P.
-2. CBRE. (2026). Asia Pacific real estate market outlook 2026: Hong Kong chapter.
-CBRE.
-3. 4. CBRE. (2026). Hong Kong office marketview Q4 2025. CBRE.
-Centaline Property Agency. (2025). Centaline rental index and yield statistics (Q1–Q2
-2025). Centaline Group.
-5. Centaline Property Agency. (2025). Hong Kong residential property market outlook
-2025. Centaline Group.
-6. Centaline Property Agency. (2025). Rental market update: University district
-(HKU–Kennedy Town). Centaline Group.
-7. Colliers. (2026). Hong Kong industrial and logistics market report 2025. Colliers
-International.
-8. Development Bureau. (2021). Northern Metropolis development strategy. Hong Kong
-SAR Government.
-9. Development Bureau. (2023). San Tin Technopole: Planning and development
-overview. Hong Kong SAR Government.
-10. Henderson Land Development Company Limited. (2025). Leasing update for The
-Henderson [Press release]. Henderson Land.
-11. Hong Kong Monetary Authority. (2025). Aggregate balance and HKD exchange fund
-bills statistics (Monthly data, May–December 2025). HKMA.
-12. Hong Kong Monetary Authority. (2025, December 11). HKMA adjusts base rate to
-4.0 per cent [Press release]. HKMA.
-13. Hong Kong Mortgage Corporation Limited. (2024). Mortgage insurance programme:
-Product leaflet. HKMC.
-14. HSBC. (2025). HSBC opens world’s tallest wealth management office at ICC in Hong
-Kong [Press release]. The Hongkong and Shanghai Banking Corporation Limited.
-15. JLL. (2025). Hong Kong residential market monitor Q1–Q4 2024 and Q2 2025. Jones
-Lang LaSalle.
+1. Bloomberg. (2025). Bloomberg terminal data: HIBOR, SOFR, DXY time series (January–December 2025). Bloomberg L.P.
+2. CBRE. (2026). Asia Pacific real estate market outlook 2026: Hong Kong chapter. CBRE.
+3. 4. CBRE. (2026). Hong Kong office marketview Q4 2025. CBRE. Centaline Property Agency. (2025). Centaline rental index and yield statistics (Q1–Q2 2025). Centaline Group.
+5. Centaline Property Agency. (2025). Hong Kong residential property market outlook 2025. Centaline Group.
+6. Centaline Property Agency. (2025). Rental market update: University district (HKU–Kennedy Town). Centaline Group.
+7. Colliers. (2026). Hong Kong industrial and logistics market report 2025. Colliers International.
+8. Development Bureau. (2021). Northern Metropolis development strategy. Hong Kong SAR Government.
+9. Development Bureau. (2023). San Tin Technopole: Planning and development overview. Hong Kong SAR Government.
+10. Henderson Land Development Company Limited. (2025). Leasing update for The Henderson [Press release]. Henderson Land.
+11. Hong Kong Monetary Authority. (2025). Aggregate balance and HKD exchange fund bills statistics (Monthly data, May–December 2025). HKMA.
+12. Hong Kong Monetary Authority. (2025, December 11). HKMA adjusts base rate to 4.0 per cent [Press release]. HKMA.
+13. Hong Kong Mortgage Corporation Limited. (2024). Mortgage insurance programme: Product leaflet. HKMC.
+14. HSBC. (2025). HSBC opens world’s tallest wealth management office at ICC in Hong Kong [Press release]. The Hongkong and Shanghai Banking Corporation Limited.
+15. JLL. (2025). Hong Kong residential market monitor Q1–Q4 2024 and Q2 2025. Jones Lang LaSalle.
 16. JLL. (2026). Asia Pacific property outlook 2026: Hong Kong. Jones Lang LaSalle.
 17. Knight Frank. (2025). Hong Kong residential market forecast 2025. Knight Frank.
-18. Knight Frank. (2026). Hong Kong residential and investment forecast 2026. Knight
-Frank.
-19. Land Registry. (2026). Statistics on sale and purchase agreements for building units
-2013–2025. Hong Kong SAR Government.
-20. Midland Realty. (2026). Hong Kong residential transactions statistics 2019–2025.
-Midland Holdings.
-21. Rating and Valuation Department. (2024). Historical property price and rental indices
-1993–2024. Hong Kong SAR Government.
-22. Rating and Valuation Department. (2025). Hong Kong property review: Residential
-(2025 October update). Hong Kong SAR Government.
-23. Rating and Valuation Department. (2025). Property market statistics: Private domestic
-– Price indices (January–November 2025). Hong Kong SAR Government.
-24. Rating and Valuation Department. (2025). Property market statistics: Private domestic
-– Rental indices (January–November 2025). Hong Kong SAR Government.
+18. Knight Frank. (2026). Hong Kong residential and investment forecast 2026. Knight Frank.
+19. Land Registry. (2026). Statistics on sale and purchase agreements for building units 2013–2025. Hong Kong SAR Government.
+20. Midland Realty. (2026). Hong Kong residential transactions statistics 2019–2025.Midland Holdings.
+21. Rating and Valuation Department. (2024). Historical property price and rental indices 1993–2024. Hong Kong SAR Government.
+22. Rating and Valuation Department. (2025). Hong Kong property review: Residential (2025 October update). Hong Kong SAR Government.
+23. Rating and Valuation Department. (2025). Property market statistics: Private domestic– Price indices (January–November 2025). Hong Kong SAR Government.
+24. Rating and Valuation Department. (2025). Property market statistics: Private domestic– Rental indices (January–November 2025). Hong Kong SAR Government.
 25. Savills. (2026). Hong Kong investment market in 2025. Savills Research.
-26. South China Morning Post. (2025, September 10). Rents near Hong Kong University
-hit record as mainland students return. South China Morning Post Publishers.
-27. Transport and Housing Bureau. (2024). Long term housing strategy: Progress report
-2024. Hong Kong SAR Government.
+26. South China Morning Post. (2025, September 10). Rents near Hong Kong University hit record as mainland students return. South China Morning Post Publishers.
+27. Transport and Housing Bureau. (2024). Long-term housing strategy: Progress report 2024. Hong Kong SAR Government.
+
+</x-accordion>
 
 <x-accordion summary="An Overview of the 2025 Bond Market">
 
-_Written by: Emilie POU Ho Yuet, Mabel LOK Ka Ying_
+_Written by: Emilie POU Ho Yuet, Mabel LOK Ka Ying, 08/02/2026_
 
 _Published by Ashley LEE Juyeon_
 
