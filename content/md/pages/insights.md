@@ -10,6 +10,7 @@ These reports are prepared by students for educational purposes only and do not 
 <x-accordion summary="UK-US Immigration Restrictions and Global Inflation: From Domestic Labor Shortages to Global Financial Tightening">
 
 _Written by Diana LIU Haolin, Adrian PING An, Lucy ZHOU Zihan, 02/03/2026_
+
 _Proofread by Charles SHI Qiyuan_
 
 _Published by Nicholas FEDLIM_
