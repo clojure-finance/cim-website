@@ -54,6 +54,124 @@ _Written by Molly LIU Litong_
 #### Sector News:
 Oil and Gas Equipment Services exhibited a strong positive performance, with a +8.17% increase. The primary catalyst for this significant increase is the significant injection of geopolitical risk premium into global oil prices, driven by escalating tensions in the Middle East. Market sentiment is dominated by heightened concerns over potential supply disruptions, particularly threats to key shipping channels, which have led to a repricing of energy-related assets. Concurrently, the sector is supported by ongoing policy commitments to national energy security and infrastructure development, which underpin long-term demand for equipment and services. This combination of immediate geopolitical risk and sustained policy support has driven substantial capital inflows and boosted investor confidence in the sector.
 
+#### Single Stock News:
+Dezhou United Petroleum Technology Corp. (301158.SZ) recorded a 20% increase in share price to close at 31.20. This significant rally was primarily driven by a geopolitical risk premium injected into oil prices and the broader energy sector. As market concerns grew over potential disruptions to global crude oil supply chains, companies like Dezhou United, which provides equipment and technology for oil and gas exploration and production, attracted capital inflows. Additionally, the company's business aligns with the long-term policy direction of ensuring national energy security, supporting the share price. A notable increase in trading volume further reflects the market's heightened interest in the sector amid a volatile macroeconomic environment.
+
+Sichuan Discovery Dream Science & Technology (301213.SZ) also demonstrated strong momentum during the same period, advancing 20% to close at 90.10. As a provider focused on enterprise-level AI solutions, the company's approach of integrating knowledge graphs with large language models to enhance output reliability aligns with the current market focus on practical and deployable AI applications. Recent developments from associated firms such as Zhipu AI—including new models and AI agent releases—renewed market interest in innovation in the field. This sentiment spilled over to companies like Sichuan Discovery, which has a clear technological focus.
+
+### HKSAR
+
+_Written by Qiyuan SHI Charles & He Xu Doraa_
+
+#### Weekly Key Data:
+1. Hang Seng Index: 26630.54 (-0.63%)
+2. Hang Seng China Enterprises Index: 8875.58 (-2.55%)
+3. Hang Seng Tech Index: 5137.84 (-4.59%)
+4. 2025 Q4 GDP +3.8%
+5. Consolidated surplus for 2025-26: HK$2.9 billion
+6. Retail Sales YoY +6.6%
+7. Value of Export YoY +33.8%
+8. HIBOR (weekly): 2.41% (+0.013%)
+9. Unemployment Rate: 3.9%（+0.1%）
+10. Inflation Rate (CPI): 1.1% (year-on-year)
+
+#### Sector News:
+During the week of February 23–27, 2026, the Hong Kong market exhibited a sharp divergence between traditional and growth sectors. The Hang Seng Index (HSI) managed a weekly decline of 0.63%, closing at 26,630.54, primarily bolstered by a late-week surge in the Property and Financial sectors. This rally was ignited by news on February 25 that Shanghai had eased homebuying restrictions, leading to gains of over 6% in leaders like Sun Hung Kai Properties. Despite a strong start on Monday, where the index briefly crossed the 27,000 mark, mid-week volatility caused by U.S. tech earnings and trade concerns capped the overall gains.
+
+The technology sector continued to consolidate during what can be described as a period of limited macroeconomic data, where limited incremental macro signals and earnings catalysts constrained broad-based upside. While overall tech performance remained soft, AI-related and semiconductor-linked names continued to attract selective investor attention. Stocks such as MiniMax and other China-based AI and chip companies saw notable interest, includingcross-border participation from South Korean retail investors. However, despite this thematic focus, most large-cap technology companies have yet to demonstrate sufficiently strong earnings momentum to sustain a sector-wide rebound. As a result, valuation expectations remain under reassessment, and price movements have been more driven by sentiment and positioning rather than fundamental upgrades.
+
+In contrast, energy stocks displayed relative resilience. Firm oil prices supported upstream producers, with PetroChina and CNOOC benefiting from gains in crude benchmarks. Recent geopolitical developments have contributed to increased uncertainty in global energy markets, leading to some repricing of supply risks. While strength in oil-linked equities provided selective support, it was not enough to offset broader market weakness. Overall, declining risk appetite remains a key driver of Hong Kong’s recent subdued performance, with investors balancing structural thematic opportunities against heightened external uncertainty.
+
+Amid heightened macro uncertainty and softer risk appetite, Hong Kong equities traded with a weaker tone this week, as investors adopted a more cautious stance in the absence of strong policy or earnings catalysts. Major indices remained under pressure, reflecting subdued sentiment and ongoing valuation adjustments across growth-oriented sectors.
+
+#### Single Stock News:
+Sun Hung Kai Properties (00016.HK) emerged as the week's top performer among blue chips, surging 7.12% to close at HK$146.00 on February 27. This significant rally was catalyzed by the company’s robust interim results—reporting contracted sales of HK$17.4 billion—and was further ignited by the February 25 announcement that Shanghai had eased homebuying restrictions. This policy shift triggered a significant sector-wide rotation into "old economy" assets, leading JPMorgan to upgrade the stock to "Overweight" on February 23 as investors sought valuation opportunities amid broader market uncertainty.
+
+Alibaba Group Holding (09988.HK) served as the primary barometer for the volatile tech sector, ending the week at an ADR-equivalent of HK$144.11. While the stock saw a 3.5% jump on Monday, it faced a sharp correction on Thursday amid global tech earnings jitters, which dragged the Hang Seng Tech Index down by nearly 2.9%. Despite this volatility, Alibaba remained a focal point for analysts due to its aggressive AI infrastructure expansion, specifically the launch of its self-developed Zhenwu 810E chip designed to support its cloud infrastructure independently and defend its dominant 35.8% cloud market share in China.
+
+HSBC Holdings (00005.HK) demonstrated strong defensive resilience and capital appreciation, climbing from a Monday open of HK$135.00 to a Friday close of HK$147.30. The bank's performance was underpinned by a massive Q4 2025 earnings beat and a confirmed annual dividend payout of US$0.75, which pushed its total market valuation over US$300 billion for the first time in history. Following these results, analysts at BofA Securities and HSBC Research raised their 2026 earnings forecasts, concluding that the bank’s robust operating guidance makes it a cornerstone for high dividend investment strategies in the current interest rate environment.
+
+### EU
+
+_Written by Lucy ZHOU Zihan_
+
+#### Weekly Key Data:
+1. Euro Stoxx 50 index: 6138.41 (+0.44%)
+2. DAX(Germany): 25,284.26 (+0.60%)
+3. CAC 40(France): 8580.75 (+0.94%)
+4. FTSE 100 (London): 10,910.55 (+2.09%)
+
+#### Sector News:
+European stocks posted gains this week, with the pan-European Stoxx 600 rising approximately 1%. The UK's FTSE 100 was a standout, gaining 2.09% for the week. Market sentiment was shaped by two opposing forces: uncertainty over US tariff policies initially weighed on markets, but cooling German inflation strengthened expectations of ECB easing, while a significant volume of corporate share buybacks provided upward momentum. The Banking sector was a key market driver this week, with the Stoxx 600 Banks Index climbing 1%. The advance was fueled by rising expectations of an economic recovery in Europe and significant share buyback announcements from major lenders. Commitments from Deutsche Bank, Société Générale, and others to launch repurchase programs directly boosted investor confidence, signalling management's optimism regarding capital strength and future profitability.
+
+The Healthcare sector showed strong performance, leading the market on several trading days. The sector's strength was underpinned by a series of positive announcements: Novartis received positive opinions from the European Medicines Agency (EMA) for two of its drugs and completed the acquisition of Avidity Biosciences; Sanofi and the Lilly/Incyte partnership also received favourable CHMP recommendations for key treatments. These developments reinforced market expectations for pharma companies' future growth and product pipelines. 
+
+The Technology & Semiconductor sector saw mixed performance but remained in focus. While concerns over AI investment and volatility in US tech stocks weighed on the sector at times, news of IonQ's quantum network deployment in Romania stimulated interest in related concepts. Furthermore, Barclays data highlighted robust buyback activity among tech firms, while sustained global demand for data centre chips continued to provide long-term support for European semiconductor equipment giants like ASML.
+
+#### Single Stock News:
+Novartis AG (NOVN.SW): Shares of the Swiss pharmaceutical giant rose 2.2% in Zurich this week. The gain was primarily driven by a double dose of positive regulatory news. Firstly, the EMA's CHMP issued positive opinions for two of the company's drugs: remibrutinib, an oral treatment for chronic spontaneous urticaria, and Acoziborole Winthrop for treating gambiense sleeping sickness in patients aged 12 and older. Secondly, the company announced the completion of its ~$12 billion acquisition of Avidity Biosciences, strengthening its pipeline. These positive regulatory steps, combined with strategic M&A activity, boosted investor confidence in Novartis's future growth prospects. 
+
+Johnson Matthey Plc (JMT2.F): Shares of the British speciality chemicals company fell 12% this week, making it the worst performer in European indices. The sharp decline was directly triggered by the company's announcement that it had agreed to reduce the sale price of its catalytic technologies business to Honeywell International by a quarter, from approximately £1.7 billion to £1.3 billion. This price cut, far exceeding market expectations, raised concerns among investors regarding the company's asset valuation and transaction execution capabilities. Although the company aims to focus on its core operations through this divestiture, the significant reduction in the sale price weighted heavily on market sentiment, leading to a sell-off in the stock.
+
+### Japan
+
+_Written by TAM Tsz Ching Cathy_
+
+#### Weekly Key Data:
+1. Japan Inflation Rate MoM: -0.2% (01/2026)
+2. Japan Balance of Trade: -1153 Billion yen (02/2026)
+3. Unemployment Rate: 2.6% (01/2026)
+4. Consumer confidence: 37.9 (02/2026)
+
+#### Sector News:
+This week’s tech sector in Japan showed mixed resilience amid broader market gains, with the Nikkei 225 closing up 0.16% at around 58,850 and the Topix rising 1.5% to 3,939, driven by rotation into AI infrastructure plays despite some profit-taking in hardware names. Technology stocks faced selective pressure as investors rotated out of certain chip testers and equipment makers like Advantest and Hoya, which declined amid broader sector weakness, while consumer and financial sectors provided offset support. A weaker yen continued to bolster export-heavy tech exporters, though analysts flagged valuation concerns near Nikkei 60,000 as profit-taking emerged.
+
+At the same time, analysts remain constructive on Japanese tech's structural tailwinds, particularly in semiconductors and AI components, with ongoing demand for data center infrastructure and factory automation cited as key growth drivers into 2026. Rotation into AI-related beneficiaries has propelled solid February performance, extending into this week as overseas inflows persist under the Takaichi administration's pro-growth stance.
+
+One notable thematic development is the sustained momentum in AI infrastructure and materials, where Japanese firms like Kioxia continue to attract flows for their role in memory chips and data center expansion, underscoring pockets of outperformance even as select tech subsectors correct.
+
+#### Single Stock News:
+IHI Corporation (7013.T): The company’s performance drew attention this week, outperforming amid market rotation as defence and aerospace demand supported gains, with the stock highlighted as a top performer in recent sessions despite broader large-cap challenges in some areas. The major industrial firm benefited from investor bets on geopolitical tensions and capex cycles, helping it buck declines seen in auto parts like Aisin amid yen fluctuations and macro rotation. This comes as broader Tokyo markets digested ongoing political stability post-LDP mandate and AI-themed flows, with IHI adding to the narrative of strength in high-tech industrials.
+
+### India
+
+_Written by Emilie POU_
+
+#### Weekly Key Data:
+1. NIFTY 50: 25,178.65 (+1.25%)
+2. SENSEX 30: 81,287.19 (+1.17%)
+3. PMI Composite: 59.3 (+1.54%)
+4. PMI Manufacturing: 57.5 (+3.80%)
+5. PMI Services: 58.4 (+0.17%)
+
+#### Sector News:
+The Technology sector recorded a significant decline this week, driven by concerns regarding the impact of artificial intelligence on traditional business models. As of February 25, the Nifty IT index had fallen 21%, marking its largest monthly decline in nearly 23 years. The index's 10 constituents shed a combined $68.6 billion in market value. Market participants cited concerns that rapid advancements in AI and automation by U.S. firms could impact India's $300-billion IT services industry through compressed project timelines, pricing pressures on services, and reduced billable hours. Consequently, the Nifty 50 and Sensex benchmarks underperformed regional peers for the week.
+
+#### Single Stock News:
+Infosys (INFY.NSE): Amid the broader sector selloff, Infosys shares experienced volatility, opening the week at ₹1,352 before touching a low of ₹1,275 on Tuesday. However, the stock recovered some losses to close at ₹1,300 on Friday, February 27. This stabilisation coincided with the company’s February 24 announcement of a completed data modernisation program for CSX Corporation (NASDAQ: CSX). The project, utilising Infosys Topaz™ and Microsoft Fabric, consolidated CSX’s legacy systems into a unified cloud-native platform for the transportation and logistics sector. Management highlighted that the initiative is intended to improve decision-making and reduce operational costs through automated metadata governance and AI-driven analytics. While the stock finished the week lower, the announcement underscored the company's continued engagement in large-scale digital transformation projects despite broader market concerns regarding AI disruption.
+
+### South East Asia
+
+_Written by Mabel LOK_
+
+#### Weekly Key Data:
+1. Straits Times Index (STI): 4,995.07 (-0.45%)
+2. Jakarta Composite Index (JCI): 8,235.49 (-0.44%)
+3. FTSE Bursa Malaysia KLCI (FBM KLCI): 1,716.61 (-2.07%)
+4. SET Index: 1,528.26 (+3.28%)
+5. PSE Composite Index (PSEi): 6,611.24 (+2.26%)
+6. VN-Index: 1,860.91 (+0.08%)
+
+#### Sector News:
+In the financial sector, two central banks in Southeast Asia cut their policy rates during the period. The Philippines’ central bank cut its policy rate by 25 basis points to 4.25%, as part of its easing cycle that began in August 2024 to support domestic economic growth. Thailand’s central bank also cut its interest rate by 25 basis points to 1%, a move that surprised the market, intended to foster economic recovery and control inflation.
+
+In Singapore, STI surpassed the 5000 mark for the first time on February 12. As capital market ties deepen with China, ETF turnover and average daily value reached record levels, and ETF AUM has climbed sharply YoY . Singapore Exchange’s securities turnover rose 66% YoY in January 2026, while derivatives volume was the highest since March 2020. STI has been volatile around this level for the subsequent days. DBS Group Holdings (DBS), -1.50%, reported a 3% YoY decline in 2025 net profit despite record profit before tax, largely due to the implementation of the 15% global minimum tax.
+
+#### Single Stock News:
+Singapore Telecommunications Limited (Z74.SI) has secured an agreement on ST Telemedia for its global data centres at 5.2 billion USD with the investment firm KKR, which analysts describe as the biggest data centre deal in SEA. It has also established a new research centre with Nvidia to assist firms in scaling their AI use. The deals strengthen Singtel’s position in the AI ecosystem. Shares hit a record high of $5.12 following the announcement. The upward momentum consolidated with increased volatility, reflecting growing caution in investors.
+
+</x-accordion>
+
 <x-accordion summary="Week of 06/02/2026">
 
 _Published by Joey LAI_
@@ -3272,6 +3390,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
