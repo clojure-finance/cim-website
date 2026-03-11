@@ -7,6 +7,53 @@
 These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities.
 
 ## Headlines
+
+<x-accordion summary="Week of 01/03/2026">
+
+ _Published by Carrie CHAN_
+
+### US
+
+_Written by Vicky HUANG Lihan_
+
+#### Weekly Key Data:
+1. Dow Jones Industrial Average: 48,977.92 (-2.27%)
+2. S&P 500 Index: 6878.88 (-0.10%)
+3. NASDAQ Composite Index: 23031.21 (-0.32%)
+4. U.S. ISM Manufacturing Purchasing Managers Index (PMI) in February: 52.6 (Decreased
+from 52.4 in January)
+5. U.S. ISM Non-Manufacturing Purchasing Managers Index (PMI) in February: 56.1
+(Increased from 53.8 in January)
+6. U.S. ADP Nonfarm Employment Change in January: 22K (Decreased from 41K in
+December)
+
+#### Sector News:
+The tech sector finished the week on a weak note, continuing February’s pullback in high-growth names. Software stocks were hit hardest as investors reassessed the durability of AI-related revenue growth. With valuations still elevated, even solid earnings were not enough to prevent selling. Pressure spread across enterprise tech — including database, analytics, and cybersecurity companies — as higher bond yields and fading post-earnings momentum raised concerns about margins and corporate IT spending. Higher-than-expected inflation data late in the week added to the cautious mood, leading investors to lock in profits across major tech names.
+
+Energy was one of the few bright spots. Oil prices moved higher on geopolitical tensions and supply concerns, supporting the sector. Stronger crude prices improve cash flow expectations for both large integrated oil companies and smaller producers. More broadly, energy is benefiting from rotation. In a market facing inflation uncertainty and slowing growth signals, investors are leaning toward sectors with tangible assets, steady cash flow, and dividend support.
+
+Financial stocks underperformed as rising yields created uncertainty around net interest margins. At the same time, investors grew more cautious about credit exposure, particularly in areas tied to fintech and higher-risk lending. The sector’s weakness reflects a more selective market environment. Investors are demanding clearer earnings visibility and lower risk profiles, especially for banks with exposure to cyclical or higher-growth segments.
+
+#### Single Stock News:
+Duolingo (DUOL): Shares fell 25% after guiding 2026 bookings growth of only 10–12%, well below prior expectations, despite Q4 revenue rising 35% year over year to about $283M. The company also indicated adjusted EBITDA margins could ease toward 25% as it increases investment in AI and product development. The selloff reflects a clear shift in investor focus: market reaction suggests that historical growth rates are being weighed against near-term profitability metrics. With bookings slowing and margins set to compress, the market is demanding clearer near-term profitability and monetisation visibility rather than long-term user expansion alone.
+
+NVIDIA (NVDA): Shares fell about 5% late last week despite reporting strong Q4 results that beat expectations for revenue, profits, and guidance, as broader market caution over inflation and profit-taking in high-valuation tech stocks weighed on sentiment. The pullback erased a significant portion of its 2026 gains, highlighting that investors are increasingly focused on near-term profit sustainability, valuation, and macroeconomic risks rather than earnings beats alone. As a key constituent in the sector, Nvidia's price action is often viewed as an indicator of broader sentiment toward growth stocks.
+
+### Mainland China
+
+_Written by Molly LIU Litong_
+
+#### Weekly Key Data:
+1. SSE Composite Index: 4162.88 (+1.98%) over the past 5 days
+2. Shenzhen Component Index: 14495.09 (+1.41%) over the past 5 days
+3. ChiNext Price Index: 3326.55 (+0.83%) over the past 5 days
+4. CSI 300 Index: 4710.65 (+1.12%) over the past 5 days
+5. Consumer Price Index (CPI) in February: -0.7% YoY
+6. Producer Price Index (PPI) in February: +0.1% YoY
+
+#### Sector News:
+Oil and Gas Equipment Services exhibited a strong positive performance, with a +8.17% increase. The primary catalyst for this significant increase is the significant injection of geopolitical risk premium into global oil prices, driven by escalating tensions in the Middle East. Market sentiment is dominated by heightened concerns over potential supply disruptions, particularly threats to key shipping channels, which have led to a repricing of energy-related assets. Concurrently, the sector is supported by ongoing policy commitments to national energy security and infrastructure development, which underpin long-term demand for equipment and services. This combination of immediate geopolitical risk and sustained policy support has driven substantial capital inflows and boosted investor confidence in the sector.
+
 <x-accordion summary="Week of 06/02/2026">
 
 _Published by Joey LAI_
@@ -3225,6 +3272,7 @@ In the investment-grade corporate bond market, spreads widened due to heavy supp
 
 Overall, the U.S. stock market experienced gains, driven by positive inflation news, while the manufacturing sector showed a slight decline. Bond markets reacted positively to the economic data, and corporate bond issuance reached a new record in February.
 </x-accordion>
+
 
 
 
