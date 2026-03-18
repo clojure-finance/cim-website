@@ -8,6 +8,184 @@ These reports are prepared by students for educational purposes only and do not 
 
 ## Headlines
 
+<x-accordion summary="Capital Flows and FX: Regional Divergence and Dollar Dynamics">
+
+_Written by Jackie LUI Ching Ho, Tiffany ZHANG Difei and Vivien TAO Wei, 10/03/2026_
+
+_Proofread by Justin CHUNG Lok Yin_
+
+_Published by Louise Danielle SUGIARTO_
+
+### Executive Summary
+
+After decades of unrivalled dominance as the global reserve and transaction currency, the dominance of the USD is facing unprecedented headwinds, with a growing number of nations and investors seeking alternatives amid shifting economic and geopolitical tides.
+
+Fiscal concerns and geopolitical shifts in 2026 are causing capital to flow out of the US and flow into specific divergent regions. Mounting US budget and trade deficits, the use of USD-centric financial tools, and persistent inflationary pressures have eroded confidence in the dollar, driving capital reallocation toward regions with stronger fiscal fundamentals, lower geopolitical risk, or strategic de-dollarisation momentum.
+
+The analysis suggests that a shift toward broader global diversification may be warranted as dollar dynamics evolve. As dollar strength wanes and regional economies and currencies diverge in performance, opportunities for alpha generation will increasingly lie in targeted exposure to high-potential regions, rather than broad USD-linked assets.
+
+### 1. The Drivers of Dollar Weakness
+
+The erosion of confidence in the US dollar—once considered the global “safe haven” currency and deemed risk-free for years—stems from three interconnected, data-backed drivers: unsustainable fiscal imbalances, the use of financial infrastructure as policy tool, and persistent inflationary pressures that erode its real value. Each factor reinforces the others, accelerating capital outflows and fueling demand for alternative currencies and regions.
+
+### 1.1 Fiscal Deficits
+
+Budget and trade deficits have reached levels that threaten the dollar’s status as a reliable store of value. When a country spends more than it earns (budget deficit) and imports more than it exports (trade deficit), it must rely on foreign capital inflows to finance the gaps; over time, this increases supply of the currency and reduces its perceived stability. In 2026, the US budget deficit is projected to grow to $1.853 trillion (5.8% of GDP), up from $1.775 trillion in 2025, according to the Congressional Budget Office (CBO). Over the next decade, the deficit-to-GDP ratio is expected to average 6.1%, reaching 6.7% by 2036—far above policymakers’ targets for sustainable fiscal health. Publicly held US federal debt is set to hit 101% of GDP in 2026, and rise to 120% by 2036, driven primarily by a structural imbalance of tax cuts, rising mandatory spending from an ageing population, and mounting interest costs, exceeding the 1946 historical high of 106%.
+
+The trade deficit, meanwhile, remains persistent. After narrowing in late 2025, the US trade deficit (net exports of goods and services) is forecast to stabilise at an annual rate of $341 billion in the first quarter of 2026, reflecting ongoing reliance on imported goods and weak export competitiveness relative to key trading partners such as Mexico and Canada. Some forecasts suggest the budget deficit could rise even further, approaching 7% of GDP in 2026 amid loose fiscal policy and efforts to boost domestic growth ahead of elections.
+
+Over the past decade, all three major rating agencies have downgraded US Treasury debt from their top-tier ratings. Standard & Poor's first cut the US rating in 2011 following a debt ceiling standoff; Fitch followed in 2023, citing "a steady deterioration in standards of governance"; and Moody's completed the trifecta in May 2025, downgrading the US to Aa1. The agencies consistently point to the same rationales: dramatic increases in government debt, rising interest costs, persistent fiscal deficits, and political dysfunction that prevents corrective action.
+
+While near-term market impact has been muted—the Treasury market's depth and safe-haven status absorbing the shocks—the downgrades signal a more critical long-term vulnerability: growing dependence on foreign investors to finance US deficits. As UBS has noted, the real risk is not an outright sell-off but a sustained reduction in new inflows, forcing higher borrowing costs. Together, these fiscal imbalances erode the dollar's safe-haven appeal. Global investors increasingly worry about future debt monetisation (printing money to service obligations) or currency devaluation, weakening the dollar's status as a reliable store of value.
+
+### 1.2 De-Dollarisation as a Strategic Hedge
+
+The use of dollar‑denominated financial infrastructure as an instrument of foreign policy has generated a significant unintended market response, accelerating de‑dollarisation: leveraging the central role of the US dollar and the global dollar‑based settlement system for geopolitical purposes has signalled to countries worldwide that their dollar‑denominated reserves and access to core financial channels may be constrained by shifting political dynamics, prompting a range of nations and trading blocs to develop alternative cross‑border payment and settlement systems and accelerate the diversification of their official reserve portfolios as a defensive adjustment to concentration risk.
+
+### 1.3 Inflationary Pressures Eroding the Dollar’s Real Value
+
+A currency’s real value is determined by its purchasing power, and persistent inflation in the US—higher than in key European and Asian economies—has eroded the dollar’s appeal relative to alternatives. This inflationary divergence is primarily driven by a combination of strong fiscal stimulus, the lagging effects of tariffs, and resilient domestic demand, all of which have proven stickier than the disinflationary trends observed elsewhere. When US inflation outpaces that of its trading partners, the dollar’s “real exchange rate” falls, meaning it buys fewer goods and services globally, reducing its attractiveness for investors and central banks. 
+
+US inflation remains sticky in 2026: the Consumer Price Index (CPI) for all urban consumers rose 2.4% year-over-year in January 2026, with core CPI (excluding food and energy) up 2.5%—above the Federal Reserve’s 2% target. Forecasters expect US CPI to average 3.2% in 2026, with PCE inflation (the Fed’s preferred gauge) at 2.9%, as loose fiscal policy and supply constraints keep price pressures elevated. 
+
+In contrast, inflation in the Eurozone is projected to moderate to 1.9% in 2026, according to the ECB’s Survey of Professional Forecasters—aligning with the European Central Bank’s 2% target, and the UK at 2.4%—all below US levels. In Asia, China’s CPI is forecast to rise moderately to 0.8% in 2026, while Japan’s inflation remains elevated but is driven by domestic demand rather than external pressures.
+
+This inflation gap means the dollar’s real value is declining relative to the euro, yuan, and other major currencies. The real-world impact became starkly evident in 2025: while the S&P 500 gained more than 10% in dollar terms, European investors saw those returns nearly vanish after currency losses, ending with low-single-digit returns once the dollar's depreciation against the euro was factored in. This phenomenon was not isolated—MSCI data showed that through August 2025, dollar-based returns for U.S. equities turned into a 2% loss for euro-based investors after accounting for currency moves, despite the index hitting all-time highs in dollar terms. Bridgewater's Ray Dalio highlighted the broader pattern: the S&P 500's 18% dollar return translated to just 4% for euro investors and 3% for Swiss franc investors, as the dollar weakened 12% against the euro and 13% against the Swiss franc. For global investors, this reduces the allure of USD-denominated assets, as returns are eroded by higher inflation—further accelerating capital flows to regions with lower inflation and more stable purchasing power.
+
+### 2. The Mechanics of Capital Flow — Moving Beyond the Dollar
+
+Capital is being actively pushed out of the United States by three structural pressures. Each corresponds to a different class of capital holder, and together they explain why the outflow is a systemic shift rather than a series of isolated events. What follows traces these pressures back to the fiscal and inflationary vulnerabilities discussed earlier, showing how macro fundamentals translate into tangible portfolio decisions.
+
+### 2.1 The Defensive Erosion of Central Bank Reserves
+
+Over the past decade, all three major rating agencies have downgraded US sovereign debt, with Fitch explicitly citing "deterioration in governance." For reserve managers, this creates an unavoidable mandate to diversify—the move away from single-currency dependence is no longer just a policy preference, but a risk-management necessity. The projected $1.85 trillion deficit for 2026 means a significant wave of new Treasury supply entering a market where the pool of willing buyers is shrinking. This supply-demand imbalance is fundamental: when the largest issuer of "safe assets" increases supply while its credit outlook weakens, the natural response of global managers is to limit exposure.
+
+The dollar's reserve decline has been steady: from nearly 70% in 2000 to around 57.8% as of Q3 2025. Each percentage point represents tens of billions in reallocated reserves.
+
+Beyond the sheer volume of debt, there is geopolitics. The 2022 restriction of Russian assets sent a clear signal: dollar assets can be rendered inaccessible amid heightened geopolitical tensions. As a result, many reserve managers have begun to view concentrated holdings of US Treasuries through a geopolitical risk lens. This perception has introduced a new variable into the diversification calculus, accelerating a gradual, yet persistent, shift away from the dollar. The key point isn't only where the money is going—though gold and some alternative currencies have benefited—but what it is seeking to avoid: assets perceived as vulnerable to the instruments of statecraft. Gold accumulation by China and India reflects this logic—policymakers are seeking assets entirely outside the US financial orbit, insulated from any single government's policy decisions.
+
+### 2.2 Private Capital and the Scarcity Play
+
+If central banks are geopolitically driven, private investors are pushed by the arithmetic of real returns. With US CPI projected around 3.2% in 2026, holding nominal dollar assets means accepting a guaranteed loss of purchasing power. The inflation gap is eating into returns.
+
+For institutional allocators, the concern is not default but dilution. In an environment of persistent deficit financing, holding cash or nominal dollar bonds means accepting a slow but predictable decline in purchasing power. This logic is visible in gold: over the past two and a half years, gold has climbed from $1,950 to over $5120. This is not just short-term volatility—it is a confirmation of the dollar’s declining share as a reliable store of value. Investors are rotating out of dollars and into assets with fixed supply curves, seeking protection against future money creation.
+
+### 3. Regional Divergence
+
+Capital is rotating into regions capable of capturing structural growth outside the US economic cycle. This divergence is driven by regional strengths in domestic consumption, high-tech industry and fiscal adjustments.
+
+### 3.1 India
+
+India has emerged as a top destination for capital seeking alternatives to US-centric portfolios in recent years. After tightening monetary and fiscal policy in late 2024 to prevent overheating, India's economy has maintained a real GDP growth rate of more than 7%, making it the world's fastest-growing major economy. However, India experienced net capital outflows and did not fully capture the capital outflows from the US in 2025.
+
+Despite strong fundamentals, the Indian rupee (INR) depreciated by about 5.4% against the USD between April 2025 and January 2026 due to the 50% US tariffs on Indian exports in August 2025. Besides US tariffs, large foreign portfolio outflows, rising bullion imports and corporate anxiety over the rupee's fortunes kept INR under pressure. However, Foreign Direct Investment (FDI) has remained strong, with gross inflows totalling $64.7 billion from April to November 2025, driven by supply-chain diversification and the growth of the digital economy.
+
+A softening USD is serving as a driver for Indian asset performance. Investment banks forecast that the rupee will strengthen from 90 at the beginning of 2026 to 86 per USD by the end of 2026, as global trade stabilises. Some have upgraded Indian equities to "Overweight" because they see the area as a main beneficiary of a weaker US dollar.
+
+### 3.2 Taiwan and South Korea
+
+Taiwan and South Korea remain essential manufacturing hubs for the global AI cycle. Because of the concentration of advanced semiconductor capabilities, these locations have become the principal receivers of global technological capital.
+
+Taiwan's provisional 2025 real GDP growth rate was 8.63%, boosted by a record trade surplus of $157.1 billion. One of the key drivers of the growth, Taiwan Semiconductor Manufacturing Company (TSMC) has reinforced its position, with its market share expected to reach a remarkable 70.2% by 2025. In early 2025, technology products comprised over 65% of the total export value, with semiconductors accounting for 42%. Approved FDI inflows to Taiwan totaled $11.39 billion in 2025, an approximately 45% increase, reflecting significant capital expenditure in chip manufacturing. TSMC's development of its 3nm and 2nm nodes are considered systemically important in the global technology industry. The 45% increase in FDI represents hyperscalers' (Nvidia, Apple, Google) pre-funding capacity to secure future chip supply amidst a
+structural shortage.
+
+In 2025, the South Korean equities market rose 76% year on year, boosted by rising memory demand. Samsung Electronics and SK Hynix have greatly outperformed worldwide peers as a shortage of memory chips emerged due to the global data centre development. This is predicted to result in a sectoral profit increase of 78.8% by 2026. South Korea recorded its largest annual current account surplus in 2025, at $123.05 billion. This surplus was largely driven by a 21.9% increase in semiconductor exports, which totalled $175.3 billion. The transition from general-purpose servers to Agentic AI has resulted in a Memory Supercycle. Samsung and SK Hynix are reporting record earnings because AI demands High Bandwidth Memory, which has much better margins than standard DRAM.
+
+The New Taiwan Dollar (TWD) has encountered appreciation pressure as a result of the high amount of export revenues and foreign currency financing requirements for AI-related supply chains. While the Korean Won (KRW) traded at approximately 1,500 against the US dollar, the immediate impact on consumer inflation was restricted by the Bank of Korea's (BoK) hawkishness and the country's steady current account surpluses. The Bank of Korea is likely to gradually boost interest rates in 2026, further decreasing the rate divergence with the US and strengthening the won's performance against other major currencies. AI-driven growth in North Asia has challenged the dollar's position as the principal benefactor of technology investment. Capital has shifted away from US IT giants and toward providers, whose valuations are considered more appealing when compared to their forward earnings potential in 2025.
+
+### 3.3 Japan
+
+As the globe recovers from the turbulence of 2025, Japan has established itself as a key destination for global institutional and retail money, rather than a peripheral hedge. 
+
+The Bank of Japan's exit from negative interest rate policy in 2024 was an introduction to the systematic normalisation that occurred in 2025 and 2026. This shift marks the most dramatic divergence from the previous three decades' deflationary stagnation, creating a healthy market for capital inflows that are structurally distinct from the speculative "yen carry trades" of the past. By December 2025, the Bank of Japan (BoJ) had raised its policy rate to 0.75%, signalling to global markets that Japan was no longer the world's source of "free" liquidity.
+
+The year 2026 represents the New Phase of Japanese equity. Since the second quarter of 2025, Japan has had a net inflow of around 13.5 trillion yen from overseas investors, driving the TOPIX to rise 22.41% and the Nikkei 225 to rise 26.18% in 2025. The fundamental driver of these inflows is the ongoing corporate governance reform. For decades, Japanese companies were undervalued relative to peers because they hoarded capital and ignored shareholder returns. However, the Corporate Governance Code's 2026 modification has established an efficient culture, including the principle-based "comply or explain" structure and establishes a strong mandate for strategic capital allocation.
+
+Since mid-2025, the yen-dollar relationship has been increasingly detached from traditional interest rate differentials, with the yen rising slightly against the dollar as market players factor in US fiscal sustainability and potential shifts toward a weaker-dollar policy strategy. Due to the Japanese government’s projection of its first primary budget surplus in 28 years and the BoJ's steady move toward a 1.00% policy rate, it provides a stable alternative to the Federal Reserve's easing cycle
+
+### 3.4 China
+
+China's economic story for 2025-2026 is defined by resilience in the face of domestic and external changes. Real GDP growth rose more than 5.0% in 2025, but it is expected to slow to 4.5% in 2026 as demographic trends affect productivity. 
+
+On May 20, 2025, the People's Bank of China (PBOC) reduced the one-year Loan Prime Rate (LPR) by 10 basis points, from 3.1% to 3.0%. Concurrently, the five-year rate was reduced from 3.6% to 3.5%. This adjustment follows a more significant 25-basis-point drop to both LPRs in October 2024, demonstrating the central bank's continued efforts to reduce borrowing costs and encourage economic growth. The financial account deficit reached 3.9% of GDP, driven by portfolio outflows and resident purchases of foreign assets, while FDI remained at 0.3% of GDP. The renminbi (RMB) has risen to become the second-largest currency for trade finance, accounting for 6.34% of worldwide transactions in early 2025. As market volatility cooled down, the RMB rose 4.4% against the US dollar. The 10-year China Government Bond yield has stabilised at 1.8%-1.9%, creating a demand for RMB-denominated fixed income as a diversification strategy.
+
+PBOC has expressed a firm commitment to a moderately loose monetary policy in 2026, with the central bank governor indicating more room for the reserve requirement ratio (RRR) and interest rate decreases. This strategy intends to stabilise growth and encourage a price recovery, with a target GDP growth rate of 4.5% to 5% for 2026. UBS suggested that China will cut interest rates by 10-20bps in 2026. In addition, the movement toward currency diversification has gained momentum as China builds its own payment infrastructure (CIPS). Institutional investors are increasingly using RMB assets to support current account rebalancing, especially as US fiscal concerns trigger outflows from dollar-denominated debt. The 2024 survey results show the upward trend of foreign holdings of Chinese assets. When asked about the proportion of Chinese stocks in their entire stock portfolios, 32%, 22%, and 7% of financial institutions (FIs) indicated allocating Chinese stocks between 21-40%, 41-60%, and 61-80%, 2, 4, and 4% higher than last year's results, respectively. The percentage of respondents allocating less than 20% declined from 49% in 2023 to 41% in 2024. A similar tendency appears in China's bond allocations. In 2024, 36%, 18%, and 6% of Fls reported allocating China bonds at 21-40%, 41-60%, and 61-80% respectively, 2, 5, and 3% higher than last year's results, respectively. The proportion of responders allocating less than 20% fell from 49% in 2023 to 39% in 2024. These activities would likely support RMB internationalisation and growth.
+
+### 3.5 The Eurozone
+
+The Eurozone's economic story has changed drastically, from structural manufacturing challenges to one of dedicated fiscal activism. The euro (EUR) performed remarkably well in 2025, rising 15% against the US dollar, the largest gain in the G10, supported by expectations that Europe's fiscal and strategic shifts would boost growth in the following years.
+
+The most notable development in the region is Germany's fiscal policy. Germany authorised a €500 billion infrastructure fund and a record €58.3 billion investment allocation in its 2026 budget, with government investment expected to expand by 20% year on year. This investment covers a wide range of programs, including defence, transportation infrastructure, and industrial support measures, with the goal of narrowing the growth gap with the US. For industrial stakeholders, this policy support reduces long-term operational risks while also providing a valuation cushion for European equities.
+
+Furthermore, the record-breaking inflow into UCITS (standardised European investment funds) will shape the Eurozone's capital market by 2025. Net inflows totalled EUR 873 billion, showing a normalisation of European equity valuations. Furthermore, demand for Eurozone sovereign debt has risen, particularly for German, Italian, and Spanish bonds. The Euro is increasingly being used as a reserve currency, with non-European countries issuing more than €1 trillion by 2025.
+
+As the relative attractiveness of US Treasuries swings, global capital shifts to euro-denominated debt. The euro is emerging as a credible alternative to institutional reserves, supported by a narrowing interest rate differential as the Federal Reserve decreases rates while the European Central Bank (ECB) keeps rates at 2.0% in early 2026. European safe assets issued by the European Union (EU), the European Investment Bank (EIB), and the ESM/EFSF rose from €1.2 trillion in 2024 to over €1.4 trillion in 2025, making them the fifth largest market segment in the eurozone. The growing volume of safe assets in Europe illustrates that global investors are shifting from safe US Treasuries to alternatives such as European safe assets.
+
+### 4. Future Outlook — Diversification and the AI Wildcard
+
+The previous sections have documented how capital is already rotating out of the US into specific regions and assets. The question for investors is not whether this trend exists, but how it will evolve. Looking ahead, three themes stand out: the structural demand for debt-free safe havens, the continued rise of Indo-Pacific domestic demand, and the one variable that could upend everything—the advent of Artificial General Intelligence.
+
+### 4.1 The New Safe Havens: Gold as the Ultimate Wealth Preserver
+
+With the US deficit becoming a permanent fixture of investor psychology, the definition of a "safe haven" is evolving. Traditionally, safety meant US Treasuries. Going forward, for a growing cohort of global wealth managers, safety will be defined by freedom from sovereign credit risk
+and monetary dilution.
+
+This is where gold enters the picture. Unlike fiat currencies—which remain subject to central bank policy and fiscal politics—gold sits entirely outside the financial system. It has no counterparty risk, no government backing, and no supply response to fiscal crises. When investors worry about a future where the US might need to inflate away its $36 trillion debt burden, gold offers a store of value that cannot be printed, frozen, or devalued by policy makers. 
+
+Gold Price Forecasts shows a projection based on real interest rate expectations and central bank demand trends. The key takeaway is not the precise price target, but the direction: as long as US fiscal deficits remain elevated and real yields remain suppressed, the structural case for gold as a portfolio hedge strengthens.
+
+### 4.2 The AGI Variable: A Potential Upside Scenario for the USD
+
+There is one massive outlier that could flip this entire narrative: Artificial General Intelligence. At the 2026 AI Impact Summit, Demis Hassabis noted that AGI could trigger a productivity leap far outpacing the Industrial Revolution.
+
+The US currently sits at the centre of this revolution. From foundational AI systems, to the concentration of top-tier research talent, to the venture capital flows that fund it all, the US tech corridor remains the most probable epicentre of an AGI breakthrough. This is not to dismiss advances elsewhere, but to acknowledge where the centre of gravity currently lies. 
+
+If the US tech corridor crosses the AGI finish line first, the global capital flow dynamic could reverse overnight. A productivity explosion of that magnitude would be the ultimate "risk-on" signal. Global capital, regardless of its concerns about US fiscal policy, would be forced back into US equities to gain exposure to this unprecedented growth. The sheer economic and corporate profit growth generated by a US-led AGI breakthrough could temporarily overwhelm—or at least mask—the US debt crisis, engineering a "Super Dollar" backed by technological supremacy.
+
+But this is only one possible path. In a more gradual scenario where AGI advances are distributed across the US, China, and Europe, the current trends of fiscal concerns and geopolitical fragmentation would likely persist. Capital would continue its gradual diversification away from the USD into regional champions and hard assets, and the multi-polar reality described throughout this report would remain intact.
+
+### References
+
+1.	Allianz. (2026, February 19). Eurobonds – A window of opportunity for a strategic necessity. https://www.allianz.com/en/economic_research/insights/publications/specials_fmo/260219-eurobonds.html
+2.	Business Times. (2026, February 6). South Korea’s ETF boom puts assets on track to overtake
+Taiwan. https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/south-koreas -etf-boom-puts-assets-track-overtake-taiwan
+3. CME Group, 2024, ‘The Role of Safe Haven Currencies’, https://www.cmegroup.com/openmarkets/fx/2024/The-Role-of-Safe-Haven-Currencies.html
+Congressional Budget Office, 2026, https://www.cbo.gov/publication/59014
+4. EFAMA. (2026, February 25). Equity ETFs in Europe hit record inflows in 2025: EFAMA report.
+ETF Express. https://etfexpress.com/2026/02/25/equity-etfs-in-europe-hit-record-inflows-in-2025-efama/
+5. European Central Bank, “Survey of Professional Forecasters, Q2 2025,” 2025, https://www.ecb.int/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2025q2~810f7c3300.it.pdf
+6. European Stability Mechanism. (2026, January). Europe navigating a new world: What to watch
+in 2026. ESM Blog. https://www.esm.europa.eu/blog/europe-navigating-new-world-what-watch-2026
+7. Financial Forecast Center, “U.S. Trade Deficit Forecast,” 2026, https://www.forecasts.org/net-exports.htm
+8. Goldman Sachs. (2026, January 10). 2026 GLOBAL FX OUTLOOK: Different Dollar Downside. https://www.gspublishing.com/content/research/en/reports/2026/01/10/3d5c48b3-164b-4ba7-a9f1-c2c2adf17f64.pdf
+9. GoldPrice.org, 2026, ‘Historical Gold Charts and Prices’, https://goldprice.org/zh/gold-price-history.html#8016
+10. IFA Magazine. (2026, February). Japan entering new phase in 2026 as net foreign flows surge. https://ifamagazine.com/japan-entering-newphase-in-2026-as-net-foreign-flows-surge/
+11. iFAST Research Team. (2026, January 30). South Korea outlook 2026: Extending the memory supercycle.
+12. FSMOne Singapore. https://secure.fundsupermart.com/fsmone/article/rcms352420/south-korea-outlook-2026-extendi
+ng-the-memory-supercycle
+13. IMF, “Currency Composition of Official Foreign Exchange Reserves (COFER), Q3 2025,” 2025, https://data.imf.org/en/news/imf%20data%20brief%20december%2019
+14. International Monetary Fund. (2025, December 12). Press briefing on China: Article IV consultation [Transcript]. https://www.imf.org/en/news/articles/2025/12/12/tr-12-11-25-press-briefing-on-china-article-iv-consultation-transcript
+15. International Monetary Fund (IMF), 2026, ‘Currency Composition of Official Foreign Exchange Reserves (COFER)’, https://data.imf.org/en/datasets/IMF.STA:COFER
+16. International Monetary Fund. (2026, February). People's Republic of China: 2025 Article I consultation—Press release; Staff report; and Statement by the Executive Director for the People's Republic of China. https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf
+17. Kang, H. (2026, January 6). Assessing the drivers of recent won depreciation and its macroeconomic implications. Korea Capital Market Institute. https://www.kcmi.re.kr/flexer/view?fid=28649&fgu=002001&fty=004003
+18. Press Information Bureau. (2025, August 28). Union Cabinet apprised of the Memorandum of Understanding between India and Taiwan on Cooperation in the field of Micro, Small and Medium Enterprises [Press release]. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219971
+19. Rai, V. (2026, January 21). The U.S. dollar in 2025: Down, but not out. TD Economics. https://economics.td.com/us-the-united-states-dollar-in-2025
+20. Sachs, J. D., & Fares, S., 2026, ‘Economic Statecraft’, https://www.jeffsachs.org/newspaper-articles/rlskj9m6nzabkgyyrmfjcge7nyty79
+21. State Council Information Office. (2026). Press conferences and announcements: Economic updates. The People's Republic of China. http://english.scio.gov.cn/pressroom/node_9018323.html
+22. TAB Insights. (2025). RMB internationalisation report 2025: Executive summary. https://reports.tabinsights.com/assets/files/reports/RMB-Internationalisation-Report-2025-ES.pdf
+23. Taipei Times. (2026, January 16). Taiwan's 2025 trade surplus hits record high. https://www.taipeitimes.com/News/biz/archives/2026/01/16/2003850673
+24. The Economic Times, 2026, Russia may return to US dollar settlement system in Trump deal, https://economictimes.indiatimes.com/news/international/us/russia-may-return-to-us-dollar-settlement-system-in-trump-deal-what-the-proposed-us russia-economic-partnership-includes-and-isbrics-de-dollarization-now-a-dead-game/articleshow/128264790.cms
+25. The Economic Times, “US budget deficit to grow to $1.853 trillion in FY2026, CBO says,” 2026, https://economictimes.indiatimes.com/news/international/global-trends/us-budget-deficit-to-grow-to-1-853-trillion-in-fy2026-cbo-says/amp_articleshow/128214709.cms
+26. Yahoo Finance, 2026, ‘Demis Hassabis Predicts AGI Will Have 10x The Impact Of The Industrial Revolution’, https://finance.yahoo.com/news/demis-hassabis-predicts-agi-10x-143113425.html
+27. Yonhap. (2026, February 6). Korea logs record $123 bil. current account surplus in 2025: BOK.
+The Korea Times. https://www.koreatimes.co.kr/economy/20260206/korea-logs-largest-annual-current-account-sur
+plus-in-2025-bok
+28. J.P. Morgan. (2025, December 16). Gold Price Forecasts. https://www.jpmorgan.com/insights/global-research/commodities/gold-prices
+29. TradingView. (n.d.). Figure 4: XAUUSD [Interactive price chart]. Retrieved March 9, 2026, from https://www.tradingview.com/chart/?symbol=PEPPERSTONE%3AXAUUSD
+30. MacroMicro. (n.d.). *Figure 3: World - Official Foreign Exchange Reserves by Currency 2000-2025* [Data visualization]. Retrieved March 9, 2026, from https://en.macromicro.me/collections/23654/dedollarization/116487/global-official-foreign-exchange-reserves-by-currency-us-dollars-billions
+    
+</x-accordion>
+
 <x-accordion summary="UK-US Immigration Restrictions and Global Inflation: From Domestic Labor Shortages to Global Financial Tightening">
 
 _Written by Diana LIU Haolin, Adrian PING An, Lucy ZHOU Zihan, 02/03/2026_
