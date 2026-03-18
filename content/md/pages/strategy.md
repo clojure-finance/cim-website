@@ -20,7 +20,7 @@
 
 ### We do paper trading, but treat each trade with the same seriousness as real capital. Every trade is recorded on GitHub as part of our commitment to transparency and open-source practices.
 
-# How CIM Is Organized
+## How CIM Is Organized
 
 ## Industry Groups
 
@@ -32,9 +32,9 @@
 
 ### In addition to their industry group, every member belongs to one of three **functional groups**:
 
-- **Data Analysis** --- Supports the industry groups with data analysis and visualization tools, programming in Clojure and Python.
-- **Research** --- Creates all content for the CIM website, including market news and investment insights, and organizes external events such as conferences.
-- **Web Development** --- Develops and maintains the CIM website using Cryogen.
+### - **Data Analysis** --- Supports the industry groups with data analysis and visualization tools, programming in Clojure and Python.
+### - **Research** --- Creates all content for the CIM website, including market news and investment insights, and organizes external events such as conferences.
+### - **Web Development** --- Develops and maintains the CIM website using Cryogen.
 
 ## How We Become Better Investors
 
@@ -47,27 +47,4 @@
 
 ## This iterative process is what turns experience into skill. Losing trades, analyzed rigorously, often provide the greatest learning opportunities.
 
-</div>
-
-<div class="grid-container"> 
-<div class="grid-item">
-
-## 
-### Return
-
-</div>
-
-<div class="grid-item">
-        
-## 
-### Sharpe Ratio
-
-</div>
-
-<div class="grid-item">
-        
-## 
-### Variance
-
-</div>
 </div>
