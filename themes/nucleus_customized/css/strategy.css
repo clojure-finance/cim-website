@@ -4,7 +4,6 @@
     height: 526px;
     width: calc(100% + 90px);
     text-align: center;
-    position: relative;
     margin: 0 0 0 -40px;
 }
 
@@ -17,7 +16,6 @@
 }
 
 .strattext h2 {
-    position: absolute;
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -26,12 +24,18 @@
 }
 
 .strattext h3 {
-    position: absolute; 
     top: 75%; 
     left: 50%;
     transform: translate(-50%, -50%); 
     width: 90%;
     font-size: 25px;
+}
+
+.strattext p {
+    max-width: 90%;
+    margin: 20px auto;
+    line-height: 1.6;
+    text-align: left;
 }
 
 .grid-container {
