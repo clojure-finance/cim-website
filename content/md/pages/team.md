@@ -132,15 +132,6 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Felix-Lee.jpg"/>
-        <h3 class="team-member-name">LEE Cheuk Lun</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <h4 class="team-member-group">Industry Group: Technology</h4>
-        <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
-        <p class="team-member-description">Felix is a dedicated Year 2 student pursuing a Bachelor of Business Administration in International Business and Global Management (BBA IBGM). Currently serving as a junior portfolio manager in the data analytics team, he possesses a strong passion for quantitative finance and asset management. Felix is eager to leverage data analytics to backtest and develop innovative investment strategies. His analytical mindset and commitment to understanding market dynamics drive him to excel in his studies and professional endeavors, as he aims to explore new avenues in finance and contribute to the evolving landscape of the industry.</p>
-        <div class="team-member-pad"></div>
-    </div> 
-    <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Sophie-Ng.jpg"/>
         <h3 class="team-member-name">Sophie NG Shui Yee</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>  
