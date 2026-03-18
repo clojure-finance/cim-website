@@ -150,39 +150,39 @@ But this is only one possible path. In a more gradual scenario where AGI advance
 2.	Business Times. (2026, February 6). South Korea’s ETF boom puts assets on track to overtake
 Taiwan. https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/south-koreas -etf-boom-puts-assets-track-overtake-taiwan
 3. CME Group, 2024, ‘The Role of Safe Haven Currencies’, https://www.cmegroup.com/openmarkets/fx/2024/The-Role-of-Safe-Haven-Currencies.html
-Congressional Budget Office, 2026, https://www.cbo.gov/publication/59014
-4. EFAMA. (2026, February 25). Equity ETFs in Europe hit record inflows in 2025: EFAMA report.
+4. Congressional Budget Office, 2026, https://www.cbo.gov/publication/59014
+5. EFAMA. (2026, February 25). Equity ETFs in Europe hit record inflows in 2025: EFAMA report.
 ETF Express. https://etfexpress.com/2026/02/25/equity-etfs-in-europe-hit-record-inflows-in-2025-efama/
-5. European Central Bank, “Survey of Professional Forecasters, Q2 2025,” 2025, https://www.ecb.int/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2025q2~810f7c3300.it.pdf
-6. European Stability Mechanism. (2026, January). Europe navigating a new world: What to watch
+6. European Central Bank, “Survey of Professional Forecasters, Q2 2025,” 2025, https://www.ecb.int/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2025q2~810f7c3300.it.pdf
+7. European Stability Mechanism. (2026, January). Europe navigating a new world: What to watch
 in 2026. ESM Blog. https://www.esm.europa.eu/blog/europe-navigating-new-world-what-watch-2026
-7. Financial Forecast Center, “U.S. Trade Deficit Forecast,” 2026, https://www.forecasts.org/net-exports.htm
-8. Goldman Sachs. (2026, January 10). 2026 GLOBAL FX OUTLOOK: Different Dollar Downside. https://www.gspublishing.com/content/research/en/reports/2026/01/10/3d5c48b3-164b-4ba7-a9f1-c2c2adf17f64.pdf
-9. GoldPrice.org, 2026, ‘Historical Gold Charts and Prices’, https://goldprice.org/zh/gold-price-history.html#8016
-10. IFA Magazine. (2026, February). Japan entering new phase in 2026 as net foreign flows surge. https://ifamagazine.com/japan-entering-newphase-in-2026-as-net-foreign-flows-surge/
-11. iFAST Research Team. (2026, January 30). South Korea outlook 2026: Extending the memory supercycle.
-12. FSMOne Singapore. https://secure.fundsupermart.com/fsmone/article/rcms352420/south-korea-outlook-2026-extendi
+8. Financial Forecast Center, “U.S. Trade Deficit Forecast,” 2026, https://www.forecasts.org/net-exports.htm
+9. Goldman Sachs. (2026, January 10). 2026 GLOBAL FX OUTLOOK: Different Dollar Downside. https://www.gspublishing.com/content/research/en/reports/2026/01/10/3d5c48b3-164b-4ba7-a9f1-c2c2adf17f64.pdf
+10. GoldPrice.org, 2026, ‘Historical Gold Charts and Prices’, https://goldprice.org/zh/gold-price-history.html#8016
+11. IFA Magazine. (2026, February). Japan entering new phase in 2026 as net foreign flows surge. https://ifamagazine.com/japan-entering-newphase-in-2026-as-net-foreign-flows-surge/
+12. iFAST Research Team. (2026, January 30). South Korea outlook 2026: Extending the memory supercycle.
+13. FSMOne Singapore. https://secure.fundsupermart.com/fsmone/article/rcms352420/south-korea-outlook-2026-extendi
 ng-the-memory-supercycle
-13. IMF, “Currency Composition of Official Foreign Exchange Reserves (COFER), Q3 2025,” 2025, https://data.imf.org/en/news/imf%20data%20brief%20december%2019
-14. International Monetary Fund. (2025, December 12). Press briefing on China: Article IV consultation [Transcript]. https://www.imf.org/en/news/articles/2025/12/12/tr-12-11-25-press-briefing-on-china-article-iv-consultation-transcript
-15. International Monetary Fund (IMF), 2026, ‘Currency Composition of Official Foreign Exchange Reserves (COFER)’, https://data.imf.org/en/datasets/IMF.STA:COFER
-16. International Monetary Fund. (2026, February). People's Republic of China: 2025 Article I consultation—Press release; Staff report; and Statement by the Executive Director for the People's Republic of China. https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf
-17. Kang, H. (2026, January 6). Assessing the drivers of recent won depreciation and its macroeconomic implications. Korea Capital Market Institute. https://www.kcmi.re.kr/flexer/view?fid=28649&fgu=002001&fty=004003
-18. Press Information Bureau. (2025, August 28). Union Cabinet apprised of the Memorandum of Understanding between India and Taiwan on Cooperation in the field of Micro, Small and Medium Enterprises [Press release]. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219971
-19. Rai, V. (2026, January 21). The U.S. dollar in 2025: Down, but not out. TD Economics. https://economics.td.com/us-the-united-states-dollar-in-2025
-20. Sachs, J. D., & Fares, S., 2026, ‘Economic Statecraft’, https://www.jeffsachs.org/newspaper-articles/rlskj9m6nzabkgyyrmfjcge7nyty79
-21. State Council Information Office. (2026). Press conferences and announcements: Economic updates. The People's Republic of China. http://english.scio.gov.cn/pressroom/node_9018323.html
-22. TAB Insights. (2025). RMB internationalisation report 2025: Executive summary. https://reports.tabinsights.com/assets/files/reports/RMB-Internationalisation-Report-2025-ES.pdf
-23. Taipei Times. (2026, January 16). Taiwan's 2025 trade surplus hits record high. https://www.taipeitimes.com/News/biz/archives/2026/01/16/2003850673
-24. The Economic Times, 2026, Russia may return to US dollar settlement system in Trump deal, https://economictimes.indiatimes.com/news/international/us/russia-may-return-to-us-dollar-settlement-system-in-trump-deal-what-the-proposed-us russia-economic-partnership-includes-and-isbrics-de-dollarization-now-a-dead-game/articleshow/128264790.cms
-25. The Economic Times, “US budget deficit to grow to $1.853 trillion in FY2026, CBO says,” 2026, https://economictimes.indiatimes.com/news/international/global-trends/us-budget-deficit-to-grow-to-1-853-trillion-in-fy2026-cbo-says/amp_articleshow/128214709.cms
-26. Yahoo Finance, 2026, ‘Demis Hassabis Predicts AGI Will Have 10x The Impact Of The Industrial Revolution’, https://finance.yahoo.com/news/demis-hassabis-predicts-agi-10x-143113425.html
-27. Yonhap. (2026, February 6). Korea logs record $123 bil. current account surplus in 2025: BOK.
+14. IMF, “Currency Composition of Official Foreign Exchange Reserves (COFER), Q3 2025,” 2025, https://data.imf.org/en/news/imf%20data%20brief%20december%2019
+15. International Monetary Fund. (2025, December 12). Press briefing on China: Article IV consultation [Transcript]. https://www.imf.org/en/news/articles/2025/12/12/tr-12-11-25-press-briefing-on-china-article-iv-consultation-transcript
+16. International Monetary Fund (IMF), 2026, ‘Currency Composition of Official Foreign Exchange Reserves (COFER)’, https://data.imf.org/en/datasets/IMF.STA:COFER
+17. International Monetary Fund. (2026, February). People's Republic of China: 2025 Article I consultation—Press release; Staff report; and Statement by the Executive Director for the People's Republic of China. https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf
+18. Kang, H. (2026, January 6). Assessing the drivers of recent won depreciation and its macroeconomic implications. Korea Capital Market Institute. https://www.kcmi.re.kr/flexer/view?fid=28649&fgu=002001&fty=004003
+19. Press Information Bureau. (2025, August 28). Union Cabinet apprised of the Memorandum of Understanding between India and Taiwan on Cooperation in the field of Micro, Small and Medium Enterprises [Press release]. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219971
+20. Rai, V. (2026, January 21). The U.S. dollar in 2025: Down, but not out. TD Economics. https://economics.td.com/us-the-united-states-dollar-in-2025
+21. Sachs, J. D., & Fares, S., 2026, ‘Economic Statecraft’, https://www.jeffsachs.org/newspaper-articles/rlskj9m6nzabkgyyrmfjcge7nyty79
+22. State Council Information Office. (2026). Press conferences and announcements: Economic updates. The People's Republic of China. http://english.scio.gov.cn/pressroom/node_9018323.html
+23. TAB Insights. (2025). RMB internationalisation report 2025: Executive summary. https://reports.tabinsights.com/assets/files/reports/RMB-Internationalisation-Report-2025-ES.pdf
+24. Taipei Times. (2026, January 16). Taiwan's 2025 trade surplus hits record high. https://www.taipeitimes.com/News/biz/archives/2026/01/16/2003850673
+25. The Economic Times, 2026, Russia may return to US dollar settlement system in Trump deal, https://economictimes.indiatimes.com/news/international/us/russia-may-return-to-us-dollar-settlement-system-in-trump-deal-what-the-proposed-us russia-economic-partnership-includes-and-isbrics-de-dollarization-now-a-dead-game/articleshow/128264790.cms
+26. The Economic Times, “US budget deficit to grow to $1.853 trillion in FY2026, CBO says,” 2026, https://economictimes.indiatimes.com/news/international/global-trends/us-budget-deficit-to-grow-to-1-853-trillion-in-fy2026-cbo-says/amp_articleshow/128214709.cms
+27. Yahoo Finance, 2026, ‘Demis Hassabis Predicts AGI Will Have 10x The Impact Of The Industrial Revolution’, https://finance.yahoo.com/news/demis-hassabis-predicts-agi-10x-143113425.html
+28. Yonhap. (2026, February 6). Korea logs record $123 bil. current account surplus in 2025: BOK.
 The Korea Times. https://www.koreatimes.co.kr/economy/20260206/korea-logs-largest-annual-current-account-sur
 plus-in-2025-bok
-28. J.P. Morgan. (2025, December 16). Gold Price Forecasts. https://www.jpmorgan.com/insights/global-research/commodities/gold-prices
-29. TradingView. (n.d.). Figure 4: XAUUSD [Interactive price chart]. Retrieved March 9, 2026, from https://www.tradingview.com/chart/?symbol=PEPPERSTONE%3AXAUUSD
-30. MacroMicro. (n.d.). *Figure 3: World - Official Foreign Exchange Reserves by Currency 2000-2025* [Data visualization]. Retrieved March 9, 2026, from https://en.macromicro.me/collections/23654/dedollarization/116487/global-official-foreign-exchange-reserves-by-currency-us-dollars-billions
+29. J.P. Morgan. (2025, December 16). Gold Price Forecasts. https://www.jpmorgan.com/insights/global-research/commodities/gold-prices
+30. TradingView. (n.d.). Figure 4: XAUUSD [Interactive price chart]. Retrieved March 9, 2026, from https://www.tradingview.com/chart/?symbol=PEPPERSTONE%3AXAUUSD
+31. MacroMicro. (n.d.). *Figure 3: World - Official Foreign Exchange Reserves by Currency 2000-2025* [Data visualization]. Retrieved March 9, 2026, from https://en.macromicro.me/collections/23654/dedollarization/116487/global-official-foreign-exchange-reserves-by-currency-us-dollars-billions
     
 </x-accordion>
 
