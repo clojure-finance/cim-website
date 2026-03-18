@@ -161,8 +161,7 @@ in 2026. ESM Blog. https://www.esm.europa.eu/blog/europe-navigating-new-world-wh
 10. GoldPrice.org, 2026, ‘Historical Gold Charts and Prices’, https://goldprice.org/zh/gold-price-history.html#8016
 11. IFA Magazine. (2026, February). Japan entering new phase in 2026 as net foreign flows surge. https://ifamagazine.com/japan-entering-newphase-in-2026-as-net-foreign-flows-surge/
 12. iFAST Research Team. (2026, January 30). South Korea outlook 2026: Extending the memory supercycle.
-13. FSMOne Singapore. https://secure.fundsupermart.com/fsmone/article/rcms352420/south-korea-outlook-2026-extendi
-ng-the-memory-supercycle
+13. FSMOne Singapore. https://secure.fundsupermart.com/fsmone/article/rcms352420/south-korea-outlook-2026-extending-the-memory-supercycle
 14. IMF, “Currency Composition of Official Foreign Exchange Reserves (COFER), Q3 2025,” 2025, https://data.imf.org/en/news/imf%20data%20brief%20december%2019
 15. International Monetary Fund. (2025, December 12). Press briefing on China: Article IV consultation [Transcript]. https://www.imf.org/en/news/articles/2025/12/12/tr-12-11-25-press-briefing-on-china-article-iv-consultation-transcript
 16. International Monetary Fund (IMF), 2026, ‘Currency Composition of Official Foreign Exchange Reserves (COFER)’, https://data.imf.org/en/datasets/IMF.STA:COFER
@@ -174,7 +173,7 @@ ng-the-memory-supercycle
 22. State Council Information Office. (2026). Press conferences and announcements: Economic updates. The People's Republic of China. http://english.scio.gov.cn/pressroom/node_9018323.html
 23. TAB Insights. (2025). RMB internationalisation report 2025: Executive summary. https://reports.tabinsights.com/assets/files/reports/RMB-Internationalisation-Report-2025-ES.pdf
 24. Taipei Times. (2026, January 16). Taiwan's 2025 trade surplus hits record high. https://www.taipeitimes.com/News/biz/archives/2026/01/16/2003850673
-25. The Economic Times, 2026, Russia may return to US dollar settlement system in Trump deal, https://economictimes.indiatimes.com/news/international/us/russia-may-return-to-us-dollar-settlement-system-in-trump-deal-what-the-proposed-us russia-economic-partnership-includes-and-isbrics-de-dollarization-now-a-dead-game/articleshow/128264790.cms
+25. The Economic Times, 2026, Russia may return to US dollar settlement system in Trump deal, https://economictimes.indiatimes.com/news/international/us/russia-may-return-to-us-dollar-settlement-system-in-trump-deal-what-the-proposed-usrussia-economic-partnership-includes-and-isbrics-de-dollarization-now-a-dead-game/articleshow/128264790.cms
 26. The Economic Times, “US budget deficit to grow to $1.853 trillion in FY2026, CBO says,” 2026, https://economictimes.indiatimes.com/news/international/global-trends/us-budget-deficit-to-grow-to-1-853-trillion-in-fy2026-cbo-says/amp_articleshow/128214709.cms
 27. Yahoo Finance, 2026, ‘Demis Hassabis Predicts AGI Will Have 10x The Impact Of The Industrial Revolution’, https://finance.yahoo.com/news/demis-hassabis-predicts-agi-10x-143113425.html
 28. Yonhap. (2026, February 6). Korea logs record $123 bil. current account surplus in 2025: BOK.
