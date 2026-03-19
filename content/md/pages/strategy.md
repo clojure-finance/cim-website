@@ -24,7 +24,7 @@
 
 <h2>Industry Groups</h2>
 
-<h3>CIM members are organized into **eleven industry groups** covering the major sectors of the equity market: Technology, Healthcare, Financials, Consumer Discretionary, Consumer Staples, Industrials, Energy, Utilities, Materials, Telecommunications, and Real Estate.</h3>
+<h3>CIM members are organized into 	<b>eleven industry groups</b> covering the major sectors of the equity market: Technology, Healthcare, Financials, Consumer Discretionary, Consumer Staples, Industrials, Energy, Utilities, Materials, Telecommunications, and Real Estate.</h3>
 
 <h3>Each industry group manages its own portfolio, maintains a watchlist of potential investments, and presents performance updates on a rotational basis during weekly meetings.</h3>
 
@@ -32,18 +32,18 @@
 
 <h3>In addition to their industry group, every member belongs to one of three **functional groups**:</h3>
 
-<p> - **Data Analysis** --- Supports the industry groups with data analysis and visualization tools, programming in Clojure and Python.</p>
-<p> - **Research** --- Creates all content for the CIM website, including market news and investment insights, and organizes external events such as conferences.</p>
-<p> - **Web Development** --- Develops and maintains the CIM website using Cryogen.</p>
+<p> - Data Analysis --- Supports the industry groups with data analysis and visualization tools, programming in Clojure and Python.</p>
+<p> - Research --- Creates all content for the CIM website, including market news and investment insights, and organizes external events such as conferences.</p>
+<p> - Web Development --- Develops and maintains the CIM website using Cryogen.</p>
 
 <h2>How We Become Better Investors</h2>
 
 <h3>At CIM, we believe the market is the best teacher---but you need to know how to listen. Our core learning loop is:</h3>
 
-<p> 1. **Invest** according to your current investment criteria.</p>
-<p> 2. **Analyze losses in detail**---find out what happened, why it went wrong, and use AI tools to accelerate the process.</p>
-<p> 3. **Update your criteria** if there is an actionable lesson.</p>
-<p> 4. **Repeat.**</p>
+<p> 1. Invest according to your current investment criteria.</p>
+<p> 2. Analyze losses in detail---find out what happened, why it went wrong, and use AI tools to accelerate the process.</p>
+<p> 3. Update your criteria if there is an actionable lesson.</p>
+<p> 4. Repeat.</p>
 
 <h3> This iterative process is what turns experience into skill. Losing trades, analyzed rigorously, often provide the greatest learning opportunities.</h3>
 
