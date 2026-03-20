@@ -37,9 +37,9 @@
 .strattext p {
   font-size: 32px;
   line-height: 1.6;
-  max-width: 800px;
   margin: 1rem auto;
   text-align: left;
+  justify-content: center;
 }
 
 .center-container {
@@ -48,11 +48,13 @@
   gap: 30px;
   margin: 2rem 0;
   width: 100%;
+  max-width: 85%;
 }
 
 .container-1, .container-2, .container-3, .container-4 {
   flex: 1;
-  text-align: left;
+  align-items: center; 
+  text-align: center; 
   width: 100%;
   padding: 20px;
   border: 1px solid #ccc;
