@@ -40,7 +40,7 @@
     </div>
 </div>
 
-<h2><b>How We Become Better Investors</b></h2>
+<h1><b>How We Become Better Investors</b></h1>
 
 <h3>At CIM, we believe the market is the best teacher---but you need to know how to listen. Our core learning loop is:</h3>
 
