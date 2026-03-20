@@ -37,15 +37,15 @@
 .strattext p {
   font-size: 32px;
   line-height: 1.6;
-  margin: 1rem auto;
+  margin: 1rem 0;
   text-align: left;
   justify-content: center;
 }
 
 .center-container {
-  display: flex;
-  align-items: center; 
-  justify-content: center;
+  display: grid;
+  place-items: center; 
+  height: 200px;
   gap: 30px;
   margin: 2rem 0;
   width: 100%;
