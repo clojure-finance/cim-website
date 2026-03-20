@@ -43,11 +43,13 @@
 }
 
 .center-container {
+  display: flex;
   text-align: center; 
   margin-bottom: 1rem 0 1rem;
+  gap: 30px; 
 }
 
-.left-aligned-text-box {
+.container-1, .container-2, .container-3, .container-4 {
   display: inline-block; 
   text-align: left;
   width: 80%; 
@@ -57,9 +59,10 @@
 }
   
 .grid-container {
-    display: grid;
+    display: flex;
     grid: 110px / auto auto auto; 
     margin: 0 0 0 0;
+    gap: 30px; 
 }
 
 .grid-item {
