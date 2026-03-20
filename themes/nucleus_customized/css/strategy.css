@@ -50,7 +50,8 @@
 .left-aligned-text-box {
   display: inline-block; 
   text-align: left;
-  max-width: 600px;
+  width: 80%; 
+  max-width: 1200px;
   padding: 10px;
   border: 1px solid #ccc;
 }
