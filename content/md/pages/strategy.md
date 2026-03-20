@@ -21,6 +21,7 @@
     <h3>We do paper trading, but treat each trade with the same seriousness as real capital. Every trade is recorded on GitHub as part of our commitment to transparency and open-source practices.</h3><br>
     </div>
 </div>
+<br>
 
 <h1>How CIM Is Organized</h1>
 <div class="center-container">
