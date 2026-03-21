@@ -27,7 +27,7 @@
 <div class="center-container">
   <div class="container-3">
       <h2><b>Industry Groups </b></h2>
-      <h3>CIM members are organized into 	<b>eleven industry groups</b> covering the major sectors of the equity market: <br>Technology, Healthcare, Financials, Consumer Discretionary, Consumer Staples, Industrials, Energy, Utilities, Materials, Telecommunications, and Real Estate.</h3>
+      <h3>CIM members are organized into 	<b>eleven industry groups</b> covering the major sectors of the equity market: <br><br>Technology, Healthcare, Financials, Consumer Discretionary, Consumer Staples, Industrials, Energy, Utilities, Materials, Telecommunications, and Real Estate.</h3>
       <h3>Each industry group manages its own portfolio, maintains a watchlist of potential investments, and presents performance updates on a rotational basis during weekly meetings.</h3>
     </div>
    <div class="container-4">
