@@ -17,7 +17,7 @@
 
   <div class="container-2">
     <h1>Our Approach</h1>
-    <h3>CIM takes a disciplined, multi-factor approach to equity investing. We combine <b>fundamental analysis</b>---evaluating financial health, growth trends, and valuations---with <b>technical analysis</b> to identify stocks in confirmed uptrends and time entries and exits. All investment decisions are underpinned by <b>rigorous risk management</b>, including stop-loss orders and systematic position sizing.</h3><br>
+    <h3>CIM takes a disciplined, multi-factor approach to equity investing. We combine <b>fundamental analysis</b>---evaluating financial health, growth trends, & valuations---with <b>technical analysis</b> to identify stocks in confirmed uptrends and time entries and exits. All investment decisions are underpinned by <b>rigorous risk management</b>, including stop-loss orders and systematic position sizing.</h3><br>
     <h3>We do paper trading, but treat each trade with the same seriousness as real capital. Every trade is recorded on GitHub as part of our commitment to transparency and open-source practices.</h3><br>
     </div>
 </div>
@@ -26,8 +26,8 @@
 <h1>How CIM Is Organized</h1>
 <div class="center-container">
   <div class="container-3">
-      <h2><b>Industry Groups </b></h2><br>
-      <h3>CIM members are organized into 	<b>eleven industry groups</b> covering the major sectors of the equity market: Technology, Healthcare, Financials, Consumer Discretionary, Consumer Staples, Industrials, Energy, Utilities, Materials, Telecommunications, and Real Estate.</h3><br>
+      <h2><b>Industry Groups </b></h2>
+      <h3>CIM members are organized into 	<b>eleven industry groups</b> covering the major sectors of the equity market: Technology, Healthcare, Financials, Consumer Discretionary, Consumer Staples, Industrials, Energy, Utilities, Materials, Telecommunications, and Real Estate.</h3>
       <h3>Each industry group manages its own portfolio, maintains a watchlist of potential investments, and presents performance updates on a rotational basis during weekly meetings.</h3>
     </div>
    <div class="container-4">
