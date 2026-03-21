@@ -33,9 +33,11 @@
    <div class="container-4">
      <h2><b>Functional Groups </b></h2>
        <h3>In addition to their industry group, every member belongs to one of three <b>functional groups</b>:</h3><br>
+     <div class="container-5">
             <p> - <b>Data Analysis</b> --- Supports the industry groups with data analysis and visualization tools, programming in Clojure and Python.</p>
             <p> - <b>Research</b> --- Creates all content for the CIM website, including market news and investment insights, and organizes external events such as conferences.</p>
             <p> - <b>Web Development</b> --- Develops and maintains the CIM website using Cryogen.</p>
+      </div>
     </div>
 </div> 
 <br>
@@ -43,10 +45,14 @@
 <h1><b>How We Become Better Investors</b></h1>
 
 <h3>At CIM, we believe the market is the best teacher---but you need to know how to listen. Our core learning loop is:</h3><br>
-<p> 1. <b>Invest</b> according to your current investment criteria.</p>
-<p> 2. <b>Analyze losses in detail</b>---find out what happened, why it went wrong, and use AI tools to accelerate the process.</p>
-<p> 3. <b>Update your criteria</b> if there is an actionable lesson.</p>
-<p> 4. <b>Repeat.</b></p>
+<div class="center-container">
+  <div class="container-5">
+    <p> 1. <b>Invest</b> according to your current investment criteria.</p>
+    <p> 2. <b>Analyze losses in detail</b>---find out what happened, why it went wrong, and use AI tools to accelerate the process.</p>
+    <p> 3. <b>Update your criteria</b> if there is an actionable lesson.</p>
+    <p> 4. <b>Repeat.</b></p>
+  </div>
+</div>
 <br>
 
 <h3> "This iterative process is what turns experience into skill. Losing trades, analyzed rigorously, often provide the greatest learning opportunities."</h3>
