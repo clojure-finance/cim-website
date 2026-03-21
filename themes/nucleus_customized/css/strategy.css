@@ -10,15 +10,13 @@
 
 .strattext h1 {
   font-size: 46px;
-  margin-top: 1rem 0 1rem;
-  margin-bottom: 1rem 0 1rem;
+  margin-top: 1rem 0;
   text-align: center;
 }
 
 .strattext h2 {
   font-size: 34px;
-  margin-top: 1rem 0 1rem;
-  margin-bottom: 1rem 0 1rem;
+  margin-top: 1rem 0;
   width: 100%;
   text-align: center;
   max-width: 800px;
@@ -27,7 +25,7 @@
 
 .strattext h3 {
   font-size: 32px;
-  margin-bottom: 1rem 0 1rem;
+  margin: 1rem 0;
   width: 100%;
   text-align: center;
   max-width: 90%;
@@ -37,8 +35,6 @@
 .strattext p {
   font-size: 32px;
   line-height: 1.6;
-  justify-content: center;
-  display: inline-block; 
   text-align: left;      
   margin: 0 auto; 
 }
@@ -46,12 +42,12 @@
 .center-container {
   display: flex;
   text-align: center; 
-  margin-bottom: 1rem 0 1rem;
+  margin: 1rem 0;
   gap: 30px; 
 }
 
 .container-1, .container-2, .container-3, .container-4 {
-  display: block; 
+  display: flex; 
   flex-direction: column;
   justify-content: center; 
   align-items: center;  
@@ -67,15 +63,22 @@
 }
 
 .container-5 {
-  display: block; 
+  display: flex; 
   flex-direction: column;
   justify-content: center; 
   align-items: center;  
-  text-align: center;  
+  text-align: left;  
   width: 80%; 
   max-width: 90%;
   padding: 10px;
   border: none;
+}
+
+.container-5 p {
+  width: 100%;            
+  max-width: 600px;         
+  text-align: left;        
+  margin: 0 auto;          
 }
 
 .grid-container {
