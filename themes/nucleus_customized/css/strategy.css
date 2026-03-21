@@ -66,6 +66,17 @@
   display: block;
 }
 
+.container-5 {
+  display: block; 
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;  
+  text-align: center;  
+  width: 80%; 
+  max-width: 90%;
+  border: none;
+}
+
 .grid-container {
     display: flex;
     grid: 110px / auto auto auto; 
