@@ -371,8 +371,6 @@ Kao Corporation: Early gains were erased after activist fund Oasis Management, w
 
 Honda Motor: Honda is seeking to strengthen its domestic lineup by importing US-made Acura models and, for the first time, Chinese-manufactured electric vehicles. The move comes as the company’s auto segment struggles, reporting a ¥166.4 billion operating loss for the first nine months of the fiscal year. While Honda is leveraging simplified certification rules to mitigate trade pressures, the strategy underscores the firm’s increasing reliance on its motorcycle division to sustain profitability while navigating intensifying competition in the EV market.
 
- 
-
 ### India
 
 _Written by Adrian PING An_
