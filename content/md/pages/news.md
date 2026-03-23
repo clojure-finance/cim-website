@@ -204,8 +204,6 @@ Between March 9 and 13, 2026, Pop Mart (09992.HK) saw its stock rebound from HKD
 
 </x-accordion>
 
-## Headlines
-
 <x-accordion summary="Week of 06/03/2026">
 
 _Published by Hannah Myat Su Mon_
