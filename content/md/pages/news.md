@@ -8,6 +8,204 @@ These reports are prepared by students for educational purposes only and do not 
 
 ## Headlines
 
+<x-accordion summary="Week of 13/03/2026">
+
+_Published by Henry LI Yan Heng_
+
+### US
+
+_Written by Jackie LUI Ching Ho_
+
+#### Weekly Key Data:
+
+1.	Dow Jones Industrial Average: 46558.47 (-1.99%)
+2.	S&P 500 Index: 6632.19 (-1.60%)
+3.	NASDAQ Composite Index: 22105.36 (-1.26%)
+4.	U.S. Consumer Price Index (CPI) MoM in February: 0.3% (Increased from 0.2% in January)
+5.	U.S. Core Consumer Price Index (CPI) MoM in February: 0.2% (Decreased from 0.3% in January)
+6.	U.S. Gross Domestic Product (GDP) annualized QoQ in Q4 2025: +0.7% (Down from +4.4% in Q3)
+7.	U.S. JOLTS Job Openings in January: 6.946M (Increased from 6.542M in December)
+
+#### Sector News:
+
+The S&P 500 Energy Index (SPNY) was a significant driver of market sentiment this week, rising 1.92% despite severe volatility in underlying commodities. Crude oil WTI (OIL) hit an intraday high of $119.50 on Monday as geopolitical tensions continued, before falling below $90 by mid-week. This revision followed the G7's coordinated efforts to release emergency oil reserves as well as indications of a quick resolution to the crisis. Despite these price fluctuations, the sector served as a safe haven for capital flowing out of growth-oriented equities.
+
+The consumer discretionary sector continued under pressure, with the S&P 500 Consumer Discretionary Index falling 1.85% as macroeconomic headwinds dampened the outlook for household spending. Sentiment was further dampened by the February jobs data, which reported a loss of 92,000 jobs against an estimate of 50,000 additions, raising the national unemployment rate to 4.4%. These labor market issues were exacerbated by a double-digit increase in diesel and fuel prices, which had a direct impact on the transportation and travel industries. Cruise operators saw their valuations fall by more than 4% as rising energy costs may damage operating profits, which may lead to investors’ concerns.
+
+#### Single Stock News:
+
+1. CF Industries (CF)
+CF Industries climbed 11.91% this week. As the main North American nitrogen producer, CF benefited from Middle Eastern supply interruptions and declining European ammonia production. While the company continues to face a $200 million EBITDA headwind due to the prolonged outage at its Yazoo City facility, investor interest is being fueled by a strategic shift towards sustainable energy. This was reinforced by management's confirmation that civil work of $4 billion joint venture will begin in Q2 2026, solidifying the company's transition from a traditional fertilizer producer to a key infrastructure provider in the emerging low- carbon hydrogen economy.
+
+2. Oracle Corporation (ORCL)
+Oracle Corporation also reported a strong performance, with its fiscal Q3 2026 results exceeding market expectations. The company reported overall revenue of $17.2 billion, up 22% YoY, while GAAP EPS increased 24% to $1.27. As a result, its share price gain 9.18% the next day. Remaining Performance Obligations (RPO) rose 325% to $553 billion, due to enormous contracts for AI training capacity. Furthermore, Oracle disclosed that a substantial portion of the new RPO includes client prepayments. These effectively alleviated investor concerns about Oracle's large capital expenditure by demonstrating future revenue resilience and robust market demand for its cloud infrastructure.
+
+### EU
+
+_Written by Joshua CHAN_
+
+#### Weekly Key Data:
+
+1. Euro Stoxx 50 Index: 5,716.61 (-0.06%)
+2. DAX (Germany): 23,447.29 (-0.61%)
+3. CAC 40 (France): 7,911.53 (-1.03%)
+4. FTSE 100 (London): 10,261.15 (-0.23%)
+
+#### Sector News:
+
+European markets posted a second straight week of modest losses overall, with the DAX down 0.61%, CAC 40 down 1.03%, FTSE 100 down 0.23%, and the Euro Stoxx 50 Index ending flat amid surging energy prices due to instability in world supply that stoked inflation fears and higher bond yields. Banks extended recent declines on concerns over potential ECB rate hikes, squeezed margins, and macro headwinds – several major names dropped sharply mid-week. Industrials and select cyclicals also faced pressure from rising energy costs and supply risks, dragging names tied to manufacturing and heavy industry.
+
+On the brighter side, utilities led sectoral gains as investors rotated toward defensive plays, while energy and basic materials showed selective resilience amid commodity swings. Technology held up relatively with AI-related segments, partly offsetting broader weaknesses. Healthcare remained mixed but stable. Sentiment stayed cautious heading into the weekend, with focus on recent Middle East conditions and their impacts on the world economy.
+
+#### Single Stock News:
+
+1. GSK plc (GSK.L)
+The British pharmaceutical major remained a notable name in market discussions, delivering steady performance amid healthcare sector stability and positive pipeline momentum. The stock benefited from defensive appeal in a volatile week, with investors eyeing its growth outlook and strategic positioning in key therapies where solid execution could drive further gains, even as broader inflation and geopolitical uncertainties linger.
+
+2. TotalEnergies SE (TTE.PA)
+The French energy giant climbed this week as oil prices surged, boosting upstream margins and cash-flow visibility for the integrated major. The stock outperformed
+the broader market on the commodity tailwind and attractive dividend yield, standing out in a risk-off environment which is possibly a resilient play if geopolitical risks keep energy prices elevated.
+
+### Mainland China
+
+_Written by William ZHANG_
+
+#### Weekly Key Data:
+
+1. SSE Composite Index: 4,095.45 (-0.70%) over the past 5 trading days.
+2. Shenzhen Component Index: 14,280.78 (+0.76%) over the past 5 trading days.
+3. ChiNext Price Index: 3,310.28 (+3.54%) over the past 5 trading days.
+4. CSI 300 Index: 4,669.14 (+1.16%) over the past 5 trading days.
+5. Consumer Price Index (CPI) in February 2026: +1.3% year-on-year.
+6. Producer Price Index (PPI) in February 2026: -0.9% year-on-year.
+7. Gross Domestic Product (GDP) in 2025: +5.0% year-on-year.
+
+#### Sector News:
+
+This week, developments in China’s semiconductor and AI infrastructure sector were shaped by further progress in domestic chip manufacturing and continuing changes in external policy conditions. Reuters reported that Hua Hong Group had developed 7- nanometer manufacturing technology for AI-related chips, marking another step in China’s push for semiconductor self-sufficiency and potentially expanding domestic advanced-chip capacity beyond SMIC.
+
+At the same time, export policy remained relevant, as recent U.S. rule changes shifted some advanced semiconductor export restrictions toward case-by-case review rather than blanket denial, suggesting that access conditions for high-end AI hardware may remain fluid even as China continues to invest in local alternatives. Together, these factors indicated that the sector remained sensitive both to domestic technological breakthroughs and to overseas policy developments affecting advanced computing supply chains.
+
+#### Single Stock News:
+
+1. Montage Technology Co., Ltd. (688008.SH)
+The stock price declined approximately by 3.4% over the past five trading
+days, falling from RMB 151.61 on Mar 6, 2026, to RMB 146.50 on Mar 13, 2026. During the week, market attention remained tied to the company’s broader capital markets activity and China’s semiconductor self-sufficiency theme. Reuters had earlier reported that Montage completed its Hong Kong listing in February, with proceeds intended for research and development, commercialization, strategic investment, acquisitions, and working capital. As a mainland A-share semiconductor company, the stock continued to trade in the context of investor focus on domestic chip design and server-related semiconductor demand.
+
+### SEA
+
+_Written by Arman Abilkassym_
+
+#### Weekly Key Data:
+
+1. Straits Times Index (STI): 4842.27 (-0.12%)
+2. Jakarta Composite Index (JCI): 7137.21 (-5.91%)
+3. FTSE Bursa Malaysia KLCI (FBM KLCI): 1698.85 (-0.71%)
+4. SET Index: 1409.35 (-0.07%)
+5. PSE Composite Index (PSEi): 6058.94 (-4.14%)
+6. VN-Index: 1696.24 (-4.05%)
+7. Inflation Rate (CPI, Latest Data for 2026):
+• Indonesia: 4.76% (Year-on-Year, February 2026) • Philippines: 2.40% (Year-on-Year, February 2026) • Singapore: 1.40% (Year-on-Year, January 2026)
+• Thailand: -0.88% (Year-on-Year, February 2026)
+• Malaysia: 1.60% (Year-on-Year, January 2026)
+• Vietnam: 3.35% (Year-on-Year, February 2026)
+
+#### Sector News:
+
+The cost of Malaysia’s subsidies for fuel at the pump is projected to rise by more than four times in the short term, the government has said. Global crude prices have surged, with Brent crude prices spiking by 63 per cent to a high of US$119 per barrel on Monday before settling to about US$100 per barrel later in the week. To cushion the blow on consumers and local businesses, Malaysia’s government on Friday said it would spend about 3.2 billion ringgit (US$812.8 million) a month to maintain the price of subsidised petrol and diesel in the short term.
+
+Japan’s development agency, JICA, is providing technical support to Malaysia to help develop environmentally-friendly rare earth refining techniques. Japanese specialists in resource geology and environmental chemistry will work with Malaysian institutions to improve mineral processing practices while reducing the environmental footprint associated with rare earth extraction. The cooperation includes a training program in which approximately ten Malaysian mineral-processing specialists will travel to Japan to learn advanced refining methods and environmental management practices. The initiative marks the first time Japan has provided formal technical cooperation to Malaysia, specifically focused on rare earth industry development.
+
+Kaga Electronics is establishing a circuit board assembly plant in Singapore. The new facility is expected to begin operations as early as spring and will support electronics manufacturing services (EMS) for customers seeking alternative production bases in Southeast Asia. Kaga Electronics provides EMS and semiconductor distribution services through manufacturing operations across China, Thailand, Malaysia, and Mexico. The new plant will focus on circuit board assembly, supporting customers across a range of electronics sectors while helping companies maintain supply continuity.
+
+#### Single Stock News:
+
+1. Singapore Airlines Ltd. (SIA1)
+The stock price has fallen by 6.03% over the last 30 days, marking its biggest decline since August 2025. The company’s stock price has been fluctuating between S$6 and S$7 since May 2023. The company is sustainably paying dividends and consistently meeting expectations on earnings and revenue, with the last dividend payment on 23 December 2025 and the earnings and revenue report on 13 November 2025.
+
+### Japan
+
+_Written by Tiffany ZHANG Difei_
+
+#### Weekly Key Data:
+
+1. Nikkei 225: 53,819.61 (-1.16%)
+2. TOPIX: 3629.03 (-0.57%)
+3. Japan Unemployment Rate: 2.6% (Dec 2025)
+4. Inflation Rate: 1.5% (Jan 2026)
+5. GDP Growth Annualized (Q4 2025): +1.3%
+6. Retail Sales YoY: -0.9% (Jan 2026)
+
+#### Sector News:
+
+Semiconductors and technology was the most volatile sector, experiencing a dramatic plunge and subsequent sharp recovery. The week began with a severe sell-off on Monday, March 9, as escalating Middle East activities and surging oil prices triggered broad market panic. The sector was the hardest hit, with semiconductor testing company Advantest (6857.JP) plunging 12.84% and chipmaking giant Tokyo Electron (8035.JP) dropping 8.83%. However, the sector staged a powerful rebound mid-week. On Wednesday, March 11, tech stocks led a broader market recovery, driven by strong earnings from Oracle Corp. which lifted sentiment for AI-related names. Advantest and SoftBank Group (9984.JP) were among the key beneficiaries of this bounce.
+
+The banking and financial sector experienced a turbulent week, mirroring the broader market's volatility. On the initial day of the market crash (March 9), financial stocks were heavily sold off alongside the broader index. Major banks like Mitsubishi UFJ Financial Group (8306.JP) fell 7.29%, and Sumitomo Mitsui Financial Group (8316.JP) dropped 6.6% as investors fled risk assets amid fears of an economic slowdown. However, the sector showed resilience later in the week. On March 11, even as the Nikkei rallied, the banking and insurance sectors diverged, ending the day as two of the few decliners. This suggests that while the worst of the panic had subsided, uncertainty regarding the impact of geopolitical events on the economy continued to weigh on financials.
+
+#### Single Stock News:
+
+1. Honda Motor (7267.JP)
+Honda became a major focus of the week after issuing a shocking profit warning. The company announced that it expects to incur approximately ¥2.5 trillion in costs and losses related to a major revision of its electrification strategy,
+including the cancellation of certain U.S.-made EV development and launch plans. As a result, Honda now forecasts its first annual net loss since its listing in 1957. The news sent the stock down 6% on March 12 and raised concerns across the broader auto sector. This case offers valuable insight into the massive strategic and financial risks traditional automakers face during the EV transition, and how markets price in extreme fundamental deterioration.
+
+### India
+
+_Written by Matthew Sze-to_
+
+#### Weekly Key Data:
+
+Index: Figure (daily, weekly)
+1. NIFTY 50: 23151.10 (-2.06%, -2.57%)
+2. SENSEX 30: 74563.92 (-1.93%, -2.79%)
+3. PMI Composite: 58.9 (+0.5, February)
+4. PMI Manufacturing: 56.9 (+1.5, February)
+5. PMI Services: 58.1(-0.4, February)
+
+#### Sector News:
+
+The Nifty IT index declined sharply, closing at 29,071.30, down ~1.72% this week and contributing to broader market weakness. The sector has faced pressure in recent weeks, with cumulative losses of around 3-11% in the short term amid geopolitical uncertainties, rising crude oil prices, and risk-off sentiment globally. This underperformance aligns with declines in broader benchmarks, as investors remain cautious over political instabilities and their impacts on energy costs and global growth. While the PMI data for February showed solid domestic demand supporting manufacturing and services expansion, the IT sector continues to tackle concerns arising from softer global client spending, competitive pressures, and limited visibility on large deal renewals or accelerations. Export-oriented growth in services remains a bright spot in PMI readings, but overall sector sentiment is tempered by macroeconomic uncertainties and potential delays in discretionary tech budgets.
+
+#### Single Stock News:
+
+1. Infosys Ltd. (IOY.BE)
+The stock price fell ~1.38% on March 13, 2026, closing around ₹1,248.30 (NSE), extending recent weakness and trading near 52-week lows in the ₹1,242– 1,269 range that session. The stock has declined steadily in March, reflecting broader IT sector headwinds and no major positive catalysts reported recently. Infosys has seen no announcements of large-scale contract wins in early 2026 to counter the downside. Instead, their focus remains on steady operational execution amid cost management and AI transformation efforts. Infosys has underperformed in line with peers, highlighting their vulnerability to global macro factors. Considering the long-term, Infosys continues to demonstrate resilience in capturing value from digital projects, though near-term momentum remains challenged by the prevailing risk-averse environment.
+
+### HKSAR
+
+_Written by He Xu Doraa_
+
+#### Weekly Key Data:
+
+1. Hang Seng Index: 25465.60 (-1.2%)
+2. Hang Seng Tech Index: 4978.08 (+0.62%)
+3. Hang Seng China Enterprises Index: 8671.48 (+0.5%)
+4. HIBOR of one month(weekly): 2.08% (+0.04%)
+5. Unemployment Rate: 3.9%
+6. Inflation Rate (CPI): 1.1% (year-on-year)
+
+#### Sector News:
+
+During the week of March 9–13, 2026, the Hong Kong market experienced a notable divergence as revealed by the 1.2% drop of Hang Seng Index (HSI) to 25,465.60 at close. This decline was primarily fueled by escalating geopolitical tensions in the Middle East, sparking fears of global stagflation. The energy sector bore the brunt of this volatility, with heavyweights like Zijin Mining (02899.HK) plunging 4.7% weekly.
+Furthermore, the financial sector faced pressure from both rising 1-month HIBOR rates (reaching 2.8%) and regulatory concerns following news of an insider-trading probe, which saw firms like Guotai Junan International drop over 4%.
+
+In contrast, the Hang Seng Tech Index (HSTECH) and China Enterprises Index (HSCEI) proved more resilient, posting gains of 0.62% and 0.5% respectively. This outperformance was driven by post-"Two Sessions" policy optimism from Beijing, providing a significant tailwind for large-cap tech names such as Alibaba, Tencent, and Xiaomi, which saw strong inflows early in the week. While global risk appetite soured toward the weekend, these "China-proxy" indices were anchored by stable domestic macro data, including a steady 3.9% unemployment rate and a moderate 1.1% inflation rate. The market also processed the latest Hang Seng Index rebalancing, which officially took effect on March 9, adding fresh constituents like Laopu Gold (06181.HK) to the mix.
+
+#### Single Stock News:
+
+1. Knowledge Atlas Technology (02513.HK)
+Knowledge Atlas Technology (02513.HK) experienced a landmark week characterized by the nationwide launch of its deployment plan and the introduction of its one-click localized AI installation tool for government and
+enterprise use. The company’s stock price witnessed fierce shock movements on March 10 and 11, specifically surging 20.3% on March 10 to a peak of HKD 697. This volatility was primarily driven by intense market speculation surrounding the company’s deployment plan and general optimism over AI agents. While the stock hit multi-day highs, it faced immediate resistance and warning signals: by March 11, despite underlying optimism, regulatory warnings from the Bloomberg report regarding Chinese government agencies being cautioned against installing the new tool began to introduce sharp intraday fluctuations and profit-taking.
+
+2. Zijin Mining Group (02899.HK)
+During the week of March 9–13, 2026, Zijin Mining Group (02899.HK) faced a volatile period marked by a 3.68% sharp drop on March 13, ending at HKD 38.26 despite strong long-term upgrades from Goldman Sachs and Citi regarding 2026 copper and gold price forecasts. The stock’s decline was primarily triggered by a technical "Death Cross" and a broader 0.2% slip in the mineral category of domestic bulk commodities. While the company stayed aggressive by securing a RMB 390 million bid for tungsten and tin resources in Xinjiang, market sentiment was dampened by a sell-off in precious metals linked to Federal Reserve rate-cut delays and a localized dip in copper prices below the USD 12,000/ton threshold.
+
+3. Pop Mart International Group Limited (09992.HK)
+Between March 9 and 13, 2026, Pop Mart (09992.HK) saw its stock rebound from HKD 200.00 to a high of HKD 214.80, driven by a massive retail hit: the new series sold out in under one minute on March 12. Market sentiment was further stirred by news of a legal settlement and potential collaboration with Bambu Lab over 3D-printed IP replicas. Investors are now positioning ahead of the March 25 annual results, eyeing high growth from the company's aggressive expansion into Mexico and Southeast Asia.
+
+</x-accordion>
+
+## Headlines
+
 <x-accordion summary="Week of 06/03/2026">
 
 _Published by Hannah Myat Su Mon_
