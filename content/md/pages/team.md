@@ -150,15 +150,6 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Michael-Ji.JPG"/>
-        <h3 class="team-member-name">Michael JI Yuxiao</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
-        <h4 class="team-member-group">Industry Group: Healthcare</h4>
-        <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
-        <p class="team-member-description">Michael Ji is a Quantitative Finance student at the University of Hong Kong with hands-on experience as a junior portfolio manager at the Center for Investment Management. Passionate about quantitative analysis and technical trading, he actively contributes to the Healthcare Team, where he sharpens his investment acumen through research and strategy development. Michael is committed to continuous learning and skill enhancement, leveraging real-world exposure to deepen his understanding of financial markets and portfolio management.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Jason-Lin.jpeg"/>
         <h3 class="team-member-name">Jason LIN Shu Kuen</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
