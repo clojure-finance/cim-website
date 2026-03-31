@@ -4,7 +4,7 @@
 :navbar? true
 :to-root "../.."}
 
-These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities.
+These reports are prepared by students for educational purposes only and do not constitute investment advice or a recommendation to buy or sell any securities. The views expressed on this platform are solely those of the individual authors and contributors and do not necessarily represent the official views or policies of HKUBS (The University of Hong Kong Business School), HKU (The University of Hong Kong), or the founder of CIM.
 
 ## Headlines
 
