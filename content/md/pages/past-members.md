@@ -72,6 +72,14 @@
          <div class="team-member-pad"></div>
      </div>
      <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Rachel-Hu.jpg"/>
+        <h3 class="team-member-name">Rachel HU Xinyue</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager, Research Team Member</h2>
+        <h4 class="team-member-group">Industry Group: Consumer Staples</h4>
+        <p class="team-member-description">Rachel Hu is a Quantitative Finance student with a strong interest in the stock market and investment strategies. As part of the research team at the Centre for Investment Management, she monitors market trends, tracks macroeconomic shifts, and analyzes investment opportunities. Though new to finance, she is eager to apply her skills and contribute meaningful insights. Committed to continuous learning, she aims to develop market intuition and make informed investment decisions in the future.</p>
+        <div class="team-member-pad"></div>
+    </div>
+     <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic/David-Lu.jpg"/>
         <h3 class="team-member-name">David LU Zhiyuan</h3>
         <h2 class="team-member-position">Junior Portfolio Manager, Research Team Member</h2>
