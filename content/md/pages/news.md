@@ -8,6 +8,158 @@ These reports are prepared by students for educational purposes only and do not 
 
 ## Headlines
 
+<x-accordion summary="Week of 20/03/2026">
+
+_Published by Ashley LEE Juyeon_
+
+### US
+
+_Written by Vicky HUANG Lihan_
+
+#### Weekly Key Data:
+
+1. Dow Jones Industrial Average: 45,577.47 (-2.1%)
+2. S&P 500 Index: 6,506.48 (-1.9%)
+3. NASDAQ Composite Index: 21,647.61 (-2.1%)
+4. U.S. Federal Funds Target Range: 3.50%–3.75% (unchanged), with the Fed still signalling
+one cut in 2026 in its median projection.
+5. Brent Crude Oil: US$112.19/barrel (+8.8% for the week).
+
+#### Sector News:
+
+The energy sector remained the market’s clearest pocket of strength this week as investors continued rotating toward commodities and inflation-linked names. Rising geopolitical tensions in the Middle East pushed oil sharply higher, with Brent finishing the week above US$112 per barrel, and Reuters noted that the S&P 500 energy sector recorded its 13th straight weekly gain even as the broader market fell. In effect, energy stocks acted as a relative safe haven, supported by stronger near-term cash flow expectations and the view that sustained supply disruption could keep crude prices elevated for longer. The technology sector, by contrast, stayed under pressure as higher oil prices and a more cautious rate outlook weighed on long-duration growth valuations. The Nasdaq fell 2.1% for the week, and Reuters reported that names such as Nvidia and Tesla each dropped more than 3% on Thursday as investors reassessed how persistent energy-driven inflation could delay future rate cuts. Weakness also spread across semiconductors, where even strong AI-linked earnings were not enough to fully support sentiment, highlighting a market that has become more selective and less tolerant of expensive positioning
+
+#### Single Stock News:
+
+FedEx (FDX) stood out as one of the week’s relative outperformers after delivering a strong fiscal third-quarter report and raising its full-year revenue growth guidance to 6.0%–6.5%. Reuters said the stock jumped 9% after hours following the release, helped by solid demand trends, strong profitability in the Express segment, and fuel surcharges that are helping offset higher jet-fuel costs. In a market worried about slowing activity, FedEx’s results were read as a sign that core business shipping demand remains more resilient than feared, which supported sentiment toward selected industrial and transport names. Super Micro Computer (SMCI) was among the week’s sharpest decliners after U.S. prosecutors charged three individuals linked to the company in an alleged scheme to illegally export AI-related technology in violation of export controls. Reuters reported that the stock sank 28% on Friday, with the drop threatening to erase more than US$5 billion in market value. The episode raised concerns not only about legal and reputational risk, but also about whether customers may reassess supplier exposure in a more politically sensitive AI hardware environment.
+
+### Mainland China
+
+_Written by April WANG and Justin CHUNG Lok Yin_
+
+#### Weekly Key Data:
+
+1. SSE Composite Index: 3,889.08 (-2.88%) over the past 5 trading days.
+2. Shenzhen Component Index: 13,606.44 (-2.96%) over the past 5 trading days.
+3. ChiNext Price Index: 3,272.49 (-2.66%) over the past 5 trading days.
+4. CSI 300 Index: 4,477.53 (-2.72%) over the past 5 trading days.
+5. Consumer Price Index (CPI) in February 2026: +1.3% YoY.
+6. Producer Price Index (PPI) in February 2026: -0.9% YoY.
+7. Industrial Production in December 2025: +6.6% YoY.
+
+#### Sector News:
+
+Mainland power and utility equities demonstrated sustained upward momentum this week, alongside rapid gains in energy storage and computing hardware concepts. This positive sentiment was potentially catalyzed by a confluence of policy support and structural demand shifts. First, the 2026 Government Work Report officially designated "Computing-Power Synergy" as a key "New Infrastructure" initiative. This policy links energy-intensive AI and data center expansion directly to the power grid, providing a clear, long-term demand narrative for power generation and energy storage providers amid broader geopolitical energy concerns. Second, sector sentiment was further bolstered by market reports indicating that Tesla is negotiating a $2.9 billion procurement of PV manufacturing equipment from domestic suppliers, underscoring the continued global competitiveness of China's clean energy supply chain.
+
+#### Single Stock News:
+
+Sharetronic Data (300857.SZ), which develops and sells IoT intelligent terminals, data storage devices, and other consumer electronics products, reported strong 2025 results on March 17 2026. Revenue rose 65.13% year-on-year to RMB 12.236 billion, while net profit attributable to shareholders increased 68.32% to RMB 1.164 billion. Net profit excluding non-recurring items reached RMB 1.135 billion, up 69.07% year-on-year. Growth was supported in part by the company’s intelligent computing products and services business, where revenue reached approximately RMB 2.761 billion, rising 1,727.17% year-on-year, following the delivery and acceptance of multiple computing cluster projects. Its server remanufacturing segment also expanded, with revenue of about RMB 2.575 billion, up 169.35% year-on-year. The results indicate a larger contribution from AI computing infrastructure-related business lines during the year.
+
+However, the stock came under pressure on March 20 2026, at one point approaching the daily limit-down level during afternoon trading, amid weakness in the computing leasing segment and market discussion regarding the compliance of certain server procurement activities. The company responded that the reported issues involving some overseas server vendors were unrelated to its business. It stated that its intelligent computing products are procured through compliant commercial channels and that production and operations remain normal.
+
+### HKSAR
+
+_Written by Justin CHUNG Lok Yin_
+
+#### Weekly Key Data:
+
+1. Hang Seng Index: 25277.32 (-0.62%)
+2. Hang Seng China Enterprises Index: 8574.07 (-1.25%)
+3. Hang Seng Tech Index: 4870.98 (-2.37%)
+4. Inflation Rate (Feb): 1.7%
+5. Unemployment Rate (Feb): 3.8%
+6. Current account surplus (4Q 2025): HKD 93.9 billion
+
+#### Sector News:
+
+Technology: Following a period of correction, the Hang Seng Tech Index advanced 2.69% on March 16, 2026. The recovery was primarily driven by capital inflows and an improvement in risk appetite. Southbound funds recorded cumulative net inflows of approximately HK$90.58 billion since February. Furthermore, Hong Kong technology-focused ETFs saw weekly net inflows reaching RMB 13.26 billion, with some products experiencing a sixfold increase in outstanding shares over four months. Despite the initial rally, short-selling activities among leading technology constituents showed divergence. The Index saw a pullback and closed at 4870.98 (-2.37%) for the rest of the week. CICC highlighted that the Hong Kong technology sector's price-to-earnings ratio has fallen to one standard deviation below its historical mean, with technical indicators suggesting oversold conditions. CSC Financial added that if geopolitical tensions in the Middle East stabilise, market attention may further pivot back to AI computing infrastructure, which relates to several constituents of the sector.
+
+#### Single Stock News:
+
+Voyah Automotive Technology Co., Ltd. (7489.HK): On March 19, 2026, Voyah, a premium electric vehicle unit of state-owned Dongfeng Motor Group, commenced trading on the Main Board of the Hong Kong Stock Exchange. The company reported its first annual net profit of RMB 1.02 billion for 2025. Between 2023 and 2025, vehicle deliveries increased from 50,285 to 150,169 units (a 73% compound annual growth rate), while revenue grew to RMB 34.86 billion. The gross margin stabilised at 20.9%. During its debut session, the stock experienced early volatility, declining 6.4% to HK$7.02 per share when the market opened on its first trading day.
+
+The listing was conducted by way of introduction, involving no new share issuance or direct fundraising. This action is part of a broader corporate restructuring announced in August 2025, which includes the simultaneous privatisation and delisting of its parent company, Dongfeng Motor Group (0489.HK). The transaction utilised a dual-phase structure: Dongfeng distributed its 79.67% equity stake in Voyah to existing shareholders, while a wholly-owned subsidiary absorbed the parent entity using a mix of equity and cash consideration to achieve 100% state control. Corporate filings indicate the restructuring is intended to optimise resource allocation for Dongfeng and provide Voyah with an independent platform for future capital market activities.
+
+
+### EU
+
+_Written by Lucy ZHOU Zihan_
+
+#### Weekly Key Data:
+
+1. Euro Stoxx 50 index: 5,501.28 (-3.60%)
+2. DAX (Germany): 22,380.19 (-4.54%)
+3. CAC 40 (France): 7,665.62 (-2.99%)
+4. FTSE 100 (London): 9,918.33 (-1.44%)
+
+#### Sector News:
+
+European stocks suffered sharp losses this week, with the German DAX index leading the decline, down 4.54%, as escalating Middle East conflicts spiked energy prices and upended central bank policy expectations.
+
+The Energy sector faced volatility this week. An attack on Qatar's Ras Laffan gas facility amid the escalating Middle East conflict disrupted approximately 3% of global LNG trade, with repairs potentially taking 3-5 years. This sparked fears of a prolonged supply squeeze, directly fueling a surge in oil and gas prices and placing significant pressure on related stocks.
+
+The Financial sector faced a heavy sell-off. The conflict ignited inflation concerns, reversing market expectations for ECB rate cuts and pricing in the possibility of hikes. This triggered a sharp rise in government bond yields, with UK 10-year yields hitting their highest since 2008, resulting in bank stocks declining amid renewed uncertainty over the path of interest rates.
+
+The Technology & Industrial sector also saw significant declines. Energy-intensive industries like aviation and automotive were more influenced. Siemens saw its shares fall over 3% as investors worried that rising energy costs would erode corporate profits and weigh on the broader economic recovery outlook.
+
+#### Single Stock News:
+
+Siemens Aktiengesellschaft (SIE.DE): The German technology company's shares fell over 3% this week. Despite announcing a $165 million investment to expand its US manufacturing capacity to support AI ecosystems, macro risks dominated sentiment. As a major European industrial bellwether, its stock was pressured by dual concerns over rising energy costs and weakening economic growth, with investors fearing margin erosion from supply chain disruptions linked to the Middle East conflict.
+
+Vonovia SE (VNA.DE): Shares of the German real estate giant plunged over 11% this week, making it the worst performer on the DAX. Although the company reported a return to profit in 2025 with a €4.19 billion net profit, the market focused on the fact that €2.5 billion came from a one-time deferred tax benefit. The sell-off reflected deep investor concern over earnings quality and the company’s highly leveraged business model in an environment now shifting toward higher interest rates.
+
+
+### Japan
+
+_Written by Cathy TAM Tsz Ching_
+
+#### Weekly Key Data:
+
+1. Nikkei 225 Index: 53,372.53 (22/03/2026, -0.48%)
+2. Japan Inflation Rate MoM 1.5% (01/2026)
+3. Japan Balance of Trade: 57.269 Billion Yen (02/ 2026)
+4. Export of Goods 10,025,626 Million Yen (02/2026)
+5. Import of Goods 10,339,919 Million Yen (02/2026)
+6. Japan Unemployment Rate 2.7% (01/2026)
+7. Consumer Confidence 40 (02/2026)
+
+#### Sector News:
+
+This week’s tech sector in Japan was shaped by market volatility, currency moves, and evolving investor sentiment around growth and valuation. Technology stocks were initially pressured by broad risk-off sentiment as the Nikkei weakened by 0.48% overall this week, potentially due to renewed yen strength and intervention speculation amid escalating geopolitical tensions in the Middle East. A firmer yen undermines earnings prospects for Japan’s export-heavy technology sector and raises the cost of Japanese assets for overseas investors. Export-oriented tech stocks led the decline, with Keyence Corporation falling by 3.2% and Fast Retailing falling by 1.8%. Financial shares also came under pressure, including Sumitomo Mitsui, which dropped 2.4%, and SoftBank Group, which fell 4.5%.
+
+At the same time, analysts remain constructive on the longer-term prospects for Japanese tech, noting growth opportunities tied to factory automation and semiconductor cycles. Several Japanese tech companies are positioned to benefit as demand for automation and chip-related investment continues to expand over the next few years. This includes Keyence Corporation (TYO: 6861), SMC Corporation (TYO: 6273), Tokyo Electron (TYO: 8035), Kokusai Electric Corp (TYO: 6525) and DISCO Corporation (TYO: 6146). This narrative has gained additional weight as global supply chain disruptions from the conflict highlight the need for manufacturing resilience. Domestic memory chip maker Kioxia Holdings Corporation (TYO: 285A) has been cited for its significant stock appreciation this year as it shifts into AI-driven data centre demand, suggesting pockets of strength within the tech sector even as broader macro pressures persist.
+
+#### Single Stock News:
+
+Tokyo Electron Ltd (TYO: 8035)’s quarterly earnings release this week drew investor attention, with results announced alongside broader corporate earnings activity in Tokyo as markets digested geopolitical developments in the Middle East and currency volatility. Tokyo Electron’s quarterly revenue is reported to be ¥612.3 billion, up 12.4% year-over-year, exceeding consensus estimates of ¥598.2 billion. Operating profits were ¥178.5 billion, representing a 28.3% margin, driven by robust demand for advanced logic and memory chipmaking tools. Management also raised its full-year revenue guidance by 5% to ¥2.45 trillion, citing stronger-than-expected orders from foundry clients accelerating capacity expansions amid supply chain diversification trends. These earnings added a positive catalyst for semiconductor-related stocks, even as traders remained cautious ahead of incoming data and corporate results from other major Japanese companies.
+
+### India
+
+_Written by Emilie POU_
+
+#### Weekly Key Data (weekly figures): 
+1. NIFTY 50: 23,114.50 (-0.16%)
+2. SENSEX 30: 74,532.96 (-0.05%)
+3. PMI Composite: 58.9 (-0.85%)
+4. PMI Manufacturing: 56.9 (+2.71%)
+5. PMI Services: 58.1 (-0.51%)
+
+#### Sector News:
+
+In the week of 3/16-22, the Indian IT Sector saw a dramatic recovery. In a striking reversal of fortune, the NIFTY IT index emerged as the top gainer on March 20, rising 2.17%, with nine out of ten constituents closing in positive territory. This marked a significant turnaround for a sector that had been battered throughout February and early March. The catalyst for this rebound was two-fold. First, oil prices eased significantly after Japan and major European nations offered to join efforts to ensure the safe passage of ships through the Strait of Hormuz, following attacks on energy infrastructure in the Middle East. Brent crude moderated to USD 107 per barrel, down from USD 119.13 just a day earlier.
+
+Second, and more importantly for the IT sector specifically, Accenture's Q2 results signalled steady growth led by AI-driven demand. The Dublin-headquartered IT services giant reported revenue of $18 billion, growing 8% year-on-year, with new bookings of $22.11 billion—the third consecutive quarter of $20 billion-plus deal bookings. The company also raised its full-year growth guidance to 3-5%.
+
+Industry analysts noted that Accenture's performance serves as a key benchmark for Indian IT firms. According to Phil Fersht, CEO of HFS Research, in an interview with Moneycontrol, Accenture's results point to a stabilising market, not a rebound. Fersht also noted that the company is "further ahead in scaling AI into revenue." This suggested that while AI disruption fears may have been overblown, execution gaps remain between global and Indian players.
+
+#### Single Stock News:
+
+During the period of March 16-22, Infosys, the country's second-largest software maker, continued to face significant headwinds during the week. On March 17, the stock fell nearly 3% to ₹1,215, hitting its lowest level since April 2023 and pushing its market capitalisation below the ₹5 lakh crore (~53.76B USD*) mark for the first time in years. The sustained sell-off has been severe: Infosys shares have declined approximately 25% in calendar year 2026, far steeper than the NIFTY 50's 11.4% drop. In less than two months, the stock has wiped out ₹1.72 lakh crore (~18.49B USD*) in market value from its peak. Despite the price weakness, Infosys's fundamentals remain relatively stable. The company has reiterated its FY26 revenue growth guidance of 3-3.5% in constant currency, with margins expected in the 20-22% range. Domestic brokerage JM Financial noted that the demand environment remains "largely unchanged and steady," with early signs of discretionary spending recovery in the Financial Services and Energy, Utilities & Resources verticals.
+
+*An exchange rate of 1USD = 93INR is assumed, with reference to the historical exchange rates on March 16-22, 2026
+
+</x-accordion>
+
 <x-accordion summary="Week of 13/03/2026">
 
 _Published by Henry LI Yan Heng_
