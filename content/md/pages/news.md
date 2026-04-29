@@ -8,6 +8,252 @@ These reports are prepared by students for educational purposes only and do not 
 
 ## Headlines
 
+<x-accordion summary="Week of 27/03/2026">
+
+_Published by Joey LAI In I_
+
+### US
+
+_Written by Charles SHI Qiyuan_
+
+#### Weekly Key Data:
+
+1.	Dow Jones Industrial Average: 45166.64 (-0.90%) 
+2.	S&P 500 Index: 6368.85 (-2.12%) 
+3.	NASDAQ Composite Index: 20948.36 (-3.23%) 
+4.	United States Durable Goods Orders MoM: 1.3% in February, matching market forecasts
+5.	United States GDP Growth Rate: 0.7% in Q4 2025 (final revision), below market forecasts of 1.4%
+6.	United States Personal Income MoM: 0.5% in February, matching market forecasts
+7.	United States Personal Spending MoM: 0.3% in February, matching market forecasts
+8.	United States Initial Jobless Claims: 218K in the week of March 21, below market forecasts of 220K
+9.	United States Michigan Consumer Sentiment: 55.3 in March (preliminary), matching market forecasts
+10.	United States Core PCE Price Index MoM: 0.4% in February, above market forecasts of 0.3%
+11.	United States Housing Starts: 1.490M in January, above market forecasts of 1.33M
+12.	United States Building Permits: 1.376M in January, below market forecasts of 1.41M
+13.	United States Existing Home Sales: 3.98M in February, below market forecasts of 4.18M
+14.	United States Unemployment Rate: 4.4% in February, above previous value of 4.2%
+
+#### Sector News:
+
+Energy & Utilities
+
+The energy and utilities sectors continued to decouple from traditional defensive proxies, increasingly trading as essential infrastructure for AI data centers. While broader markets faced downward pressure, sentiment was bolstered by reports of long-term power purchase agreements (PPAs) between major hyper-scalers and nuclear power operators. Companies such as Vistra (VST) and Constellation Energy (CEG) maintained relative strength as investors prioritized 24/7 carbon-free baseload power, while Small Modular Reactor (SMR) developers like Oklo (OKLO) saw heightened interest following news of intensified coordination between technology firms and utility providers to secure dedicated energy grids.
+Industrials: Aerospace & Defense
+
+The industrial sector exhibited a stark divergence between defense contractors and commercial aerospace, driven by shifting risk premiums and input cost volatility. Defense names, including Lockheed Martin (LMT) and Northrop Grumman (NOC), acted as a primary hedge against global uncertainty, seeing positive price action as market participants priced in sustained procurement cycles. Conversely, commercial aviation and logistics sub-sectors faced significant pressure; surging jet fuel prices and a softening 0.7% GDP growth rate weighed on carrier margins, with United Airlines (UAL) and Delta Air Lines (DAL) experiencing sharp weekly declines.
+
+Financials
+
+The financial sector underperformed the broader market as the intersection of sticky inflation (Core PCE at 0.4%) and a rising unemployment rate (4.4%) created a challenging backdrop for credit and lending. Large-cap banks and regional lenders faced selling pressure as investors adjusted expectations for net interest income (NII) growth, fearing that higher funding costs could persist while loan demand softens due to the cooling economic outlook. The KBW Bank Index retreated significantly, with market attention shifting toward credit provisions and delinquency trends, leading to a defensive rotation toward insurance stocks and high-quality asset managers.
+
+#### Single Stock News:
+
+Apellis Pharmaceuticals (APLS)
+
+Shares of Apellis Pharmaceuticals (APLS) surged 35% on Tuesday following the announcement of a definitive agreement to be acquired by Biogen (BIIB) for approximately $5.6 billion. The cash deal, priced at $41 per share plus a contingent value right (CVR), sent ripples through the immunology space, lifting peers like Ionis Pharmaceuticals (IONS) and Alnylam (ALNY). Analysts noted that the acquisition strategically bolsters Biogen’s rare disease portfolio with the addition of FDA-approved therapies EMPAVELI and SYFOVRE. Market participants viewed the high premium as a strong validation of the complement-targeted therapy market, sparking renewed optimism for M&A activity across the mid-cap biotech sector amid a broader risk-off environment.
+
+Vertiv Holdings (VRT)
+
+Shares of Vertiv Holdings (VRT) climbed 8.4% this week, hitting a new all-time high as the market pivoted focus toward the physical cooling requirements of "Gigawatt-scale" AI data centers. The rally was triggered by a bullish report from Goldman Sachs, which highlighted Vertiv as a primary beneficiary of the rapid transition from air cooling to liquid immersion cooling necessitated by Nvidia’s GB300 platform. Unverified industry reports suggested that Vertiv has secured multi-year exclusivity as a preferred thermal management partner for a major "Sovereign AI" project in the Middle East. The news propelled related liquid-cooling and power-infrastructure names, including nVent Electric (NVT) and Eaton (ETN), as investors increasingly treat cooling capacity as the next major bottleneck in the AI hardware supercycle. 
+
+### Mainland China
+
+_Written by Molly LIU Litong_
+
+#### Weekly Key Data:
+
+1. SSE Composite Index: 3913.72 (-1.10%) over the past 5 trading days.
+2. Shenzhen Component Index: 13760.37 (-0.76%) over the past 5 trading days.
+3. ChiNext Price Index: 3295.88 (-1.68%) over the past 5 trading days.
+4. CSI 300 Index: 4502.57 (-1.41%) over the past 5 trading days.
+5. Manufacturing PMI: 50.4% (+1.40% MoM)
+6. Non-manufacturing PMI: 50.1% (+0.6% MoM)
+7. Composite PMI: 50.5% (+1.0% MoM)
+
+#### Sector News:
+
+The semiconductor sector experienced a sharp correction during the week of March 23-27, with the Semiconductor Index (LIST0002) retreating 5.22% to close at 1700.93. The sell-off was primarily triggered by intensifying concerns over inventory digestion within the storage chip segment, following a period of rapid price appreciation. Despite long-term optimism surrounding AI-driven demand, the near-term recovery in consumer electronics—specifically smartphones and PCs—proved more gradual than market consensus had anticipated. While the "New Quality Productive Forces" policy framework provided a marginal technical floor toward the end of the week, it was insufficient to offset broad-based profit-taking as capital rotated into more defensive, high-dividend yield sectors amid macroeconomic uncertainty.
+
+#### Single Stock News:
+
+Shandong Hi-Tech Spring Material (301292.SZ)
+Shares of Shandong Hi-Tech Spring Material (301292.SZ) delivered a notable weekly performance, surging 51.02% to close at 96.29 and reaching a new record high. This sharp rally was underpinned by shifting market expectations regarding a cyclical reversal in the lithium battery materials industry. As a leading global producer of electrolyte solvents, Hi-Tech Spring benefited from a significant influx of speculative capital anticipating a bottoming-out of upstream material prices. The stock's breakout was further supported by its strategic alignment with national supply chain security initiatives for the new energy sector. Combined with a notable surge in trading volume, the price action reflects a robust thematic re-rating as investors seek high-beta opportunities within the energy transition supply chain.
+ 
+### HKSAR
+
+_Written by Ling GUO Yuling_
+
+#### Weekly Key Data:
+
+1. Hang Seng Index: 24,951.88 (-1.29%).
+2. Hang Seng Tech Index: 4,778.01 (+0.35%).
+3. Hang Seng China Enterprises Index: 8,453.77 (+0.76%)
+4. Real GDP: +3.2% (2025 full-year growth estimate)
+5. Unemployment Rate: ~ 3.0%–3.1% (seasonally adjusted)
+6. CPI (2026 Forecast): ~1.7%–2.0%
+7. Retail Sales Value YoY: ~ +2%–3% 
+8. Export Value YoY: ~ +3%–4% 
+
+#### Sector News:
+
+Technology (Platforms & Hardware)
+During the week ending March 27, 2026, the Hong Kong technology sector exhibited a resilient recovery, with the Hang Seng Tech Index edging up approximately 0.35%, modestly outperforming the broader benchmark. As global interest rate volatility stabilized, risk appetite returned to high-growth names, particularly large-scale platform companies with proven earnings resilience. Market leadership was concentrated in firms specializing in Cloud Computing and AI Infrastructure, as investors rotated into "Large Model" and "Enterprise Digitalization" themes that offer visible cash flows and disciplined cost management. Share buyback activities among industry leaders further supported valuation floors following a period of compression.
+
+In contrast, the hardware and semiconductor segments saw more bifurcated performance. While cyclical consumer hardware remained under pressure due to a gradual end-demand recovery, stocks tied to Structural AI and High-Performance Computing (HPC) attracted selective capital inflows. Investors remained cautious regarding global macro headwinds, including exchange-rate fluctuations and evolving export controls, preferring names with direct exposure to the global AI capex cycle over traditional hardware cycles. Overall, the sector maintains a "high volatility, structural opportunity" profile, driven by mainland policy support and the ongoing earnings recovery trajectory of major platform players.
+
+#### Single Stock News:
+
+Tencent Holdings (0700.HK)
+
+Tencent Holdings demonstrated significant relative strength during the final week of March 2026, consistently outperforming the broader Hang Seng Index as it traded in the upper quartile of its 52-week range. The stock's valuation center remains firmly supported by a robust capital allocation framework, characterized by a HKD 100 billion+ annual buyback program and a stable dividend policy. Investors reacted positively to the company's 2025 full-year results, which highlighted a 14-15% YoY growth in Value-Added Services (VAS) and domestic gaming, driven by the successful scaling of new titles and the sustained monetization of Video Accounts (Weixin Channels) and e-commerce-related advertising.
+
+A key catalyst for recent sentiment is Tencent’s deepening integration of its "Hunyuan" (Hun-Yuan) large models across its social and gaming ecosystems. The late March integration of the OpenClaw AI agent framework (branded as "ClawBot") directly into WeChat has been viewed by analysts as a pivotal move to dominate the "Agentic AI" era, potentially transforming the app into a default operating system for AI services. With a disciplined focus on high-margin revenue streams—such as AI-enhanced advertising and enterprise cloud software—Tencent is increasingly seen as a core beneficiary of the global AI cycle, offering investors a rare combination of structural growth and defensive cash-flow resilience amidst ongoing macroeconomic volatility.
+ 
+### EU
+
+_Written by Diana LIU Haolin_
+
+#### Weekly Key Data:
+
+1. EURO STOXX 50 Index: 5505.80, +0.1% WoW
+2. DAX (Germany): 22631.76, +0.6% WoW
+3. CAC 40 (France): 7785.46, -0.3% WoW
+4.  FTSE 100 (London): 9967.35, -1.0% WoW
+5. Eurozone Inflation (Mar preliminary): ~2.0% YoY
+6. Eurozone Manufacturing PMI (Mar preliminary): ~51.2, up from ~50.8
+
+#### Sector News:
+
+Industrials & Autos: Cyclical sectors significantly outperformed as the Eurozone Manufacturing PMI climbed to 51.2, marking a firm return to expansion. A relatively weaker Euro boosted the price competitiveness of German and French exporters, driving a rotation into high-beta industrials as global demand showed signs of stabilizing.
+Energy & Resources: The energy sector maintained its upward trajectory, though gains moderated from previous peaks. With Brent crude prices stabilizing at elevated levels, the market focused on the robust free-cash-flow generation of majors like Shell and TotalEnergies, while mining stocks in London saw some pressure from fluctuating base metal prices.
+
+Financials: Financials traded with a mixed bias. While the headline inflation hit the 2.0% target, bolstering expectations for an ECB rate cut, the underlying stickiness in core inflation continued to support bank net interest margins. However, upside was capped by investor caution regarding decelerating loan growth and potential credit risks.
+Technology: The technology landscape was defined by structural divergence. Semiconductor equipment leaders, notably ASML, rebounded on the back of the global AI infrastructure super-cycle. In contrast, broader software and SaaS names remained sensitive to long-term bond yield fluctuations and ongoing valuation scrutiny.
+
+Consumer & Luxury: Consumer and luxury stocks staged a modest recovery, underpinned by improving demand forecasts from the Asia-Pacific region. Following recent policy support signals from China, investors began to re-evaluate the sector’s growth potential, focusing on the resilient pricing power of top-tier heritage brands.
+
+#### Single Stock News:
+
+SAP SE (SAP.DE)
+
+Shares rose ~6% this week after the company reaffirmed its strong cloud revenue outlook and continued momentum in AI-driven enterprise solutions. Investors reacted positively to margin expansion guidance and robust backlog visibility, supporting SAP's leadership in the regional software sector.
+
+ASML Holding (ASML.AS)
+
+Shares gained ~5% driven by renewed optimism in the semiconductor cycle and surging long-term demand for AI chip production equipment. The stock benefited from improving global tech sentiment and its critical role in the next-generation lithography super-cycle.
+Volkswagen AG (VOW3.DE)
+
+Shares climbed ~4% as the company announced improved EV delivery targets and tangible progress in its cost-restructuring program. Market sentiment stabilized on expectations of better profitability in the electric vehicle segment amid a broader recovery in German industrial momentum.
+
+TotalEnergies SE (TTE.FP)
+
+Shares remained broadly stable (+1%) as oil prices consolidated. The company reaffirmed its disciplined capital return policy, including consistent dividends and buybacks, maintaining investor confidence despite moderating short-term energy price momentum.
+ 
+### Japan
+
+_Written by Vivien TAO Wei_
+
+#### Weekly Key Data:
+
+1. Nikkei 225: 52,463.27 (-1.46%)
+2. TOPIX: 3,611.67 (-0.39%)
+3. Inflation Rate: 1.3% (February 2026)
+4. Unemployment Rate: 2.6% (February 2026)
+5. Retail Sales YoY: -0.2% (March 2026)
+6. GDP Annual Growth Rate: 0.1% (Q4 2025)
+7. GDP Growth Annualized: 1.3% (Q4 2025)
+8. Foreign Equity Outflow: ¥1.51 trillion (Weekly)
+9. Corporate Bond Credit Spreads: 46 bps (Yearly High)
+
+#### Sector News:
+
+Macro & Equity Flows
+
+Geopolitical tensions in the Middle East triggered a broad-based selloff in Japanese equities, with the Nikkei 225 retreating to 52,463.27 (-1.46% WoW). Institutional flight was evident as foreign investors offloaded ¥1.51 trillion ($9.5 billion) in a single week—the heaviest selling pressure in 18 months. While the broader market suffered, energy and consumer defensives showed relative resilience against mounting stagflation risks.
+Energy & Utilities
+
+Energy stocks benefited from surging crude prices as Japan prioritized immediate supply security. In a significant policy reversal, the government allowed the restart of inefficient coal plants and tapped strategic reserves exclusively for domestic use. To mitigate Middle Eastern dependencies, Japan accelerated alternative sourcing agreements with the U.S. and Australia, while deepening energy infrastructure ties with Indonesia.
+
+Financials & Credit
+
+The banking sector faced a dual challenge of rising input costs and shifting monetary expectations. With a BOJ rate hike for April 70% priced in, credit spreads widened to 46 basis points—the widest of the year. This volatility caused corporate bond issuance to plunge 60% YoY, as the "higher-for-longer" narrative made debt pricing increasingly precarious for regional lenders.
+
+Consumer & Automakers
+
+A contrarian bid emerged in consumer defensives, with private equity giants Carlyle and Goldman Sachs increasing stakes in fast-food franchises like KFC and Burger King Japan, betting on a shift toward affordable dining amid 1.3% inflation. Conversely, automakers remained under heavy pressure. Toyota, Honda, and Nissan reported February sales declines as the industry faced a critical supply risk: 70% of Japan’s aluminum is sourced from the Middle East, leaving production schedules highly vulnerable to regional disruptions.
+
+#### Single Stock News:
+
+Toyota Motor Corp. (7203.T): Toyota is currently navigating a logistical crisis that extends far beyond rising fuel costs. The conflict in the Middle East threatens nearly 70% of the company's aluminum supply chain, forcing immediate production evaluations. While February sales dipped 2.3%, the primary headwind is the rerouting of shipments from the Strait of Hormuz to the Cape of Good Hope, which is expected to double delivery times to 100 days. This disruption is forcing a fundamental rethink of Toyota’s "Just-in-Time" logistics strategy in favor of regionalized sourcing.
+
+Proterial Ltd. (Formerly Hitachi Metals): In contrast to the broader cautious sentiment, Proterial Ltd.—backed by Bain Capital—is positioning itself to benefit from shifting supply chain dynamics. As the largest rare-earth magnet manufacturer outside of China, the company is actively positioning itself to benefit from global supply-chain diversification trends and reduced single-country concentration risk. Proterial is currently exploring India’s $768 million incentive program to establish local production, strategically pivoting its manufacturing base to capture demand from supply chains shifting away from Chinese dependency. 
+
+### India
+
+_Written by Adrian PING An_
+
+#### Weekly Key Data (Daily, Monthly, Yearly):
+
+NIFTY 50: 22,819.60 (-2.09%, -12.20%, -5.38%)
+SENSEX 30: 73,583.22 (-2.25%, -11.00%, -6.20%)
+
+#### Macro Indicators:
+
+India's headline inflation (CPI) for February 2026 printed at 3.21% YoY, up from 2.74% in January, primarily driven by firmer food prices. While transportation costs provided modest relief, the late-March escalation in crude oil prices poses a significant upside risk to the upcoming inflation trajectory. Notably, the introduction of the new CPI series (Base Year 2024=100) in February has updated household consumption weights for the first time in over a decade.
+
+The Reserve Bank of India (RBI) reaffirmed its flexible inflation targeting framework in March, retaining the 4% target (with a 2-6% tolerance band) for the 2026-2031 period. Reflecting heightened near-term uncertainty, the India VIX closed at 24.64 on March 27, marking a material elevation in market volatility relative to recent norms.
+
+#### Sector News:
+
+Oil & Gas / Upstream Energy: Against a broad market selloff, India’s upstream energy sector emerged as a significant relative outperformer during the week of March 23-27. The NIFTY Oil & Gas Index benefited from crude prices surging above $110 per barrel, directly expanding gross realizations for domestic explorers. ONGC stood out as a top gainer, advancing 0.6% on March 23 despite a 2.2% drop in the Nifty 50, and posting a cumulative two-week rally of approximately 11%. Oil India similarly gained roughly 7% over the same period.
+
+Investor sentiment was further bolstered by the government’s decision to refrain from imposing new windfall taxes, following the Oilfields Regulation and Development Amendment Act of January 2025. On the operational front, ONGC successfully commissioned gas production from its $1 billion Daman Upside Development Project on March 29. Consequently, institutional analysts, including Morgan Stanley, signaled a preference for upstream names like ONGC over gas utilities like GAIL, citing superior positioning against Middle East supply risks.
+
+In contrast, the downstream segment faced significant headwinds. Oil marketing companies (OMCs) such as IOC, BPCL, and HPCL saw their marketing margins compressed by rising input costs, despite a partial excise duty cut on fuel. Integrated and midstream players also contended with elevated LNG import costs and refinery supply chain disruptions, highlighting a sharp performance divide within the energy complex.
+
+#### Single Stock News:
+
+Oil & Natural Gas Corporation Ltd. (ONGC)
+
+ONGC (ONGC.NS) emerged as a standout performer during the week of March 23–27, as elevated crude prices and regulatory clarity on windfall taxation positioned the stock as a primary beneficiary of Middle East geopolitical tensions. On March 23, while the broader Sensex plummeted over 1,500 points, ONGC posted a marginal gain, trading within a range of ₹266–277. With a market capitalization of approximately ₹3.58 lakh crore ($39.29 Billion USD), the stock is currently valued at a P/E of 9.5x and a P/B of 0.91x. Analyst sentiment remains constructive, with 19 of 31 analysts maintaining "Buy" ratings; CLSA and Macquarie hold "Outperform" targets of ₹415 and ₹300, respectively. JM Financial noted that every $1/bbl increase in crude realization translates to approximately 1.5–2% EPS accretion, directly quantifying the stock's sensitivity to the current environment.
+
+On the operational front, ONGC achieved a major milestone on March 29 by commencing gas monetization from its $1 billion Daman Upside Development Project, an offshore development feeding the Hazira Plant. Furthermore, the redevelopment of mature western offshore assets, including Mumbai High, is progressing under a technical services arrangement with BP. A separate resource-sharing agreement with Reliance Industries, signed in January 2026, continues to optimize deepwater E&P operations across the Krishna Godavari basin and Andaman offshore.
+
+Despite these tailwinds, identifiable risks remain. A diplomatic resolution in the Middle East could quickly reverse crude prices and unwind recent outperformance. Additionally, while windfall taxes were legislatively ruled out, fiscal pressures could revive concerns regarding upstream pricing interference. Structurally, production declines at mature fields remain a constraint; ONGC's FY25 net profit fell 26.3% YoY despite a 10.2% revenue increase, reflecting a net crude realization of approximately $61.63/bbl in Q3 FY26 and highlighting the earnings volatility inherent in the current commodity-driven cycle.
+ 
+### SEA
+
+_Written by Daisy DAI Yingxi_
+
+#### Weekly Key Data:
+1. Straits Times Index (STI): 4,901.67 (-0.95%)
+2. Jakarta Composite Index (JKSE): 7,097.06 (-0.14%)
+3. FTSE Bursa Malaysia KLCI (KLSE): 1,712.65 (+0.23%)
+4. SET Index: 1,447.76 （+1.03%）
+5. VN-Index: 1,662.54 (+0.89%)
+
+#### Sector News:
+
+Energy & Commodities: Supply Chain Realignment
+
+Following disruptions in the Strait of Hormuz, Southeast Asian fuel importers structurally realigned supply chains to ensure regional energy security. Diesel imports from India to ASEAN surged to a seven-year high of approximately 1 million metric tons in March. This flow was driven by a narrowing East-West price spread, with front-month April swaps averaging a $20 per ton discount. Indian refiners, led by Reliance Industries (accounting for 90% of the volume), aggressively diverted cargoes East of Suez to fill the regional supply gap left by Middle Eastern constraints.
+
+Automotive: Accelerated EV Transition
+
+The geopolitical oil price shock served as a direct demand catalyst for the Southeast Asian electric vehicle (EV) market. Dealerships in the Philippines, Vietnam, and Thailand reported exponential order growth as surging fuel costs incentivized immediate substitution away from internal combustion engines. VinFast recorded a fourfold increase in showroom traffic, while BYD observed localized sales spiking to four times typical weekly volumes. This trend favored EV-exposed equities, with Tesla (TSLA) gaining 2.71% and Ford (F) adding 1.92%, while legacy-heavy manufacturers like Nissan (NSANY) faced a 0.77% decline.
+
+Industrials & Renewables: Divergent Capital Flows
+
+The ASEAN renewable energy sector experienced conflicting dynamics this week. Inbound infrastructure investment from China accelerated, with China Energy Engineering Corporation (CEEC) commencing a 200MW solar project in Cambodia and securing a 1 billion RMB agreement for a 199.98MW project in Malaysia. Conversely, regional solar manufacturers faced tightening export headwinds as the U.S. enforced AD/CVD tariffs on exports from Cambodia, Malaysia, Thailand, and Vietnam. The anticipated 2026 inclusion of Indonesia and Laos in these trade measures is forcing a structural reassessment of the region's export-oriented green energy facilities.
+
+#### Single Stock News:
+
+VinFast Auto Ltd. (NASDAQ: VFS): VFS closed the week ending March 27 at $3.39, posting a 6.09% decline and highlighting a sharp divergence between cautious institutional sentiment and robust on-the-ground operational momentum. Despite the bearish price action, the Vietnamese EV manufacturer emerged as a primary beneficiary of the energy price shock rippling through the ASEAN region. The company reported a fourfold surge in domestic showroom traffic and accelerated delivery volumes in Hanoi, reaching 80 vehicles per week—double its historical average—as surging pump prices triggered a rapid consumer shift toward electric mobility.
+
+While this localized demand spike provides critical near-term revenue visibility within its home market, the stock’s negative weekly finish reflects broader concerns regarding infrastructure and policy sustainability. Analysts caution that maintaining this momentum will require massive capital expenditures to address Southeast Asia’s currently inadequate charging networks. Furthermore, investors remain watchful of VinFast’s high cash-burn rate required for international expansion. Market participants noted that current EV sales tailwinds could quickly face headwinds if crude oil prices normalize or if regional government EV subsidies are phased out in the coming fiscal year.
+
+</x-accordion>
+
 <x-accordion summary="Week of 20/03/2026">
 
 _Published by Ashley LEE Juyeon_
