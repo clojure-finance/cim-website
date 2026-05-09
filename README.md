@@ -12,6 +12,11 @@ This is the website for Center of Investment Management.
 
 Then access `localhost:3000/Dummy-Website-Test/index.html`
 
+To compile the website: use 
+```
+rm -rf public/ && lein clean && lein run
+```
+
 ## Importants
 
 After building the webpage, copy the `.htaccess` file under `/public/` to `/public/Dummy-Website-Test/` to disable caching.
