@@ -300,6 +300,24 @@
         <p class="team-member-description">Cleo Audrea Sunaryo is a student pursuing a Bachelor of Engineering in Computing and Data Science, driven by a deep interest in the intersection of technology and financial markets. In her role as a Junior Portfolio Manager within the Real Estate industry group at CIM, she leverages her background in software development and algorithmic problem-solving to evaluate asset valuations and market trends. She is eager to further refine her quantitative capabilities and contribute to data-driven investment strategies.</p>
         <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Akshay-Padmanabhan.jpg"/>
+        <h3 class="team-member-name">Akshay THANIPET PADMANABHAN</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Utilities</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Akshay Thanipet Padmanabhan is a Computer Engineering student at the University of Hong Kong, pursuing a minor in Computational and Financial Mathematics. As a Junior Portfolio Manager in CIM’s Utilities Group, he is interested in applying quantitative methods and financial analysis to investment decisions. His experience building financial models and trading systems informs his approach to company and market research. At CIM, he aims to deepen his understanding of the utilities sector and contribute thoughtful investment insights. </p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Xinyi-Li.jpg"/>
+        <h3 class="team-member-name">Cherry LI Xinyi</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Industrials</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Li Xinyi is a FinTech student with a strong passion for finance and emerging technology. As a newcomer to the stock market, she is eager to deepen her understanding of investment strategies and industry insights through research and hands-on mock trading. Additionally, as a member of the Web Development Group, she is exploring how to apply her programming skills to build tools and platforms that support investment research and decision-making, aiming to bridge the gap between technology and finance. </p>
+        <div class="team-member-pad"></div>
+    </div>
 </div>
 
 ## Research Team
@@ -483,6 +501,24 @@
           <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
           <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
           <p class="team-member-description">Jackie is an Accounting and Finance student who is passionate about investing and portfolio management. As Senior Portfolio Manager at CIM, he manages a consumer discretionary equity portfolio through in-depth fundamental and macro analysis. As Research Head, he leads the research team, reviewing weekly market news and investment insights and providing feedback to junior researchers to strengthen their quality. Combining hands-on portfolio management with research leadership, Jackie is well prepared for a career in the finance industry.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Prisha-Singla.jpg"/>
+          <h3 class="team-member-name">Prisha SINGLA</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Prisha Singla is an Economics and Finance student at the University of Hong Kong with a keen interest in global financial markets and investment research. Her experience in data analytics and consulting has strengthened her analytical thinking and ability to approach complex problems from different perspectives. As part of the Research Team at the Centre for Investment Management, she hopes to build a deeper understanding of market dynamics while applying her skills to produce insightful research and make informed investment decisions.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Chun-Lim.jpeg"/>
+          <h3 class="team-member-name">Jared LIM Chun Wei</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Telecommunications</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Jared is a Year 1 Engineering student at the University of Hong Kong and a member of the research team at CIM. Serving as a junior portfolio manager, he has a strong passion for market research and portfolio management. By joining CIM, he hopes to train his analytical skills with practical market insights and build market awareness. </p>
           <div class="team-member-pad"></div>
     </div>
     
