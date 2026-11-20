@@ -194,7 +194,24 @@
           <p class="team-member-description">Lukas is currently pursuing EDI, Law, and Economics at HKU. He is now a junior portfolio manager in the materials sector and a member of the data analytics team. He is passionate about finance with a solid foundation in various disciplines and looks forward to crafting investment approaches aided by data and analytical instruments. By being a part of CIM, he seeks to build a keener market awareness and execute more strategic trades.</p>
           <div class="team-member-pad"></div>
     </div>
- 
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Jennis-Hu.png"/>
+          <h3 class="team-member-name">Jennis HU Chenqi</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Telecommunications</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Jennis is currently a student pursuing Business Administration and serves as a member of the Data Analysis team at CIM. With a strong interest in technology-driven investing and financial data analysis, she is eager to further develop her practical data analytics skills and hoping to apply these skills to help the team formulate strategic investment recommendations in a professional setting.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Minnie-Xu.png"/>
+          <h3 class="team-member-name">Minnie XU Jingtong</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Materials</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Minnie XU is a Global Engineering and Business Programme student at the University of Hong Kong, pursuing dual degrees in Computer Engineering and Finance. As a member of CIM's Materials and Data Analysis groups, she hopes to develop a deeper understanding of industries and financial markets while gaining practical investment and analytical skills. She also aims to explore how technology and finance can complement one another to create greater value.</p>
+          <div class="team-member-pad"></div>
+    </div>
 </div>
 
 
@@ -458,7 +475,24 @@
           <p class="team-member-description">Jackie is an Accounting and Finance student with a great interest in investing, trading, and portfolio management. As a Junior Portfolio Manager at CIM, he focuses on the consumer discretionary sector, actively managing investment portfolios through in-depth fundamental analysis and market trends. Jackie also conducts regular research on macroeconomic indicators and corporate financials to provide investment insights and market news. His practical experience in portfolio construction and market analysis, in addition to his passion for financial markets, demonstrates his ability to excel in the finance industry.</p>
           <div class="team-member-pad"></div>
     </div>
-    
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Leo-Yang.jpg"/>
+          <h3 class="team-member-name">LEO YANG Fengming</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Healthcare</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Leo Yang is a Biomedical Engineering undergraduate at the University of Hong Kong with a strong interest in finance and investment management. His interdisciplinary background has fostered analytical and problem-solving skills, alongside a particular interest in healthcare investing and equity research. As a Junior Portfolio Manager at the Centre for Investment Management, he looks forward to deepening his understanding of financial markets, exploring investment opportunities in the healthcare sector, and collaborating with like-minded peers.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Estel-Wei.jpg"/>
+          <h3 class="team-member-name">Estel WEI Shu Xian</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Energy</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Estel is an Economics and Finance undergraduate at the University of Hong Kong with experience in fundamental equity research and quantitative analysis. She is interested in how company fundamentals, market expectations, and statistical evidence interact to shape investment opportunities. As a member of CIM's Energy Industry Group and Research Team, she seeks to translate research into investment decisions through managing a simulated US energy portfolio, refining her judgment on entry and exit timing, and developing a disciplined investment framework.</p>
+          <div class="team-member-pad"></div>
+    </div>
 </div>
  
 
