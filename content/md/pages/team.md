@@ -195,7 +195,7 @@
           <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-          <img class="team-member-pfp" src="../../img/team-members-pic/Jennis-Hu.png"/>
+          <img class="team-member-pfp" src="../../img/team-members-pic/Jennis-Hu.jpg"/>
           <h3 class="team-member-name">Jennis HU Chenqi</h3>
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
           <h4 class="team-member-group">Industry Group: Telecommunications</h4>
@@ -204,7 +204,7 @@
           <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-          <img class="team-member-pfp" src="../../img/team-members-pic/Minnie-Xu.png"/>
+          <img class="team-member-pfp" src="../../img/team-members-pic/Minnie-Xu.jpg"/>
           <h3 class="team-member-name">Minnie XU Jingtong</h3>
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
           <h4 class="team-member-group">Industry Group: Materials</h4>
