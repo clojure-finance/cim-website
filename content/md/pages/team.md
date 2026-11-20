@@ -1,11 +1,11 @@
 {:title "Our Team"
- :layout :page
- :page-index 1
- :navbar? true
- :to-root "../.."}
-
+:layout :page
+:page-index 1
+:navbar? true
+:to-root "../.."}
 
 ## Founder
+
 <div class="our-team">
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Dr-Matthias-Buehlmaier.png"/>
@@ -194,9 +194,17 @@
           <p class="team-member-description">Lukas is currently pursuing EDI, Law, and Economics at HKU. He is now a junior portfolio manager in the materials sector and a member of the data analytics team. He is passionate about finance with a solid foundation in various disciplines and looks forward to crafting investment approaches aided by data and analytical instruments. By being a part of CIM, he seeks to build a keener market awareness and execute more strategic trades.</p>
           <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Richard-Yao.jpg"/>
+          <h3 class="team-member-name">Richard YAO Lijia</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Richard Yao is a second-year Bachelor of Engineering student majoring in Artificial Intelligence and Data Science at the University of Hong Kong. As a Junior Portfolio Manager in CIM's Data Analysis Team, he focuses on the Consumer Discretionary sector. With a strong interest in financial markets and quantitative research, he aims to leverage programming, statistical analysis, and machine learning to identify investment opportunities, develop data-driven strategies, and support informed portfolio decisions.</p>
+          <div class="team-member-pad"></div>
+    </div>
  
 </div>
-
 
 ## Web Development Team
 
@@ -271,6 +279,15 @@
         <h4 class="team-member-group">Industry Group: Telecommunications</h4>
         <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
         <p class="team-member-description">Arya is a double degree student pursuing Computer Engineering and Finance at the University of Hong Kong. She joined The Center for Investment Management to deepen her understanding of the markets and apply her skills in a real-world context. She is eager to learn more about fintech integration and data analysis in investment management while contributing her technical skills to support CIM and grow her abilities in a practical setting. </p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/David-Lu.jpeg"/>
+        <h3 class="team-member-name">David LU Chun Sen</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Energy</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">David Lu is a first-year student majoring in Applied Artificial Intelligence at the University of Hong Kong. He is interested in the intersection of technology and finance, particularly how AI and data analysis can support investment research. Through CIM, he aims to develop his skills in equity research, portfolio management and risk analysis. He looks forward to learning from fellow members and contributing to the team’s research and investment discussions.</p>
         <div class="team-member-pad"></div>
     </div>
 </div>
@@ -458,7 +475,23 @@
           <p class="team-member-description">Jackie is an Accounting and Finance student with a great interest in investing, trading, and portfolio management. As a Junior Portfolio Manager at CIM, he focuses on the consumer discretionary sector, actively managing investment portfolios through in-depth fundamental analysis and market trends. Jackie also conducts regular research on macroeconomic indicators and corporate financials to provide investment insights and market news. His practical experience in portfolio construction and market analysis, in addition to his passion for financial markets, demonstrates his ability to excel in the finance industry.</p>
           <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Romy-Wu.jpeg"/>
+          <h3 class="team-member-name">Romy WU Zhengfeng</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Healthcare</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">WU Zhengfeng is a year 2 Finance student, with a role as a Junior Portfolio Manager specialising in Healthcare Industry investment, she has built skills in trend analysis, sector thematic research and risk monitoring for equity portfolios. Within the Research Team, she hopes to leverage financial databases to dissect healthcare company fundamentals, explore the long-term growth drivers and regulatory risks of the healthcare sector, and support the team in constructing high-conviction positions as well as delivering rigorous investment reports.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Norah-Yu.jpg"/>
+          <h3 class="team-member-name">Norah YU Jinnuo</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Energy</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Norah Yu is a BBA student majoring in Accounting Data Analytics at the University of Hong Kong. Her experience in stock pitch competitions and consulting projects has strengthened her analytical thinking and ability to communicate research findings. With an interest in equity research and valuation, she seeks to translate company and industry analysis into well-supported investment insights. Through collaborative research and practical portfolio experience, she aims to deepen her market understanding and refine her independent investment judgment.</p>
+          <div class="team-member-pad"></div>
+    </div>
     
 </div>
- 
-
