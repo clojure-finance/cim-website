@@ -300,7 +300,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Maggie-Zheng.jpg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Maggie-Zheng.png"/>
         <h3 class="team-member-name">Maggie ZHENG Xueyue</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
