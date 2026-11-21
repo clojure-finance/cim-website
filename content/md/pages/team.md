@@ -203,6 +203,33 @@
           <p class="team-member-description">Richard Yao is a second-year Bachelor of Engineering student majoring in Artificial Intelligence and Data Science at the University of Hong Kong. As a Junior Portfolio Manager in CIM's Data Analysis Team, he focuses on the Consumer Discretionary sector. With a strong interest in financial markets and quantitative research, he aims to leverage programming, statistical analysis, and machine learning to identify investment opportunities, develop data-driven strategies, and support informed portfolio decisions.</p>
           <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Eric-YU-Haotian.jpg"/>
+          <h3 class="team-member-name">Eric YU Haotian</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Consumer Staples</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Minyuan YU Haotian is a Year 2 student majoring in Financial Technology at HKU. As a Junior Portfolio Manager at CIM, he focuses on the Consumer Staples industry and is a member of the Data Analysis Team. His interdisciplinary studies have given him a foundation in finance, economics, mathematics, and programming. Currently learning machine learning, he is interested in investment management and using data analytics to inform investment decisions. He hopes to explore how technology can support investment decisions.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Tony-JANG-Junhyuk.jpg"/>
+          <h3 class="team-member-name">Tony JANG Junhyuk</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Healthcare</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Tony is a first-year Bachelor of Engineering student majoring in Computer/Electrical/Electronic Engineering at the University of Hong Kong. He has a strong interest in financial markets and enjoys learning about different companies and industries. He joined CIM to gain a better understanding of investment analysis and portfolio management, as well as to learn from other students who share similar interests. Through this experience, he hopes to develop his knowledge of investing and improve his ability to make independent investment decisions.</p>
+          <div class="team-member-pad"></div>
+    </div>
+        <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Brandon-HSU-Jheruei.jpg"/>
+          <h3 class="team-member-name">Brandon HSU Jhe Ruei</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Technology</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Brandon is a data and systems engineering student pursuing a second major in finance. He is interested in applying quantitative skills in the field of trading and research. As a junior portfolio manager in the technology group, he is eager to learn more about the market and contribute meaningful analytics to the portfolio.</p>
+          <div class="team-member-pad"></div>
+    </div>
  
 </div>
 
@@ -290,6 +317,16 @@
         <p class="team-member-description">David Lu is a first-year student majoring in Applied Artificial Intelligence at the University of Hong Kong. He is interested in the intersection of technology and finance, particularly how AI and data analysis can support investment research. Through CIM, he aims to develop his skills in equity research, portfolio management and risk analysis. He looks forward to learning from fellow members and contributing to the team’s research and investment discussions.</p>
         <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Ether-LIANG-Jiacheng.jpeg"/>
+        <h3 class="team-member-name">Ether LIANG jiacheng</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Energy</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Jiacheng Liang is a first-year Electronic Engineering (ECE) student. He joined CIM as a Junior Portfolio Manager in the Energy Research Group, driven by a keen interest in company evaluation and equity research. In his current role, he focuses on analyzing corporate performance and assessing key market trends within the energy sector. He aims to leverage his technical and analytical background to develop practical insights in fundamental analysis and contribute to the team's investment research.</p>
+        <div class="team-member-pad"></div>
+    </div>
+
 </div>
 
 ## Research Team
