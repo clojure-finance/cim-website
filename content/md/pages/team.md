@@ -87,7 +87,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Rishabh-Khanna.jpg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Rishabh-Khanna.jpeg"/>
         <h3 class="team-member-name">Rishabh KHANNA</h3>
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <h4 class="team-member-group">Industry Group: Materials</h4>
