@@ -338,10 +338,10 @@
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Nicholas-Fedlim.jpg"/>
         <h3 class="team-member-name">Nicholas FEDLIM</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <h4 class="team-member-group">Industry Group: Healthcare</h4>
         <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
-        <p class="team-member-description">Nicholas Fedlim, a Data Science student pursuing a double major in Finance, is passionate about acquiring practical skills in stock portfolio management. As a Junior Portfolio Manager in CIM, he aims to bridge his theoretical knowledge with real-world investment scenarios. He further supports this data-driven mission on the Web Development team, where he applies his programming skills to maintain and enhance the CIM’s digital platforms. He is committed to bridging his technical expertise with financial awareness to contribute to the team's analytical rigor. </p>
+        <p class="team-member-description">Nicholas Fedlim, a Data Science student pursuing a double major in Finance, is passionate about acquiring practical skills in stock portfolio management. As a Senior Portfolio Manager in CIM, he aims to bridge his theoretical knowledge with real-world investment scenarios. He further supports this data-driven mission on the Web Development team, where he applies his programming skills to maintain and enhance the CIM’s digital platforms. He is committed to bridging his technical expertise with financial awareness to contribute to the team's analytical rigor. </p>
         <div class="team-member-pad"></div>
     </div>
      <div class="team-member">
