@@ -195,6 +195,24 @@
           <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Hayes-Chau.jpg"/>
+        <h3 class="team-member-name">Hayes CHAU Yik Hei</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Materials</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Hayes is pursuing a degree in BBA(IBGM) with a double major in Finance. He is passionate about trading and seeking to improve his quantitative skills. This is what drives him to join the data analysis group. He believes that better decisions could be made when complemented by data. In the future, he would like to work in an asset management firm and manage his own portfolio.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Eason-Zhang.jpg"/>
+        <h3 class="team-member-name">Eason ZHANG Yixuan</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Utilities</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Yixuan is a BEng(AI&amp;DataSc) student at the University of Hong Kong. As a member of CIM’s Data Analysis Team, he is interested in applying analytical methods and programming skills to equity research. With a keen interest in asset management and the secondary market, Yixuan hopes to deepen their understanding of market dynamics, strengthen ability to interpret financial data, and develop a thoughtful, data-driven approach to identifying investment opportunities.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
           <img class="team-member-pfp" src="../../img/team-members-pic/Richard-Yao.jpg"/>
           <h3 class="team-member-name">Richard YAO Lijia</h3>
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
@@ -309,7 +327,16 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Akshay-Padmanabhan.jpeg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Cleo-Sunaryo.jpg"/>
+        <h3 class="team-member-name">Cleo Audrea SUNARYO</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Real Estate</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Cleo Audrea Sunaryo is a student pursuing a Bachelor of Engineering in Computing and Data Science, driven by a deep interest in the intersection of technology and financial markets. In her role as a Junior Portfolio Manager within the Real Estate industry group at CIM, she leverages her background in software development and algorithmic problem-solving to evaluate asset valuations and market trends. She is eager to further refine her quantitative capabilities and contribute to data-driven investment strategies.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Akshay-Padmanabhan.jpg"/>
         <h3 class="team-member-name">Akshay THANIPET PADMANABHAN</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <h4 class="team-member-group">Industry Group: Utilities</h4>
@@ -318,7 +345,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Xinyi-Li.jpeg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Xinyi-Li.jpg"/>
         <h3 class="team-member-name">Cherry LI Xinyi</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <h4 class="team-member-group">Industry Group: Industrials</h4>
@@ -336,7 +363,7 @@
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Ether-LIANG-Jiacheng.jpeg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Ether-LIANG-jiacheng.jpeg"/>
         <h3 class="team-member-name">Ether LIANG jiacheng</h3>
         <h2 class="team-member-position">Junior Portfolio Manager</h2>
         <h4 class="team-member-group">Industry Group: Energy</h4>
@@ -524,10 +551,10 @@
     <div class="team-member">
           <img class="team-member-pfp" src="../../img/team-members-pic/Jacky-Lui.jpg"/>
           <h3 class="team-member-name">Jackie LUI Ching Ho</h3>
-          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h2 class="team-member-position">Senior Portfolio Manager</h2>
           <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
           <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
-          <p class="team-member-description">Jackie is an Accounting and Finance student with a great interest in investing, trading, and portfolio management. As a Junior Portfolio Manager at CIM, he focuses on the consumer discretionary sector, actively managing investment portfolios through in-depth fundamental analysis and market trends. Jackie also conducts regular research on macroeconomic indicators and corporate financials to provide investment insights and market news. His practical experience in portfolio construction and market analysis, in addition to his passion for financial markets, demonstrates his ability to excel in the finance industry.</p>
+          <p class="team-member-description">Jackie is an Accounting and Finance student who is passionate about investing and portfolio management. As Senior Portfolio Manager at CIM, he manages a consumer discretionary equity portfolio through in-depth fundamental and macro analysis. As Research Head, he leads the research team, reviewing weekly market news and investment insights and providing feedback to junior researchers to strengthen their quality. Combining hands-on portfolio management with research leadership, Jackie is well prepared for a career in the finance industry.</p>
           <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -540,7 +567,7 @@
           <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
-          <img class="team-member-pfp" src="../../img/team-members-pic/Chun-Lim.jpg"/>
+          <img class="team-member-pfp" src="../../img/team-members-pic/Chun-Lim.jpeg"/>
           <h3 class="team-member-name">Jared LIM Chun Wei</h3>
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
           <h4 class="team-member-group">Industry Group: Telecommunications</h4>
