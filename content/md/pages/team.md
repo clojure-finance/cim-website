@@ -89,10 +89,10 @@
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Rishabh-Khanna.jpg"/>
         <h3 class="team-member-name">Rishabh KHANNA</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <h4 class="team-member-group">Industry Group: Materials</h4>
         <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
-        <p class="team-member-description">Rishabh Khanna is currently a Quantitative Finance student, driven by his passion and commitment towards gaining knowledge and creating consequential change. In his role as a Junior Portfolio Manager specialising in Materials Industry investment, he has built skills in monitoring industry fluctuations and applying fundamental and technical analysis to predict stock trends. Within the Data Analysis Team, he hopes to enhance his market strength and gain further experience working with specialised methodologies and programming to deduce market movements and optimise data-backed responses to take full advantage of investment opportunities.</p>
+        <p class="team-member-description">Rishabh Khanna is currently a Quantitative Finance student, driven by his passion and commitment towards gaining knowledge and creating consequential change. In his role as a Senior Portfolio Manager specialising in Materials Industry investment, he has built skills in monitoring industry fluctuations and applying fundamental and technical analysis to predict stock trends. As the Department Head of the Data Analysis Team, he hopes to work alongside like-minded peers to gain market experience and gain further strength working with specialised methodologies and programming to deduce market movements and optimise data-backed responses to take full advantage of investment opportunities.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -203,6 +203,15 @@
           <p class="team-member-description">Richard Yao is a second-year Bachelor of Engineering student majoring in Artificial Intelligence and Data Science at the University of Hong Kong. As a Junior Portfolio Manager in CIM's Data Analysis Team, he focuses on the Consumer Discretionary sector. With a strong interest in financial markets and quantitative research, he aims to leverage programming, statistical analysis, and machine learning to identify investment opportunities, develop data-driven strategies, and support informed portfolio decisions.</p>
           <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Revaant-Sinha.jpeg"/>
+          <h3 class="team-member-name">Revaant SINHA</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Energy</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Revaant Sinha is a first-year BEng Computer Science student at the University of Hong Kong. His interests lie in finance, investment and quantitative analysis, particularly the use of computational methods in financial markets. At CIM, he serves as a Junior Portfolio Manager and is a member of the Energy Industry Group and Data Analysis Functional Group.</p>
+          <div class="team-member-pad"></div>
+    </div>
  
 </div>
 
@@ -288,6 +297,15 @@
         <h4 class="team-member-group">Industry Group: Energy</h4>
         <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
         <p class="team-member-description">David Lu is a first-year student majoring in Applied Artificial Intelligence at the University of Hong Kong. He is interested in the intersection of technology and finance, particularly how AI and data analysis can support investment research. Through CIM, he aims to develop his skills in equity research, portfolio management and risk analysis. He looks forward to learning from fellow members and contributing to the team’s research and investment discussions.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Maggie-Zheng.jpg"/>
+        <h3 class="team-member-name">Maggie ZHENG Xueyue</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Maggie is a Computer Science undergraduate at the University of Hong Kong with a strong interest in quantitative investing, financial markets, and data-driven investment research. She seeks to explore the application of machine learning and computational methods in financial analysis. Through her involvement in CIM and independent data science projects, she aims to bridge technical knowledge with practical investment experience and continuously develop her analytical and investment capabilities.</p>
         <div class="team-member-pad"></div>
     </div>
 </div>
@@ -491,6 +509,15 @@
           <h4 class="team-member-group">Industry Group: Energy</h4>
           <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
           <p class="team-member-description">Norah Yu is a BBA student majoring in Accounting Data Analytics at the University of Hong Kong. Her experience in stock pitch competitions and consulting projects has strengthened her analytical thinking and ability to communicate research findings. With an interest in equity research and valuation, she seeks to translate company and industry analysis into well-supported investment insights. Through collaborative research and practical portfolio experience, she aims to deepen her market understanding and refine her independent investment judgment.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Doris-Li.png"/>
+          <h3 class="team-member-name">Doris LI Jialin</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Real Estate</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Doris Li is a student in Comparative Literature and ISA, currently serving as a Junior PM at CIM. She is particularly interested in market narratives and data-driven decision-making. Driven by intellectual curiosity, she enjoys exploring how combining qualitative storytelling with structured data can shed light on market dynamics. She also brings strong focus and a steady, open-minded approach to team research and problem-solving.</p>
           <div class="team-member-pad"></div>
     </div>
     
