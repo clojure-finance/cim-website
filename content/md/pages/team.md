@@ -195,6 +195,32 @@
           <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Esther-Tung.JPG"/>
+          <h3 class="team-member-name">Esther OR Yuet Tung</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Technology</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Esther is an ambitious student taking the BEcon & Fin program. She is highly interested in the financial & global markets. As a member of the data analysis team, she is constantly learning financial data tools, as well as learning to be better at investing and managing portfolios.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Elbert-Bernardo.jpg"/>
+          <h3 class="team-member-name">Elbert BERNARDO</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Industrials</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Elbert is a Mechanical Engineering student at The University of Hong Kong. He is currently a Junior Portfolio Manager at the CIM as part of the Data Analysis division. Passionate about investing, he is determined to develop his skills in the financial markets and contribute to the Industrials industry group. He is eager to develop his coding skills to transform raw data into simplified insights.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Terry-Lizefeng.jpg"/>
+          <h3 class="team-member-name">Terry TAN Lizefeng</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Technology</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Terry TAN Lizefeng is a second-year student majoring in Applied Artificial Intelligence at the University of Hong Kong. With a keen interest in the intersection of technology and finance, he has explored Python-based financial data analysis and quantitative trading strategies. As a Junior Portfolio Manager at CIM, he aims to deepen his understanding of equity research, portfolio management, and data-driven investment decisions while applying his analytical and programming skills to contribute to the team.</p>
+    </div>
+    <div class="team-member">
           <img class="team-member-pfp" src="../../img/team-members-pic/Jennis-Hu.jpg"/>
           <h3 class="team-member-name">Jennis HU Chenqi</h3>
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
@@ -628,4 +654,14 @@
           <p class="team-member-description">Estel is an Economics and Finance undergraduate at the University of Hong Kong with experience in fundamental equity research and quantitative analysis. She is interested in how company fundamentals, market expectations, and statistical evidence interact to shape investment opportunities. As a member of CIM's Energy Industry Group and Research Team, she seeks to translate research into investment decisions through managing a simulated US energy portfolio, refining her judgment on entry and exit timing, and developing a disciplined investment framework.</p>
           <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Drian-Bagaskara.jpeg"/>
+          <h3 class="team-member-name">Drian Dwiputra BAGASKARA </h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Healthcare</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Drian Dwiputra Bagaskara is currently an Economics & Finance student and a member of the Research Team at CIM. Focusing on the healthcare sector, he has been developing his skills in industry research, financial valuation, and stock pitching. With a strong interest in capital markets, Drian is eager to apply his analytical background to identify sound investment opportunities and contribute effectively to the team.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    
 </div>
