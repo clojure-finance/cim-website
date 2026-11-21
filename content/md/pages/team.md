@@ -1,11 +1,11 @@
 {:title "Our Team"
- :layout :page
- :page-index 1
- :navbar? true
- :to-root "../.."}
-
+:layout :page
+:page-index 1
+:navbar? true
+:to-root "../.."}
 
 ## Founder
+
 <div class="our-team">
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Dr-Matthias-Buehlmaier.png"/>
@@ -212,9 +212,44 @@
         <p class="team-member-description">Yixuan is a BEng(AI&amp;DataSc) student at the University of Hong Kong. As a member of CIM’s Data Analysis Team, he is interested in applying analytical methods and programming skills to equity research. With a keen interest in asset management and the secondary market, Yixuan hopes to deepen their understanding of market dynamics, strengthen ability to interpret financial data, and develop a thoughtful, data-driven approach to identifying investment opportunities.</p>
         <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Richard-Yao.jpg"/>
+          <h3 class="team-member-name">Richard YAO Lijia</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Richard Yao is a second-year Bachelor of Engineering student majoring in Artificial Intelligence and Data Science at the University of Hong Kong. As a Junior Portfolio Manager in CIM's Data Analysis Team, he focuses on the Consumer Discretionary sector. With a strong interest in financial markets and quantitative research, he aims to leverage programming, statistical analysis, and machine learning to identify investment opportunities, develop data-driven strategies, and support informed portfolio decisions.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Eric-YU-Haotian.jpg"/>
+          <h3 class="team-member-name">Eric YU Haotian</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Consumer Staples</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Minyuan YU Haotian is a Year 2 student majoring in Financial Technology at HKU. As a Junior Portfolio Manager at CIM, he focuses on the Consumer Staples industry and is a member of the Data Analysis Team. His interdisciplinary studies have given him a foundation in finance, economics, mathematics, and programming. Currently learning machine learning, he is interested in investment management and using data analytics to inform investment decisions. He hopes to explore how technology can support investment decisions.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Tony-JANG-Junhyuk.jpg"/>
+          <h3 class="team-member-name">Tony JANG Junhyuk</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Healthcare</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Tony is a first-year Bachelor of Engineering student majoring in Computer/Electrical/Electronic Engineering at the University of Hong Kong. He has a strong interest in financial markets and enjoys learning about different companies and industries. He joined CIM to gain a better understanding of investment analysis and portfolio management, as well as to learn from other students who share similar interests. Through this experience, he hopes to develop his knowledge of investing and improve his ability to make independent investment decisions.</p>
+          <div class="team-member-pad"></div>
+    </div>
+        <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Brandon-HSU-Jheruei.jpg"/>
+          <h3 class="team-member-name">Brandon HSU Jhe Ruei</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Technology</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Brandon is a data and systems engineering student pursuing a second major in finance. He is interested in applying quantitative skills in the field of trading and research. As a junior portfolio manager in the technology group, he is eager to learn more about the market and contribute meaningful analytics to the portfolio.</p>
+          <div class="team-member-pad"></div>
+    </div>
  
 </div>
-
 
 ## Web Development Team
 
@@ -318,6 +353,25 @@
         <p class="team-member-description">Li Xinyi is a FinTech student with a strong passion for finance and emerging technology. As a newcomer to the stock market, she is eager to deepen her understanding of investment strategies and industry insights through research and hands-on mock trading. Additionally, as a member of the Web Development Group, she is exploring how to apply her programming skills to build tools and platforms that support investment research and decision-making, aiming to bridge the gap between technology and finance. </p>
         <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/David-Lu.jpeg"/>
+        <h3 class="team-member-name">David LU Chun Sen</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Energy</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">David Lu is a first-year student majoring in Applied Artificial Intelligence at the University of Hong Kong. He is interested in the intersection of technology and finance, particularly how AI and data analysis can support investment research. Through CIM, he aims to develop his skills in equity research, portfolio management and risk analysis. He looks forward to learning from fellow members and contributing to the team’s research and investment discussions.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Ether-LIANG-jiacheng.jpeg"/>
+        <h3 class="team-member-name">Ether LIANG jiacheng</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Energy</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Jiacheng Liang is a first-year Electronic Engineering (ECE) student. He joined CIM as a Junior Portfolio Manager in the Energy Research Group, driven by a keen interest in company evaluation and equity research. In his current role, he focuses on analyzing corporate performance and assessing key market trends within the energy sector. He aims to leverage his technical and analytical background to develop practical insights in fundamental analysis and contribute to the team's investment research.</p>
+        <div class="team-member-pad"></div>
+    </div>
+
 </div>
 
 ## Research Team
@@ -519,9 +573,24 @@
           <h4 class="team-member-group">Industry Group: Telecommunications</h4>
           <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
           <p class="team-member-description">Jared is a Year 1 Engineering student at the University of Hong Kong and a member of the research team at CIM. Serving as a junior portfolio manager, he has a strong passion for market research and portfolio management. By joining CIM, he hopes to train his analytical skills with practical market insights and build market awareness. </p>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Romy-Wu.jpeg"/>
+          <h3 class="team-member-name">Romy WU Zhengfeng</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Healthcare</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">WU Zhengfeng is a year 2 Finance student, with a role as a Junior Portfolio Manager specialising in Healthcare Industry investment, she has built skills in trend analysis, sector thematic research and risk monitoring for equity portfolios. Within the Research Team, she hopes to leverage financial databases to dissect healthcare company fundamentals, explore the long-term growth drivers and regulatory risks of the healthcare sector, and support the team in constructing high-conviction positions as well as delivering rigorous investment reports.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Norah-Yu.jpg"/>
+          <h3 class="team-member-name">Norah YU Jinnuo</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Energy</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Norah Yu is a BBA student majoring in Accounting Data Analytics at the University of Hong Kong. Her experience in stock pitch competitions and consulting projects has strengthened her analytical thinking and ability to communicate research findings. With an interest in equity research and valuation, she seeks to translate company and industry analysis into well-supported investment insights. Through collaborative research and practical portfolio experience, she aims to deepen her market understanding and refine her independent investment judgment.</p>
           <div class="team-member-pad"></div>
     </div>
     
 </div>
- 
-
