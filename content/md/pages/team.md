@@ -78,12 +78,12 @@
         <div class="team-member-pad"></div>
     </div>
      <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Aryan-Gupta-Manchanda.jpeg"/>
+        <img class="team-member-pfp" src="../../img/team-members-pic/Aryan-Gupta-Manchanda.jpg"/>
         <h3 class="team-member-name">Aryan GUPTA MANCHANDA</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <h4 class="team-member-group">Industry Group: Utilities</h4>
         <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
-        <p class="team-member-description">Aryan is a student pursuing Economics and Finance, driven by a natural curiosity of the mechanisms of financial markets. As a member of the Data Analysis team at CIM, he utilises analytical tools to transform raw data into actionable insights which directly enhance portfolio performance. He is eager to continue developing his analytical skills and contribute to data driven decision making, aiding investment strategies in the future.</p>
+        <p class="team-member-description">Aryan is an Economics and Finance student. His interest in the intersection of financial markets and data motivated him to join CIM, an interdisciplinary approach to finance and analytics. As a member of the Data Analysis team, he applies data-driven methods and financial analysis to real-world problems, further developing both his analytical and financial understanding.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -134,10 +134,10 @@
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Sophie-Ng.jpg"/>
         <h3 class="team-member-name">Sophie NG Shui Yee</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>  
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
         <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
-        <p class="team-member-description">Sophie is a student majoring in both Bachelor of Business Administration (International Business and Global Management) and Finance at the University of Hong Kong. Passionate about investments, Sophie has gained hands-on experience in M&A research analysis and stock trading through working at a brokerage firm. With a strong analytical and research background, Sophie is particularly interested in honing her skills on data analysis with Python and building different financial models to make more rational financial investments through quantitative means in the CIM. </p>
+        <p class="team-member-description">Sophie is a student double-majoring in Bachelor of Business Administration (International Business and Global Management) and Finance at the University of Hong Kong. Passionate about investments, Sophie has gained hands-on experience in M&A research analysis and stock trading through working at a brokerage firm. With a strong analytical and research background, Sophie is particularly interested in honing her skills on data analysis with Python and building different financial models to make more rational financial investments through quantitative means in the CIM.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -293,7 +293,7 @@
           <p class="team-member-description">Tony is a first-year Bachelor of Engineering student majoring in Computer/Electrical/Electronic Engineering at the University of Hong Kong. He has a strong interest in financial markets and enjoys learning about different companies and industries. He joined CIM to gain a better understanding of investment analysis and portfolio management, as well as to learn from other students who share similar interests. Through this experience, he hopes to develop his knowledge of investing and improve his ability to make independent investment decisions.</p>
           <div class="team-member-pad"></div>
     </div>
-        <div class="team-member">
+    <div class="team-member">
           <img class="team-member-pfp" src="../../img/team-members-pic/Brandon-HSU-Jheruei.jpg"/>
           <h3 class="team-member-name">Brandon HSU Jhe Ruei</h3>
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
@@ -302,9 +302,8 @@
           <p class="team-member-description">Brandon is a data and systems engineering student pursuing a second major in finance. He is interested in applying quantitative skills in the field of trading and research. As a junior portfolio manager in the technology group, he is eager to learn more about the market and contribute meaningful analytics to the portfolio.</p>
           <div class="team-member-pad"></div>
     </div>
-    </div>
-        <div class="team-member">
-          <img class="team-member-pfp" src="../../img/team-members-pic/Brandon-HSU-Jheruei.jpg"/>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Bella-YAN-Ziqing.jpg"/>
           <h3 class="team-member-name">Bella YAN Ziqing</h3>
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
           <h4 class="team-member-group">Industry Group: Materials</h4>
@@ -312,6 +311,25 @@
           <p class="team-member-description">Bella Yan Ziqing is currently an Accounting Data Analytics student at HKU, driven by her curiosity about financial markets and the intersection of data and investment. As a Junior Portfolio Manager in the Data Analytics Functional Group and a member of the Materials Industry Group, she aims to deepen her understanding of industry dynamics and develop a more analytical approach to investment research. She hopes to strengthen her skills in data-driven analysis, quantitative methodologies, and translating market insights into informed investment decisions.</p>
           <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Yuna-Ge.jpg"/>
+          <h3 class="team-member-name">Yuna GE Yinuo</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Technology</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Yuna is a Quantitative Finance student with a keen interest in financial markets and quantitative modelling. As a junior portfolio manager at CIM, she aims to develop investment strategies, manage portfolios, and apply quantitative methods and programming skills to investment research. Through hands-on experience and collaboration with fellow members, she looks forward to strengthening her analytical abilities, refining her investment judgement, and developing a deeper understanding of market dynamics.</p>
+          <div class="team-member-pad"></div>
+    </div> 
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Wayne-Kosasih.jpg"/>
+        <h3 class="team-member-name">Wayne Davelyn KOSASIH</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Utilities</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Wayne Davelyn Kosasih is currently a Quantitative Finance student and Belt and Road Scholar, driven by a deep curiosity about how markets work. In his role as a Junior Portfolio Manager specialising in Utilities Industry investment, he analyses sector developments and company fundamentals to identify investment opportunities. Within the Data Analysis Team, he hopes to sharpen his quantitative and analytical skills, applying data-driven methods to uncover market trends and support well-informed portfolio decisions.</p>
+        <div class="team-member-pad"></div>
+    </div>
+ 
 </div>
 
 ## Web Development Team
@@ -356,7 +374,7 @@
      <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Sumon-Myat.jpg"/>
         <h3 class="team-member-name">Hannah MYAT Su Mon</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <h4 class="team-member-group">Industry Group: Real Estate</h4>
         <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
         <p class="team-member-description">Hannah is pursuing a Bachelor of Engineering in Computer Science. With a strong interest in both technology and finance, she aims to apply her engineering and programming skills to data-driven financial analysis and investment. Currently serving as a junior portfolio manager and a member of web development team at CIM, she aims to broaden her understanding of finance, strengthen her analytical mindset, and gain practical experience in both investment and web development. </p>
@@ -450,6 +468,15 @@
         <h4 class="team-member-group">Industry Group: Telecommunications</h4>
         <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
         <p class="team-member-description">Daniel is a Year 2 Computer Engineering student at the University of Hong Kong with an interest in technology and financial markets. Through personal experience in stock trading and investing, he has developed an interest in combining fundamental research with data-driven methods to support investment decisions. As a Junior Portfolio Manager in CIM’s Telecommunications group and a member of the Web Development team, he hopes to contribute his programming skills to CIM’s digital platforms while gaining practical investment experience.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Andrew-Lukmantara.jpg"/>
+        <h3 class="team-member-name">Andrew Carsten LUKMANTARA</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Financials</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Andrew is an AI &amp; Data Science student at the University of Hong Kong and a Junior Portfolio Manager in CIM’s Financials Industry Group. He focuses on combining fundamental research with data-driven analysis to evaluate financial sector stocks. Through CIM, Andrew hopes to sharpen his market intuition, apply machine learning and analytical tools to investment decisions, and build disciplined, systematic strategies for long-term portfolio management.</p>
         <div class="team-member-pad"></div>
     </div>
 
@@ -728,4 +755,32 @@
           <p class="team-member-description">Nicholas is a second year Economics and Finance student at the University of Hong Kong, originally from Indonesia. He is interested in equity research and enjoys understanding businesses, analyzing financial performance, and identifying investment opportunities. Having invested in stocks since high school, he follows the Indonesian, US, and Hong Kong markets. He hopes to develop his research skills further through CIM and gain practical experience in the investment industry.</p>
           <div class="team-member-pad"></div>
     </div> 
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Oscar-Cheung.JPG"/>
+          <h3 class="team-member-name">Oscar CHEUNG Cheuk Yin </h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Financials</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Oscar is an Economics and Finance student at the University of Hong Kong. As a Junior Portfolio Manager at CIM, he is passionate about exploring financial markets, conducting in-depth equity research, and developing data-driven investment strategies. As part of the research team, he focuses on analysing market trends, evaluating investment opportunities, and monitoring industry developments. He is eager to apply his knowledge and experience in finance and stock market to real-world market dynamics and contribute investment insights to the team.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Cyrus-Kong.jpeg"/>
+          <h3 class="team-member-name">Cyrus KONG Ce </h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Consumer Staples</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Cyrus Kong is a BEng Artificial Intelligence and Data Science student at the University of Hong Kong. As a Junior Portfolio Manager covering the Consumer Staples industry group and serving on the Research Team, he co-manages a simulated equity portfolio and writes market commentary for CIM. Combining financial analysis with programming and data-driven methods, he aims to develop rigorous investment insights and sharpen his market sense through hands-on practice.</p>
+          <div class="team-member-pad"></div>
+    </div>      
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Shiksha-Srivastava.jpg"/>
+        <h3 class="team-member-name">Shiksha SRIVASTAVA</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Real Estate</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Shiksha is a second-year student majoring in Business Analytics. She is committed to exploring the intersection of data and business strategy, using an analytical approach to evaluate market trends and generate practical insights. Her interests lie in developing quantitative skills and applying data-driven research to support decisions. She aims to leverage these analytical tools to better understand market dynamics and optimize investment performance.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    
 </div>
