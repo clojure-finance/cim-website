@@ -137,7 +137,7 @@
         <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
         <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
-        <p class="team-member-description">Sophie is a student double-majoring in Bachelor of Business Administration (International Business and Global Management) and Finance at the University of Hong Kong. Passionate about investments, Sophie has gained hands-on experience in M&amp;A research analysis and stock trading through working at a brokerage firm. With a strong analytical and research background, Sophie is particularly interested in honing her skills on data analysis with Python and building different financial models to make more rational financial investments through quantitative means in the CIM.</p>
+        <p class="team-member-description">Sophie is a student double-majoring in Bachelor of Business Administration (International Business and Global Management) and Finance at the University of Hong Kong. Passionate about investments, Sophie has gained hands-on experience in M&A research analysis and stock trading through working at a brokerage firm. With a strong analytical and research background, Sophie is particularly interested in honing her skills on data analysis with Python and building different financial models to make more rational financial investments through quantitative means in the CIM.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
