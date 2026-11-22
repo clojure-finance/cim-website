@@ -134,10 +134,10 @@
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Sophie-Ng.jpg"/>
         <h3 class="team-member-name">Sophie NG Shui Yee</h3>
-        <h2 class="team-member-position">Junior Portfolio Manager</h2>  
+        <h2 class="team-member-position">Senior Portfolio Manager</h2>
         <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
         <h4 class="team-member-joined">Joined Academic Year 2025-26</h4>
-        <p class="team-member-description">Sophie is a student majoring in both Bachelor of Business Administration (International Business and Global Management) and Finance at the University of Hong Kong. Passionate about investments, Sophie has gained hands-on experience in M&A research analysis and stock trading through working at a brokerage firm. With a strong analytical and research background, Sophie is particularly interested in honing her skills on data analysis with Python and building different financial models to make more rational financial investments through quantitative means in the CIM. </p>
+        <p class="team-member-description">Sophie is a student double-majoring in Bachelor of Business Administration (International Business and Global Management) and Finance at the University of Hong Kong. Passionate about investments, Sophie has gained hands-on experience in M&A research analysis and stock trading through working at a brokerage firm. With a strong analytical and research background, Sophie is particularly interested in honing her skills on data analysis with Python and building different financial models to make more rational financial investments through quantitative means in the CIM.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -302,6 +302,15 @@
           <p class="team-member-description">Brandon is a data and systems engineering student pursuing a second major in finance. He is interested in applying quantitative skills in the field of trading and research. As a junior portfolio manager in the technology group, he is eager to learn more about the market and contribute meaningful analytics to the portfolio.</p>
           <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Wayne-Kosasih.jpg"/>
+        <h3 class="team-member-name">Wayne Davelyn KOSASIH</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Utilities</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Wayne Davelyn Kosasih is currently a Quantitative Finance student and Belt and Road Scholar, driven by a deep curiosity about how markets work. In his role as a Junior Portfolio Manager specialising in Utilities Industry investment, he analyses sector developments and company fundamentals to identify investment opportunities. Within the Data Analysis Team, he hopes to sharpen his quantitative and analytical skills, applying data-driven methods to uncover market trends and support well-informed portfolio decisions.</p>
+        <div class="team-member-pad"></div>
+    </div>
  
 </div>
 
@@ -432,6 +441,15 @@
         <h4 class="team-member-group">Industry Group: Energy</h4>
         <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
         <p class="team-member-description">Jiacheng Liang is a first-year Electronic Engineering (ECE) student. He joined CIM as a Junior Portfolio Manager in the Energy Research Group, driven by a keen interest in company evaluation and equity research. In his current role, he focuses on analyzing corporate performance and assessing key market trends within the energy sector. He aims to leverage his technical and analytical background to develop practical insights in fundamental analysis and contribute to the team's investment research.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Andrew-Lukmantara.jpg"/>
+        <h3 class="team-member-name">Andrew Carsten LUKMANTARA</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Financials</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Andrew is an AI &amp; Data Science student at the University of Hong Kong and a Junior Portfolio Manager in CIM’s Financials Industry Group. He focuses on combining fundamental research with data-driven analysis to evaluate financial sector stocks. Through CIM, Andrew hopes to sharpen his market intuition, apply machine learning and analytical tools to investment decisions, and build disciplined, systematic strategies for long-term portfolio management.</p>
         <div class="team-member-pad"></div>
     </div>
 
@@ -691,6 +709,15 @@
           <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
           <p class="team-member-description">Drian Dwiputra Bagaskara is currently an Economics & Finance student and a member of the Research Team at CIM. Focusing on the healthcare sector, he has been developing his skills in industry research, financial valuation, and stock pitching. With a strong interest in capital markets, Drian is eager to apply his analytical background to identify sound investment opportunities and contribute effectively to the team.</p>
           <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Shiksha-Srivastava.jpg"/>
+        <h3 class="team-member-name">Shiksha SRIVASTAVA</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Real Estate</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Shiksha is a second-year student majoring in Business Analytics. She is committed to exploring the intersection of data and business strategy, using an analytical approach to evaluate market trends and generate practical insights. Her interests lie in developing quantitative skills and applying data-driven research to support decisions. She aims to leverage these analytical tools to better understand market dynamics and optimize investment performance.</p>
+        <div class="team-member-pad"></div>
     </div>
     
 </div>
