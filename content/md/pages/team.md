@@ -303,6 +303,15 @@
           <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/Bella-YAN-Ziqing.jpg"/>
+          <h3 class="team-member-name">Bella YAN Ziqing</h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Materials</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Bella Yan Ziqing is currently an Accounting Data Analytics student at HKU, driven by her curiosity about financial markets and the intersection of data and investment. As a Junior Portfolio Manager in the Data Analytics Functional Group and a member of the Materials Industry Group, she aims to deepen her understanding of industry dynamics and develop a more analytical approach to investment research. She hopes to strengthen her skills in data-driven analysis, quantitative methodologies, and translating market insights into informed investment decisions.</p>
+          <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
           <img class="team-member-pfp" src="../../img/team-members-pic/Yuna-Ge.jpg"/>
           <h3 class="team-member-name">Yuna GE Yinuo</h3>
           <h2 class="team-member-position">Junior Portfolio Manager</h2>
@@ -450,6 +459,15 @@
         <h4 class="team-member-group">Industry Group: Energy</h4>
         <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
         <p class="team-member-description">Jiacheng Liang is a first-year Electronic Engineering (ECE) student. He joined CIM as a Junior Portfolio Manager in the Energy Research Group, driven by a keen interest in company evaluation and equity research. In his current role, he focuses on analyzing corporate performance and assessing key market trends within the energy sector. He aims to leverage his technical and analytical background to develop practical insights in fundamental analysis and contribute to the team's investment research.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/content/img/team-members-pic/Daniel-Deng-Yuan.jpg"/>
+        <h3 class="team-member-name">Daniel Deng Yuan</h3>
+        <h2 class="team-member-position">Junior Portfolio Manager</h2>
+        <h4 class="team-member-group">Industry Group: Telecommunications</h4>
+        <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+        <p class="team-member-description">Daniel is a Year 2 Computer Engineering student at the University of Hong Kong with an interest in technology and financial markets. Through personal experience in stock trading and investing, he has developed an interest in combining fundamental research with data-driven methods to support investment decisions. As a Junior Portfolio Manager in CIM’s Telecommunications group and a member of the Web Development team, he hopes to contribute his programming skills to CIM’s digital platforms while gaining practical investment experience.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -719,6 +737,24 @@
           <p class="team-member-description">Drian Dwiputra Bagaskara is currently an Economics & Finance student and a member of the Research Team at CIM. Focusing on the healthcare sector, he has been developing his skills in industry research, financial valuation, and stock pitching. With a strong interest in capital markets, Drian is eager to apply his analytical background to identify sound investment opportunities and contribute effectively to the team.</p>
           <div class="team-member-pad"></div>
     </div>
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/content/img/team-members-pic/Rebant-PATODI.jpeg"/>
+          <h3 class="team-member-name">Rebant PATODI </h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Healthcare</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Rebant Patodi is a Year 2 BEng Mechanical Engineering student at HKU, minoring in Finance. Drawing on his engineering background, he is drawn to the analytical and problem-solving side of investing, and sees CIM as a platform to sharpen his market sense and build a structured approach to portfolio decisions. He looks forward to collaborating with peers across industry groups and growing his understanding of global markets as a junior portfolio manager.</p>
+          <div class="team-member-pad"></div>
+    </div> 
+    <div class="team-member">
+          <img class="team-member-pfp" src="../../img/team-members-pic/content/img/team-members-pic/Nicholas-Nathanael-LAURENT.png"/>
+          <h3 class="team-member-name">Nicholas Nathanael LAURENT </h3>
+          <h2 class="team-member-position">Junior Portfolio Manager</h2>
+          <h4 class="team-member-group">Industry Group: Materials</h4>
+          <h4 class="team-member-joined">Joined Academic Year 2026-27</h4>
+          <p class="team-member-description">Nicholas is a second year Economics and Finance student at the University of Hong Kong, originally from Indonesia. He is interested in equity research and enjoys understanding businesses, analyzing financial performance, and identifying investment opportunities. Having invested in stocks since high school, he follows the Indonesian, US, and Hong Kong markets. He hopes to develop his research skills further through CIM and gain practical experience in the investment industry.</p>
+          <div class="team-member-pad"></div>
+    </div> 
     <div class="team-member">
           <img class="team-member-pfp" src="../../img/team-members-pic/Oscar-Cheung.JPG"/>
           <h3 class="team-member-name">Oscar CHEUNG Cheuk Yin </h3>
