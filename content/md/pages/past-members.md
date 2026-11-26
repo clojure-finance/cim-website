@@ -8,6 +8,30 @@
 
 <div class="our-team">
     <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Larina-Qu.jpg"/>
+        <h3 class="team-member-name">Larina QU Hongru</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager, Head of Data Analysis 2025-26</h2>
+        <h4 class="team-member-group">Industry Group: Healthcare</h4>
+        <p class="team-member-description">Qu Hongru is currently a BEcon & Fin student and a part of the Data Analysis Team at CIM. Specializing in the US healthcare industry investment, she has been building her skills in industry research and stock pitching. With a keen interest in portfolio management, Qu Hongru is passionate about applying her analytical abilities to develop thoughtful investment strategies and contribute to the dynamic world of finance.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Louise-Danielle.jpg"/>
+        <h3 class="team-member-name">Louise Danielle SUGIARTO</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Web Development 2025-26</h2>
+        <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
+        <p class="team-member-description">Louise is a student studying BEng(DS&E). She developed strong communication, analytical, and creative skills that she's eager to bring to the team. Her investment interest started in high school, and it gave her the courage to explore the field more deeply. She's always open to learning from every experience by utilizing any given opportunity.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
+        <img class="team-member-pfp" src="../../img/team-members-pic/Kelvin-Yue.jpg"/>
+        <h3 class="team-member-name">Kelvin YUE Hohin</h3>
+        <h2 class="team-member-position">Senior Portfolio Manager, Data Analysis Team Member 2025-26</h2>
+        <h4 class="team-member-group">Industry Group: Industrials</h4>
+        <p class="team-member-description">Kelvin Yue is a student pursuing Economics & Finance at HKU. By joining CIM, he aims to develop a comprehensive understanding of various industries and make well-informed investment decisions through collaboration. His investment approach is grounded in meticulous research, analyzing companies' operations, macro-environment, fundamentals, and technicals. Committed to continuous learning, Kelvin strives to stay ahead in the ever-evolving world of finance.</p>
+        <div class="team-member-pad"></div>
+    </div>
+    <div class="team-member">
         <img class="team-member-pfp" src="../../img/past-members-pic/Catherine-Zhao.png"/>
         <h3 class="team-member-name">Catherine ZHAO Wenqi</h3>
         <h2 class="team-member-position">Junior Portfolio Manager, Data Analysis Team Member</h2>
