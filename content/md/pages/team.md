@@ -24,15 +24,6 @@
 
 <div class="our-team">
     <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Larina-Qu.jpg"/>
-        <h3 class="team-member-name">Larina QU Hongru</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager, Head of Data Analysis 2025-26</h2>
-        <h4 class="team-member-group">Industry Group: Healthcare</h4>
-        <h4 class="team-member-joined">Joined Academic Year 2024-25</h4>
-        <p class="team-member-description">Qu Hongru is currently a BEcon & Fin student and a part of the Data Analysis Team at CIM. Specializing in the US healthcare industry investment, she has been building her skills in industry research and stock pitching. With a keen interest in portfolio management, Qu Hongru is passionate about applying her analytical abilities to develop thoughtful investment strategies and contribute to the dynamic world of finance.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Allen-Jiang.jpg"/>
         <h3 class="team-member-name">Allen JIANG Luning</h3>
         <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Data Analysis 2025-26</h2>
@@ -48,15 +39,6 @@
         <h4 class="team-member-group">Industry Group: Energy</h4>
         <h4 class="team-member-joined">Joined Academic Year 2024-25</h4>
         <p class="team-member-description">Jonward XU Wenxuan is a student taking the double degree programme in Business Administration and Law. Jonward is now a senior portfolio manager in CIM. Jonward joined CIM because of his interest in investment and asset management, and is now responsible for managing portfolios (mostly of the energy industry), designing macro investment strategies and using programming to predict the stock price.</p>
-        <div class="team-member-pad"></div>
-    </div>
-    <div class="team-member">
-        <img class="team-member-pfp" src="../../img/team-members-pic/Kelvin-Yue.jpg"/>
-        <h3 class="team-member-name">Kelvin YUE Hohin</h3>
-        <h2 class="team-member-position">Senior Portfolio Manager</h2>
-        <h4 class="team-member-group">Industry Group: Industrials</h4>
-        <h4 class="team-member-joined">Joined Academic Year 2024-25</h4>
-        <p class="team-member-description">Kelvin Yue is a student pursuing Economics & Finance at HKU. By joining CIM, he aims to develop a comprehensive understanding of various industries and make well-informed investment decisions through collaboration. His investment approach is grounded in meticulous research, analyzing companies' operations, macro-environment, fundamentals, and technicals. Committed to continuous learning, Kelvin strives to stay ahead in the ever-evolving world of finance.</p>
         <div class="team-member-pad"></div>
     </div>
     <div class="team-member">
@@ -344,15 +326,6 @@
         <p class="team-member-description">Ashley Lee is a Computer Science student with a 2nd major in Finance. Her keen interests in both fields motivated her to join CIM, an interdisciplinary approach to technology and finance. Also part of the Web Development team, she currently explores both the financial and technical aspects of CIM. </p>
         <div class="team-member-pad"></div>
     </div>
-   <div class="team-member">
-         <img class="team-member-pfp" src="../../img/team-members-pic/Louise-Danielle.jpg"/>
-         <h3 class="team-member-name">Louise Danielle SUGIARTO</h3>
-         <h2 class="team-member-position">Senior Portfolio Manager, Deputy Head of Web Development 2025-26</h2>
-         <h4 class="team-member-group">Industry Group: Consumer Discretionary</h4>
-         <h4 class="team-member-joined">Joined Academic Year 2024-25</h4>
-         <p class="team-member-description">Louise is a student studying BEng(DS&E). She developed strong communication, analytical, and creative skills that she's eager to bring to the team. Her investment interest started in high school, and it gave her the courage to explore the field more deeply. She's always open to learning from every experience by utilizing any given opportunity.</p>
-         <div class="team-member-pad"></div>
-     </div>
     <div class="team-member">
         <img class="team-member-pfp" src="../../img/team-members-pic/Joey-Lai.jpg"/>
         <h3 class="team-member-name">Joey LAI In I</h3>
